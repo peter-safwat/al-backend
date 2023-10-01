@@ -6,6 +6,7 @@ const News = require("../models/newsModel");
 const factory = require("./handlerFactory");
 const AppError = require("../utils/appError");
 const catchAsync = require("../utils/catchAsync");
+const APIFeatures = require("../utils/apiFeatures");
 
 exports.getAllnews = factory.getAll(News);
 exports.getNewsItem = factory.getOne(News);
@@ -18,6 +19,20 @@ exports.test = (req, res, next) => {
   console.dir(req.body);
   next();
 };
+
+exports.getNewsByTitle = catchAsync(async (req, res) => {
+  const { title } = req.query;
+  const result = await News.findOne({
+    title: { $regex: title, $options: "i" },
+  });
+  res.status(200).json({
+    status: "success",
+    results: result.subNews.length,
+    data: {
+      data: result,
+    },
+  });
+});
 
 const multerFilter = (req, file, cb) => {
   if (file.mimetype.startsWith("image")) {
