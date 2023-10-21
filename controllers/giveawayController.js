@@ -21,6 +21,24 @@ exports.getEvent = catchAsync(async (req, res, next) => {
     },
   });
 });
+exports.getEventEntries = catchAsync(async (req, res, next) => {
+  const entries = await Follower.find();
+  const userEntry = entries.filter((item) => item.email === req.query.email);
+  const methods = ["Id-Badge", "Mail", "Telegram", "Twitter", "Retweet"];
+
+  const result = await Follower.aggregate([
+    { $match: { method: { $in: methods } } },
+    { $group: { _id: "$method", num: { $sum: 1 } } },
+  ]);
+  res.status(200).json({
+    status: "success",
+    data: {
+      totalEntries: entries.length,
+      userEntry: userEntry.length,
+      categoryEntries: result,
+    },
+  });
+});
 // factory.getAll(GiveawayEvent);
 exports.generateWinner = catchAsync(async (req, res, next) => {
   const randomUser = await Follower.aggregate([{ $sample: { size: 1 } }]);

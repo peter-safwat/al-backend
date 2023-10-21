@@ -4,6 +4,7 @@ const morgan = require("morgan");
 const helmet = require("helmet");
 const mongoSanitize = require("express-mongo-sanitize");
 const cors = require("cors");
+const bodyParser = require("body-parser");
 
 // const bodyParser = require("body-parser");
 
@@ -21,6 +22,7 @@ const giveawayRouter = require("./routes/giveawayRoutes");
 const sportsRouter = require("./routes/sportsRoutes");
 const serversRouter = require("./routes/serversRoutes");
 const reportedLinksRouter = require("./routes/reportedLinksRoutes");
+const statisticsRouter= require("./routes/statisticsRoutes");
 
 const app = express();
 
@@ -50,6 +52,7 @@ app.use(express.json({ limit: "10000kb" }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 // app.use(cors());
+app.use(bodyParser.json());
 app.use(
   cors({
     origin: ["http://localhost:3000", "https://aj-umber.vercel.app"],
@@ -86,6 +89,7 @@ app.use("/api/news", newsRouter);
 app.use("/api/sports", sportsRouter);
 app.use("/api/servers", serversRouter);
 app.use("/api/streamLink", streamLinksRouter);
+app.use("/api/statistics", statisticsRouter);
 
 app.all("*", (req, res, next) => {
   next(new AppError(`Can't find ${req.originalUrl} on this server!`, 404));

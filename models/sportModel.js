@@ -99,6 +99,10 @@ const sportSchema = new mongoose.Schema({
     type: Date,
     required: [true, "please enter the date for removing the countdown"],
   },
+  endedEvent: {
+    type: Date,
+    required: [true, "please enter the date for endedEvent"],
+  },
   showsPoll: { type: Boolean, default: false },
   firstTeamPoll: String,
   secondTeamPoll: String,

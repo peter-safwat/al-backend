@@ -14,6 +14,10 @@ router
     // authController.restrictTo("Manager", "Moderator", "Admin"),
     giveawayController.deleteFollowers
   );
+  router
+  .route("/eventEntries")
+  .get(giveawayController.getEventEntries)
+
 router
   .route("/event")
   .post(
@@ -28,7 +32,6 @@ router
     // authController.restrictTo("Manager", "Moderator", "Admin"),
     giveawayController.uploadNewsImages,
     giveawayController.handleEditedFiles,
-
     giveawayController.updateGiveawayPrize
   )
   .get(giveawayController.getEvent);
