@@ -1,0 +1,74 @@
+[
+  {
+    "period": "ALL",
+    "groups": [
+      {
+        "groupName": "Attacking",
+        "statisticsItems": [
+          {
+            "name": "Thrown 180",
+            "home": "5",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 1
+          },
+          {
+            "name": "Thrown over 140",
+            "home": "8",
+            "away": "5",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 8,
+            "awayValue": 5
+          },
+          {
+            "name": "Thrown over 100",
+            "home": "9",
+            "away": "15",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 9,
+            "awayValue": 15
+          },
+          {
+            "name": "Highest checkout",
+            "home": "112",
+            "away": "87",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 112,
+            "awayValue": 87
+          },
+          {
+            "name": "Checkouts over 100",
+            "home": "1",
+            "away": "0",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 0
+          },
+          {
+            "name": "Checkouts accuracy",
+            "home": "9/15 (60%)",
+            "away": "4/14 (29%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 9,
+            "awayValue": 4,
+            "homeTotal": 15,
+            "awayTotal": 14
+          }
+        ]
+      }
+    ]
+  }
+]

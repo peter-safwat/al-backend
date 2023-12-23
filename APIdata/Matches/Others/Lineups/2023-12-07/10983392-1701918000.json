@@ -1,0 +1,1144 @@
+{
+  "confirmed": false,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Goncalves E",
+          "firstName": "Goncalves E",
+          "lastName": "",
+          "slug": "goncalves-e",
+          "shortName": "G. E",
+          "position": "G",
+          "userCount": 0,
+          "id": 1463189,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "saves": 4,
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gkShots": 31,
+          "gk7mGoals": 2,
+          "gk7mShots": 2,
+          "gk7mSaves": 0,
+          "gk6mSaves": 4,
+          "gk6mShots": 14,
+          "gk9mSaves": 0,
+          "gk9mShots": 7,
+          "gkBreakthroughSaves": 0,
+          "gkBreakthroughShots": 5,
+          "gkFastbreakShots": 3,
+          "shotsTaken": 0,
+          "goals": 0,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Bruno Landim",
+          "firstName": "",
+          "lastName": "",
+          "slug": "bruno-landim",
+          "shortName": "B. Landim",
+          "userCount": 1,
+          "id": 1463208,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 731376000
+        },
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 11,
+          "goals": 8,
+          "assists": 1,
+          "goals7m": 1,
+          "shots7m": 2,
+          "goals6m": 3,
+          "shots6m": 4,
+          "goals9m": 1,
+          "shots9m": 2,
+          "breakthroughGoals": 2,
+          "breakthroughShots": 2,
+          "fastbreakGoals": 1,
+          "fastbreakShots": 1,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Paulo Moreno",
+          "slug": "moreno-paulo",
+          "shortName": "P. Moreno",
+          "position": "P",
+          "userCount": 21,
+          "id": 959197,
+          "country": {
+            "alpha2": "PT",
+            "name": "Portugal"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 705283200
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 7,
+          "goals": 6,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 6,
+          "shots6m": 7,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Délcio Pina",
+          "firstName": "Délcio",
+          "lastName": "Pina",
+          "slug": "delcio-pina",
+          "shortName": "D. Pina",
+          "userCount": 8,
+          "id": 1463547,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 717552000
+        },
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 9,
+          "goals": 3,
+          "assists": 1,
+          "goals7m": 0,
+          "shots7m": 1,
+          "goals6m": 1,
+          "shots6m": 2,
+          "goals9m": 1,
+          "shots9m": 4,
+          "fastbreakGoals": 1,
+          "fastbreakShots": 2,
+          "steals": 1,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Rafael Andrade",
+          "firstName": "",
+          "lastName": "",
+          "slug": "rafael-andrade",
+          "shortName": "R. Andrade",
+          "userCount": 0,
+          "id": 1097753,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 825638400
+        },
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 3,
+          "goals": 2,
+          "assists": 2,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 1,
+          "shots6m": 1,
+          "goals9m": 1,
+          "shots9m": 2,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Luís Almeida",
+          "firstName": "",
+          "lastName": "",
+          "slug": "luis-almeida",
+          "shortName": "L. Almeida",
+          "position": "G",
+          "userCount": 3,
+          "id": 1097752,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 764467200
+        },
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "saves": 3,
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gkShots": 12,
+          "gk7mGoals": 0,
+          "gk7mShots": 0,
+          "gk7mSaves": 0,
+          "gk6mSaves": 2,
+          "gk6mShots": 6,
+          "gk9mSaves": 1,
+          "gk9mShots": 5,
+          "gkFastbreakShots": 1,
+          "gkWingSaves": 0,
+          "gkWingShots": 1,
+          "shotsTaken": 0,
+          "goals": 0,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Edmilson Araujo",
+          "slug": "araujo-edmilson",
+          "shortName": "E. Araújo",
+          "position": "LB",
+          "userCount": 13,
+          "id": 898827,
+          "country": {
+            "alpha2": "PT",
+            "name": "Portugal"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 757814400
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 10,
+          "goals": 6,
+          "assists": 4,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 3,
+          "shots6m": 5,
+          "goals9m": 0,
+          "shots9m": 2,
+          "breakthroughGoals": 3,
+          "breakthroughShots": 3,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 1,
+          "blockedShots": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Gilson Correia",
+          "firstName": "",
+          "lastName": "",
+          "slug": "gilson-correia",
+          "shortName": "G. Correia",
+          "position": "G",
+          "userCount": 0,
+          "id": 1097756,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 798595200
+        },
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "saves": 0,
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gkShots": 1,
+          "gk7mGoals": 0,
+          "gk7mShots": 0,
+          "gk7mSaves": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 0,
+          "goals": 0,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Flavio Fortes",
+          "firstName": "",
+          "lastName": "",
+          "slug": "flavio-fortes",
+          "shortName": "F. Fortes",
+          "userCount": 1,
+          "id": 1097761,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 716947200
+        },
+        "substitute": true,
+        "statistics": {
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Felisberto Landim",
+          "firstName": "",
+          "lastName": "",
+          "slug": "landim-felisberto",
+          "shortName": "F. Landim",
+          "position": "",
+          "userCount": 2,
+          "id": 1063126,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "position": "",
+        "substitute": true,
+        "statistics": {
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Gualther Furtado",
+          "firstName": "",
+          "lastName": "",
+          "slug": "gualther-furtado",
+          "shortName": "G. Furtado",
+          "userCount": 2,
+          "id": 1097763,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 697334400
+        },
+        "substitute": true,
+        "statistics": {
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Ivo Santos",
+          "slug": "santos-ivo",
+          "shortName": "I. Santos",
+          "position": "P",
+          "userCount": 1,
+          "id": 1529967,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 704419200
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Nelson Pina",
+          "slug": "pina-nelson",
+          "shortName": "N. Pina",
+          "position": "LW",
+          "userCount": 0,
+          "id": 1063129,
+          "country": {
+            "alpha2": "PT",
+            "name": "Portugal"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 478483200
+        },
+        "position": "LW",
+        "substitute": true,
+        "statistics": {
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Leandro Semedo",
+          "slug": "leandro-semedo",
+          "shortName": "L. Semedo",
+          "position": "LB",
+          "userCount": 4,
+          "id": 1426425,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 788227200
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 9,
+          "goals": 3,
+          "assists": 6,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 3,
+          "shots6m": 8,
+          "goals9m": 0,
+          "shots9m": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Elledy Semedo",
+          "slug": "semedo-elledy",
+          "shortName": "E. Semedo",
+          "position": "LB",
+          "userCount": 1,
+          "id": 930400,
+          "country": {
+            "alpha2": "PT",
+            "name": "Portugal"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 574905600
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 3,
+          "goals": 1,
+          "assists": 1,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 0,
+          "shots6m": 1,
+          "goals9m": 1,
+          "shots9m": 2,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Admilson Estaliny Furtado",
+          "firstName": "",
+          "lastName": "",
+          "slug": "admilson-estaliny-furtado",
+          "shortName": "A. E. Furtado",
+          "userCount": 2,
+          "id": 1097762,
+          "country": {
+            "alpha2": "CV",
+            "name": "Cape Verde"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 812419200
+        },
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 2,
+          "goals": 1,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 0,
+          "shots6m": 1,
+          "fastbreakGoals": 1,
+          "fastbreakShots": 1,
+          "wingGoals": 0,
+          "wingShots": 1,
+          "blockedShots": 0
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Richard Bodo",
+          "firstName": "Richard",
+          "lastName": "Bodo",
+          "slug": "bodo-richard",
+          "shortName": "R. Bodó",
+          "position": "LB",
+          "userCount": 54,
+          "id": 902861,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 731980800
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 10,
+          "goals": 7,
+          "assists": 5,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 1,
+          "shots6m": 3,
+          "goals9m": 5,
+          "shots9m": 6,
+          "breakthroughGoals": 1,
+          "breakthroughShots": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Roland Mikler",
+          "firstName": "Roland",
+          "lastName": "Mikler",
+          "slug": "mikler-roland",
+          "shortName": "R. Mikler",
+          "position": "G",
+          "userCount": 65,
+          "id": 902620,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 464486400
+        },
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "saves": 4,
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gkShots": 19,
+          "gk7mGoals": 0,
+          "gk7mShots": 0,
+          "gk7mSaves": 0,
+          "gk6mSaves": 2,
+          "gk6mShots": 12,
+          "gk9mSaves": 2,
+          "gk9mShots": 4,
+          "gkBreakthroughSaves": 0,
+          "gkBreakthroughShots": 3,
+          "shotsTaken": 0,
+          "goals": 0,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Egon Hanusz",
+          "firstName": "Egon",
+          "lastName": "Hanusz",
+          "slug": "hanusz-egon",
+          "shortName": "E. Hanusz",
+          "position": "CB",
+          "userCount": 38,
+          "id": 999744,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 875145600
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 6,
+          "goals": 6,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Gabor Ancsin",
+          "firstName": "Gabor",
+          "lastName": "Ancsin",
+          "slug": "ancsin-gabor",
+          "shortName": "G. Ancsin",
+          "position": "RB",
+          "userCount": 10,
+          "id": 905438,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 659664000
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 6,
+          "goals": 4,
+          "assists": 2,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 1,
+          "shots6m": 3,
+          "goals9m": 2,
+          "shots9m": 2,
+          "breakthroughGoals": 1,
+          "breakthroughShots": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Bence Banhidi",
+          "firstName": "Bence",
+          "lastName": "Banhidi",
+          "slug": "banhidi-bence",
+          "shortName": "B. Bánhidi",
+          "position": "P",
+          "userCount": 92,
+          "id": 902859,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 792288000
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 5,
+          "goals": 5,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 4,
+          "shots6m": 4,
+          "fastbreakGoals": 1,
+          "fastbreakShots": 1,
+          "blockedShots": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Zoltan Szita",
+          "firstName": "Zoltan",
+          "lastName": "Szita",
+          "slug": "szita-zoltan",
+          "shortName": "Z. Szita",
+          "position": "LB",
+          "userCount": 36,
+          "id": 913314,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 887068800
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 3,
+          "goals": 1,
+          "assists": 3,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "goals9m": 1,
+          "shots9m": 3,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Pedro Rodriguez Alvarez",
+          "firstName": "Pedro",
+          "lastName": "Rodriguez Alvarez",
+          "slug": "rodriguez-alvarez-pedro",
+          "shortName": "P. Rodríguez",
+          "position": "RW",
+          "userCount": 22,
+          "id": 838514,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 651283200
+        },
+        "position": "RW",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 5,
+          "goals": 3,
+          "assists": 1,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 2,
+          "shots6m": 3,
+          "fastbreakGoals": 1,
+          "fastbreakShots": 2,
+          "emptyGoalGoals": 1,
+          "emptyGoalShots": 2,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Miklos Rosta",
+          "firstName": "Miklos",
+          "lastName": "Rosta",
+          "slug": "rosta-miklos",
+          "shortName": "M. Rosta",
+          "position": "P",
+          "userCount": 29,
+          "id": 912346,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 918950400
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 8,
+          "goals": 7,
+          "goals7m": 2,
+          "shots7m": 2,
+          "goals6m": 1,
+          "shots6m": 2,
+          "goals9m": 1,
+          "shots9m": 1,
+          "fastbreakGoals": 3,
+          "fastbreakShots": 3,
+          "emptyGoalGoals": 3,
+          "emptyGoalShots": 3,
+          "blockedShots": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Bendeguz Boka",
+          "firstName": "Bendeguz",
+          "lastName": "Boka",
+          "slug": "boka-bendeguz",
+          "shortName": "B. Bóka",
+          "position": "LW",
+          "userCount": 12,
+          "id": 912324,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 749520000
+        },
+        "position": "LW",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 9,
+          "goals": 7,
+          "assists": 2,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 3,
+          "shots6m": 5,
+          "goals9m": 1,
+          "shots9m": 1,
+          "fastbreakGoals": 3,
+          "fastbreakShots": 3,
+          "wingGoals": 1,
+          "wingShots": 2,
+          "emptyGoalGoals": 1,
+          "emptyGoalShots": 1,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Zoran Ilic",
+          "slug": "ilic-zoran",
+          "shortName": "Z. Ilić",
+          "position": "RB",
+          "userCount": 22,
+          "id": 1022007,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1009929600
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 2,
+          "goals": 1,
+          "assists": 1,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 1,
+          "shots6m": 2,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Marton Szekely",
+          "firstName": "Marton",
+          "lastName": "Szekely",
+          "slug": "szekely-marton",
+          "shortName": "M. Székely",
+          "position": "G",
+          "userCount": 39,
+          "id": 912348,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 631238400
+        },
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "saves": 6,
+          "twoMinutePenalties": 0,
+          "yellowCards": 0,
+          "gkShots": 21,
+          "gk7mGoals": 1,
+          "gk7mShots": 2,
+          "gk7mSaves": 1,
+          "gk6mSaves": 4,
+          "gk6mShots": 11,
+          "gk9mSaves": 0,
+          "gk9mShots": 2,
+          "gkBreakthroughSaves": 0,
+          "gkBreakthroughShots": 2,
+          "gkFastbreakShots": 4,
+          "gkWingSaves": 1,
+          "gkWingShots": 1,
+          "shotsTaken": 1,
+          "goals": 0,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 1,
+          "emptyGoalGoals": 0,
+          "emptyGoalShots": 1,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Adrian Sipos",
+          "firstName": "Adrian",
+          "lastName": "Sipos",
+          "slug": "sipos-adrian",
+          "shortName": "A. Sipos",
+          "position": "P",
+          "userCount": 39,
+          "id": 912347,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 636854400
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 1,
+          "goals": 1,
+          "assists": 2,
+          "goals7m": 0,
+          "shots7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 1,
+          "fastbreakShots": 1,
+          "emptyGoalGoals": 1,
+          "emptyGoalShots": 1,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Patrik Ligetvari",
+          "firstName": "Patrik",
+          "lastName": "Ligetvari",
+          "slug": "ligetvari-patrik",
+          "shortName": "P. Ligetvári",
+          "position": "LB",
+          "userCount": 30,
+          "id": 913528,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 824169600
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Szabolcs Szollosi",
+          "slug": "szollosi-szabolcs",
+          "shortName": "S. Szollosi",
+          "position": "P",
+          "userCount": 0,
+          "id": 912349,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 601948800
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Mate Lekai",
+          "firstName": "Mate",
+          "lastName": "Lekai",
+          "slug": "lekai-mate",
+          "shortName": "M. Lékai",
+          "position": "CB",
+          "userCount": 77,
+          "id": 902618,
+          "country": {
+            "alpha2": "HU",
+            "name": "Hungary"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 582422400
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 6,
+          "goals": 6,
+          "goals6m": 1,
+          "shots6m": 1,
+          "goals9m": 1,
+          "shots9m": 1,
+          "breakthroughGoals": 3,
+          "breakthroughShots": 3,
+          "fastbreakGoals": 1,
+          "fastbreakShots": 1
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "000000",
+      "outline": "fafb00",
+      "fancyNumber": "222226"
+    }
+  }
+}

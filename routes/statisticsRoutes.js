@@ -3,11 +3,13 @@ const express = require("express");
 const statisticsController = require("../controllers/statisticsController");
 const router = express.Router();
 
-router.route("/standings").get(statisticsController.getLeagueStandings);
+router.route("/standings").get(statisticsController.getStandings);
 
-router.route("/fixtures").get(statisticsController.getLeagueFixtures);
+router.route("/fixtures").get(statisticsController.getFixturesAndResults);
 
-//   .delete(
+router.route("/results").get(statisticsController.getFixturesAndResults);
+
+//   .delete
 //     streamLinkController.deleteStreamLinks
 //   );
 

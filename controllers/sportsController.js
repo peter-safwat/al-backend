@@ -1,15 +1,18 @@
 const fsPromise = require("fs").promises;
-// const fs = require("fs");
-// const util = require("util");
-// const path = require("path");
-const multer = require("multer");
+const fs = require("fs");
+const path = require("path");
 
+const multer = require("multer");
 const Sport = require("../models/sportModel");
+const CustomAPI = require("../models/CustomAPI");
 const factory = require("./handlerFactory");
 const AppError = require("../utils/appError");
 const ServersAndLangs = require("../models/serverAndLangsModel");
 const catchAsync = require("../utils/catchAsync");
 const APIFeatures = require("../utils/apiFeatures");
+const {
+  sportCategoryApiDataTypes,
+} = require("../utils/sportCategoryApiDataTypes");
 
 // const AppError = require("../utils/appError");
 
@@ -32,8 +35,15 @@ exports.getMatchByTeamNames = catchAsync(async (req, res) => {
       // removeStream: { gt: dateNow },
     };
   }
-  const result = await Sport.findOne(findQuery).populate("servers").exec();
+  const result = await Sport.findOne(findQuery)
+    .populate("servers")
+    .populate("customAPI")
+    .exec();
+  // const result = await Sport.findOne(findQuery)
+  // .populate("servers customApi")
+  // .exec();
 
+  console.dir(result);
   res.status(200).json({
     status: "success",
     data: {
@@ -108,6 +118,41 @@ exports.handleNewFiles = async (req, res, next) => {
   }
   next();
 };
+exports.makeFileWillHoldStats = catchAsync(async (req, res, next) => {
+  if (!req.body.matchId) {
+    return next();
+  }
+  const folderName = req.body.eventDate.split("T")[0];
+
+  const basePath = path.join(__dirname, "../", "APIdata", "Matches");
+
+  // Combine the base path and folder name to create the full path
+  const { dataTypes } = sportCategoryApiDataTypes.find(
+    (item) => item.sport === req.body.sportCategory
+  );
+  for (let i = 0; i < dataTypes.length; i = i + 1) {
+    const folderFullullPath =
+      req.body.sportCategory === "football"
+        ? path.join(basePath, "FootBall", dataTypes[i], folderName)
+        : path.join(basePath, "Others", dataTypes[i], folderName);
+    // Check if the folder already exists
+
+    if (!fs.existsSync(folderFullullPath)) {
+      // Create the folder
+      fs.mkdirSync(folderFullullPath);
+      console.log(`Folder "${folderFullullPath}" created successfully.`);
+    }
+    const timestamp = new Date(req.body.eventDate).getTime() / 1000;
+    const fileName = `${req.body.matchId}-${timestamp}.json`;
+
+    // Combine the base path and file name to create the full path
+    const filrFullPath = path.join(folderFullullPath, fileName);
+
+    // Create an empty file synchronously
+    fs.writeFileSync(filrFullPath, "");
+  }
+  next();
+});
 exports.handleEditedFiles = catchAsync(async (req, res, next) => {
   if (!req.files) {
     return next();
@@ -197,10 +242,6 @@ exports.deleteOneItemRelatedData = async (req, res, next) => {
 
   next();
 };
-exports.test = (req, res, next) => {
-  console.dir(req.body);
-  next();
-};
 exports.createSport = factory.createOne(Sport);
 exports.deleteSports = factory.deleteMany(Sport);
 exports.deleteSport = factory.deleteOne(Sport);
@@ -214,7 +255,6 @@ exports.getSport = catchAsync(async (req, res, next) => {
     data: eventData,
   });
 });
-// factory.getOne(Sport);
 exports.getAllSports = catchAsync(async (req, res, next) => {
   console.log(req.query);
   const features = new APIFeatures(Sport.find(), req.query)
@@ -244,5 +284,5 @@ exports.getAllSports = catchAsync(async (req, res, next) => {
     },
   });
 });
-
-// factory.getAll(Sport);
+exports.createCustomAPI = factory.createOne(CustomAPI);
+exports.updateCustomAPI = factory.updateOne(CustomAPI);

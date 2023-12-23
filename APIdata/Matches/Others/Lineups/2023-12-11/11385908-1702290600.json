@@ -1,0 +1,1611 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Kiefer Sherwood",
+          "firstName": "",
+          "lastName": "",
+          "slug": "sherwood-kiefer",
+          "shortName": "K. Sherwood",
+          "position": "F",
+          "userCount": 12,
+          "id": 948827,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 796608000
+        },
+        "shirtNumber": 44,
+        "jerseyNumber": "44",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 882,
+          "assists": 1,
+          "goals": 0,
+          "shots": 2,
+          "shotsMissed": 1,
+          "hits": 8,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 2,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 1,
+          "plusMinus": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Luke Schenn",
+          "firstName": "",
+          "lastName": "",
+          "slug": "schenn-luke",
+          "shortName": "L. Schenn",
+          "position": "D",
+          "userCount": 11,
+          "id": 43012,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 625968000
+        },
+        "shirtNumber": 2,
+        "jerseyNumber": "2",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1195,
+          "assists": 0,
+          "goals": 0,
+          "shots": 3,
+          "shotsMissed": 0,
+          "hits": 1,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 2,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Colton Sissons",
+          "firstName": "",
+          "lastName": "",
+          "slug": "sissons-colton",
+          "shortName": "C. Sissons",
+          "position": "F",
+          "userCount": 17,
+          "id": 382144,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 752457600
+        },
+        "shirtNumber": 10,
+        "jerseyNumber": "10",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 975,
+          "assists": 0,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 2,
+          "hits": 2,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 8,
+          "faceOffTaken": 18,
+          "takeaways": 2,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 1,
+          "plusMinus": 3
+        }
+      },
+      {
+        "player": {
+          "name": "Filip Forsberg",
+          "slug": "forsberg-filip",
+          "shortName": "F. Forsberg",
+          "position": "F",
+          "userCount": 358,
+          "id": 148293,
+          "country": {
+            "alpha2": "SE",
+            "name": "Sweden"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 776736000
+        },
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 965,
+          "assists": 0,
+          "goals": 1,
+          "shots": 3,
+          "shotsMissed": 2,
+          "hits": 1,
+          "powerPlayGoals": 1,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 2,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 2,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 2,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Gustav Nyquist",
+          "slug": "nyquist-gustav",
+          "shortName": "G. Nyquist",
+          "position": "F",
+          "userCount": 48,
+          "id": 183261,
+          "country": {
+            "alpha2": "SE",
+            "name": "Sweden"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 620611200
+        },
+        "shirtNumber": 14,
+        "jerseyNumber": "14",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 960,
+          "assists": 1,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 1,
+          "hits": 1,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 1,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 2,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Roman Josi",
+          "firstName": "",
+          "lastName": "",
+          "slug": "josi-roman",
+          "shortName": "R. Josi",
+          "position": "D",
+          "userCount": 472,
+          "id": 45255,
+          "country": {
+            "alpha2": "CH",
+            "name": "Switzerland"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 644198400
+        },
+        "shirtNumber": 59,
+        "jerseyNumber": "59",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1207,
+          "assists": 1,
+          "goals": 1,
+          "shots": 4,
+          "shotsMissed": 1,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 1,
+          "penaltyMinutes": 2,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 1,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 5,
+          "plusMinus": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Juuse Saros",
+          "slug": "saros-juuse",
+          "shortName": "J. Saros",
+          "position": "G",
+          "userCount": 71,
+          "id": 350616,
+          "country": {
+            "alpha2": "FI",
+            "name": "Finland"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 798249600
+        },
+        "shirtNumber": 74,
+        "jerseyNumber": "74",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 3600,
+          "assists": 0,
+          "goals": 0,
+          "shots": 0,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": 0,
+          "saves": 32,
+          "powerPlaySaves": 0,
+          "shortHandedSaves": 6,
+          "evenSaves": 26,
+          "shortHandedShotsAgainst": 6,
+          "evenShotsAgainst": 27,
+          "savePercentage": 0.97,
+          "shotsAgainst": 33
+        }
+      },
+      {
+        "player": {
+          "name": "Ryan McDonagh",
+          "slug": "mcdonagh-ryan",
+          "shortName": "R. McDonagh",
+          "position": "D",
+          "userCount": 27,
+          "id": 146103,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 613699200
+        },
+        "shirtNumber": 27,
+        "jerseyNumber": "27",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1094,
+          "assists": 1,
+          "goals": 1,
+          "shots": 2,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 1,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 1,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 2,
+          "blockedAttempts": 2,
+          "plusMinus": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Dante Fabbro",
+          "slug": "fabbro-dante",
+          "shortName": "D. Fabbro",
+          "position": "D",
+          "userCount": 25,
+          "id": 918256,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 898300800
+        },
+        "shirtNumber": 57,
+        "jerseyNumber": "57",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1061,
+          "assists": 0,
+          "goals": 0,
+          "shots": 2,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 1,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Jeremy Lauzon",
+          "firstName": "",
+          "lastName": "",
+          "slug": "lauzon-jeremy",
+          "shortName": "J. Lauzon",
+          "position": "D",
+          "userCount": 8,
+          "id": 898238,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 862185600
+        },
+        "shirtNumber": 3,
+        "jerseyNumber": "3",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1339,
+          "assists": 0,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 0,
+          "hits": 3,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 3,
+          "blockedAttempts": 1,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Tommy Novak",
+          "firstName": "Thomas Novak",
+          "lastName": "",
+          "slug": "novak-tommy",
+          "shortName": "T. Novak",
+          "position": "C",
+          "userCount": 17,
+          "id": 1113643,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 862185600
+        },
+        "shirtNumber": 82,
+        "jerseyNumber": "82",
+        "position": "C",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 775,
+          "assists": 0,
+          "goals": 0,
+          "shots": 0,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 3,
+          "faceOffTaken": 6,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Mike McCarron",
+          "firstName": "",
+          "lastName": "",
+          "slug": "mccarron-mike",
+          "shortName": "M. McCarron",
+          "position": "F",
+          "userCount": 8,
+          "id": 863232,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 794534400
+        },
+        "shirtNumber": 47,
+        "jerseyNumber": "47",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 880,
+          "assists": 0,
+          "goals": 0,
+          "shots": 2,
+          "shotsMissed": 1,
+          "hits": 1,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 2,
+          "faceOffWins": 7,
+          "faceOffTaken": 12,
+          "takeaways": 0,
+          "giveaways": 2,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 0,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Cole Smith",
+          "firstName": "Cole Smith",
+          "lastName": "",
+          "slug": "smith-cole",
+          "shortName": "C. Smith",
+          "position": "F",
+          "userCount": 7,
+          "id": 1098851,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 814838400
+        },
+        "shirtNumber": 36,
+        "jerseyNumber": "36",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 784,
+          "assists": 1,
+          "goals": 0,
+          "shots": 0,
+          "shotsMissed": 0,
+          "hits": 1,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 5,
+          "faceOffWins": 1,
+          "faceOffTaken": 1,
+          "takeaways": 0,
+          "giveaways": 1,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 1,
+          "plusMinus": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Philip Tomasino",
+          "firstName": "",
+          "lastName": "",
+          "slug": "tomasino-philip",
+          "shortName": "P. Tomasino",
+          "position": "F",
+          "userCount": 14,
+          "id": 996874,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 996278400
+        },
+        "shirtNumber": 26,
+        "jerseyNumber": "26",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 838,
+          "assists": 1,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 1,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 1,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 1,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 1,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Spencer Stastney",
+          "slug": "stastney-spencer",
+          "shortName": "S. Stastney",
+          "position": "D",
+          "userCount": 3,
+          "id": 1012761,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 946944000
+        },
+        "shirtNumber": 24,
+        "jerseyNumber": "24",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1100,
+          "assists": 0,
+          "goals": 0,
+          "shots": 0,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 1,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 3,
+          "blockedAttempts": 1,
+          "plusMinus": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Luke Evangelista",
+          "firstName": "Luke Evangelista",
+          "lastName": "",
+          "slug": "evangelista-luke",
+          "shortName": "L. Evangelista",
+          "position": "F",
+          "userCount": 14,
+          "id": 1138964,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1014249600
+        },
+        "shirtNumber": 77,
+        "jerseyNumber": "77",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 762,
+          "assists": 0,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Juuso Parssinen",
+          "firstName": "",
+          "lastName": "",
+          "slug": "parssinen-juuso",
+          "shortName": "J. Parssinen",
+          "position": "F",
+          "userCount": 37,
+          "id": 967219,
+          "country": {
+            "alpha2": "FI",
+            "name": "Finland"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 980985600
+        },
+        "shirtNumber": 75,
+        "jerseyNumber": "75",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 847,
+          "assists": 0,
+          "goals": 1,
+          "shots": 2,
+          "shotsMissed": 2,
+          "hits": 1,
+          "powerPlayGoals": 1,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 1,
+          "faceOffTaken": 5,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 1,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Ryan O'Reilly",
+          "slug": "oreilly-ryan",
+          "shortName": "R. O'Reilly",
+          "position": "F",
+          "userCount": 178,
+          "id": 92978,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 665884800
+        },
+        "shirtNumber": 90,
+        "jerseyNumber": "90",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 990,
+          "assists": 0,
+          "goals": 0,
+          "shots": 3,
+          "shotsMissed": 1,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 6,
+          "faceOffTaken": 13,
+          "takeaways": 3,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Yakov Trenin",
+          "slug": "trenin-yakov",
+          "shortName": "Y. Trenin",
+          "position": "F",
+          "userCount": 39,
+          "id": 953972,
+          "country": {
+            "alpha2": "RU",
+            "name": "Russia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 853113600
+        },
+        "shirtNumber": 13,
+        "jerseyNumber": "13",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 866,
+          "assists": 0,
+          "goals": 1,
+          "shots": 2,
+          "shotsMissed": 1,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 1,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 2,
+          "plusMinus": 3
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "eadc1a",
+      "number": "041e42",
+      "outline": "eadc1a",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "fafb00",
+      "number": "000000",
+      "outline": "fafb00",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Luke Glendening",
+          "firstName": "",
+          "lastName": "",
+          "slug": "glendening-luke",
+          "shortName": "L. Glendening",
+          "position": "F",
+          "userCount": 6,
+          "id": 353306,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 609724800
+        },
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 671,
+          "assists": 0,
+          "goals": 0,
+          "shots": 2,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 4,
+          "faceOffTaken": 8,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Nikita Kucherov",
+          "slug": "kucherov-nikita",
+          "shortName": "N. Kucherov",
+          "position": "F",
+          "userCount": 2836,
+          "id": 147503,
+          "country": {
+            "alpha2": "RU",
+            "name": "Russia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 740275200
+        },
+        "shirtNumber": 86,
+        "jerseyNumber": "86",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1406,
+          "assists": 0,
+          "goals": 0,
+          "shots": 6,
+          "shotsMissed": 2,
+          "hits": 1,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 1,
+          "giveaways": 2,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 2,
+          "blockedAttempts": 2,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Nick Perbix",
+          "firstName": "",
+          "lastName": "",
+          "slug": "perbix-nick",
+          "shortName": "N. Perbix",
+          "position": "D",
+          "userCount": 10,
+          "id": 1180747,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 897868800
+        },
+        "shirtNumber": 48,
+        "jerseyNumber": "48",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 936,
+          "assists": 0,
+          "goals": 0,
+          "shots": 3,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 1,
+          "giveaways": 1,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 2,
+          "blockedAttempts": 0,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Austin Watson",
+          "slug": "watson-austin",
+          "shortName": "A. Watson",
+          "position": "F",
+          "userCount": 8,
+          "id": 324907,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 695260800
+        },
+        "shirtNumber": 51,
+        "jerseyNumber": "51",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 408,
+          "assists": 0,
+          "goals": 0,
+          "shots": 0,
+          "shotsMissed": 0,
+          "hits": 4,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 17,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jonas Johansson",
+          "firstName": "",
+          "lastName": "",
+          "slug": "johansson-jonas",
+          "shortName": "J. Johansson",
+          "position": "G",
+          "userCount": 11,
+          "id": 898480,
+          "country": {
+            "alpha2": "SE",
+            "name": "Sweden"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 811468800
+        },
+        "shirtNumber": 31,
+        "jerseyNumber": "31",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 3505,
+          "assists": 0,
+          "goals": 0,
+          "shots": 0,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 1,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": 0,
+          "saves": 25,
+          "powerPlaySaves": 1,
+          "shortHandedSaves": 1,
+          "evenSaves": 23,
+          "shortHandedShotsAgainst": 3,
+          "evenShotsAgainst": 25,
+          "savePercentage": 0.862,
+          "shotsAgainst": 29
+        }
+      },
+      {
+        "player": {
+          "name": "Tyler Motte",
+          "slug": "motte-tyler",
+          "shortName": "T. Motte",
+          "position": "F",
+          "userCount": 13,
+          "id": 839899,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 794793600
+        },
+        "shirtNumber": 64,
+        "jerseyNumber": "64",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 509,
+          "assists": 0,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 0,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Nicholas Paul",
+          "slug": "paul-nicholas",
+          "shortName": "N. Paul",
+          "position": "F",
+          "userCount": 37,
+          "id": 816812,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 795657600
+        },
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1210,
+          "assists": 0,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 1,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 13,
+          "faceOffTaken": 18,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 0,
+          "plusMinus": -2
+        }
+      },
+      {
+        "player": {
+          "name": "Erik Cernak",
+          "slug": "cernak-erik",
+          "shortName": "E. Černák",
+          "position": "D",
+          "userCount": 274,
+          "id": 964751,
+          "country": {
+            "alpha2": "SK",
+            "name": "Slovakia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 864777600
+        },
+        "shirtNumber": 81,
+        "jerseyNumber": "81",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1160,
+          "assists": 0,
+          "goals": 0,
+          "shots": 2,
+          "shotsMissed": 0,
+          "hits": 3,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 2,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 1,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Mikey Eyssimont",
+          "firstName": "",
+          "lastName": "",
+          "slug": "eyssimont-mikey",
+          "shortName": "M. Eyssimont",
+          "position": "F",
+          "userCount": 15,
+          "id": 1146412,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 842227200
+        },
+        "shirtNumber": 23,
+        "jerseyNumber": "23",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 842,
+          "assists": 0,
+          "goals": 0,
+          "shots": 0,
+          "shotsMissed": 1,
+          "hits": 1,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 3,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Darren Raddysh",
+          "firstName": "",
+          "lastName": "",
+          "slug": "raddysh-darren",
+          "shortName": "D. Raddysh",
+          "position": "D",
+          "userCount": 10,
+          "id": 948830,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 825465600
+        },
+        "shirtNumber": 43,
+        "jerseyNumber": "43",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 884,
+          "assists": 0,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 1,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 1,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Brayden Point",
+          "slug": "point-brayden",
+          "shortName": "B. Point",
+          "position": "F",
+          "userCount": 696,
+          "id": 855756,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 826675200
+        },
+        "shirtNumber": 21,
+        "jerseyNumber": "21",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1245,
+          "assists": 0,
+          "goals": 0,
+          "shots": 2,
+          "shotsMissed": 1,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 1,
+          "faceOffTaken": 2,
+          "takeaways": 1,
+          "giveaways": 1,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 1,
+          "plusMinus": -2
+        }
+      },
+      {
+        "player": {
+          "name": "Steven Stamkos",
+          "slug": "stamkos-steven",
+          "shortName": "S. Stamkos",
+          "position": "F",
+          "userCount": 1176,
+          "id": 42457,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 634348800
+        },
+        "shirtNumber": 91,
+        "jerseyNumber": "91",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1106,
+          "assists": 0,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 1,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 2,
+          "faceOffWins": 6,
+          "faceOffTaken": 12,
+          "takeaways": 1,
+          "giveaways": 1,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 3,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Calvin De Haan",
+          "slug": "de-haan-calvin",
+          "shortName": "C. d. Haan",
+          "position": "D",
+          "userCount": 13,
+          "id": 372780,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 673747200
+        },
+        "shirtNumber": 44,
+        "jerseyNumber": "44",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 875,
+          "assists": 0,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 0,
+          "hits": 1,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 2,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 2,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Victor Hedman",
+          "slug": "hedman-victor",
+          "shortName": "V. Hedman",
+          "position": "D",
+          "userCount": 177,
+          "id": 29951,
+          "country": {
+            "alpha2": "SE",
+            "name": "Sweden"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 661478400
+        },
+        "shirtNumber": 77,
+        "jerseyNumber": "77",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1472,
+          "assists": 0,
+          "goals": 0,
+          "shots": 2,
+          "shotsMissed": 1,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 2,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Mikhail Sergachev",
+          "slug": "sergachev-mikhail",
+          "shortName": "M. Sergachev",
+          "position": "D",
+          "userCount": 143,
+          "id": 855957,
+          "country": {
+            "alpha2": "RU",
+            "name": "Russia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 898732800
+        },
+        "shirtNumber": 98,
+        "jerseyNumber": "98",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1421,
+          "assists": 0,
+          "goals": 0,
+          "shots": 3,
+          "shotsMissed": 2,
+          "hits": 1,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 3,
+          "blockedAttempts": 1,
+          "plusMinus": -2
+        }
+      },
+      {
+        "player": {
+          "name": "Anthony Cirelli",
+          "slug": "cirelli-anthony",
+          "shortName": "A. Cirelli",
+          "position": "F",
+          "userCount": 49,
+          "id": 903189,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 868924800
+        },
+        "shirtNumber": 71,
+        "jerseyNumber": "71",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 986,
+          "assists": 1,
+          "goals": 0,
+          "shots": 3,
+          "shotsMissed": 1,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 3,
+          "faceOffTaken": 13,
+          "takeaways": 1,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Tanner Jeannot",
+          "firstName": "",
+          "lastName": "",
+          "slug": "jeannot-tanner",
+          "shortName": "T. Jeannot",
+          "position": "F",
+          "userCount": 19,
+          "id": 948748,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 864864000
+        },
+        "shirtNumber": 84,
+        "jerseyNumber": "84",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 946,
+          "assists": 0,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 1,
+          "hits": 5,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 0,
+          "faceOffWins": 1,
+          "faceOffTaken": 1,
+          "takeaways": 0,
+          "giveaways": 1,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Alex Barre-Boulet",
+          "firstName": "",
+          "lastName": "",
+          "slug": "barre-boulet-alex",
+          "shortName": "A. Barre-Boulet",
+          "position": "F",
+          "userCount": 10,
+          "id": 948751,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 864172800
+        },
+        "shirtNumber": 12,
+        "jerseyNumber": "12",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 760,
+          "assists": 0,
+          "goals": 1,
+          "shots": 3,
+          "shotsMissed": 0,
+          "hits": 0,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 2,
+          "faceOffWins": 0,
+          "faceOffTaken": 0,
+          "takeaways": 0,
+          "giveaways": 0,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 0,
+          "blockedAttempts": 0,
+          "plusMinus": -1
+        }
+      },
+      {
+        "player": {
+          "name": "Brandon Hagel",
+          "firstName": "",
+          "lastName": "",
+          "slug": "hagel-brandon",
+          "shortName": "B. Hagel",
+          "position": "F",
+          "userCount": 65,
+          "id": 902149,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 904176000
+        },
+        "shirtNumber": 38,
+        "jerseyNumber": "38",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1027,
+          "assists": 1,
+          "goals": 0,
+          "shots": 1,
+          "shotsMissed": 0,
+          "hits": 1,
+          "powerPlayGoals": 0,
+          "powerPlayAssists": 0,
+          "penaltyMinutes": 2,
+          "faceOffWins": 1,
+          "faceOffTaken": 1,
+          "takeaways": 0,
+          "giveaways": 2,
+          "shortHandedGoals": 0,
+          "shortHandedAssists": 0,
+          "blocked": 1,
+          "blockedAttempts": 0,
+          "plusMinus": 1
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "0114a7",
+      "number": "ffffff",
+      "outline": "0114a7",
+      "fancyNumber": "ffffff"
+    },
+    "goalkeeperColor": {
+      "primary": "fafb00",
+      "number": "000000",
+      "outline": "fafb00",
+      "fancyNumber": "222226"
+    }
+  }
+}

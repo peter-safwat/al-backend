@@ -1,0 +1,1390 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Julian Montoya",
+          "slug": "montoya-julian",
+          "shortName": "J. Montoya",
+          "userCount": 1,
+          "id": 815316,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 754531200
+        },
+        "shirtNumber": 2,
+        "jerseyNumber": "2",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 11,
+          "offloads": 0,
+          "passes": 8,
+          "tacklesMissed": 0,
+          "tackles": 6,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Matias Alemanno",
+          "slug": "alemanno-matias",
+          "shortName": "M. Alemanno",
+          "userCount": 0,
+          "id": 816579,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 691891200
+        },
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 9,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 0,
+          "tackles": 2,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Mateo Carreras",
+          "slug": "carreras-mateo",
+          "shortName": "M. Carreras",
+          "userCount": 1,
+          "id": 1104995,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 945388800
+        },
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 1,
+          "metersRun": 59,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 0,
+          "tackles": 3,
+          "tryAssists": 1,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Thomas Gallo",
+          "slug": "gallo-thomas",
+          "shortName": "T. Gallo",
+          "userCount": 0,
+          "id": 1090422,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 925430400
+        },
+        "shirtNumber": 1,
+        "jerseyNumber": "1",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 30,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 0,
+          "tackles": 6,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Eduardo Bello",
+          "slug": "bello-eduardo",
+          "shortName": "E. Bello",
+          "userCount": 0,
+          "id": 1004037,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 817430400
+        },
+        "shirtNumber": 3,
+        "jerseyNumber": "3",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 6,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 0,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Pablo Matera",
+          "slug": "matera-pablo",
+          "shortName": "P. Matera",
+          "userCount": 1,
+          "id": 815309,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 742953600
+        },
+        "shirtNumber": 6,
+        "jerseyNumber": "6",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 25,
+          "offloads": 0,
+          "passes": 8,
+          "tacklesMissed": 3,
+          "tackles": 5,
+          "tryAssists": 0,
+          "turnoversWon": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Marcos Kremer",
+          "slug": "kremer-marcos",
+          "shortName": "M. Kremer",
+          "userCount": 0,
+          "id": 936254,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 870220800
+        },
+        "shirtNumber": 7,
+        "jerseyNumber": "7",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 23,
+          "offloads": 1,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 11,
+          "tryAssists": 0,
+          "turnoversWon": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Juan Martín González",
+          "slug": "juan-martin-gonzalez",
+          "shortName": "J. M. González",
+          "userCount": 0,
+          "id": 1127348,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 974160000
+        },
+        "shirtNumber": 8,
+        "jerseyNumber": "8",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 5,
+          "offloads": 1,
+          "passes": 9,
+          "tacklesMissed": 0,
+          "tackles": 5,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Gonzalo Bertranou",
+          "slug": "bertranou-gonzalo",
+          "shortName": "G. Bertranou",
+          "userCount": 0,
+          "id": 837352,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 5,
+          "offloads": 0,
+          "passes": 71,
+          "tacklesMissed": 0,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Santiago Chocobares",
+          "slug": "chocobares-santiago",
+          "shortName": "S. Chocobares",
+          "userCount": 1,
+          "id": 1019173,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 922838400
+        },
+        "shirtNumber": 12,
+        "jerseyNumber": "12",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 13,
+          "offloads": 1,
+          "passes": 6,
+          "tacklesMissed": 2,
+          "tackles": 6,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Emiliano Boffelli",
+          "slug": "boffelli-emiliano",
+          "shortName": "E. Boffelli",
+          "userCount": 2,
+          "id": 834004,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 790214400
+        },
+        "shirtNumber": 14,
+        "jerseyNumber": "14",
+        "substitute": false,
+        "statistics": {
+          "points": 16,
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 21,
+          "offloads": 0,
+          "passes": 4,
+          "tacklesMissed": 0,
+          "tackles": 2,
+          "tryAssists": 0,
+          "turnoversWon": 0,
+          "penaltyGoals": 3,
+          "tries": 1,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Juan Cruz Mallia",
+          "slug": "cruz-mallia-juan",
+          "shortName": "J. C. Mallia",
+          "userCount": 0,
+          "id": 978842,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 842400000
+        },
+        "shirtNumber": 15,
+        "jerseyNumber": "15",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 1,
+          "metersRun": 111,
+          "offloads": 0,
+          "passes": 7,
+          "tacklesMissed": 0,
+          "tackles": 4,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Guido Peti Pagadizabal",
+          "slug": "peti-pagadizabal-guido",
+          "shortName": "G. P. Pagadizabal",
+          "userCount": 0,
+          "id": 815322,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 785030400
+        },
+        "shirtNumber": 4,
+        "jerseyNumber": "4",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 1,
+          "offloads": 0,
+          "passes": 9,
+          "tacklesMissed": 0,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Matias Moroni",
+          "slug": "moroni-matias",
+          "shortName": "M. Moroni",
+          "userCount": 0,
+          "id": 818418,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 670204800
+        },
+        "shirtNumber": 13,
+        "jerseyNumber": "13",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 25,
+          "offloads": 1,
+          "passes": 6,
+          "tacklesMissed": 2,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Santiago Carreras",
+          "slug": "carreras-santiago",
+          "shortName": "S. Carreras",
+          "userCount": 1,
+          "id": 985814,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 891216000
+        },
+        "shirtNumber": 10,
+        "jerseyNumber": "10",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 27,
+          "offloads": 0,
+          "passes": 22,
+          "tacklesMissed": 1,
+          "tackles": 4,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Rodrigo Bruni",
+          "slug": "bruni-rodrigo",
+          "shortName": "R. Bruni",
+          "userCount": 0,
+          "id": 976963,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 747014400
+        },
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 5,
+          "offloads": 1,
+          "passes": 2,
+          "tacklesMissed": 0,
+          "tackles": 4,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Lucio Cinti",
+          "slug": "cinti-lucio",
+          "shortName": "L. Cinti",
+          "userCount": 0,
+          "id": 1090007,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 951264000
+        },
+        "shirtNumber": 23,
+        "jerseyNumber": "23",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 2,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 2,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Agustin Creevy",
+          "slug": "creevy-agustin",
+          "shortName": "A. Creevy",
+          "userCount": 1,
+          "id": 815300,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 479692800
+        },
+        "shirtNumber": 16,
+        "jerseyNumber": "16",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 0,
+          "tackles": 0,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Tomas Cubelli",
+          "slug": "cubelli-tomas",
+          "shortName": "T. Cubelli",
+          "userCount": 0,
+          "id": 815311,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 613612800
+        },
+        "shirtNumber": 21,
+        "jerseyNumber": "21",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 10,
+          "tacklesMissed": 0,
+          "tackles": 0,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Francisco Gomez Kodela",
+          "slug": "gomez-kodela-francisco",
+          "shortName": "F. G. Kodela",
+          "userCount": 0,
+          "id": 1007904,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 458006400
+        },
+        "shirtNumber": 18,
+        "jerseyNumber": "18",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 2,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Pedro Rubiolo",
+          "slug": "rubiolo-pedro",
+          "shortName": "P. Rubiolo",
+          "userCount": 2,
+          "id": 1410505,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1040428800
+        },
+        "shirtNumber": 19,
+        "jerseyNumber": "19",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 2,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 1,
+          "tackles": 4,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Nicolas Sanchez",
+          "slug": "sanchez-nicolas",
+          "shortName": "N. Sanchez",
+          "userCount": 0,
+          "id": 815308,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 593827200
+        },
+        "shirtNumber": 22,
+        "jerseyNumber": "22",
+        "substitute": true,
+        "statistics": {
+          "points": 3,
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 8,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 0,
+          "tackles": 1,
+          "tryAssists": 0,
+          "turnoversWon": 0,
+          "penaltyGoals": 1,
+          "tries": 0,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Mayco Vivas",
+          "slug": "vivas-mayco",
+          "shortName": "M. Vivas",
+          "userCount": 0,
+          "id": 997380,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 896745600
+        },
+        "shirtNumber": 17,
+        "jerseyNumber": "17",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 0,
+          "tackles": 0,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Jonathan Taumateine",
+          "slug": "taumateine-jonathan",
+          "shortName": "J. Taumateine",
+          "userCount": 0,
+          "id": 1021923,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 843868800
+        },
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 2,
+          "offloads": 0,
+          "passes": 38,
+          "tacklesMissed": 5,
+          "tackles": 13,
+          "tryAssists": 1,
+          "turnoversWon": 3
+        }
+      },
+      {
+        "player": {
+          "name": "James Lay",
+          "slug": "lay-james",
+          "shortName": "J. Lay",
+          "userCount": 0,
+          "id": 974412,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 756000000
+        },
+        "shirtNumber": 1,
+        "jerseyNumber": "1",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 1,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 1,
+          "tackles": 11,
+          "tryAssists": 0,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Tumua Manu",
+          "slug": "manu-tumua",
+          "shortName": "T. Manu",
+          "userCount": 0,
+          "id": 932615,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 735091200
+        },
+        "shirtNumber": 12,
+        "jerseyNumber": "12",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 5,
+          "tackles": 6,
+          "tryAssists": 0,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Theo McFarland",
+          "slug": "mcfarland-theo",
+          "shortName": "T. McFarland",
+          "userCount": 0,
+          "id": 1156354,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 813801600
+        },
+        "shirtNumber": 6,
+        "jerseyNumber": "6",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 17,
+          "offloads": 1,
+          "passes": 6,
+          "tacklesMissed": 4,
+          "tackles": 7,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Christian Lealiifano",
+          "slug": "lealiifano-christian",
+          "shortName": "C. Lealiifano",
+          "userCount": 0,
+          "id": 832914,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 559440000
+        },
+        "shirtNumber": 10,
+        "jerseyNumber": "10",
+        "substitute": false,
+        "statistics": {
+          "points": 3,
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 7,
+          "offloads": 0,
+          "passes": 9,
+          "tacklesMissed": 2,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0,
+          "penaltyGoals": 1,
+          "tries": 0,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Duncan Paia'Aua",
+          "slug": "duncan-paiaaua",
+          "shortName": "D. Paia'Aua",
+          "userCount": 0,
+          "id": 839033,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 816825600
+        },
+        "shirtNumber": 15,
+        "jerseyNumber": "15",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 11,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 1,
+          "tackles": 0,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "UJ Seuteni",
+          "slug": "seuteni-uj",
+          "shortName": "U. Seuteni",
+          "userCount": 0,
+          "id": 997778,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 755395200
+        },
+        "shirtNumber": 13,
+        "jerseyNumber": "13",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 2,
+          "metersRun": 17,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 2,
+          "tackles": 6,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Paul Alo-Emile",
+          "slug": "paul-alo-emile",
+          "shortName": "P. Alo-Emile",
+          "userCount": 0,
+          "id": 838239,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 693360000
+        },
+        "shirtNumber": 3,
+        "jerseyNumber": "3",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 2,
+          "tackles": 7,
+          "tryAssists": 0,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Steven Luatua",
+          "slug": "luatua-steven",
+          "shortName": "S. Luatua",
+          "userCount": 0,
+          "id": 837350,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 672883200
+        },
+        "shirtNumber": 8,
+        "jerseyNumber": "8",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 6,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 0,
+          "tackles": 13,
+          "tryAssists": 0,
+          "turnoversWon": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Fritz Lee",
+          "slug": "lee-fritz",
+          "shortName": "F. Lee",
+          "userCount": 0,
+          "id": 908818,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 588816000
+        },
+        "shirtNumber": 7,
+        "jerseyNumber": "7",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 3,
+          "offloads": 0,
+          "passes": 3,
+          "tacklesMissed": 1,
+          "tackles": 13,
+          "tryAssists": 0,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Seilala Lam",
+          "slug": "lam-seilala",
+          "shortName": "S. Lam",
+          "userCount": 0,
+          "id": 998520,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 603763200
+        },
+        "shirtNumber": 2,
+        "jerseyNumber": "2",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 5,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 4,
+          "tackles": 13,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Michael Ala'alatoa",
+          "slug": "michael-alaalatoa",
+          "shortName": "M. Ala'alatoa",
+          "userCount": 0,
+          "id": 838004,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 683337600
+        },
+        "shirtNumber": 18,
+        "jerseyNumber": "18",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 2,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Charlie Faumuina",
+          "slug": "faumuina-charlie",
+          "shortName": "C. Faumuina",
+          "userCount": 0,
+          "id": 815293,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 535766400
+        },
+        "shirtNumber": 17,
+        "jerseyNumber": "17",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 1,
+          "tackles": 1,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "D'Angelo Leuila",
+          "slug": "leuila-dangelo",
+          "shortName": "D. Leuila",
+          "userCount": 0,
+          "id": 1198203,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 853545600
+        },
+        "shirtNumber": 22,
+        "jerseyNumber": "22",
+        "substitute": true,
+        "statistics": {
+          "points": 2,
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 2,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 0,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0,
+          "penaltyGoals": 0,
+          "tries": 0,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Sama Malolo",
+          "slug": "malolo-sama",
+          "shortName": "S. Malolo",
+          "userCount": 0,
+          "id": 1525783,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 887846400
+        },
+        "shirtNumber": 16,
+        "jerseyNumber": "16",
+        "substitute": true,
+        "statistics": {
+          "points": 5,
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 7,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0,
+          "penaltyGoals": 0,
+          "tries": 1,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Melani Matavao",
+          "slug": "matavao-melani",
+          "shortName": "M. Matavao",
+          "userCount": 0,
+          "id": 997774,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 816739200
+        },
+        "shirtNumber": 21,
+        "jerseyNumber": "21",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 0,
+          "tackles": 0,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Taleni Seu",
+          "slug": "seu-taleni",
+          "shortName": "T. Seu",
+          "userCount": 0,
+          "id": 834908,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 756864000
+        },
+        "shirtNumber": 19,
+        "jerseyNumber": "19",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 20,
+          "offloads": 0,
+          "passes": 3,
+          "tacklesMissed": 0,
+          "tackles": 1,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jordan Taufua",
+          "slug": "taufua-jordan",
+          "shortName": "J. Taufua",
+          "userCount": 0,
+          "id": 837979,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 696643200
+        },
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 1,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Danny Toala",
+          "slug": "toala-danny",
+          "shortName": "D. Toala",
+          "userCount": 0,
+          "id": 1188747,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 922406400
+        },
+        "shirtNumber": 23,
+        "jerseyNumber": "23",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 21,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 1,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Brian Alainu'uese",
+          "slug": "alainuuese-brian",
+          "shortName": "B. Alainu'uese",
+          "userCount": 0,
+          "id": 1094024,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 764035200
+        },
+        "shirtNumber": 4,
+        "jerseyNumber": "4",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 3,
+          "tacklesMissed": 1,
+          "tackles": 13,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Christopher Vui",
+          "slug": "vui-christopher",
+          "shortName": "C. Vui",
+          "userCount": 0,
+          "id": 974406,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 729388800
+        },
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 2,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 3,
+          "tackles": 10,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Nigel Ah Wong",
+          "slug": "ah-wong-nigel",
+          "shortName": "N. A. Wong",
+          "userCount": 0,
+          "id": 833761,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 644025600
+        },
+        "shirtNumber": 14,
+        "jerseyNumber": "14",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 3,
+          "tacklesMissed": 1,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Ben Lam",
+          "slug": "lam-ben",
+          "shortName": "B. Lam",
+          "userCount": 0,
+          "id": 881917,
+          "country": {
+            "alpha2": "WS",
+            "name": "Samoa"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 676425600
+        },
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 10,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 0,
+          "tackles": 6,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    }
+  }
+}

@@ -107,6 +107,7 @@ const sportSchema = new mongoose.Schema({
   firstTeamPoll: String,
   secondTeamPoll: String,
   servers: [{ type: mongoose.Schema.Types.ObjectId, ref: "ServerAndLangs" }],
+  customAPI: { type: mongoose.Schema.Types.ObjectId, ref: "CustomAPI" },
 });
 
 const Sport = mongoose.model("Sport", sportSchema);

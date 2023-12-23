@@ -1,0 +1,260 @@
+[
+  {
+    "period": "ALL",
+    "groups": [
+      {
+        "groupName": "Attacking",
+        "statisticsItems": [
+          {
+            "name": "Touchdowns",
+            "home": "2",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 3
+          },
+          {
+            "name": "Field goals",
+            "home": "1/1",
+            "away": "0/0",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 1,
+            "awayValue": 0,
+            "homeTotal": 1,
+            "awayTotal": 0
+          },
+          {
+            "name": "Total yards",
+            "home": "336",
+            "away": "238",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 336,
+            "awayValue": 238
+          },
+          {
+            "name": "Turnovers",
+            "home": "2",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 1
+          },
+          {
+            "name": "Rushing yards",
+            "home": "168",
+            "away": "114",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 168,
+            "awayValue": 114
+          },
+          {
+            "name": "Red zone efficiency",
+            "home": "2/4",
+            "away": "3/3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 2,
+            "awayValue": 3,
+            "homeTotal": 4,
+            "awayTotal": 3
+          },
+          {
+            "name": "Time of Possession",
+            "home": "32:01",
+            "away": "27:59",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "time",
+            "homeValue": 1921,
+            "awayValue": 1679,
+            "homeTotal": 3600,
+            "awayTotal": 3600
+          }
+        ]
+      },
+      {
+        "groupName": "Downs",
+        "statisticsItems": [
+          {
+            "name": "First downs",
+            "home": "23",
+            "away": "16",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 23,
+            "awayValue": 16
+          },
+          {
+            "name": "First downs by rushing",
+            "home": "10",
+            "away": "10",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 10,
+            "awayValue": 10
+          },
+          {
+            "name": "First downs by passing",
+            "home": "10",
+            "away": "5",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 10,
+            "awayValue": 5
+          },
+          {
+            "name": "First downs by penalty",
+            "home": "1",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 3
+          },
+          {
+            "name": "Third down efficiency",
+            "home": "8/17 (47%)",
+            "away": "3/11 (27%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 8,
+            "awayValue": 3,
+            "homeTotal": 17,
+            "awayTotal": 11
+          }
+        ]
+      },
+      {
+        "groupName": "Passing",
+        "statisticsItems": [
+          {
+            "name": "Net yards passing",
+            "home": "168",
+            "away": "124",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 168,
+            "awayValue": 124
+          },
+          {
+            "name": "Gross yards passing",
+            "home": "177",
+            "away": "150",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 177,
+            "awayValue": 150
+          },
+          {
+            "name": "Passing touchdowns",
+            "home": "2",
+            "away": "0",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 0
+          },
+          {
+            "name": "Interceptions thrown",
+            "home": "1",
+            "away": "1",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 1
+          }
+        ]
+      },
+      {
+        "groupName": "Punting",
+        "statisticsItems": [
+          {
+            "name": "Punts",
+            "home": "6",
+            "away": "7",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 6,
+            "awayValue": 7
+          },
+          {
+            "name": "Average yards per punt",
+            "home": "42.667",
+            "away": "47.714",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 42.667,
+            "awayValue": 47.714
+          }
+        ]
+      },
+      {
+        "groupName": "Penalty",
+        "statisticsItems": [
+          {
+            "name": "Penalties",
+            "home": "7",
+            "away": "7",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 7,
+            "awayValue": 7
+          },
+          {
+            "name": "Yards penalized",
+            "home": "55",
+            "away": "61",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 55,
+            "awayValue": 61
+          },
+          {
+            "name": "Fumbles",
+            "home": "1",
+            "away": "1",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 1
+          },
+          {
+            "name": "Fumbles lost",
+            "home": "1",
+            "away": "0",
+            "compareCode": 1,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 0
+          }
+        ]
+      }
+    ]
+  }
+]

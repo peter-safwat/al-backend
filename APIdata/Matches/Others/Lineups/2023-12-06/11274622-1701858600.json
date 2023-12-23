@@ -1,0 +1,2093 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Noah Gray",
+          "firstName": "",
+          "lastName": "",
+          "slug": "gray-noah",
+          "shortName": "N. Gray",
+          "position": "TE",
+          "userCount": 16,
+          "id": 1132512,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 925430400
+        },
+        "position": "TE",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 0,
+          "receivingYards": 0,
+          "receivingYardsAfterCatch": 0,
+          "receivingTargets": 1,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 0,
+          "defensiveCombineTackles": 0,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0,
+          "receivingYardsPerReception": 0,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Patrick Mahomes",
+          "slug": "mahomes-patrick",
+          "shortName": "P. Mahomes",
+          "position": "QB",
+          "userCount": 7826,
+          "id": 879030,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 811296000
+        },
+        "position": "QB",
+        "substitute": true,
+        "statistics": {
+          "passingAttempts": 43,
+          "passingCompletions": 24,
+          "passingYards": 177,
+          "passingSackYards": 9,
+          "passingNetYards": 168,
+          "passingInterceptions": 1,
+          "passingLongest": 17,
+          "passingSacked": 1,
+          "passingTouchdowns": 2,
+          "passingAirYards": 105,
+          "passingDroppedPasses": 0,
+          "passingFirstDowns": 10,
+          "rushingAttempts": 6,
+          "rushingYards": 38,
+          "rushingYardsAfterContact": 0,
+          "rushingFirstDowns": 2,
+          "rushingTouchdowns": 0,
+          "rushingLongest": 14,
+          "passingYardsPerAttempt": 4.116,
+          "rushingYardsPerAttempt": 6.333,
+          "rushingRedZoneAttempts": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jerick McKinnon",
+          "slug": "mckinnon-jerick",
+          "shortName": "J. McKinnon",
+          "position": "RB",
+          "userCount": 80,
+          "id": 853582,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 704851200
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "rushingAttempts": 1,
+          "rushingYards": 7,
+          "rushingYardsAfterContact": 0,
+          "rushingFirstDowns": 1,
+          "rushingTouchdowns": 0,
+          "rushingLongest": 7,
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 2,
+          "receivingYards": 8,
+          "receivingYardsAfterCatch": 9,
+          "receivingTargets": 3,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 4,
+          "rushingYardsPerAttempt": 7,
+          "rushingRedZoneAttempts": 0,
+          "receivingYardsPerReception": 4,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Tommy Townsend",
+          "slug": "townsend-tommy",
+          "shortName": "T. Townsend",
+          "position": "P",
+          "userCount": 11,
+          "id": 1028028,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 847756800
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "puntingTotal": 6,
+          "puntingYards": 256,
+          "puntingNetYards": 183,
+          "puntingLongest": 55,
+          "puntingBlocked": 0,
+          "puntingTouchbacks": 1,
+          "puntingYardsPerPuntAvg": 30.5,
+          "puntingInside20": 0,
+          "puntingAverageHangTime": 0,
+          "puntingHangTime": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Drue Tranquill",
+          "slug": "tranquill-drue",
+          "shortName": "D. Tranquill",
+          "position": "LB",
+          "userCount": 8,
+          "id": 982043,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 808444800
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 7,
+          "defensiveAssistTackles": 2,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Leo Chenal",
+          "slug": "chenal-leo",
+          "shortName": "L. Chenal",
+          "position": "LB",
+          "userCount": 5,
+          "id": 1389317,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 972518400
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 2,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Trent McDuffie",
+          "slug": "mcduffie-trent",
+          "shortName": "T. McDuffie",
+          "position": "CB",
+          "userCount": 16,
+          "id": 1389331,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 968803200
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 4,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 2,
+          "defensiveForcedFumbles": 1,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 1,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Isiah Pacheco",
+          "slug": "pacheco-isiah",
+          "shortName": "I. Pacheco",
+          "position": "RB",
+          "userCount": 406,
+          "id": 1553006,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 920332800
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "rushingAttempts": 19,
+          "rushingYards": 89,
+          "rushingYardsAfterContact": 0,
+          "rushingFirstDowns": 5,
+          "rushingTouchdowns": 0,
+          "rushingLongest": 24,
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 1,
+          "receivingYards": 2,
+          "receivingYardsAfterCatch": 2,
+          "receivingTargets": 1,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 2,
+          "rushingYardsPerAttempt": 4.684,
+          "rushingRedZoneAttempts": 4,
+          "receivingYardsPerReception": 2,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Kadarius Toney",
+          "slug": "toney-kadarius",
+          "shortName": "K. Toney",
+          "position": "WR",
+          "userCount": 34,
+          "id": 1132645,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 917395200
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "rushingAttempts": 2,
+          "rushingYards": 14,
+          "rushingYardsAfterContact": 0,
+          "rushingFirstDowns": 1,
+          "rushingTouchdowns": 0,
+          "rushingLongest": 14,
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 2,
+          "receivingYards": 12,
+          "receivingYardsAfterCatch": 0,
+          "receivingTargets": 2,
+          "receivingFirstDowns": 1,
+          "receivingLongest": 7,
+          "rushingYardsPerAttempt": 7,
+          "rushingRedZoneAttempts": 1,
+          "receivingYardsPerReception": 6,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0,
+          "puntReturnsTotal": 6,
+          "puntReturnsYards": 58,
+          "puntReturnsTouchdowns": 0,
+          "puntReturnsLong": 21,
+          "puntReturnsFairCatches": 0,
+          "puntReturnsAverageYards": 9.667
+        }
+      },
+      {
+        "player": {
+          "name": "Mecole Hardman",
+          "slug": "hardman-mecole",
+          "shortName": "M. Hardman",
+          "position": "WR",
+          "userCount": 40,
+          "id": 981853,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 889660800
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 2,
+          "receivingYards": 12,
+          "receivingYardsAfterCatch": 16,
+          "receivingTargets": 2,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 7,
+          "receivingYardsPerReception": 6,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Rashee Rice",
+          "slug": "rice-rashee",
+          "shortName": "R. Rice",
+          "position": "WR",
+          "userCount": 40,
+          "id": 1448966,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 956361600
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 4,
+          "receivingYards": 42,
+          "receivingYardsAfterCatch": 28,
+          "receivingTargets": 5,
+          "receivingFirstDowns": 2,
+          "receivingLongest": 17,
+          "receivingYardsPerReception": 10.5,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Justin Watson",
+          "slug": "watson-justin",
+          "shortName": "J. Watson",
+          "position": "WR",
+          "userCount": 20,
+          "id": 933614,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 796953600
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "receivingTouchdowns": 1,
+          "receivingReceptions": 5,
+          "receivingYards": 53,
+          "receivingYardsAfterCatch": 1,
+          "receivingTargets": 11,
+          "receivingFirstDowns": 4,
+          "receivingLongest": 17,
+          "receivingYardsPerReception": 10.6,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 2,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Harrison Butker",
+          "firstName": "",
+          "lastName": "",
+          "slug": "butker-harrison",
+          "shortName": "H. Butker",
+          "position": "K",
+          "userCount": 87,
+          "id": 879330,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 805680000
+        },
+        "position": "K",
+        "substitute": true,
+        "statistics": {
+          "kickingExtraMade": 2,
+          "kickingExtraAttempts": 2,
+          "kickingFgAttempts": 1,
+          "kickingFgMade": 1,
+          "kickingFgBlocked": 0,
+          "kickingFgLong": 43,
+          "kickingTotalPoints": 5
+        }
+      },
+      {
+        "player": {
+          "name": "Bryan Cook",
+          "slug": "cook-bryan",
+          "shortName": "B. Cook",
+          "position": "SAF",
+          "userCount": 7,
+          "id": 1389319,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 936662400
+        },
+        "position": "SAF",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 1,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Justin Reid",
+          "slug": "reid-justin",
+          "shortName": "J. Reid",
+          "position": "SAF",
+          "userCount": 5,
+          "id": 933357,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 855964800
+        },
+        "position": "SAF",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 7,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Matt Dickerson",
+          "slug": "dickerson-matt",
+          "shortName": "M. Dickerson",
+          "position": "DT",
+          "userCount": 2,
+          "id": 935516,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 815875200
+        },
+        "position": "DT",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 1,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "L'Jarius Sneed",
+          "slug": "sneed-ljarius",
+          "shortName": "L. Sneed",
+          "position": "DB",
+          "userCount": 18,
+          "id": 1027128,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 853804800
+        },
+        "position": "DB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 3,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 1,
+          "defensiveInterceptionsTouchdowns": 0,
+          "defensiveInterceptionsYards": 0,
+          "defensivePassesDefensed": 2,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0,
+          "interceptionReturnsAverageYards": 0,
+          "interceptionReturnsLongest": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Michael Danna",
+          "slug": "danna-michael",
+          "shortName": "M. Danna",
+          "position": "DE",
+          "userCount": 1,
+          "id": 1027192,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 880934400
+        },
+        "position": "DE",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 2,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Felix Anudike-Uzomah",
+          "slug": "anudike-uzomah-felix",
+          "shortName": "F. Anudike-Uzomah",
+          "position": "DE",
+          "userCount": 2,
+          "id": 1452083,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1011830400
+        },
+        "position": "DE",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 1,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Willie Gay",
+          "slug": "gay-willie",
+          "shortName": "Willie J. Gay",
+          "position": "LB",
+          "userCount": 16,
+          "id": 1027035,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 887500800
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 3,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Chris Jones",
+          "slug": "jones-chris",
+          "shortName": "C. Jones",
+          "position": "DT",
+          "userCount": 52,
+          "id": 854723,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 773193600
+        },
+        "position": "DT",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 5,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 2,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 4
+        }
+      },
+      {
+        "player": {
+          "name": "Charles Omenihu",
+          "slug": "omenihu-charles",
+          "shortName": "C. Omenihu",
+          "position": "DE",
+          "userCount": 16,
+          "id": 982022,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 872035200
+        },
+        "position": "DE",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 1,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Clyde Edwards-Helaire",
+          "slug": "edwards-helaire-clyde",
+          "shortName": "C. Edwards-Helaire",
+          "position": "RB",
+          "userCount": 113,
+          "id": 1026969,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 923788800
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "rushingAttempts": 2,
+          "rushingYards": 20,
+          "rushingYardsAfterContact": 0,
+          "rushingFirstDowns": 1,
+          "rushingTouchdowns": 0,
+          "rushingLongest": 12,
+          "rushingYardsPerAttempt": 10,
+          "rushingRedZoneAttempts": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Travis Kelce",
+          "slug": "kelce-travis",
+          "shortName": "T. Kelce",
+          "position": "TE",
+          "userCount": 2115,
+          "id": 854760,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 623548800
+        },
+        "position": "TE",
+        "substitute": true,
+        "statistics": {
+          "receivingTouchdowns": 1,
+          "receivingReceptions": 7,
+          "receivingYards": 44,
+          "receivingYardsAfterCatch": 13,
+          "receivingTargets": 9,
+          "receivingFirstDowns": 3,
+          "receivingLongest": 13,
+          "receivingYardsPerReception": 6.286,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 2,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "George Karlaftis",
+          "firstName": "",
+          "lastName": "",
+          "slug": "karlaftis-george",
+          "shortName": "G. Karlaftis",
+          "position": "DE",
+          "userCount": 89,
+          "id": 1389329,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 986256000
+        },
+        "position": "DE",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 3,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 1,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Joshua Williams",
+          "slug": "williams-joshua",
+          "shortName": "J. Williams",
+          "position": "DB",
+          "userCount": 6,
+          "id": 1389338,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 940118400
+        },
+        "position": "DB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 1,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jawaan Taylor",
+          "slug": "taylor-jawaan",
+          "shortName": "J. Taylor",
+          "position": "OT",
+          "userCount": 2,
+          "id": 981852,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 880416000
+        },
+        "position": "OT",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Trey Smith",
+          "firstName": "",
+          "lastName": "",
+          "slug": "smith-trey",
+          "shortName": "H. Smith",
+          "position": "OL",
+          "userCount": 7,
+          "id": 1132518,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 929491200
+        },
+        "position": "OL",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Mike Edwards",
+          "slug": "edwards-mike",
+          "shortName": "M. Edwards",
+          "position": "SAF",
+          "userCount": 6,
+          "id": 981885,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 832377600
+        },
+        "position": "SAF",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 3,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Marquez Valdes-Scantling",
+          "slug": "valdes-scantling-marquez",
+          "shortName": "M. Valdes-Scantling",
+          "position": "WR",
+          "userCount": 42,
+          "id": 933535,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 781747200
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 0,
+          "receivingYards": 0,
+          "receivingYardsAfterCatch": 0,
+          "receivingTargets": 3,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 0,
+          "receivingYardsPerReception": 0,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Skyy Moore",
+          "slug": "moore-skyy",
+          "shortName": "S. Moore",
+          "position": "WR",
+          "userCount": 25,
+          "id": 1389332,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 968544000
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 1,
+          "receivingYards": 4,
+          "receivingYardsAfterCatch": 3,
+          "receivingTargets": 2,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 4,
+          "receivingYardsPerReception": 4,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jaylen Watson",
+          "slug": "watson-jaylen",
+          "shortName": "J. Watson",
+          "position": "DB",
+          "userCount": 7,
+          "id": 1389337,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 905990400
+        },
+        "position": "DB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 1,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Creed Humphrey",
+          "firstName": "",
+          "lastName": "",
+          "slug": "humphrey-creed",
+          "shortName": "C. Humphrey",
+          "position": "OL",
+          "userCount": 7,
+          "id": 1132514,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 930528000
+        },
+        "position": "OL",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Nic Jones",
+          "slug": "jones-nic",
+          "shortName": "N. Jones",
+          "position": "DB",
+          "userCount": 1,
+          "id": 1520276,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1003104000
+        },
+        "position": "DB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 0,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Chamarri Conner",
+          "slug": "conner-chamarri",
+          "shortName": "C. Conner",
+          "position": "DB",
+          "userCount": 1,
+          "id": 1520148,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 963273600
+        },
+        "position": "DB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 0,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "ffffff",
+      "outline": "cf1632",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "000000",
+      "outline": "fafb00",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Jake Elliott",
+          "slug": "elliott-jake",
+          "shortName": "J. Elliott",
+          "position": "K",
+          "userCount": 82,
+          "id": 879250,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 790646400
+        },
+        "position": "K",
+        "substitute": true,
+        "statistics": {
+          "kickingExtraMade": 3,
+          "kickingExtraAttempts": 3,
+          "kickingTotalPoints": 3
+        }
+      },
+      {
+        "player": {
+          "name": "Haason Reddick",
+          "slug": "reddick-haason",
+          "shortName": "H. Reddick",
+          "position": "OLB",
+          "userCount": 13,
+          "id": 879003,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 780192000
+        },
+        "position": "OLB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 4,
+          "defensiveAssistTackles": 2,
+          "defensiveSacks": 1,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Bradley Roby",
+          "slug": "roby-bradley",
+          "shortName": "B. Roby",
+          "position": "CB",
+          "userCount": 1,
+          "id": 853303,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 704678400
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 5,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 1,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "D'Andre Swift",
+          "slug": "swift-dandre",
+          "shortName": "D. Swift",
+          "position": "RB",
+          "userCount": 138,
+          "id": 1027022,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 916272000
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "rushingAttempts": 12,
+          "rushingYards": 76,
+          "rushingYardsAfterContact": 0,
+          "rushingFirstDowns": 4,
+          "rushingTouchdowns": 1,
+          "rushingLongest": 35,
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 3,
+          "receivingYards": 31,
+          "receivingYardsAfterCatch": 34,
+          "receivingTargets": 3,
+          "receivingFirstDowns": 1,
+          "receivingLongest": 20,
+          "rushingYardsPerAttempt": 6.333,
+          "rushingRedZoneAttempts": 1,
+          "receivingYardsPerReception": 10.333,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jalen Hurts",
+          "slug": "hurts-jalen",
+          "shortName": "J. Hurts",
+          "position": "QB",
+          "userCount": 1492,
+          "id": 1027054,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 902448000
+        },
+        "position": "QB",
+        "substitute": true,
+        "statistics": {
+          "passingAttempts": 22,
+          "passingCompletions": 14,
+          "passingYards": 150,
+          "passingSackYards": 26,
+          "passingNetYards": 124,
+          "passingInterceptions": 1,
+          "passingLongest": 41,
+          "passingSacked": 5,
+          "passingTouchdowns": 0,
+          "passingAirYards": 94,
+          "passingDroppedPasses": 0,
+          "passingFirstDowns": 5,
+          "rushingAttempts": 12,
+          "rushingYards": 29,
+          "rushingYardsAfterContact": 0,
+          "rushingFirstDowns": 5,
+          "rushingTouchdowns": 2,
+          "rushingLongest": 10,
+          "passingYardsPerAttempt": 6.818,
+          "rushingYardsPerAttempt": 2.417,
+          "rushingRedZoneAttempts": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Braden Mann",
+          "slug": "mann-braden",
+          "shortName": "B. Mann",
+          "position": "P",
+          "userCount": 2,
+          "id": 1027217,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 880329600
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "puntingTotal": 7,
+          "puntingYards": 334,
+          "puntingNetYards": 276,
+          "puntingLongest": 63,
+          "puntingBlocked": 0,
+          "puntingTouchbacks": 0,
+          "puntingYardsPerPuntAvg": 39.429,
+          "puntingInside20": 1,
+          "puntingAverageHangTime": 0,
+          "puntingHangTime": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Milton Williams",
+          "firstName": "",
+          "lastName": "",
+          "slug": "williams-milton",
+          "shortName": "M. Williams",
+          "position": "DT",
+          "userCount": 1,
+          "id": 1132679,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 923356800
+        },
+        "position": "DT",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 5,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Reed Blankenship",
+          "slug": "blankenship-reed",
+          "shortName": "R. Blankenship",
+          "position": "SAF",
+          "userCount": 3,
+          "id": 1389518,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 920332800
+        },
+        "position": "SAF",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 7,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Darius Slay",
+          "firstName": "",
+          "lastName": "",
+          "slug": "slay-darius",
+          "shortName": "D. Slay",
+          "position": "CB",
+          "userCount": 16,
+          "id": 854973,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 662688000
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 4,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 2,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Josh Sweat",
+          "slug": "sweat-josh",
+          "shortName": "J. Sweat",
+          "position": "DE",
+          "userCount": 9,
+          "id": 933596,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 859593600
+        },
+        "position": "DE",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 4,
+          "defensiveAssistTackles": 2,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Kevin Byard",
+          "slug": "byard-kevin",
+          "shortName": "K. Byard",
+          "position": "FS",
+          "userCount": 9,
+          "id": 854273,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 745545600
+        },
+        "position": "FS",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 8,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 1,
+          "defensiveInterceptionsTouchdowns": 0,
+          "defensiveInterceptionsYards": 0,
+          "defensivePassesDefensed": 2,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0,
+          "interceptionReturnsAverageYards": 0,
+          "interceptionReturnsLongest": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Nicholas Morrow",
+          "slug": "morrow-nicholas",
+          "shortName": "N. Morrow",
+          "position": "LB",
+          "userCount": 4,
+          "id": 880365,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 805334400
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 1,
+          "defensiveCombineTackles": 5,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "DeVonta Smith",
+          "firstName": "",
+          "lastName": "",
+          "slug": "smith-devonta",
+          "shortName": "D. Smith",
+          "position": "WR",
+          "userCount": 234,
+          "id": 1119287,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 911001600
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 6,
+          "receivingYards": 99,
+          "receivingYardsAfterCatch": 6,
+          "receivingTargets": 8,
+          "receivingFirstDowns": 4,
+          "receivingLongest": 41,
+          "receivingYardsPerReception": 16.5,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 1,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Fletcher Cox",
+          "slug": "cox-fletcher",
+          "shortName": "F. Cox",
+          "position": "DT",
+          "userCount": 13,
+          "id": 855567,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 661046400
+        },
+        "position": "DT",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 1,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jordan Davis",
+          "slug": "davis-jordan",
+          "shortName": "J. Davis",
+          "position": "DT",
+          "userCount": 7,
+          "id": 1389522,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 947635200
+        },
+        "position": "DT",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 3,
+          "defensiveAssistTackles": 2,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Britain Covey",
+          "slug": "covey-britain",
+          "shortName": "B. Covey",
+          "position": "WR",
+          "userCount": 3,
+          "id": 1389521,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 858643200
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "puntReturnsTotal": 3,
+          "puntReturnsYards": 53,
+          "puntReturnsTouchdowns": 0,
+          "puntReturnsLong": 26,
+          "puntReturnsFairCatches": 0,
+          "puntReturnsAverageYards": 17.667
+        }
+      },
+      {
+        "player": {
+          "name": "Jalen Carter",
+          "slug": "carter-jalen",
+          "shortName": "J. Carter",
+          "position": "DT",
+          "userCount": 17,
+          "id": 1454988,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 986342400
+        },
+        "position": "DT",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 3,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "A.J. Brown",
+          "slug": "brown-aj",
+          "shortName": "A. Brown",
+          "position": "WR",
+          "userCount": 547,
+          "id": 981886,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 867628800
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 1,
+          "receivingYards": 8,
+          "receivingYardsAfterCatch": 2,
+          "receivingTargets": 4,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 8,
+          "defensiveCombineTackles": 0,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0,
+          "receivingYardsPerReception": 8,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 1,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Boston Scott",
+          "slug": "scott-boston",
+          "shortName": "B. Scott",
+          "position": "RB",
+          "userCount": 19,
+          "id": 933585,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 798940800
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "rushingAttempts": 2,
+          "rushingYards": 8,
+          "rushingYardsAfterContact": 0,
+          "rushingFirstDowns": 1,
+          "rushingTouchdowns": 0,
+          "rushingLongest": 4,
+          "rushingYardsPerAttempt": 4,
+          "rushingRedZoneAttempts": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Kenneth Gainwell",
+          "firstName": "",
+          "lastName": "",
+          "slug": "gainwell-kenneth",
+          "shortName": "K. Gainwell",
+          "position": "RB",
+          "userCount": 38,
+          "id": 1132672,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 921369600
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "rushingAttempts": 1,
+          "rushingYards": 1,
+          "rushingYardsAfterContact": 0,
+          "rushingFirstDowns": 0,
+          "rushingTouchdowns": 0,
+          "rushingLongest": 1,
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 1,
+          "receivingYards": 4,
+          "receivingYardsAfterCatch": 3,
+          "receivingTargets": 1,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 4,
+          "rushingYardsPerAttempt": 1,
+          "rushingRedZoneAttempts": 0,
+          "receivingYardsPerReception": 4,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Sydney Brown",
+          "slug": "brown-sydney",
+          "shortName": "S. Brown",
+          "position": "SAF",
+          "userCount": 4,
+          "id": 1447807,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 953596800
+        },
+        "position": "SAF",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 3,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Zach Cunningham",
+          "slug": "cunningham-zach",
+          "shortName": "Z. Cunningham",
+          "position": "LB",
+          "userCount": 3,
+          "id": 879097,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 787190400
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 7,
+          "defensiveAssistTackles": 1,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 1,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jack Stoll",
+          "firstName": "",
+          "lastName": "",
+          "slug": "stoll-jack",
+          "shortName": "J. Stoll",
+          "position": "TE",
+          "userCount": 3,
+          "id": 1132677,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 885945600
+        },
+        "position": "TE",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 1,
+          "receivingYards": 3,
+          "receivingYardsAfterCatch": 2,
+          "receivingTargets": 2,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 3,
+          "defensiveCombineTackles": 0,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0,
+          "receivingYardsPerReception": 3,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Ben VanSumeren",
+          "slug": "vansumeren-ben",
+          "shortName": "B. VanSumeren",
+          "position": "LB",
+          "userCount": 0,
+          "id": 1520180,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 957484800
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 0,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "James Bradberry",
+          "firstName": "",
+          "lastName": "",
+          "slug": "bradberry-james",
+          "shortName": "J. Bradberry",
+          "position": "CB",
+          "userCount": 25,
+          "id": 852787,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 744422400
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 1,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Eli Ricks",
+          "slug": "ricks-eli",
+          "shortName": "E. Ricks",
+          "position": "DB",
+          "userCount": 1,
+          "id": 1450092,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1001462400
+        },
+        "position": "DB",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Julio Jones",
+          "firstName": "",
+          "lastName": "",
+          "slug": "jones-julio",
+          "shortName": "J. Jones",
+          "position": "WR",
+          "userCount": 158,
+          "id": 852733,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 602467200
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 2,
+          "receivingYards": 5,
+          "receivingYardsAfterCatch": 9,
+          "receivingTargets": 2,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 5,
+          "receivingYardsPerReception": 2.5,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Josh Jobe",
+          "firstName": "",
+          "lastName": "",
+          "slug": "jobe-josh",
+          "shortName": "J. Jobe",
+          "position": "CB",
+          "userCount": 2,
+          "id": 1389528,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 892080000
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 0,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Marlon Tuipulotu",
+          "slug": "tuipulotu-marlon",
+          "shortName": "M. Tuipulotu",
+          "position": "DT",
+          "userCount": 0,
+          "id": 1132678,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 928108800
+        },
+        "position": "DT",
+        "substitute": true,
+        "statistics": {
+          "fumbleRecovery": 0,
+          "defensiveCombineTackles": 1,
+          "defensiveAssistTackles": 0,
+          "defensiveSacks": 0,
+          "defensiveForcedFumbles": 0,
+          "defensiveInterceptions": 0,
+          "defensivePassesDefensed": 0,
+          "defensiveBattedPasses": 0,
+          "defensiveDefensiveTargets": 0,
+          "defensiveTacklesForLostYards": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Olamide Zaccheaus",
+          "slug": "zaccheaus-olamide",
+          "shortName": "O. Zaccheaus",
+          "position": "WR",
+          "userCount": 14,
+          "id": 983680,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 869616000
+        },
+        "position": "WR",
+        "substitute": true,
+        "statistics": {
+          "receivingTouchdowns": 0,
+          "receivingReceptions": 0,
+          "receivingYards": 0,
+          "receivingYardsAfterCatch": 0,
+          "receivingTargets": 1,
+          "receivingFirstDowns": 0,
+          "receivingLongest": 0,
+          "receivingYardsPerReception": 0,
+          "receivingDroppedPasses": 0,
+          "receivingRedZoneTargets": 0,
+          "receivingYardsAfterContact": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jordan Mailata",
+          "slug": "mailata-jordan",
+          "shortName": "J. Mailata",
+          "position": "OT",
+          "userCount": 21,
+          "id": 933599,
+          "country": {
+            "alpha2": "AU",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 859766400
+        },
+        "position": "OT",
+        "substitute": true,
+        "statistics": {}
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "ffffff",
+      "outline": "004c54",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "000000",
+      "outline": "fafb00",
+      "fancyNumber": "222226"
+    }
+  }
+}

@@ -1,14 +1,18 @@
 const express = require("express");
 
 const sportsController = require("../controllers/sportsController");
+const ServreAPIDataController = require("../controllers/ServreAPIDataController");
 const authController = require("../controllers/authController");
 
 const router = express.Router();
 
 router.route("/teamNames").get(sportsController.getMatchByTeamNames);
 
-// router.route("/currentEvents").get(sportsController.getCurrentEvents);
-// router.route("/search").get(sportsController.getAllSports);
+router
+  .route("/customAPI")
+  .post(sportsController.createCustomAPI)
+  .patch(sportsController.updateCustomAPI)
+
 router
   .route("/")
   .get(
@@ -19,8 +23,8 @@ router
     // authController.protect,
     // authController.restrictTo("Manager", "Moderator", "Admin"),
     sportsController.uploadEventImages,
-    sportsController.test,
     sportsController.handleNewFiles,
+    sportsController.makeFileWillHoldStats,
     sportsController.createSport
   )
   .delete(
@@ -48,5 +52,12 @@ router
     sportsController.deleteOneItemRelatedData,
     sportsController.deleteSport
   );
+router
+  .route("/eventAPIData/lineups")
+  .get(ServreAPIDataController.gitEventLineups);
+
+router
+  .route("/eventAPIData/statistics")
+  .get(ServreAPIDataController.gitEventStatistics);
 
 module.exports = router;

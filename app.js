@@ -5,6 +5,7 @@ const helmet = require("helmet");
 const mongoSanitize = require("express-mongo-sanitize");
 const cors = require("cors");
 const bodyParser = require("body-parser");
+const cron = require("node-cron");
 
 // const bodyParser = require("body-parser");
 
@@ -22,7 +23,10 @@ const giveawayRouter = require("./routes/giveawayRoutes");
 const sportsRouter = require("./routes/sportsRoutes");
 const serversRouter = require("./routes/serversRoutes");
 const reportedLinksRouter = require("./routes/reportedLinksRoutes");
-const statisticsRouter= require("./routes/statisticsRoutes");
+const statisticsRouter = require("./routes/statisticsRoutes");
+const chatRouter = require("./routes/chatRoutes");
+const statisticsController = require("./controllers/statisticsController");
+const EventsLiveDataController = require("./controllers/EventsLiveDataController");
 
 const app = express();
 
@@ -74,6 +78,27 @@ app.use((req, res, next) => {
   next();
 });
 
+// cron.schedule("* * */7 * * *", statisticsController.getStandingsScheduledData);
+
+// cron.schedule(
+//   "* * */8 * * *",
+//   statisticsController.getFixturesAndResultsForLeaguesScheduledData
+// );
+
+// cron.schedule(
+//   "* * */9 * * *",
+//   statisticsController.getFixturesAndResultsForCupsScheduledData
+// );
+
+// cron.schedule(
+//   "*/3 * * * * *",
+//   EventsLiveDataController.gitFootballLiveMatchesData
+// );
+// cron.schedule(
+//   "*/3 * * * * *",
+//   EventsLiveDataController.gitOtherSportsLiveMatchesData
+// );
+
 // 3) ROUTES
 
 app.use("/api/users", userRouter);
@@ -90,6 +115,7 @@ app.use("/api/sports", sportsRouter);
 app.use("/api/servers", serversRouter);
 app.use("/api/streamLink", streamLinksRouter);
 app.use("/api/statistics", statisticsRouter);
+app.use("/api/chat", chatRouter);
 
 app.all("*", (req, res, next) => {
   next(new AppError(`Can't find ${req.originalUrl} on this server!`, 404));

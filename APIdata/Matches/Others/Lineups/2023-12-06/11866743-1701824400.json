@@ -1,0 +1,1299 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Andre Jackson",
+          "slug": "jackson-andre",
+          "shortName": "A. Jackson",
+          "position": "G",
+          "userCount": 57,
+          "id": 1179050,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1005609600
+        },
+        "shirtNumber": 44,
+        "jerseyNumber": "44",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 4,
+          "points": 0,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 0,
+          "threePointsMade": 0,
+          "threePointAttempts": 0,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 0,
+          "fieldGoalAttempts": 0,
+          "rebounds": 0,
+          "defensiveRebounds": 0,
+          "offensiveRebounds": 0,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 0,
+          "steals": 0,
+          "plusMinus": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Malik Beasley",
+          "firstName": "Malik",
+          "lastName": "Beasley ",
+          "slug": "beasley-malik",
+          "shortName": "M. Beasley",
+          "position": "G",
+          "userCount": 892,
+          "id": 846918,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 848966400
+        },
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1965,
+          "points": 18,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 1,
+          "threePointsMade": 6,
+          "threePointAttempts": 10,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 6,
+          "fieldGoalAttempts": 11,
+          "rebounds": 3,
+          "defensiveRebounds": 3,
+          "offensiveRebounds": 0,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 4,
+          "assists": 0,
+          "steals": 0,
+          "plusMinus": 16,
+          "fieldGoalPct": 55
+        }
+      },
+      {
+        "player": {
+          "name": "Bobby Portis",
+          "firstName": "Bobby",
+          "lastName": "Portis ",
+          "slug": "portis-bobby",
+          "shortName": "B. Portis",
+          "position": "F",
+          "userCount": 1214,
+          "id": 817329,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 792374400
+        },
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 1422,
+          "points": 13,
+          "twoPointsMade": 4,
+          "twoPointAttempts": 6,
+          "threePointsMade": 1,
+          "threePointAttempts": 3,
+          "freeThrowsMade": 2,
+          "freeThrowAttempts": 2,
+          "fieldGoalsMade": 5,
+          "fieldGoalAttempts": 9,
+          "rebounds": 4,
+          "defensiveRebounds": 2,
+          "offensiveRebounds": 2,
+          "turnovers": 1,
+          "blocks": 2,
+          "personalFouls": 4,
+          "assists": 1,
+          "steals": 0,
+          "plusMinus": -7,
+          "fieldGoalPct": 56
+        }
+      },
+      {
+        "player": {
+          "name": "Damian Lillard",
+          "firstName": "Damian",
+          "lastName": "Lillard ",
+          "slug": "lillard-damian",
+          "shortName": "D. Lillard",
+          "position": "G",
+          "userCount": 15903,
+          "id": 817232,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 648000000
+        },
+        "shirtNumber": 0,
+        "jerseyNumber": "0",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 2039,
+          "points": 28,
+          "twoPointsMade": 3,
+          "twoPointAttempts": 6,
+          "threePointsMade": 5,
+          "threePointAttempts": 7,
+          "freeThrowsMade": 7,
+          "freeThrowAttempts": 8,
+          "fieldGoalsMade": 8,
+          "fieldGoalAttempts": 13,
+          "rebounds": 3,
+          "defensiveRebounds": 2,
+          "offensiveRebounds": 1,
+          "turnovers": 3,
+          "blocks": 1,
+          "personalFouls": 4,
+          "assists": 7,
+          "steals": 1,
+          "plusMinus": 17,
+          "fieldGoalPct": 62
+        }
+      },
+      {
+        "player": {
+          "name": "Thanasis Antetokounmpo",
+          "firstName": "Thanasis",
+          "lastName": "Antetokounmpo ",
+          "slug": "antetokounmpo-thanasis",
+          "shortName": "T. Antetokounmpo",
+          "position": "F",
+          "userCount": 1419,
+          "id": 816961,
+          "country": {
+            "alpha2": "GR",
+            "name": "Greece"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 711417600
+        },
+        "shirtNumber": 43,
+        "jerseyNumber": "43",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 149,
+          "points": 2,
+          "twoPointsMade": 1,
+          "twoPointAttempts": 1,
+          "threePointsMade": 0,
+          "threePointAttempts": 0,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 1,
+          "fieldGoalAttempts": 1,
+          "rebounds": 1,
+          "defensiveRebounds": 0,
+          "offensiveRebounds": 1,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 0,
+          "steals": 1,
+          "plusMinus": 4,
+          "fieldGoalPct": 100
+        }
+      },
+      {
+        "player": {
+          "name": "Brook Lopez",
+          "firstName": "Brook",
+          "lastName": "Lopez ",
+          "slug": "lopez-brook",
+          "shortName": "B. Lopez",
+          "position": "C",
+          "userCount": 1997,
+          "id": 817236,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 575856000
+        },
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "position": "C",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 2011,
+          "points": 9,
+          "twoPointsMade": 3,
+          "twoPointAttempts": 4,
+          "threePointsMade": 1,
+          "threePointAttempts": 4,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 4,
+          "fieldGoalAttempts": 8,
+          "rebounds": 8,
+          "defensiveRebounds": 6,
+          "offensiveRebounds": 2,
+          "turnovers": 0,
+          "blocks": 3,
+          "personalFouls": 4,
+          "assists": 3,
+          "steals": 3,
+          "plusMinus": 28,
+          "fieldGoalPct": 50
+        }
+      },
+      {
+        "player": {
+          "name": "Robin Lopez",
+          "firstName": "Robin",
+          "lastName": "Lopez ",
+          "slug": "lopez-robin",
+          "shortName": "R. Lopez",
+          "position": "C",
+          "userCount": 137,
+          "id": 817237,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 575856000
+        },
+        "shirtNumber": 42,
+        "jerseyNumber": "42",
+        "position": "C",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 149,
+          "points": 0,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 0,
+          "threePointsMade": 0,
+          "threePointAttempts": 1,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 0,
+          "fieldGoalAttempts": 1,
+          "rebounds": 0,
+          "defensiveRebounds": 0,
+          "offensiveRebounds": 0,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 0,
+          "steals": 0,
+          "plusMinus": 4,
+          "fieldGoalPct": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Chris Livingston",
+          "slug": "livingston-chris",
+          "shortName": "C. Livingston",
+          "position": "F",
+          "userCount": 24,
+          "id": 1458354,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1066176000
+        },
+        "shirtNumber": 7,
+        "jerseyNumber": "7",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 149,
+          "points": 0,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 1,
+          "threePointsMade": 0,
+          "threePointAttempts": 0,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 0,
+          "fieldGoalAttempts": 1,
+          "rebounds": 2,
+          "defensiveRebounds": 1,
+          "offensiveRebounds": 1,
+          "turnovers": 1,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 0,
+          "steals": 1,
+          "plusMinus": 4,
+          "fieldGoalPct": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Cameron Payne",
+          "firstName": "Cameron",
+          "lastName": "Payne ",
+          "slug": "payne-cameron",
+          "shortName": "C. Payne",
+          "position": "G",
+          "userCount": 402,
+          "id": 817317,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 776304000
+        },
+        "shirtNumber": 15,
+        "jerseyNumber": "15",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 841,
+          "points": 12,
+          "twoPointsMade": 3,
+          "twoPointAttempts": 3,
+          "threePointsMade": 2,
+          "threePointAttempts": 3,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 5,
+          "fieldGoalAttempts": 6,
+          "rebounds": 2,
+          "defensiveRebounds": 2,
+          "offensiveRebounds": 0,
+          "turnovers": 1,
+          "blocks": 0,
+          "personalFouls": 2,
+          "assists": 2,
+          "steals": 1,
+          "plusMinus": 7,
+          "fieldGoalPct": 83
+        }
+      },
+      {
+        "player": {
+          "name": "MarJon Beauchamp",
+          "firstName": "MarJon",
+          "lastName": "Beauchamp ",
+          "slug": "beauchamp-marjon",
+          "shortName": "M. Beauchamp",
+          "position": "F",
+          "userCount": 246,
+          "id": 1206073,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 971308800
+        },
+        "shirtNumber": 3,
+        "jerseyNumber": "3",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 1150,
+          "points": 6,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 1,
+          "threePointsMade": 2,
+          "threePointAttempts": 2,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 2,
+          "fieldGoalAttempts": 3,
+          "rebounds": 2,
+          "defensiveRebounds": 2,
+          "offensiveRebounds": 0,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 1,
+          "assists": 1,
+          "steals": 1,
+          "plusMinus": 9,
+          "fieldGoalPct": 67
+        }
+      },
+      {
+        "player": {
+          "name": "Khris Middleton",
+          "firstName": "Khris",
+          "lastName": "Middleton ",
+          "slug": "middleton-khris",
+          "shortName": "K. Middleton",
+          "position": "F",
+          "userCount": 2263,
+          "id": 817265,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 681955200
+        },
+        "shirtNumber": 22,
+        "jerseyNumber": "22",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1581,
+          "points": 14,
+          "twoPointsMade": 4,
+          "twoPointAttempts": 9,
+          "threePointsMade": 2,
+          "threePointAttempts": 3,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 6,
+          "fieldGoalAttempts": 12,
+          "rebounds": 4,
+          "defensiveRebounds": 2,
+          "offensiveRebounds": 2,
+          "turnovers": 2,
+          "blocks": 0,
+          "personalFouls": 1,
+          "assists": 7,
+          "steals": 1,
+          "plusMinus": 11,
+          "fieldGoalPct": 50
+        }
+      },
+      {
+        "player": {
+          "name": "AJ Green",
+          "firstName": "AJ",
+          "lastName": "Green ",
+          "slug": "green-aj",
+          "shortName": "A. Green",
+          "position": "G",
+          "userCount": 64,
+          "id": 1179862,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 938390400
+        },
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 911,
+          "points": 9,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 0,
+          "threePointsMade": 3,
+          "threePointAttempts": 4,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 3,
+          "fieldGoalAttempts": 4,
+          "rebounds": 0,
+          "defensiveRebounds": 0,
+          "offensiveRebounds": 0,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 1,
+          "steals": 0,
+          "plusMinus": 8,
+          "fieldGoalPct": 75
+        }
+      },
+      {
+        "player": {
+          "name": "Giannis Antetokounmpo",
+          "firstName": "Giannis",
+          "lastName": "Antetokounmpo ",
+          "slug": "antetokounmpo-giannis",
+          "shortName": "G. Antetokounmpo",
+          "position": "F",
+          "userCount": 51752,
+          "id": 816960,
+          "country": {
+            "alpha2": "GR",
+            "name": "Greece"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 786672000
+        },
+        "shirtNumber": 34,
+        "jerseyNumber": "34",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 2029,
+          "points": 35,
+          "twoPointsMade": 14,
+          "twoPointAttempts": 21,
+          "threePointsMade": 1,
+          "threePointAttempts": 1,
+          "freeThrowsMade": 4,
+          "freeThrowAttempts": 9,
+          "fieldGoalsMade": 15,
+          "fieldGoalAttempts": 22,
+          "rebounds": 8,
+          "defensiveRebounds": 5,
+          "offensiveRebounds": 3,
+          "turnovers": 4,
+          "blocks": 0,
+          "personalFouls": 3,
+          "assists": 10,
+          "steals": 3,
+          "plusMinus": 19,
+          "fieldGoalPct": 68
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "eee1c6",
+      "outline": "00471b",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "000000",
+      "outline": "fafb00",
+      "fancyNumber": "222226"
+    },
+    "missingPlayers": [
+      {
+        "player": {
+          "name": "Pat Connaughton",
+          "firstName": "Pat",
+          "lastName": "Connaughton ",
+          "slug": "connaughton-pat",
+          "shortName": "P. Connaughton",
+          "position": "G",
+          "userCount": 413,
+          "id": 817039,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 726278400
+        },
+        "type": "missing",
+        "reason": 1
+      },
+      {
+        "player": {
+          "name": "Jae Crowder",
+          "firstName": "Jae",
+          "lastName": "Crowder ",
+          "slug": "crowder-jae",
+          "shortName": "J. Crowder",
+          "position": "F",
+          "userCount": 543,
+          "id": 817047,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 647222400
+        },
+        "type": "missing",
+        "reason": 1
+      }
+    ]
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Isaiah Hartenstein",
+          "firstName": "Isaiah",
+          "lastName": "Hartenstein ",
+          "slug": "isaiah-hartenstein",
+          "shortName": "I. Hartenstein",
+          "position": "CF",
+          "userCount": 267,
+          "id": 861639,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 894326400
+        },
+        "shirtNumber": 55,
+        "jerseyNumber": "55",
+        "position": "CF",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 1078,
+          "points": 4,
+          "twoPointsMade": 2,
+          "twoPointAttempts": 3,
+          "threePointsMade": 0,
+          "threePointAttempts": 0,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 2,
+          "fieldGoalAttempts": 3,
+          "rebounds": 7,
+          "defensiveRebounds": 3,
+          "offensiveRebounds": 4,
+          "turnovers": 1,
+          "blocks": 2,
+          "personalFouls": 2,
+          "assists": 5,
+          "steals": 0,
+          "plusMinus": -12,
+          "fieldGoalPct": 67
+        }
+      },
+      {
+        "player": {
+          "name": "Josh Hart",
+          "firstName": "Josh",
+          "lastName": "Hart ",
+          "slug": "hart-josh",
+          "shortName": "J. Hart",
+          "position": "G",
+          "userCount": 751,
+          "id": 885214,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 794448000
+        },
+        "shirtNumber": 3,
+        "jerseyNumber": "3",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 1541,
+          "points": 11,
+          "twoPointsMade": 4,
+          "twoPointAttempts": 7,
+          "threePointsMade": 1,
+          "threePointAttempts": 1,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 5,
+          "fieldGoalAttempts": 8,
+          "rebounds": 4,
+          "defensiveRebounds": 3,
+          "offensiveRebounds": 1,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 3,
+          "assists": 1,
+          "steals": 3,
+          "plusMinus": -14,
+          "fieldGoalPct": 63
+        }
+      },
+      {
+        "player": {
+          "name": "Julius Randle",
+          "firstName": "Julius",
+          "lastName": "Randle ",
+          "slug": "julius-randle",
+          "shortName": "J. Randle",
+          "position": "FC",
+          "userCount": 5374,
+          "id": 817338,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 786067200
+        },
+        "shirtNumber": 30,
+        "jerseyNumber": "30",
+        "position": "FC",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 2196,
+          "points": 41,
+          "twoPointsMade": 12,
+          "twoPointAttempts": 17,
+          "threePointsMade": 2,
+          "threePointAttempts": 2,
+          "freeThrowsMade": 11,
+          "freeThrowAttempts": 12,
+          "fieldGoalsMade": 14,
+          "fieldGoalAttempts": 19,
+          "rebounds": 6,
+          "defensiveRebounds": 3,
+          "offensiveRebounds": 3,
+          "turnovers": 4,
+          "blocks": 0,
+          "personalFouls": 3,
+          "assists": 5,
+          "steals": 0,
+          "plusMinus": -21,
+          "fieldGoalPct": 74
+        }
+      },
+      {
+        "player": {
+          "name": "Charlie Brown",
+          "firstName": "Charlie",
+          "lastName": "Brown ",
+          "slug": "charlie-brown",
+          "shortName": "C. Brown Jr.",
+          "position": "G",
+          "userCount": 14,
+          "id": 1184506,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 854841600
+        },
+        "shirtNumber": 44,
+        "jerseyNumber": "44",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 149,
+          "points": 0,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 0,
+          "threePointsMade": 0,
+          "threePointAttempts": 1,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 0,
+          "fieldGoalAttempts": 1,
+          "rebounds": 0,
+          "defensiveRebounds": 0,
+          "offensiveRebounds": 0,
+          "turnovers": 2,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 0,
+          "steals": 0,
+          "plusMinus": -4,
+          "fieldGoalPct": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Immanuel Quickley",
+          "firstName": "Immanuel",
+          "lastName": "Quickley ",
+          "slug": "immanuel-quickley",
+          "shortName": "I. Quickley",
+          "position": "G",
+          "userCount": 597,
+          "id": 1092912,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 929577600
+        },
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 1140,
+          "points": 7,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 3,
+          "threePointsMade": 1,
+          "threePointAttempts": 4,
+          "freeThrowsMade": 4,
+          "freeThrowAttempts": 4,
+          "fieldGoalsMade": 1,
+          "fieldGoalAttempts": 7,
+          "rebounds": 1,
+          "defensiveRebounds": 1,
+          "offensiveRebounds": 0,
+          "turnovers": 1,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 3,
+          "steals": 0,
+          "plusMinus": -10,
+          "fieldGoalPct": 14
+        }
+      },
+      {
+        "player": {
+          "name": "Donte DiVincenzo",
+          "firstName": "Donte",
+          "lastName": "DiVincenzo ",
+          "slug": "donte-divincenzo",
+          "shortName": "D. DiVincenzo",
+          "position": "G",
+          "userCount": 1083,
+          "id": 940799,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 854668800
+        },
+        "shirtNumber": 0,
+        "jerseyNumber": "0",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 1022,
+          "points": 7,
+          "twoPointsMade": 1,
+          "twoPointAttempts": 1,
+          "threePointsMade": 1,
+          "threePointAttempts": 4,
+          "freeThrowsMade": 2,
+          "freeThrowAttempts": 2,
+          "fieldGoalsMade": 2,
+          "fieldGoalAttempts": 5,
+          "rebounds": 1,
+          "defensiveRebounds": 1,
+          "offensiveRebounds": 0,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 2,
+          "assists": 2,
+          "steals": 0,
+          "plusMinus": -12,
+          "fieldGoalPct": 40
+        }
+      },
+      {
+        "player": {
+          "name": "Miles McBride",
+          "firstName": "Miles",
+          "lastName": "McBride ",
+          "slug": "miles-mcbride",
+          "shortName": "M. McBride",
+          "position": "G",
+          "userCount": 98,
+          "id": 1133771,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 968371200
+        },
+        "shirtNumber": 2,
+        "jerseyNumber": "2",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 149,
+          "points": 3,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 0,
+          "threePointsMade": 1,
+          "threePointAttempts": 1,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 1,
+          "fieldGoalAttempts": 1,
+          "rebounds": 0,
+          "defensiveRebounds": 0,
+          "offensiveRebounds": 0,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 0,
+          "steals": 0,
+          "plusMinus": -4,
+          "fieldGoalPct": 100
+        }
+      },
+      {
+        "player": {
+          "name": "Jalen Brunson",
+          "firstName": "Jalen",
+          "lastName": "Brunson ",
+          "slug": "brunson-jalen",
+          "shortName": "J. Brunson",
+          "position": "G",
+          "userCount": 3346,
+          "id": 940803,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 841449600
+        },
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 2054,
+          "points": 24,
+          "twoPointsMade": 10,
+          "twoPointAttempts": 17,
+          "threePointsMade": 0,
+          "threePointAttempts": 5,
+          "freeThrowsMade": 4,
+          "freeThrowAttempts": 7,
+          "fieldGoalsMade": 10,
+          "fieldGoalAttempts": 22,
+          "rebounds": 3,
+          "defensiveRebounds": 3,
+          "offensiveRebounds": 0,
+          "turnovers": 3,
+          "blocks": 0,
+          "personalFouls": 1,
+          "assists": 6,
+          "steals": 1,
+          "plusMinus": -14,
+          "fieldGoalPct": 45
+        }
+      },
+      {
+        "player": {
+          "name": "Ryan Arcidiacono",
+          "firstName": "Ryan",
+          "lastName": "Arcidiacono ",
+          "slug": "ryan-arcidiacono",
+          "shortName": "R. Arcidiacono",
+          "position": "G",
+          "userCount": 50,
+          "id": 846963,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 764640000
+        },
+        "shirtNumber": 51,
+        "jerseyNumber": "51",
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 149,
+          "points": 0,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 0,
+          "threePointsMade": 0,
+          "threePointAttempts": 0,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 0,
+          "fieldGoalAttempts": 0,
+          "rebounds": 1,
+          "defensiveRebounds": 1,
+          "offensiveRebounds": 0,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 1,
+          "steals": 1,
+          "plusMinus": -4
+        }
+      },
+      {
+        "player": {
+          "name": "RJ Barrett",
+          "firstName": "RJ",
+          "lastName": "Barrett ",
+          "slug": "barrett-rj",
+          "shortName": "R. Barrett",
+          "position": "FG",
+          "userCount": 2074,
+          "id": 988995,
+          "country": {
+            "alpha2": "CA",
+            "name": "Canada"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 960940800
+        },
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "position": "FG",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1888,
+          "points": 23,
+          "twoPointsMade": 6,
+          "twoPointAttempts": 14,
+          "threePointsMade": 1,
+          "threePointAttempts": 4,
+          "freeThrowsMade": 8,
+          "freeThrowAttempts": 8,
+          "fieldGoalsMade": 7,
+          "fieldGoalAttempts": 18,
+          "rebounds": 8,
+          "defensiveRebounds": 5,
+          "offensiveRebounds": 3,
+          "turnovers": 2,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 1,
+          "steals": 0,
+          "plusMinus": -6,
+          "fieldGoalPct": 39
+        }
+      },
+      {
+        "player": {
+          "name": "Quentin Grimes",
+          "firstName": "Quentin",
+          "lastName": "Grimes ",
+          "slug": "quentin-grimes",
+          "shortName": "Q. Grimes",
+          "position": "G",
+          "userCount": 397,
+          "id": 1133792,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 957744000
+        },
+        "shirtNumber": 6,
+        "jerseyNumber": "6",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1083,
+          "points": 0,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 0,
+          "threePointsMade": 0,
+          "threePointAttempts": 1,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 0,
+          "fieldGoalAttempts": 1,
+          "rebounds": 1,
+          "defensiveRebounds": 1,
+          "offensiveRebounds": 0,
+          "turnovers": 0,
+          "blocks": 0,
+          "personalFouls": 4,
+          "assists": 0,
+          "steals": 1,
+          "plusMinus": -3,
+          "fieldGoalPct": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jericho Sims",
+          "firstName": "Jericho",
+          "lastName": "Sims ",
+          "slug": "jericho-sims",
+          "shortName": "J. Sims",
+          "position": "C",
+          "userCount": 78,
+          "id": 1133798,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 908841600
+        },
+        "shirtNumber": 45,
+        "jerseyNumber": "45",
+        "position": "C",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 170,
+          "points": 0,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 0,
+          "threePointsMade": 0,
+          "threePointAttempts": 0,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 0,
+          "fieldGoalAttempts": 0,
+          "rebounds": 0,
+          "defensiveRebounds": 0,
+          "offensiveRebounds": 0,
+          "turnovers": 1,
+          "blocks": 0,
+          "personalFouls": 0,
+          "assists": 0,
+          "steals": 0,
+          "plusMinus": -2
+        }
+      },
+      {
+        "player": {
+          "name": "Mitchell Robinson",
+          "firstName": "Mitchell",
+          "lastName": "Robinson ",
+          "slug": "mitchell-robinson",
+          "shortName": "M. Robinson",
+          "position": "CF",
+          "userCount": 897,
+          "id": 940771,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 891388800
+        },
+        "shirtNumber": 23,
+        "jerseyNumber": "23",
+        "position": "CF",
+        "substitute": false,
+        "statistics": {
+          "secondsPlayed": 1632,
+          "points": 2,
+          "twoPointsMade": 1,
+          "twoPointAttempts": 2,
+          "threePointsMade": 0,
+          "threePointAttempts": 0,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 1,
+          "fieldGoalAttempts": 2,
+          "rebounds": 4,
+          "defensiveRebounds": 3,
+          "offensiveRebounds": 1,
+          "turnovers": 2,
+          "blocks": 1,
+          "personalFouls": 2,
+          "assists": 3,
+          "steals": 2,
+          "plusMinus": -10,
+          "fieldGoalPct": 50
+        }
+      },
+      {
+        "player": {
+          "name": "Jacob Toppin",
+          "slug": "toppin-jacob",
+          "shortName": "J. Toppin",
+          "position": "F",
+          "userCount": 10,
+          "id": 1178813,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 957744000
+        },
+        "shirtNumber": 0,
+        "jerseyNumber": "0",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "secondsPlayed": 149,
+          "points": 0,
+          "twoPointsMade": 0,
+          "twoPointAttempts": 0,
+          "threePointsMade": 0,
+          "threePointAttempts": 0,
+          "freeThrowsMade": 0,
+          "freeThrowAttempts": 0,
+          "fieldGoalsMade": 0,
+          "fieldGoalAttempts": 0,
+          "rebounds": 0,
+          "defensiveRebounds": 0,
+          "offensiveRebounds": 0,
+          "turnovers": 0,
+          "blocks": 1,
+          "personalFouls": 0,
+          "assists": 0,
+          "steals": 0,
+          "plusMinus": -4
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "f58426",
+      "outline": "006bb6",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "000000",
+      "outline": "fafb00",
+      "fancyNumber": "222226"
+    },
+    "missingPlayers": [
+      {
+        "player": {
+          "name": "Evan Fournier",
+          "firstName": "Evan",
+          "lastName": "Fournier ",
+          "slug": "fournier-evan",
+          "shortName": "E. Fournier",
+          "position": "GF",
+          "userCount": 1213,
+          "id": 817094,
+          "country": {
+            "alpha2": "FR",
+            "name": "France"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 720316800
+        },
+        "type": "doubtful",
+        "reason": 2
+      },
+      {
+        "player": {
+          "name": "DaQuan Jeffries",
+          "firstName": "DaQuan",
+          "lastName": "Jeffries ",
+          "slug": "daquan-jeffries",
+          "shortName": "D. Jeffries",
+          "position": "F",
+          "userCount": 17,
+          "id": 990581,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 872899200
+        },
+        "type": "doubtful",
+        "reason": 2
+      }
+    ]
+  }
+}

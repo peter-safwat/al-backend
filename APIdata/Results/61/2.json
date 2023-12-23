@@ -1,0 +1,546 @@
+[
+  {
+    "fixture": {
+      "id": 1044980,
+      "referee": "S. Frappart",
+      "timezone": "UTC",
+      "date": "2023-11-12T16:05:00+00:00",
+      "timestamp": 1699805100,
+      "periods": {
+        "first": 1699805100,
+        "second": 1699808700
+      },
+      "venue": {
+        "id": 680,
+        "name": "Roazhon Park",
+        "city": "Rennes"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
+      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media-4.api-sports.io/football/teams/94.png",
+        "winner": false
+      },
+      "away": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media-4.api-sports.io/football/teams/80.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1044981,
+      "referee": "M. Vernice",
+      "timezone": "UTC",
+      "date": "2023-11-12T14:00:00+00:00",
+      "timestamp": 1699797600,
+      "periods": {
+        "first": 1699797600,
+        "second": 1699801200
+      },
+      "venue": {
+        "id": 19207,
+        "name": "Decathlon Arena – Stade Pierre-Mauroy",
+        "city": "Villeneuve d'Ascq"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
+      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 79,
+        "name": "Lille",
+        "logo": "https://media-4.api-sports.io/football/teams/79.png",
+        "winner": null
+      },
+      "away": {
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media-4.api-sports.io/football/teams/96.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1044982,
+      "referee": "R. Lissorgue",
+      "timezone": "UTC",
+      "date": "2023-11-12T14:00:00+00:00",
+      "timestamp": 1699797600,
+      "periods": {
+        "first": 1699797600,
+        "second": 1699801200
+      },
+      "venue": {
+        "id": 644,
+        "name": "Stade Gabriel Montpied",
+        "city": "Clermont-Ferrand"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
+      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 99,
+        "name": "Clermont Foot",
+        "logo": "https://media-4.api-sports.io/football/teams/99.png",
+        "winner": true
+      },
+      "away": {
+        "id": 97,
+        "name": "Lorient",
+        "logo": "https://media-4.api-sports.io/football/teams/97.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1044983,
+      "referee": "W. Delajod",
+      "timezone": "UTC",
+      "date": "2023-11-11T16:00:00+00:00",
+      "timestamp": 1699718400,
+      "periods": {
+        "first": 1699718400,
+        "second": 1699722000
+      },
+      "venue": {
+        "id": 674,
+        "name": "Stade Auguste-Delaune II",
+        "city": "Reims"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
+      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 93,
+        "name": "Reims",
+        "logo": "https://media-4.api-sports.io/football/teams/93.png",
+        "winner": false
+      },
+      "away": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media-4.api-sports.io/football/teams/85.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1044984,
+      "referee": "B. Bastien",
+      "timezone": "UTC",
+      "date": "2023-11-12T19:45:00+00:00",
+      "timestamp": 1699818300,
+      "periods": {
+        "first": 1699818300,
+        "second": 1699821900
+      },
+      "venue": {
+        "id": 654,
+        "name": "Stade Bollaert-Delelis",
+        "city": "Lens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
+      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 116,
+        "name": "Lens",
+        "logo": "https://media-4.api-sports.io/football/teams/116.png",
+        "winner": true
+      },
+      "away": {
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media-4.api-sports.io/football/teams/81.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1044985,
+      "referee": "T. Léonard",
+      "timezone": "UTC",
+      "date": "2023-11-11T20:00:00+00:00",
+      "timestamp": 1699732800,
+      "periods": {
+        "first": 1699732800,
+        "second": 1699736400
+      },
+      "venue": {
+        "id": 652,
+        "name": "Stade Océane",
+        "city": "Le Havre"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
+      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 111,
+        "name": "LE Havre",
+        "logo": "https://media-4.api-sports.io/football/teams/111.png",
+        "winner": null
+      },
+      "away": {
+        "id": 91,
+        "name": "Monaco",
+        "logo": "https://media-4.api-sports.io/football/teams/91.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1044986,
+      "referee": "F. Batta",
+      "timezone": "UTC",
+      "date": "2023-11-12T14:00:00+00:00",
+      "timestamp": 1699797600,
+      "periods": {
+        "first": 1699797600,
+        "second": 1699801200
+      },
+      "venue": {
+        "id": 658,
+        "name": "Stade Saint-Symphorien",
+        "city": "Longeville-lès-Metz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
+      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 112,
+        "name": "Metz",
+        "logo": "https://media-4.api-sports.io/football/teams/112.png",
+        "winner": true
+      },
+      "away": {
+        "id": 83,
+        "name": "Nantes",
+        "logo": "https://media-4.api-sports.io/football/teams/83.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1044987,
+      "referee": "H. Ben El Hadj",
+      "timezone": "UTC",
+      "date": "2023-11-10T20:00:00+00:00",
+      "timestamp": 1699646400,
+      "periods": {
+        "first": 1699646400,
+        "second": 1699650000
+      },
+      "venue": {
+        "id": 20107,
+        "name": "Stade de la Mosson-Mondial 98",
+        "city": "Montpellier"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
+      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media-4.api-sports.io/football/teams/82.png",
+        "winner": null
+      },
+      "away": {
+        "id": 84,
+        "name": "Nice",
+        "logo": "https://media-4.api-sports.io/football/teams/84.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

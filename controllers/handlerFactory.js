@@ -17,6 +17,7 @@ exports.deleteOne = (Model) =>
   });
 exports.deleteMany = (Model) =>
   catchAsync(async (req, res, next) => {
+    console.dir(req.body);
     const doc = await Model.deleteMany({ _id: { $in: req.body } });
 
     if (!doc) {

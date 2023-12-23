@@ -1,63 +1,211 @@
+const fs = require("fs");
+const path = require("path");
+
 const axios = require("axios");
 
 const catchAsync = require("../utils/catchAsync");
+const { leaguesData } = require("../utils/leaguesData");
+const { serveDates } = require("../utils/APIConfig");
+const { cupsData } = require("../utils/leaguesData");
 
-exports.getLeagueStandings = catchAsync(async (req, res, next) => {
-  const options = {
-    method: "GET",
-    url: "https://api-football-beta.p.rapidapi.com/standings",
-    params: {
-      season: "2023",
-      league: req.query.leagueId,
-    },
-    headers: {
-      "X-RapidAPI-Key": "ce9352625bmsh696018192ac810ap154737jsn455dc1574f86",
-      "X-RapidAPI-Host": "api-football-beta.p.rapidapi.com",
-    },
-  };
-  const response = await axios.request(options);
-  res.status(200).json({
-    status: "success",
-    data: response.data,
-  });
-});
+const standingsOptions = {
+  method: "GET",
+  url: "https://api-football-v1.p.rapidapi.com/v3/standings",
+  params: {
+    season: serveDates(1).seasonYear,
+    league: "",
+  },
+  headers: {
+    "X-RapidAPI-Key": "5cb056bd4cmsh99302d93650a33fp1360f2jsn67d3464fb9c7",
+    "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
+  },
+};
 
-exports.getLeagueFixtures = catchAsync(async (req, res, next) => {
-  const now = new Date();
-  const localDate = now.toISOString().split("T")[0];
-  const futureDate = new Date(now.getTime() + 5 * 24 * 60 * 60 * 1000);
-  const futureLocalDate = futureDate.toISOString().split("T")[0];
-  const season =
-    now.getMonth() > 5 ? now.getUTCFullYear() : now.getUTCFullYear() - 1;
-
-  const options = {
-    method: "GET",
-    url: "https://api-football-beta.p.rapidapi.com/fixtures",
-    params: {
-      to: futureLocalDate,
-      season: season,
-      league: req.query.leagueId,
-      from: localDate,
-    },
-    headers: {
-      "X-RapidAPI-Key": "ce9352625bmsh696018192ac810ap154737jsn455dc1574f86",
-      "X-RapidAPI-Host": "api-football-beta.p.rapidapi.com",
-    },
-  };
-
-  const response = await axios.request(options);
-  const result = Object.values(
-    response.data.response.reduce((acc, cur) => {
-      const date = cur.fixture.date.split("T")[0];
-      acc[date] = acc[date] || [];
-      acc[date].push(cur);
-      return acc;
-    }, {})
+exports.getStandings = catchAsync(async (req, res, next) => {
+  // get the specific file needed
+  const pathFile = path.join(
+    __dirname,
+    "../",
+    "APIdata",
+    "Standings",
+    req.query.type,
+    `${req.query.id}.json`
   );
-  console.log(result, "result");
 
+  const fileContent = fs.readFileSync(pathFile, "utf8");
+
+  // Parse the JSON content
+  const jsonData = JSON.parse(fileContent);
   res.status(200).json({
     status: "success",
-    data: result,
+    data: jsonData,
   });
 });
+
+exports.getFixturesAndResults = catchAsync(async (req, res, next) => {
+  // get the specific file needed
+  const pathFile = path.join(
+    __dirname,
+    "../",
+    "APIdata",
+    req.query.type,
+    req.query.id,
+    `${req.query.week}.json`
+  );
+
+  const fileContent = fs.readFileSync(pathFile, "utf8");
+
+  // Parse the JSON content
+  const jsonData = JSON.parse(fileContent);
+  console.log(jsonData);
+  res.status(200).json({
+    status: "success",
+    data: jsonData,
+  });
+});
+
+const fetchStandingsDataByLeagueId = async (leagueId, type) => {
+  standingsOptions.params.league = leagueId;
+  try {
+    // Update the league ID in the params
+    const response = await axios.request(standingsOptions);
+    // const data = response.data.response[0].league.standings[0];
+    const data =
+      type === "cup"
+        ? response.data.response[0].league.standings
+        : response.data.response[0].league.standings[0];
+
+    const jsonData = JSON.stringify(data, null, 2); // The null and 2 parameters add indentation for better readability
+
+    // Specify the file path
+    const pathFile =
+      type === "cup"
+        ? `./APIdata/Standings/Cups/${leagueId}.json`
+        : `./APIdata/Standings/Leagues/${leagueId}.json`;
+    // Write the JSON string to the file
+    fs.writeFileSync(pathFile, jsonData);
+    console.log("Data has been written to the file.");
+  } catch (error) {
+    console.error(`Error fetching data for league ${leagueId}:`, error.message);
+  }
+};
+const fetchfixuresAndResultDataByLeagueId = async (leagueId, type, order) => {
+  try {
+    // Update the the params object to the required week
+
+    const fixturesAndResultsOptions = {
+      method: "GET",
+      url: "https://api-football-v1.p.rapidapi.com/v3/fixtures",
+      params: {
+        league: leagueId,
+        season: serveDates(order).seasonYear,
+        from:
+          type === "fixures"
+            ? serveDates(order).currDate
+            : serveDates(order).formattedSevenDaysAgo,
+        to:
+          type === "fixures"
+            ? serveDates(order).formattedSevenDaysLater
+            : serveDates(order).currDate,
+      },
+      headers: {
+        "X-RapidAPI-Key": "5cb056bd4cmsh99302d93650a33fp1360f2jsn67d3464fb9c7",
+        "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
+      },
+    };
+    const response = await axios.request(fixturesAndResultsOptions);
+    const data = response.data.response;
+    // const data = response;
+
+    const jsonData = JSON.stringify(data, null, 2); // The null and 2 parameters add indentation for better readability
+
+    // Specify the file path
+    const pathFile =
+      type === "fixures"
+        ? `./APIdata/Fixtures/${leagueId}/${order}.json`
+        : `./APIdata/Results/${leagueId}/${order}.json`;
+    // Write the JSON string to the file
+    fs.writeFileSync(pathFile, jsonData);
+    console.log("Data has been written to the file.", type, order);
+  } catch (error) {
+    console.error(`Error fetching data for league ${leagueId}:`, error.message);
+  }
+};
+
+exports.getStandingsScheduledData = async (req, res, next) => {
+  try {
+    // Fetch standings data for leagues
+    await Promise.all(
+      leaguesData.map(async (league) => {
+        await fetchStandingsDataByLeagueId(league.id, "league");
+      })
+    );
+
+    // // Fetch standings data for cups
+    await Promise.all(
+      cupsData.map(async (cup) => {
+        await fetchStandingsDataByLeagueId(cup.id, "cup");
+      })
+    );
+    console.log("All requests for standings completed successfully.");
+  } catch (error) {
+    console.error("Error in getScheduledData:", error.message);
+  }
+};
+
+exports.getFixturesAndResultsForLeaguesScheduledData = async (
+  req,
+  res,
+  next
+) => {
+  try {
+    // // Fetch fixtures and result data for leagues
+    await Promise.all(
+      leaguesData.map(async (league) => {
+        [1, 2, 3, 4, 5, 6, 7, 8].map(async (item) => {
+          await fetchfixuresAndResultDataByLeagueId(league.id, "results", item);
+        });
+      })
+    );
+    await Promise.all(
+      leaguesData.map(async (league) => {
+        [1, 2, 3, 4, 5, 6, 7, 8].map(async (item) => {
+          await fetchfixuresAndResultDataByLeagueId(league.id, "fixures", item);
+        });
+      })
+    );
+
+    console.log(
+      "All requests fixtures&results for leagues completed successfully."
+    );
+  } catch (error) {
+    console.error("Error in getScheduledData:", error.message);
+  }
+};
+
+exports.getFixturesAndResultsForCupsScheduledData = async (req, res, next) => {
+  try {
+    // Fetch fixtures and result data for cups
+    await Promise.all(
+      cupsData.map(async (league) => {
+        [1, 2, 3, 4, 5, 6, 7, 8].map(async (item) => {
+          await fetchfixuresAndResultDataByLeagueId(league.id, "results", item);
+        });
+      })
+    );
+
+    await Promise.all(
+      cupsData.map(async (league) => {
+        [1, 2, 3, 4, 5, 6, 7, 8].map(async (item) => {
+          await fetchfixuresAndResultDataByLeagueId(league.id, "fixures", item);
+        });
+      })
+    );
+
+    console.log(
+      "All requests fixtures&results for cups completed successfully."
+    );
+  } catch (error) {
+    console.error("Error in getScheduledData:", error.message);
+  }
+};

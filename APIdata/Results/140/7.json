@@ -1,0 +1,3334 @@
+[
+  {
+    "fixture": {
+      "id": 1038032,
+      "referee": "José Munuera",
+      "timezone": "UTC",
+      "date": "2023-10-08T14:15:00+00:00",
+      "timestamp": 1696774500,
+      "periods": {
+        "first": 1696774500,
+        "second": 1696778100
+      },
+      "venue": {
+        "id": 19217,
+        "name": "Estádio Cívitas Metropolitano",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/530.png",
+        "winner": true
+      },
+      "away": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-4.api-sports.io/football/teams/548.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038033,
+      "referee": "Juan Martínez",
+      "timezone": "UTC",
+      "date": "2023-10-07T12:00:00+00:00",
+      "timestamp": 1696680000,
+      "periods": {
+        "first": 1696680000,
+        "second": 1696683600
+      },
+      "venue": {
+        "id": 11915,
+        "name": "Estadio Nuevo Mirandilla",
+        "city": "Cádiz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media-4.api-sports.io/football/teams/724.png",
+        "winner": false
+      },
+      "away": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-4.api-sports.io/football/teams/547.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038034,
+      "referee": "José Sánchez",
+      "timezone": "UTC",
+      "date": "2023-10-08T16:30:00+00:00",
+      "timestamp": 1696782600,
+      "periods": {
+        "first": 1696782600,
+        "second": 1696786200
+      },
+      "venue": {
+        "id": 1467,
+        "name": "Abanca-Balaídos",
+        "city": "Vigo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media-4.api-sports.io/football/teams/538.png",
+        "winner": null
+      },
+      "away": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media-4.api-sports.io/football/teams/546.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038035,
+      "referee": "Francisco Hernández",
+      "timezone": "UTC",
+      "date": "2023-10-07T16:30:00+00:00",
+      "timestamp": 1696696200,
+      "periods": {
+        "first": 1696696200,
+        "second": 1696699800
+      },
+      "venue": {
+        "id": 19940,
+        "name": "Estadi Mallorca Son Moix",
+        "city": "Palma de Mallorca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media-4.api-sports.io/football/teams/798.png",
+        "winner": null
+      },
+      "away": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media-4.api-sports.io/football/teams/532.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038036,
+      "referee": "Alejandro Hernández",
+      "timezone": "UTC",
+      "date": "2023-10-08T16:30:00+00:00",
+      "timestamp": 1696782600,
+      "periods": {
+        "first": 1696782600,
+        "second": 1696786200
+      },
+      "venue": {
+        "id": 1470,
+        "name": "Estadio de Mendizorroza",
+        "city": "Vitoria-Gasteiz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media-4.api-sports.io/football/teams/542.png",
+        "winner": null
+      },
+      "away": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-4.api-sports.io/football/teams/543.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038037,
+      "referee": "Víctor García",
+      "timezone": "UTC",
+      "date": "2023-10-06T19:00:00+00:00",
+      "timestamp": 1696618800,
+      "periods": {
+        "first": 1696618800,
+        "second": 1696622400
+      },
+      "venue": {
+        "id": 1460,
+        "name": "San Mamés Barria",
+        "city": "Bilbao"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media-4.api-sports.io/football/teams/531.png",
+        "winner": true
+      },
+      "away": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media-4.api-sports.io/football/teams/723.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038038,
+      "referee": "César Soto",
+      "timezone": "UTC",
+      "date": "2023-10-08T19:00:00+00:00",
+      "timestamp": 1696791600,
+      "periods": {
+        "first": 1696791600,
+        "second": 1696795200
+      },
+      "venue": {
+        "id": 1479,
+        "name": "Estadio Nuevo Los Cármenes",
+        "city": "Granada"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media-4.api-sports.io/football/teams/715.png",
+        "winner": null
+      },
+      "away": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-4.api-sports.io/football/teams/529.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038039,
+      "referee": "Guillermo Cuadra",
+      "timezone": "UTC",
+      "date": "2023-10-07T14:15:00+00:00",
+      "timestamp": 1696688100,
+      "periods": {
+        "first": 1696688100,
+        "second": 1696691700
+      },
+      "venue": {
+        "id": 1456,
+        "name": "Estadio Santiago Bernabéu",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/541.png",
+        "winner": true
+      },
+      "away": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-4.api-sports.io/football/teams/727.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038040,
+      "referee": "Isidro Díaz de Mera",
+      "timezone": "UTC",
+      "date": "2023-10-07T19:00:00+00:00",
+      "timestamp": 1696705200,
+      "periods": {
+        "first": 1696705200,
+        "second": 1696708800
+      },
+      "venue": {
+        "id": 1494,
+        "name": "Estadio Ramón Sánchez Pizjuán",
+        "city": "Sevilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-4.api-sports.io/football/teams/536.png",
+        "winner": null
+      },
+      "away": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-4.api-sports.io/football/teams/728.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038041,
+      "referee": "Alejandro Muñiz",
+      "timezone": "UTC",
+      "date": "2023-10-08T12:00:00+00:00",
+      "timestamp": 1696766400,
+      "periods": {
+        "first": 1696766400,
+        "second": 1696770000
+      },
+      "venue": {
+        "id": 1498,
+        "name": "Estadio de la Cerámica",
+        "city": "Villarreal"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 9"
+    },
+    "teams": {
+      "home": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-4.api-sports.io/football/teams/533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media-4.api-sports.io/football/teams/534.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038042,
+      "referee": "Javier Iglesias",
+      "timezone": "UTC",
+      "date": "2023-10-22T12:00:00+00:00",
+      "timestamp": 1697976000,
+      "periods": {
+        "first": 1697976000,
+        "second": 1697979600
+      },
+      "venue": {
+        "id": 1481,
+        "name": "Estadio de Gran Canaria",
+        "city": "Las Palmas de Gran Canaria"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media-4.api-sports.io/football/teams/534.png",
+        "winner": false
+      },
+      "away": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-4.api-sports.io/football/teams/728.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038043,
+      "referee": "Miguel Ortiz",
+      "timezone": "UTC",
+      "date": "2023-10-22T14:15:00+00:00",
+      "timestamp": 1697984100,
+      "periods": {
+        "first": 1697984100,
+        "second": 1697987700
+      },
+      "venue": {
+        "id": 1478,
+        "name": "Estadi Municipal de Montilivi",
+        "city": "Girona"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-4.api-sports.io/football/teams/547.png",
+        "winner": true
+      },
+      "away": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media-4.api-sports.io/football/teams/723.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038044,
+      "referee": "Juan Martínez",
+      "timezone": "UTC",
+      "date": "2023-10-22T19:00:00+00:00",
+      "timestamp": 1698001200,
+      "periods": {
+        "first": 1698001200,
+        "second": 1698004800
+      },
+      "venue": {
+        "id": 19939,
+        "name": "Estadi Olímpic Lluís Companys",
+        "city": "Barcelona"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-4.api-sports.io/football/teams/529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media-4.api-sports.io/football/teams/531.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038045,
+      "referee": "Guillermo Cuadra",
+      "timezone": "UTC",
+      "date": "2023-10-21T19:00:00+00:00",
+      "timestamp": 1697914800,
+      "periods": {
+        "first": 1697914800,
+        "second": 1697918400
+      },
+      "venue": {
+        "id": 1467,
+        "name": "Abanca-Balaídos",
+        "city": "Vigo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media-4.api-sports.io/football/teams/538.png",
+        "winner": false
+      },
+      "away": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/530.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038046,
+      "referee": "César Soto",
+      "timezone": "UTC",
+      "date": "2023-10-21T14:15:00+00:00",
+      "timestamp": 1697897700,
+      "periods": {
+        "first": 1697897700,
+        "second": 1697901300
+      },
+      "venue": {
+        "id": 1476,
+        "name": "Estadio Coliseum",
+        "city": "Getafe"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media-4.api-sports.io/football/teams/546.png",
+        "winner": null
+      },
+      "away": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-4.api-sports.io/football/teams/543.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038047,
+      "referee": "Pablo González",
+      "timezone": "UTC",
+      "date": "2023-10-23T19:00:00+00:00",
+      "timestamp": 1698087600,
+      "periods": {
+        "first": 1698087600,
+        "second": 1698091200
+      },
+      "venue": {
+        "id": 1497,
+        "name": "Estadio de Mestalla",
+        "city": "Valencia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media-4.api-sports.io/football/teams/532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media-4.api-sports.io/football/teams/724.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038048,
+      "referee": "Jorge Figueroa",
+      "timezone": "UTC",
+      "date": "2023-10-21T12:00:00+00:00",
+      "timestamp": 1697889600,
+      "periods": {
+        "first": 1697889600,
+        "second": 1697893200
+      },
+      "venue": {
+        "id": 1491,
+        "name": "Reale Arena",
+        "city": "Donostia-San Sebastián"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-4.api-sports.io/football/teams/548.png",
+        "winner": true
+      },
+      "away": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media-4.api-sports.io/football/teams/798.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038049,
+      "referee": "Ricardo De Burgos",
+      "timezone": "UTC",
+      "date": "2023-10-21T16:30:00+00:00",
+      "timestamp": 1697905800,
+      "periods": {
+        "first": 1697905800,
+        "second": 1697909400
+      },
+      "venue": {
+        "id": 1494,
+        "name": "Estadio Ramón Sánchez Pizjuán",
+        "city": "Sevilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-4.api-sports.io/football/teams/536.png",
+        "winner": null
+      },
+      "away": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/541.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038050,
+      "referee": "Mateo Busquets",
+      "timezone": "UTC",
+      "date": "2023-10-20T19:00:00+00:00",
+      "timestamp": 1697828400,
+      "periods": {
+        "first": 1697828400,
+        "second": 1697832000
+      },
+      "venue": {
+        "id": 1486,
+        "name": "Estadio El Sadar",
+        "city": "Iruñea"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-4.api-sports.io/football/teams/727.png",
+        "winner": true
+      },
+      "away": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media-4.api-sports.io/football/teams/715.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038051,
+      "referee": "Jesús Gil",
+      "timezone": "UTC",
+      "date": "2023-10-22T16:30:00+00:00",
+      "timestamp": 1697992200,
+      "periods": {
+        "first": 1697992200,
+        "second": 1697995800
+      },
+      "venue": {
+        "id": 1498,
+        "name": "Estadio de la Cerámica",
+        "city": "Villarreal"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 10"
+    },
+    "teams": {
+      "home": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-4.api-sports.io/football/teams/533.png",
+        "winner": null
+      },
+      "away": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media-4.api-sports.io/football/teams/542.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038052,
+      "referee": "Francisco Hernández",
+      "timezone": "UTC",
+      "date": "2023-10-28T12:00:00+00:00",
+      "timestamp": 1698494400,
+      "periods": {
+        "first": 1698494400,
+        "second": 1698498000
+      },
+      "venue": {
+        "id": 19216,
+        "name": "Power Horse Stadium – Estadio de los Juegos Mediterráneos",
+        "city": "Almería"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media-4.api-sports.io/football/teams/723.png",
+        "winner": false
+      },
+      "away": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media-4.api-sports.io/football/teams/534.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038053,
+      "referee": "Jorge Figueroa",
+      "timezone": "UTC",
+      "date": "2023-10-29T17:30:00+00:00",
+      "timestamp": 1698600600,
+      "periods": {
+        "first": 1698600600,
+        "second": 1698604200
+      },
+      "venue": {
+        "id": 1460,
+        "name": "San Mamés Barria",
+        "city": "Bilbao"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media-4.api-sports.io/football/teams/531.png",
+        "winner": null
+      },
+      "away": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media-4.api-sports.io/football/teams/532.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038054,
+      "referee": "Jesús Gil",
+      "timezone": "UTC",
+      "date": "2023-10-28T14:15:00+00:00",
+      "timestamp": 1698502500,
+      "periods": {
+        "first": 1698502500,
+        "second": 1698506100
+      },
+      "venue": {
+        "id": 19939,
+        "name": "Estadi Olímpic Lluís Companys",
+        "city": "Barcelona"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-4.api-sports.io/football/teams/529.png",
+        "winner": false
+      },
+      "away": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/541.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038055,
+      "referee": "José Sánchez",
+      "timezone": "UTC",
+      "date": "2023-10-29T13:00:00+00:00",
+      "timestamp": 1698584400,
+      "periods": {
+        "first": 1698584400,
+        "second": 1698588000
+      },
+      "venue": {
+        "id": 1489,
+        "name": "Estadio Benito Villamarín",
+        "city": "Sevilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-4.api-sports.io/football/teams/543.png",
+        "winner": true
+      },
+      "away": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-4.api-sports.io/football/teams/727.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038056,
+      "referee": "César Soto",
+      "timezone": "UTC",
+      "date": "2023-10-28T19:00:00+00:00",
+      "timestamp": 1698519600,
+      "periods": {
+        "first": 1698519600,
+        "second": 1698523200
+      },
+      "venue": {
+        "id": 11915,
+        "name": "Estadio Nuevo Mirandilla",
+        "city": "Cádiz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media-4.api-sports.io/football/teams/724.png",
+        "winner": null
+      },
+      "away": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-4.api-sports.io/football/teams/536.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038057,
+      "referee": "Mateo Busquets",
+      "timezone": "UTC",
+      "date": "2023-10-29T15:15:00+00:00",
+      "timestamp": 1698592500,
+      "periods": {
+        "first": 1698592500,
+        "second": 1698596100
+      },
+      "venue": {
+        "id": 1488,
+        "name": "Estadio de Vallecas",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-4.api-sports.io/football/teams/728.png",
+        "winner": null
+      },
+      "away": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-4.api-sports.io/football/teams/548.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038058,
+      "referee": "Javier Iglesias",
+      "timezone": "UTC",
+      "date": "2023-10-30T20:00:00+00:00",
+      "timestamp": 1698696000,
+      "periods": {
+        "first": 1698696000,
+        "second": 1698699600
+      },
+      "venue": {
+        "id": 1479,
+        "name": "Estadio Nuevo Los Cármenes",
+        "city": "Granada"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media-4.api-sports.io/football/teams/715.png",
+        "winner": false
+      },
+      "away": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-4.api-sports.io/football/teams/533.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038059,
+      "referee": "Isidro Díaz de Mera",
+      "timezone": "UTC",
+      "date": "2023-10-27T19:00:00+00:00",
+      "timestamp": 1698433200,
+      "periods": {
+        "first": 1698433200,
+        "second": 1698436800
+      },
+      "venue": {
+        "id": 1478,
+        "name": "Estadi Municipal de Montilivi",
+        "city": "Girona"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-4.api-sports.io/football/teams/547.png",
+        "winner": true
+      },
+      "away": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media-4.api-sports.io/football/teams/538.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038060,
+      "referee": "Pablo González",
+      "timezone": "UTC",
+      "date": "2023-10-28T16:30:00+00:00",
+      "timestamp": 1698510600,
+      "periods": {
+        "first": 1698510600,
+        "second": 1698514200
+      },
+      "venue": {
+        "id": 19940,
+        "name": "Estadi Mallorca Son Moix",
+        "city": "Palma de Mallorca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media-4.api-sports.io/football/teams/798.png",
+        "winner": null
+      },
+      "away": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media-4.api-sports.io/football/teams/546.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038061,
+      "referee": "Alejandro Muñiz",
+      "timezone": "UTC",
+      "date": "2023-10-29T20:00:00+00:00",
+      "timestamp": 1698609600,
+      "periods": {
+        "first": 1698609600,
+        "second": 1698613200
+      },
+      "venue": {
+        "id": 19217,
+        "name": "Estádio Cívitas Metropolitano",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/530.png",
+        "winner": true
+      },
+      "away": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media-4.api-sports.io/football/teams/542.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038062,
+      "referee": "Miguel Ortiz",
+      "timezone": "UTC",
+      "date": "2023-11-04T15:15:00+00:00",
+      "timestamp": 1699110900,
+      "periods": {
+        "first": 1699110900,
+        "second": 1699114500
+      },
+      "venue": {
+        "id": 1489,
+        "name": "Estadio Benito Villamarín",
+        "city": "Sevilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-4.api-sports.io/football/teams/543.png",
+        "winner": true
+      },
+      "away": {
+        "id": 798,
+        "name": "Mallorca",
+        "logo": "https://media-4.api-sports.io/football/teams/798.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038063,
+      "referee": "Alejandro Hernández",
+      "timezone": "UTC",
+      "date": "2023-11-04T17:30:00+00:00",
+      "timestamp": 1699119000,
+      "periods": {
+        "first": 1699119000,
+        "second": 1699122600
+      },
+      "venue": {
+        "id": 1467,
+        "name": "Abanca-Balaídos",
+        "city": "Vigo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media-4.api-sports.io/football/teams/538.png",
+        "winner": null
+      },
+      "away": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-4.api-sports.io/football/teams/536.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038064,
+      "referee": "Juan Pulido",
+      "timezone": "UTC",
+      "date": "2023-11-05T13:00:00+00:00",
+      "timestamp": 1699189200,
+      "periods": {
+        "first": 1699189200,
+        "second": 1699192800
+      },
+      "venue": {
+        "id": 1470,
+        "name": "Estadio de Mendizorroza",
+        "city": "Vitoria-Gasteiz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media-4.api-sports.io/football/teams/542.png",
+        "winner": true
+      },
+      "away": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media-4.api-sports.io/football/teams/723.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038065,
+      "referee": "Guillermo Cuadra",
+      "timezone": "UTC",
+      "date": "2023-11-05T17:30:00+00:00",
+      "timestamp": 1699205400,
+      "periods": {
+        "first": 1699205400,
+        "second": 1699209000
+      },
+      "venue": {
+        "id": 1498,
+        "name": "Estadio de la Cerámica",
+        "city": "Villarreal"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-4.api-sports.io/football/teams/533.png",
+        "winner": false
+      },
+      "away": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media-4.api-sports.io/football/teams/531.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038066,
+      "referee": "Mario Melero",
+      "timezone": "UTC",
+      "date": "2023-11-03T20:00:00+00:00",
+      "timestamp": 1699041600,
+      "periods": {
+        "first": 1699041600,
+        "second": 1699045200
+      },
+      "venue": {
+        "id": 1481,
+        "name": "Estadio de Gran Canaria",
+        "city": "Las Palmas de Gran Canaria"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media-4.api-sports.io/football/teams/534.png",
+        "winner": true
+      },
+      "away": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/530.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038067,
+      "referee": "Javier Alberola",
+      "timezone": "UTC",
+      "date": "2023-11-04T20:00:00+00:00",
+      "timestamp": 1699128000,
+      "periods": {
+        "first": 1699128000,
+        "second": 1699131600
+      },
+      "venue": {
+        "id": 1491,
+        "name": "Reale Arena",
+        "city": "Donostia-San Sebastián"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-4.api-sports.io/football/teams/548.png",
+        "winner": false
+      },
+      "away": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-4.api-sports.io/football/teams/529.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038068,
+      "referee": "Ricardo De Burgos",
+      "timezone": "UTC",
+      "date": "2023-11-06T20:00:00+00:00",
+      "timestamp": 1699300800,
+      "periods": {
+        "first": 1699300800,
+        "second": 1699304400
+      },
+      "venue": {
+        "id": 1476,
+        "name": "Estadio Coliseum",
+        "city": "Getafe"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media-4.api-sports.io/football/teams/546.png",
+        "winner": true
+      },
+      "away": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media-4.api-sports.io/football/teams/724.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038069,
+      "referee": "José Munuera",
+      "timezone": "UTC",
+      "date": "2023-11-04T13:00:00+00:00",
+      "timestamp": 1699102800,
+      "periods": {
+        "first": 1699102800,
+        "second": 1699106400
+      },
+      "venue": {
+        "id": 1486,
+        "name": "Estadio El Sadar",
+        "city": "Iruñea"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-4.api-sports.io/football/teams/727.png",
+        "winner": false
+      },
+      "away": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-4.api-sports.io/football/teams/547.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038070,
+      "referee": "Juan Martínez",
+      "timezone": "UTC",
+      "date": "2023-11-05T20:00:00+00:00",
+      "timestamp": 1699214400,
+      "periods": {
+        "first": 1699214400,
+        "second": 1699218000
+      },
+      "venue": {
+        "id": 1456,
+        "name": "Estadio Santiago Bernabéu",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/541.png",
+        "winner": null
+      },
+      "away": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-4.api-sports.io/football/teams/728.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038071,
+      "referee": "Víctor García",
+      "timezone": "UTC",
+      "date": "2023-11-05T15:15:00+00:00",
+      "timestamp": 1699197300,
+      "periods": {
+        "first": 1699197300,
+        "second": 1699200900
+      },
+      "venue": {
+        "id": 1497,
+        "name": "Estadio de Mestalla",
+        "city": "Valencia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 12"
+    },
+    "teams": {
+      "home": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media-4.api-sports.io/football/teams/532.png",
+        "winner": true
+      },
+      "away": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media-4.api-sports.io/football/teams/715.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038072,
+      "referee": "Isidro Díaz de Mera",
+      "timezone": "UTC",
+      "date": "2023-11-11T15:15:00+00:00",
+      "timestamp": 1699715700,
+      "periods": {
+        "first": 1699715700,
+        "second": 1699719300
+      },
+      "venue": {
+        "id": 19216,
+        "name": "Power Horse Stadium – Estadio de los Juegos Mediterráneos",
+        "city": "Almería"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 13"
+    },
+    "teams": {
+      "home": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media-4.api-sports.io/football/teams/723.png",
+        "winner": false
+      },
+      "away": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-4.api-sports.io/football/teams/548.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038073,
+      "referee": "Juan Pulido",
+      "timezone": "UTC",
+      "date": "2023-11-10T20:00:00+00:00",
+      "timestamp": 1699646400,
+      "periods": {
+        "first": 1699646400,
+        "second": 1699650000
+      },
+      "venue": {
+        "id": 1460,
+        "name": "San Mamés Barria",
+        "city": "Bilbao"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 13"
+    },
+    "teams": {
+      "home": {
+        "id": 531,
+        "name": "Athletic Club",
+        "logo": "https://media-4.api-sports.io/football/teams/531.png",
+        "winner": true
+      },
+      "away": {
+        "id": 538,
+        "name": "Celta Vigo",
+        "logo": "https://media-4.api-sports.io/football/teams/538.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038074,
+      "referee": "Francisco Hernández",
+      "timezone": "UTC",
+      "date": "2023-11-12T20:00:00+00:00",
+      "timestamp": 1699819200,
+      "periods": {
+        "first": 1699819200,
+        "second": 1699822800
+      },
+      "venue": {
+        "id": 19217,
+        "name": "Estádio Cívitas Metropolitano",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 13"
+    },
+    "teams": {
+      "home": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/530.png",
+        "winner": true
+      },
+      "away": {
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media-4.api-sports.io/football/teams/533.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038075,
+      "referee": "José Sánchez",
+      "timezone": "UTC",
+      "date": "2023-11-11T20:00:00+00:00",
+      "timestamp": 1699732800,
+      "periods": {
+        "first": 1699732800,
+        "second": 1699736400
+      },
+      "venue": {
+        "id": 1456,
+        "name": "Estadio Santiago Bernabéu",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 13"
+    },
+    "teams": {
+      "home": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/541.png",
+        "winner": true
+      },
+      "away": {
+        "id": 532,
+        "name": "Valencia",
+        "logo": "https://media-4.api-sports.io/football/teams/532.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038076,
+      "referee": "Jesús Gil",
+      "timezone": "UTC",
+      "date": "2023-11-12T17:30:00+00:00",
+      "timestamp": 1699810200,
+      "periods": {
+        "first": 1699810200,
+        "second": 1699813800
+      },
+      "venue": {
+        "id": 1494,
+        "name": "Estadio Ramón Sánchez Pizjuán",
+        "city": "Sevilla"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 13"
+    },
+    "teams": {
+      "home": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-4.api-sports.io/football/teams/536.png",
+        "winner": null
+      },
+      "away": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media-4.api-sports.io/football/teams/543.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038078,
+      "referee": "Alejandro Muñiz",
+      "timezone": "UTC",
+      "date": "2023-11-11T17:30:00+00:00",
+      "timestamp": 1699723800,
+      "periods": {
+        "first": 1699723800,
+        "second": 1699727400
+      },
+      "venue": {
+        "id": 1479,
+        "name": "Estadio Nuevo Los Cármenes",
+        "city": "Granada"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 13"
+    },
+    "teams": {
+      "home": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media-4.api-sports.io/football/teams/715.png",
+        "winner": null
+      },
+      "away": {
+        "id": 546,
+        "name": "Getafe",
+        "logo": "https://media-4.api-sports.io/football/teams/546.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038079,
+      "referee": "Pablo González",
+      "timezone": "UTC",
+      "date": "2023-11-11T13:00:00+00:00",
+      "timestamp": 1699707600,
+      "periods": {
+        "first": 1699707600,
+        "second": 1699711200
+      },
+      "venue": {
+        "id": 1488,
+        "name": "Estadio de Vallecas",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 13"
+    },
+    "teams": {
+      "home": {
+        "id": 728,
+        "name": "Rayo Vallecano",
+        "logo": "https://media-4.api-sports.io/football/teams/728.png",
+        "winner": false
+      },
+      "away": {
+        "id": 547,
+        "name": "Girona",
+        "logo": "https://media-4.api-sports.io/football/teams/547.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038080,
+      "referee": "Jorge Figueroa",
+      "timezone": "UTC",
+      "date": "2023-11-11T17:30:00+00:00",
+      "timestamp": 1699723800,
+      "periods": {
+        "first": 1699723800,
+        "second": 1699727400
+      },
+      "venue": {
+        "id": 1486,
+        "name": "Estadio El Sadar",
+        "city": "Iruñea"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 13"
+    },
+    "teams": {
+      "home": {
+        "id": 727,
+        "name": "Osasuna",
+        "logo": "https://media-4.api-sports.io/football/teams/727.png",
+        "winner": null
+      },
+      "away": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media-4.api-sports.io/football/teams/534.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1038081,
+      "referee": "Mateo Busquets",
+      "timezone": "UTC",
+      "date": "2023-11-12T15:15:00+00:00",
+      "timestamp": 1699802100,
+      "periods": {
+        "first": 1699802100,
+        "second": 1699805700
+      },
+      "venue": {
+        "id": 19939,
+        "name": "Estadi Olímpic Lluís Companys",
+        "city": "Barcelona"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media-4.api-sports.io/football/leagues/140.png",
+      "flag": "https://media-4.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 13"
+    },
+    "teams": {
+      "home": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-4.api-sports.io/football/teams/529.png",
+        "winner": true
+      },
+      "away": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media-4.api-sports.io/football/teams/542.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

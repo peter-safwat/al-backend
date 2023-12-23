@@ -1,0 +1,614 @@
+[
+  {
+    "fixture": {
+      "id": 1048971,
+      "referee": "H. Osmers",
+      "timezone": "UTC",
+      "date": "2023-11-11T14:30:00+00:00",
+      "timestamp": 1699713000,
+      "periods": {
+        "first": 1699713000,
+        "second": 1699716600
+      },
+      "venue": {
+        "id": 700,
+        "name": "Allianz Arena",
+        "city": "München"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "https://media-4.api-sports.io/football/leagues/78.png",
+      "flag": "https://media-4.api-sports.io/flags/de.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media-4.api-sports.io/football/teams/157.png",
+        "winner": true
+      },
+      "away": {
+        "id": 180,
+        "name": "FC Heidenheim",
+        "logo": "https://media-4.api-sports.io/football/teams/180.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1048972,
+      "referee": "P. Ittrich",
+      "timezone": "UTC",
+      "date": "2023-11-12T18:30:00+00:00",
+      "timestamp": 1699813800,
+      "periods": {
+        "first": 1699813800,
+        "second": 1699817400
+      },
+      "venue": {
+        "id": 738,
+        "name": "Red Bull Arena",
+        "city": "Leipzig"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "https://media-4.api-sports.io/football/leagues/78.png",
+      "flag": "https://media-4.api-sports.io/flags/de.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 173,
+        "name": "RB Leipzig",
+        "logo": "https://media-4.api-sports.io/football/teams/173.png",
+        "winner": true
+      },
+      "away": {
+        "id": 160,
+        "name": "SC Freiburg",
+        "logo": "https://media-4.api-sports.io/football/teams/160.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1048973,
+      "referee": "T. Gerach",
+      "timezone": "UTC",
+      "date": "2023-11-12T14:30:00+00:00",
+      "timestamp": 1699799400,
+      "periods": {
+        "first": 1699799400,
+        "second": 1699803000
+      },
+      "venue": {
+        "id": 699,
+        "name": "BayArena",
+        "city": "Leverkusen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "https://media-4.api-sports.io/football/leagues/78.png",
+      "flag": "https://media-4.api-sports.io/flags/de.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 168,
+        "name": "Bayer Leverkusen",
+        "logo": "https://media-4.api-sports.io/football/teams/168.png",
+        "winner": true
+      },
+      "away": {
+        "id": 182,
+        "name": "Union Berlin",
+        "logo": "https://media-4.api-sports.io/football/teams/182.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1048974,
+      "referee": "F. Zwayer",
+      "timezone": "UTC",
+      "date": "2023-11-10T19:30:00+00:00",
+      "timestamp": 1699644600,
+      "periods": {
+        "first": 1699644600,
+        "second": 1699648200
+      },
+      "venue": {
+        "id": 703,
+        "name": "Stadion im BORUSSIA-PARK",
+        "city": "Mönchengladbach"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "https://media-4.api-sports.io/football/leagues/78.png",
+      "flag": "https://media-4.api-sports.io/flags/de.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 163,
+        "name": "Borussia Monchengladbach",
+        "logo": "https://media-4.api-sports.io/football/teams/163.png",
+        "winner": true
+      },
+      "away": {
+        "id": 161,
+        "name": "VfL Wolfsburg",
+        "logo": "https://media-4.api-sports.io/football/teams/161.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1048975,
+      "referee": "B. Brand",
+      "timezone": "UTC",
+      "date": "2023-11-12T16:30:00+00:00",
+      "timestamp": 1699806600,
+      "periods": {
+        "first": 1699806600,
+        "second": 1699810200
+      },
+      "venue": {
+        "id": 755,
+        "name": "wohninvest WESERSTADION",
+        "city": "Bremen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "https://media-4.api-sports.io/football/leagues/78.png",
+      "flag": "https://media-4.api-sports.io/flags/de.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 162,
+        "name": "Werder Bremen",
+        "logo": "https://media-4.api-sports.io/football/teams/162.png",
+        "winner": null
+      },
+      "away": {
+        "id": 169,
+        "name": "Eintracht Frankfurt",
+        "logo": "https://media-4.api-sports.io/football/teams/169.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1048976,
+      "referee": "M. Jöllenbeck",
+      "timezone": "UTC",
+      "date": "2023-11-11T17:30:00+00:00",
+      "timestamp": 1699723800,
+      "periods": {
+        "first": 1699723800,
+        "second": 1699727400
+      },
+      "venue": {
+        "id": 751,
+        "name": "Vonovia Ruhrstadion",
+        "city": "Bochum"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "https://media-4.api-sports.io/football/leagues/78.png",
+      "flag": "https://media-4.api-sports.io/flags/de.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 176,
+        "name": "VfL BOCHUM",
+        "logo": "https://media-4.api-sports.io/football/teams/176.png",
+        "winner": null
+      },
+      "away": {
+        "id": 192,
+        "name": "FC Koln",
+        "logo": "https://media-4.api-sports.io/football/teams/192.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1048977,
+      "referee": "F. Brych",
+      "timezone": "UTC",
+      "date": "2023-11-11T14:30:00+00:00",
+      "timestamp": 1699713000,
+      "periods": {
+        "first": 1699713000,
+        "second": 1699716600
+      },
+      "venue": {
+        "id": 698,
+        "name": "WWK Arena",
+        "city": "Augsburg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "https://media-4.api-sports.io/football/leagues/78.png",
+      "flag": "https://media-4.api-sports.io/flags/de.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 170,
+        "name": "FC Augsburg",
+        "logo": "https://media-4.api-sports.io/football/teams/170.png",
+        "winner": null
+      },
+      "away": {
+        "id": 167,
+        "name": "1899 Hoffenheim",
+        "logo": "https://media-4.api-sports.io/football/teams/167.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1048978,
+      "referee": "T. Stieler",
+      "timezone": "UTC",
+      "date": "2023-11-11T14:30:00+00:00",
+      "timestamp": 1699713000,
+      "periods": {
+        "first": 1699713000,
+        "second": 1699716600
+      },
+      "venue": {
+        "id": 19928,
+        "name": "MHP Arena",
+        "city": "Stuttgart"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "https://media-4.api-sports.io/football/leagues/78.png",
+      "flag": "https://media-4.api-sports.io/flags/de.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 172,
+        "name": "VfB Stuttgart",
+        "logo": "https://media-4.api-sports.io/football/teams/172.png",
+        "winner": true
+      },
+      "away": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media-4.api-sports.io/football/teams/165.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1048979,
+      "referee": "D. Siebert",
+      "timezone": "UTC",
+      "date": "2023-11-11T14:30:00+00:00",
+      "timestamp": 1699713000,
+      "periods": {
+        "first": 1699713000,
+        "second": 1699716600
+      },
+      "venue": {
+        "id": 705,
+        "name": "Merck-Stadion am Böllenfalltor",
+        "city": "Darmstadt"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
+      }
+    },
+    "league": {
+      "id": 78,
+      "name": "Bundesliga",
+      "country": "Germany",
+      "logo": "https://media-4.api-sports.io/football/leagues/78.png",
+      "flag": "https://media-4.api-sports.io/flags/de.svg",
+      "season": 2023,
+      "round": "Regular Season - 11"
+    },
+    "teams": {
+      "home": {
+        "id": 181,
+        "name": "SV Darmstadt 98",
+        "logo": "https://media-4.api-sports.io/football/teams/181.png",
+        "winner": null
+      },
+      "away": {
+        "id": 164,
+        "name": "FSV Mainz 05",
+        "logo": "https://media-4.api-sports.io/football/teams/164.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

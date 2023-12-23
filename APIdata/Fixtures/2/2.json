@@ -1,0 +1,1090 @@
+[
+  {
+    "fixture": {
+      "id": 1126208,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-28T17:45:00+00:00",
+      "timestamp": 1701193500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 910,
+        "name": "Stadio Olimpico",
+        "city": "Roma"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group E - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 487,
+        "name": "Lazio",
+        "logo": "https://media-4.api-sports.io/football/teams/487.png",
+        "winner": null
+      },
+      "away": {
+        "id": 247,
+        "name": "Celtic",
+        "logo": "https://media-4.api-sports.io/football/teams/247.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126209,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-28T17:45:00+00:00",
+      "timestamp": 1701193500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 720,
+        "name": "Volksparkstadion",
+        "city": "Hamburg"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group H - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 550,
+        "name": "Shakhtar Donetsk",
+        "logo": "https://media-4.api-sports.io/football/teams/550.png",
+        "winner": null
+      },
+      "away": {
+        "id": 740,
+        "name": "Antwerp",
+        "logo": "https://media-4.api-sports.io/football/teams/740.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126210,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-28T20:00:00+00:00",
+      "timestamp": 1701201600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1128,
+        "name": "Stadion Feijenoord",
+        "city": "Rotterdam"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group E - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 209,
+        "name": "Feyenoord",
+        "logo": "https://media-4.api-sports.io/football/teams/209.png",
+        "winner": null
+      },
+      "away": {
+        "id": 530,
+        "name": "Atletico Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/530.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126211,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-28T20:00:00+00:00",
+      "timestamp": 1701201600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 671,
+        "name": "Parc des Princes",
+        "city": "Paris"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group F - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media-4.api-sports.io/football/teams/85.png",
+        "winner": null
+      },
+      "away": {
+        "id": 34,
+        "name": "Newcastle",
+        "logo": "https://media-4.api-sports.io/football/teams/34.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126212,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-28T20:00:00+00:00",
+      "timestamp": 1701201600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 907,
+        "name": "Stadio Giuseppe Meazza",
+        "city": "Milano"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group F - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 489,
+        "name": "AC Milan",
+        "logo": "https://media-4.api-sports.io/football/teams/489.png",
+        "winner": null
+      },
+      "away": {
+        "id": 165,
+        "name": "Borussia Dortmund",
+        "logo": "https://media-4.api-sports.io/football/teams/165.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126213,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-28T20:00:00+00:00",
+      "timestamp": 1701201600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 555,
+        "name": "Etihad Stadium",
+        "city": "Manchester"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group G - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 50,
+        "name": "Manchester City",
+        "logo": "https://media-4.api-sports.io/football/teams/50.png",
+        "winner": null
+      },
+      "away": {
+        "id": 173,
+        "name": "RB Leipzig",
+        "logo": "https://media-4.api-sports.io/football/teams/173.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126214,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-28T20:00:00+00:00",
+      "timestamp": 1701201600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 10500,
+        "name": "Stadion Wankdorf",
+        "city": "Bern"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group G - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 565,
+        "name": "BSC Young Boys",
+        "logo": "https://media-4.api-sports.io/football/teams/565.png",
+        "winner": null
+      },
+      "away": {
+        "id": 598,
+        "name": "FK Crvena Zvezda",
+        "logo": "https://media-4.api-sports.io/football/teams/598.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126215,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-28T20:00:00+00:00",
+      "timestamp": 1701201600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 19939,
+        "name": "Estadi Olímpic Lluís Companys",
+        "city": "Barcelona"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group H - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 529,
+        "name": "Barcelona",
+        "logo": "https://media-4.api-sports.io/football/teams/529.png",
+        "winner": null
+      },
+      "away": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media-4.api-sports.io/football/teams/212.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126216,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-29T17:45:00+00:00",
+      "timestamp": 1701279900,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 19941,
+        "name": "Rams Global Stadium",
+        "city": "İstanbul"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group A - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 645,
+        "name": "Galatasaray",
+        "logo": "https://media-4.api-sports.io/football/teams/645.png",
+        "winner": null
+      },
+      "away": {
+        "id": 33,
+        "name": "Manchester United",
+        "logo": "https://media-4.api-sports.io/football/teams/33.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126217,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-29T17:45:00+00:00",
+      "timestamp": 1701279900,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1494,
+        "name": "Estadio Ramón Sánchez Pizjuán",
+        "city": "Sevilla"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group B - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 536,
+        "name": "Sevilla",
+        "logo": "https://media-4.api-sports.io/football/teams/536.png",
+        "winner": null
+      },
+      "away": {
+        "id": 197,
+        "name": "PSV Eindhoven",
+        "logo": "https://media-4.api-sports.io/football/teams/197.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126218,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-29T20:00:00+00:00",
+      "timestamp": 1701288000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 700,
+        "name": "Allianz Arena",
+        "city": "München"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group A - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media-4.api-sports.io/football/teams/157.png",
+        "winner": null
+      },
+      "away": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media-4.api-sports.io/football/teams/400.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126219,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-29T20:00:00+00:00",
+      "timestamp": 1701288000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 494,
+        "name": "Emirates Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group B - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 42,
+        "name": "Arsenal",
+        "logo": "https://media-4.api-sports.io/football/teams/42.png",
+        "winner": null
+      },
+      "away": {
+        "id": 116,
+        "name": "Lens",
+        "logo": "https://media-4.api-sports.io/football/teams/116.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126220,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-29T20:00:00+00:00",
+      "timestamp": 1701288000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1456,
+        "name": "Estadio Santiago Bernabéu",
+        "city": "Madrid"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group C - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 541,
+        "name": "Real Madrid",
+        "logo": "https://media-4.api-sports.io/football/teams/541.png",
+        "winner": null
+      },
+      "away": {
+        "id": 492,
+        "name": "Napoli",
+        "logo": "https://media-4.api-sports.io/football/teams/492.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126221,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-29T20:00:00+00:00",
+      "timestamp": 1701288000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1291,
+        "name": "Estádio Municipal de Braga",
+        "city": "Braga"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group C - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 217,
+        "name": "SC Braga",
+        "logo": "https://media-4.api-sports.io/football/teams/217.png",
+        "winner": null
+      },
+      "away": {
+        "id": 182,
+        "name": "Union Berlin",
+        "logo": "https://media-4.api-sports.io/football/teams/182.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126222,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-29T20:00:00+00:00",
+      "timestamp": 1701288000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio do Sport Lisboa e Benfica",
+        "city": "Lisboa"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group D - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media-4.api-sports.io/football/teams/211.png",
+        "winner": null
+      },
+      "away": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media-4.api-sports.io/football/teams/505.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1126223,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2023-11-29T20:00:00+00:00",
+      "timestamp": 1701288000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 1491,
+        "name": "Reale Arena",
+        "city": "Donostia-San Sebastián"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 2,
+      "name": "UEFA Champions League",
+      "country": "World",
+      "logo": "https://media-4.api-sports.io/football/leagues/2.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Group D - 5"
+    },
+    "teams": {
+      "home": {
+        "id": 548,
+        "name": "Real Sociedad",
+        "logo": "https://media-4.api-sports.io/football/teams/548.png",
+        "winner": null
+      },
+      "away": {
+        "id": 571,
+        "name": "Red Bull Salzburg",
+        "logo": "https://media-4.api-sports.io/football/teams/571.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

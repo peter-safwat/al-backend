@@ -1,0 +1,474 @@
+[
+  {
+    "period": "ALL",
+    "groups": [
+      {
+        "groupName": "Possession",
+        "statisticsItems": [
+          {
+            "name": "Ball possession",
+            "home": "52%",
+            "away": "48%",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 52,
+            "awayValue": 48
+          },
+          {
+            "name": "Passes",
+            "home": "173",
+            "away": "79",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 173,
+            "awayValue": 79
+          }
+        ]
+      },
+      {
+        "groupName": "Scoring",
+        "statisticsItems": [
+          {
+            "name": "Tries",
+            "home": "1",
+            "away": "1",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 1
+          },
+          {
+            "name": "Try assists",
+            "home": "1",
+            "away": "1",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 1
+          },
+          {
+            "name": "Conversions",
+            "home": "1",
+            "away": "1",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 1
+          }
+        ]
+      },
+      {
+        "groupName": "Scoring other",
+        "statisticsItems": [
+          {
+            "name": "Carries",
+            "home": "130",
+            "away": "58",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 130,
+            "awayValue": 58
+          },
+          {
+            "name": "Clean breaks",
+            "home": "2",
+            "away": "2",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 2
+          },
+          {
+            "name": "Penalty goals",
+            "home": "4",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 4,
+            "awayValue": 1
+          },
+          {
+            "name": "Drop goals",
+            "home": "0",
+            "away": "0",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 0
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Scrums",
+            "home": "9/9 (100%)",
+            "away": "7/7 (100%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 9,
+            "awayValue": 7,
+            "homeTotal": 9,
+            "awayTotal": 7
+          },
+          {
+            "name": "Lineouts",
+            "home": "15/15 (100%)",
+            "away": "8/10 (80%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 15,
+            "awayValue": 8,
+            "homeTotal": 15,
+            "awayTotal": 10
+          },
+          {
+            "name": "Turnovers",
+            "home": "5",
+            "away": "6",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 6
+          },
+          {
+            "name": "Turnovers won",
+            "home": "5",
+            "away": "9",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 9
+          },
+          {
+            "name": "Meters run",
+            "home": "388",
+            "away": "132",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 388,
+            "awayValue": 132
+          },
+          {
+            "name": "Offloads",
+            "home": "5",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 1
+          },
+          {
+            "name": "Tackles",
+            "home": "79",
+            "away": "139",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 79,
+            "awayValue": 139
+          },
+          {
+            "name": "Tackles missed",
+            "home": "9",
+            "away": "35",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 9,
+            "awayValue": 35
+          }
+        ]
+      },
+      {
+        "groupName": "Penalty",
+        "statisticsItems": [
+          {
+            "name": "Penalties conceded",
+            "home": "10",
+            "away": "13",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 10,
+            "awayValue": 13
+          },
+          {
+            "name": "Red cards",
+            "home": "0",
+            "away": "0",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 0
+          },
+          {
+            "name": "Yellow cards",
+            "home": "0",
+            "away": "1",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "period": "1ST",
+    "groups": [
+      {
+        "groupName": "Possession",
+        "statisticsItems": [
+          {
+            "name": "Ball possession",
+            "home": "49%",
+            "away": "51%",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 49,
+            "awayValue": 51
+          }
+        ]
+      },
+      {
+        "groupName": "Scoring",
+        "statisticsItems": [
+          {
+            "name": "Tries",
+            "home": "1",
+            "away": "0",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 0
+          },
+          {
+            "name": "Conversions",
+            "home": "1",
+            "away": "0",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 0
+          }
+        ]
+      },
+      {
+        "groupName": "Scoring other",
+        "statisticsItems": [
+          {
+            "name": "Penalty goals",
+            "home": "2",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 1
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Scrums",
+            "home": "2/2 (100%)",
+            "away": "3/3 (100%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 2,
+            "awayValue": 3,
+            "homeTotal": 2,
+            "awayTotal": 3
+          },
+          {
+            "name": "Lineouts",
+            "home": "8/8 (100%)",
+            "away": "4/5 (80%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 8,
+            "awayValue": 4,
+            "homeTotal": 8,
+            "awayTotal": 5
+          },
+          {
+            "name": "Turnovers",
+            "home": "3",
+            "away": "4",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 4
+          }
+        ]
+      },
+      {
+        "groupName": "Penalty",
+        "statisticsItems": [
+          {
+            "name": "Penalties conceded",
+            "home": "8",
+            "away": "6",
+            "compareCode": 1,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 8,
+            "awayValue": 6
+          },
+          {
+            "name": "Yellow cards",
+            "home": "0",
+            "away": "1",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "period": "2ND",
+    "groups": [
+      {
+        "groupName": "Possession",
+        "statisticsItems": [
+          {
+            "name": "Ball possession",
+            "home": "56%",
+            "away": "44%",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 56,
+            "awayValue": 44
+          }
+        ]
+      },
+      {
+        "groupName": "Scoring",
+        "statisticsItems": [
+          {
+            "name": "Tries",
+            "home": "0",
+            "away": "1",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 1
+          },
+          {
+            "name": "Conversions",
+            "home": "0",
+            "away": "1",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 1
+          }
+        ]
+      },
+      {
+        "groupName": "Scoring other",
+        "statisticsItems": [
+          {
+            "name": "Penalty goals",
+            "home": "2",
+            "away": "0",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 0
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Scrums",
+            "home": "7/7 (100%)",
+            "away": "4/4 (100%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 7,
+            "awayValue": 4,
+            "homeTotal": 7,
+            "awayTotal": 4
+          },
+          {
+            "name": "Lineouts",
+            "home": "7/7 (100%)",
+            "away": "4/5 (80%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 7,
+            "awayValue": 4,
+            "homeTotal": 7,
+            "awayTotal": 5
+          },
+          {
+            "name": "Turnovers",
+            "home": "2",
+            "away": "2",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 2
+          }
+        ]
+      },
+      {
+        "groupName": "Penalty",
+        "statisticsItems": [
+          {
+            "name": "Penalties conceded",
+            "home": "5",
+            "away": "7",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 7
+          }
+        ]
+      }
+    ]
+  }
+]

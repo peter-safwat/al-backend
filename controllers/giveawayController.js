@@ -30,10 +30,6 @@ exports.getEventEntries = catchAsync(async (req, res, next) => {
     { $match: { method: { $in: methods } } },
     { $group: { _id: "$method", num: { $sum: 1 } } },
   ]);
-  console.log("data");
-  console.log(entries);
-  console.log(userEntry);
-  console.log(result);
   res.status(200).json({
     status: "success",
     data: {
