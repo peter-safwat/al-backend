@@ -1,0 +1,1489 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Emiliano Martínez",
+          "firstName": "",
+          "lastName": "",
+          "slug": "emiliano-martinez",
+          "shortName": "E. Martínez",
+          "position": "G",
+          "userCount": 24432,
+          "id": 158263,
+          "country": {
+            "alpha2": "AR",
+            "name": "Argentina"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 715392000
+        },
+        "shirtNumber": 26,
+        "jerseyNumber": "26",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 34,
+          "accuratePass": 22,
+          "totalLongBalls": 17,
+          "accurateLongBalls": 5,
+          "aerialWon": 1,
+          "duelWon": 2,
+          "wasFouled": 1,
+          "goodHighClaim": 2,
+          "savedShotsFromInsideTheBox": 4,
+          "saves": 5,
+          "totalKeeperSweeper": 1,
+          "accurateKeeperSweeper": 1,
+          "minutesPlayed": 90,
+          "touches": 52,
+          "rating": 8.3,
+          "possessionLostCtrl": 12
+        }
+      },
+      {
+        "player": {
+          "name": "Matty Cash",
+          "slug": "matty-cash",
+          "shortName": "M. Cash",
+          "position": "D",
+          "userCount": 6750,
+          "id": 833956,
+          "country": {
+            "alpha2": "PL",
+            "name": "Poland"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 870912000
+        },
+        "shirtNumber": 2,
+        "jerseyNumber": "2",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 20,
+          "accuratePass": 15,
+          "totalLongBalls": 2,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "duelLost": 4,
+          "duelWon": 1,
+          "dispossessed": 1,
+          "totalContest": 1,
+          "wonContest": 1,
+          "blockedScoringAttempt": 1,
+          "totalClearance": 1,
+          "interceptionWon": 1,
+          "fouls": 2,
+          "minutesPlayed": 45,
+          "touches": 34,
+          "rating": 6.5,
+          "possessionLostCtrl": 7
+        }
+      },
+      {
+        "player": {
+          "name": "Ezri Konsa",
+          "firstName": "",
+          "lastName": "",
+          "slug": "ezri-konsa",
+          "shortName": "E. Konsa",
+          "position": "D",
+          "userCount": 1027,
+          "id": 827679,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 877564800
+        },
+        "shirtNumber": 4,
+        "jerseyNumber": "4",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 52,
+          "accuratePass": 47,
+          "totalLongBalls": 3,
+          "accurateLongBalls": 2,
+          "aerialLost": 3,
+          "aerialWon": 2,
+          "duelLost": 3,
+          "duelWon": 2,
+          "totalClearance": 5,
+          "interceptionWon": 1,
+          "minutesPlayed": 90,
+          "touches": 59,
+          "rating": 7.1,
+          "possessionLostCtrl": 5
+        }
+      },
+      {
+        "player": {
+          "name": "Tyrone Mings",
+          "firstName": "",
+          "lastName": "",
+          "slug": "tyrone-mings",
+          "shortName": "T. Mings",
+          "position": "D",
+          "userCount": 1745,
+          "id": 303638,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 731980800
+        },
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "position": "D",
+        "substitute": false,
+        "captain": true,
+        "statistics": {
+          "totalPass": 55,
+          "accuratePass": 48,
+          "totalLongBalls": 7,
+          "accurateLongBalls": 5,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 2,
+          "duelLost": 2,
+          "duelWon": 4,
+          "bigChanceMissed": 1,
+          "shotOffTarget": 1,
+          "totalClearance": 5,
+          "totalTackle": 2,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 64,
+          "rating": 7.1,
+          "possessionLostCtrl": 8
+        }
+      },
+      {
+        "player": {
+          "name": "Matt Targett",
+          "firstName": "",
+          "lastName": "",
+          "slug": "matt-targett",
+          "shortName": "M. Targett",
+          "position": "D",
+          "userCount": 790,
+          "id": 368134,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 811382400
+        },
+        "shirtNumber": 18,
+        "jerseyNumber": "18",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 55,
+          "accuratePass": 48,
+          "totalLongBalls": 5,
+          "accurateLongBalls": 4,
+          "totalCross": 7,
+          "accurateCross": 2,
+          "aerialLost": 1,
+          "aerialWon": 3,
+          "duelLost": 2,
+          "duelWon": 5,
+          "challengeLost": 1,
+          "totalContest": 1,
+          "wonContest": 1,
+          "totalClearance": 3,
+          "interceptionWon": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 74,
+          "rating": 7.6,
+          "possessionLostCtrl": 12,
+          "keyPass": 2
+        }
+      },
+      {
+        "player": {
+          "name": "John McGinn",
+          "slug": "john-mcginn",
+          "shortName": "J. McGinn",
+          "position": "M",
+          "userCount": 2337,
+          "id": 250223,
+          "country": {
+            "alpha2": "SX",
+            "name": "Scotland"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 782438400
+        },
+        "shirtNumber": 7,
+        "jerseyNumber": "7",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 57,
+          "accuratePass": 49,
+          "totalLongBalls": 6,
+          "accurateLongBalls": 4,
+          "aerialLost": 2,
+          "duelLost": 8,
+          "duelWon": 7,
+          "challengeLost": 3,
+          "totalContest": 4,
+          "wonContest": 4,
+          "blockedScoringAttempt": 1,
+          "interceptionWon": 1,
+          "totalTackle": 1,
+          "wasFouled": 2,
+          "fouls": 3,
+          "minutesPlayed": 90,
+          "touches": 71,
+          "rating": 7.1,
+          "possessionLostCtrl": 10,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Douglas Luiz",
+          "firstName": "",
+          "lastName": "",
+          "slug": "douglas-luiz",
+          "shortName": "D. Luiz",
+          "position": "M",
+          "userCount": 5210,
+          "id": 867887,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 894672000
+        },
+        "shirtNumber": 6,
+        "jerseyNumber": "6",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 71,
+          "accuratePass": 64,
+          "totalLongBalls": 7,
+          "accurateLongBalls": 6,
+          "totalCross": 1,
+          "accurateCross": 1,
+          "aerialLost": 1,
+          "duelLost": 4,
+          "duelWon": 5,
+          "challengeLost": 1,
+          "dispossessed": 1,
+          "totalContest": 1,
+          "wonContest": 1,
+          "bigChanceCreated": 1,
+          "shotOffTarget": 1,
+          "totalClearance": 2,
+          "interceptionWon": 2,
+          "totalTackle": 2,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 86,
+          "rating": 7.6,
+          "possessionLostCtrl": 8,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Bertrand Traoré",
+          "firstName": "",
+          "lastName": "",
+          "slug": "bertrand-traore",
+          "shortName": "B. Traoré",
+          "position": "F",
+          "userCount": 3519,
+          "id": 218160,
+          "country": {
+            "alpha2": "BF",
+            "name": "Burkina Faso"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 810345600
+        },
+        "shirtNumber": 15,
+        "jerseyNumber": "15",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 26,
+          "accuratePass": 19,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 1,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "duelLost": 2,
+          "duelWon": 4,
+          "dispossessed": 1,
+          "totalContest": 2,
+          "wonContest": 2,
+          "shotOffTarget": 1,
+          "onTargetScoringAttempt": 1,
+          "blockedScoringAttempt": 1,
+          "wasFouled": 2,
+          "fouls": 1,
+          "minutesPlayed": 72,
+          "touches": 41,
+          "rating": 6.8,
+          "possessionLostCtrl": 13
+        }
+      },
+      {
+        "player": {
+          "name": "Ross Barkley",
+          "firstName": "",
+          "lastName": "",
+          "slug": "ross-barkley",
+          "shortName": "R. Barkley",
+          "position": "M",
+          "userCount": 2363,
+          "id": 98435,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 755049600
+        },
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 37,
+          "accuratePass": 32,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 2,
+          "totalCross": 4,
+          "duelLost": 2,
+          "totalContest": 2,
+          "minutesPlayed": 65,
+          "touches": 47,
+          "rating": 6.5,
+          "possessionLostCtrl": 13,
+          "keyPass": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Anwar El Ghazi",
+          "firstName": "",
+          "lastName": "",
+          "slug": "anwar-el-ghazi",
+          "shortName": "A. E. Ghazi",
+          "position": "F",
+          "userCount": 1289,
+          "id": 362470,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 799459200
+        },
+        "shirtNumber": 21,
+        "jerseyNumber": "21",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 20,
+          "accuratePass": 16,
+          "totalLongBalls": 1,
+          "totalCross": 2,
+          "aerialLost": 3,
+          "duelLost": 4,
+          "duelWon": 2,
+          "dispossessed": 1,
+          "totalContest": 1,
+          "wonContest": 1,
+          "shotOffTarget": 3,
+          "onTargetScoringAttempt": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 90,
+          "touches": 32,
+          "rating": 7.1,
+          "possessionLostCtrl": 9,
+          "keyPass": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Keinan Davis",
+          "firstName": "",
+          "lastName": "",
+          "slug": "keinan-davis",
+          "shortName": "K. Davis",
+          "position": "F",
+          "userCount": 302,
+          "id": 830858,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 887328000
+        },
+        "shirtNumber": 39,
+        "jerseyNumber": "39",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 22,
+          "accuratePass": 15,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 1,
+          "aerialLost": 5,
+          "aerialWon": 6,
+          "duelLost": 8,
+          "duelWon": 10,
+          "challengeLost": 1,
+          "dispossessed": 1,
+          "totalContest": 1,
+          "wonContest": 1,
+          "wasFouled": 3,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 35,
+          "rating": 6.9,
+          "possessionLostCtrl": 11,
+          "keyPass": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Ahmed Elmohamady",
+          "slug": "ahmed-elmohamady",
+          "shortName": "A. Elmohamady",
+          "position": "D",
+          "userCount": 808,
+          "id": 32787,
+          "country": {
+            "alpha2": "EG",
+            "name": "Egypt"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 558144000
+        },
+        "shirtNumber": 27,
+        "jerseyNumber": "27",
+        "position": "D",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 31,
+          "accuratePass": 26,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 3,
+          "totalCross": 2,
+          "accurateCross": 1,
+          "aerialLost": 3,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 2,
+          "shotOffTarget": 1,
+          "outfielderBlock": 1,
+          "totalTackle": 1,
+          "minutesPlayed": 45,
+          "touches": 44,
+          "rating": 7,
+          "possessionLostCtrl": 7
+        }
+      },
+      {
+        "player": {
+          "name": "Jacob Ramsey",
+          "firstName": "",
+          "lastName": "",
+          "slug": "jacob-ramsey",
+          "shortName": "J. Ramsey",
+          "position": "M",
+          "userCount": 1850,
+          "id": 975937,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 991008000
+        },
+        "shirtNumber": 41,
+        "jerseyNumber": "41",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 15,
+          "accuratePass": 13,
+          "totalCross": 1,
+          "aerialLost": 1,
+          "aerialWon": 1,
+          "duelLost": 1,
+          "duelWon": 2,
+          "totalContest": 1,
+          "wonContest": 1,
+          "blockedScoringAttempt": 1,
+          "minutesPlayed": 25,
+          "touches": 20,
+          "rating": 6.6,
+          "possessionLostCtrl": 4
+        }
+      },
+      {
+        "player": {
+          "name": "Jack Grealish",
+          "firstName": "",
+          "lastName": "",
+          "slug": "jack-grealish",
+          "shortName": "J. Grealish",
+          "position": "F",
+          "userCount": 25203,
+          "id": 189061,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 810691200
+        },
+        "shirtNumber": 10,
+        "jerseyNumber": "10",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 7,
+          "accuratePass": 7,
+          "duelLost": 2,
+          "duelWon": 1,
+          "totalContest": 2,
+          "totalTackle": 1,
+          "minutesPlayed": 18,
+          "touches": 12,
+          "rating": 6.5,
+          "possessionLostCtrl": 3,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Jed Steer",
+          "firstName": "",
+          "lastName": "",
+          "slug": "jed-steer",
+          "shortName": "J. Steer",
+          "position": "G",
+          "userCount": 81,
+          "id": 101999,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 717206400
+        },
+        "shirtNumber": 12,
+        "jerseyNumber": "12",
+        "position": "G",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Kortney Hause",
+          "firstName": "",
+          "lastName": "",
+          "slug": "kortney-hause",
+          "shortName": "K. Hause",
+          "position": "D",
+          "userCount": 160,
+          "id": 255189,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 805852800
+        },
+        "shirtNumber": 30,
+        "jerseyNumber": "30",
+        "position": "D",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Marvelous Nakamba",
+          "firstName": "",
+          "lastName": "",
+          "slug": "marvelous-nakamba",
+          "shortName": "M. Nakamba",
+          "position": "M",
+          "userCount": 1146,
+          "id": 556904,
+          "country": {
+            "alpha2": "ZW",
+            "name": "Zimbabwe"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 758937600
+        },
+        "shirtNumber": 19,
+        "jerseyNumber": "19",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Carney Chukwuemeka",
+          "firstName": "",
+          "lastName": "",
+          "slug": "carney-chukwuemeka",
+          "shortName": "C. Chukwuemeka",
+          "position": "M",
+          "userCount": 4242,
+          "id": 994556,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1066608000
+        },
+        "shirtNumber": 60,
+        "jerseyNumber": "60",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Jaden Philogene-Bidace",
+          "firstName": "",
+          "lastName": "",
+          "slug": "jaden-philogene-bidace",
+          "shortName": "J. Philogene-Bidace",
+          "position": "M",
+          "userCount": 736,
+          "id": 1014461,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1021680000
+        },
+        "shirtNumber": 52,
+        "jerseyNumber": "52",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Wesley Moraes",
+          "firstName": "",
+          "lastName": "",
+          "slug": "wesley-moraes",
+          "shortName": "Wesley Moraes",
+          "position": "F",
+          "userCount": 813,
+          "id": 798314,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 848966400
+        },
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "position": "F",
+        "substitute": true,
+        "statistics": {}
+      }
+    ],
+    "supportStaff": [],
+    "formation": "4-2-3-1",
+    "playerColor": {
+      "primary": "88002d",
+      "number": "ffffff",
+      "outline": "88002d",
+      "fancyNumber": "ffffff"
+    },
+    "goalkeeperColor": {
+      "primary": "669933",
+      "number": "ffffff",
+      "outline": "669933",
+      "fancyNumber": "ffffff"
+    },
+    "missingPlayers": [
+      {
+        "player": {
+          "name": "Morgan Sanson",
+          "slug": "morgan-sanson",
+          "shortName": "M. Sanson",
+          "position": "M",
+          "userCount": 576,
+          "id": 250133,
+          "country": {
+            "alpha2": "FR",
+            "name": "France"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 777168000
+        },
+        "type": "doubtful",
+        "reason": 1
+      },
+      {
+        "player": {
+          "name": "Ollie Watkins",
+          "firstName": "",
+          "lastName": "",
+          "slug": "ollie-watkins",
+          "shortName": "O. Watkins",
+          "position": "F",
+          "userCount": 9208,
+          "id": 555386,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 820281600
+        },
+        "type": "missing",
+        "reason": 13
+      }
+    ]
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Jordan Pickford",
+          "slug": "jordan-pickford",
+          "shortName": "J. Pickford",
+          "position": "G",
+          "userCount": 3714,
+          "id": 138530,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 762998400
+        },
+        "shirtNumber": 1,
+        "jerseyNumber": "1",
+        "position": "G",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 28,
+          "accuratePass": 20,
+          "totalLongBalls": 21,
+          "accurateLongBalls": 13,
+          "duelWon": 1,
+          "wasFouled": 1,
+          "saves": 2,
+          "minutesPlayed": 90,
+          "touches": 37,
+          "rating": 7.4,
+          "possessionLostCtrl": 8
+        }
+      },
+      {
+        "player": {
+          "name": "Mason Holgate",
+          "slug": "mason-holgate",
+          "shortName": "M. Holgate",
+          "position": "D",
+          "userCount": 386,
+          "id": 781544,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 845942400
+        },
+        "shirtNumber": 4,
+        "jerseyNumber": "4",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 21,
+          "accuratePass": 14,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 2,
+          "aerialWon": 1,
+          "duelLost": 1,
+          "duelWon": 3,
+          "onTargetScoringAttempt": 1,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "totalTackle": 2,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 36,
+          "rating": 7.3,
+          "possessionLostCtrl": 8
+        }
+      },
+      {
+        "player": {
+          "name": "Michael Keane",
+          "slug": "michael-keane",
+          "shortName": "M. Keane",
+          "position": "D",
+          "userCount": 639,
+          "id": 110846,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 726710400
+        },
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 36,
+          "accuratePass": 31,
+          "totalLongBalls": 4,
+          "accurateLongBalls": 3,
+          "aerialLost": 3,
+          "aerialWon": 7,
+          "duelLost": 4,
+          "duelWon": 8,
+          "shotOffTarget": 1,
+          "totalClearance": 4,
+          "outfielderBlock": 1,
+          "interceptionWon": 1,
+          "totalTackle": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 47,
+          "rating": 7.4,
+          "possessionLostCtrl": 6
+        }
+      },
+      {
+        "player": {
+          "name": "Ben Godfrey",
+          "firstName": "",
+          "lastName": "",
+          "slug": "ben-godfrey",
+          "shortName": "B. Godfrey",
+          "position": "D",
+          "userCount": 440,
+          "id": 754698,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 884822400
+        },
+        "shirtNumber": 22,
+        "jerseyNumber": "22",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 39,
+          "accuratePass": 35,
+          "totalLongBalls": 3,
+          "aerialLost": 2,
+          "aerialWon": 3,
+          "duelLost": 2,
+          "duelWon": 4,
+          "totalContest": 1,
+          "wonContest": 1,
+          "onTargetScoringAttempt": 1,
+          "totalClearance": 3,
+          "totalOffside": 1,
+          "minutesPlayed": 90,
+          "touches": 50,
+          "rating": 7,
+          "possessionLostCtrl": 5
+        }
+      },
+      {
+        "player": {
+          "name": "Lucas Digne",
+          "slug": "lucas-digne",
+          "shortName": "L. Digne",
+          "position": "D",
+          "userCount": 3074,
+          "id": 96538,
+          "country": {
+            "alpha2": "FR",
+            "name": "France"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 743126400
+        },
+        "shirtNumber": 12,
+        "jerseyNumber": "12",
+        "position": "D",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 41,
+          "accuratePass": 34,
+          "totalLongBalls": 3,
+          "accurateLongBalls": 2,
+          "totalCross": 9,
+          "accurateCross": 3,
+          "aerialLost": 2,
+          "aerialWon": 1,
+          "duelLost": 4,
+          "duelWon": 1,
+          "dispossessed": 1,
+          "totalClearance": 2,
+          "interceptionWon": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 59,
+          "rating": 7.3,
+          "possessionLostCtrl": 17,
+          "keyPass": 3
+        }
+      },
+      {
+        "player": {
+          "name": "Séamus Coleman",
+          "slug": "seamus-coleman",
+          "shortName": "S. Coleman",
+          "position": "D",
+          "userCount": 757,
+          "id": 76632,
+          "country": {
+            "alpha2": "IE",
+            "name": "Ireland"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 592531200
+        },
+        "shirtNumber": 23,
+        "jerseyNumber": "23",
+        "position": "M",
+        "substitute": false,
+        "captain": true,
+        "statistics": {
+          "totalPass": 14,
+          "accuratePass": 10,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 2,
+          "totalCross": 4,
+          "accurateCross": 2,
+          "duelLost": 3,
+          "duelWon": 3,
+          "challengeLost": 1,
+          "totalContest": 1,
+          "wonContest": 1,
+          "totalClearance": 2,
+          "totalTackle": 1,
+          "wasFouled": 1,
+          "fouls": 2,
+          "minutesPlayed": 75,
+          "touches": 28,
+          "rating": 6.9,
+          "possessionLostCtrl": 10,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Abdoulaye Doucouré",
+          "firstName": "",
+          "lastName": "",
+          "slug": "abdoulaye-doucoure",
+          "shortName": "A. Doucouré",
+          "position": "M",
+          "userCount": 1761,
+          "id": 96535,
+          "country": {
+            "alpha2": "ML",
+            "name": "Mali"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 725846400
+        },
+        "shirtNumber": 16,
+        "jerseyNumber": "16",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 40,
+          "accuratePass": 33,
+          "totalLongBalls": 2,
+          "accurateLongBalls": 2,
+          "aerialWon": 1,
+          "duelLost": 3,
+          "duelWon": 4,
+          "challengeLost": 1,
+          "dispossessed": 1,
+          "totalContest": 2,
+          "wonContest": 2,
+          "shotOffTarget": 3,
+          "totalClearance": 1,
+          "interceptionWon": 2,
+          "totalTackle": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 52,
+          "rating": 7.4,
+          "possessionLostCtrl": 8,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Allan",
+          "firstName": "",
+          "lastName": "",
+          "slug": "allan",
+          "shortName": "Allan",
+          "position": "M",
+          "userCount": 1446,
+          "id": 158277,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 663292800
+        },
+        "shirtNumber": 6,
+        "jerseyNumber": "6",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 43,
+          "accuratePass": 38,
+          "totalLongBalls": 6,
+          "accurateLongBalls": 4,
+          "duelLost": 12,
+          "duelWon": 4,
+          "challengeLost": 8,
+          "totalContest": 1,
+          "wonContest": 1,
+          "shotOffTarget": 1,
+          "outfielderBlock": 1,
+          "totalTackle": 2,
+          "wasFouled": 1,
+          "fouls": 4,
+          "minutesPlayed": 90,
+          "touches": 53,
+          "rating": 6.4,
+          "possessionLostCtrl": 8,
+          "keyPass": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Gylfi Sigurðsson",
+          "slug": "gylfi-sigurdsson",
+          "shortName": "G. Sigurðsson",
+          "position": "M",
+          "userCount": 1193,
+          "id": 43192,
+          "country": {
+            "alpha2": "IS",
+            "name": "Iceland"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 621216000
+        },
+        "shirtNumber": 10,
+        "jerseyNumber": "10",
+        "position": "M",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 26,
+          "accuratePass": 25,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "totalCross": 2,
+          "aerialLost": 1,
+          "duelLost": 3,
+          "duelWon": 1,
+          "dispossessed": 1,
+          "onTargetScoringAttempt": 1,
+          "totalClearance": 1,
+          "interceptionWon": 2,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 67,
+          "touches": 41,
+          "rating": 6.9,
+          "possessionLostCtrl": 7,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Richarlison",
+          "firstName": "",
+          "lastName": "",
+          "slug": "richarlison",
+          "shortName": "Richarlison",
+          "position": "F",
+          "userCount": 29928,
+          "id": 840217,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 863222400
+        },
+        "shirtNumber": 7,
+        "jerseyNumber": "7",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 30,
+          "accuratePass": 22,
+          "totalLongBalls": 1,
+          "accurateLongBalls": 1,
+          "aerialLost": 3,
+          "aerialWon": 2,
+          "duelLost": 9,
+          "duelWon": 5,
+          "challengeLost": 2,
+          "dispossessed": 2,
+          "totalContest": 1,
+          "shotOffTarget": 2,
+          "totalClearance": 3,
+          "totalTackle": 2,
+          "wasFouled": 1,
+          "fouls": 1,
+          "minutesPlayed": 90,
+          "touches": 44,
+          "rating": 7,
+          "possessionLostCtrl": 13,
+          "keyPass": 3
+        }
+      },
+      {
+        "player": {
+          "name": "Dominic Calvert-Lewin",
+          "slug": "dominic-calvert-lewin",
+          "shortName": "D. Calvert-Lewin",
+          "position": "F",
+          "userCount": 4656,
+          "id": 372344,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 858470400
+        },
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "position": "F",
+        "substitute": false,
+        "statistics": {
+          "totalPass": 25,
+          "accuratePass": 15,
+          "totalLongBalls": 1,
+          "totalCross": 1,
+          "aerialLost": 4,
+          "aerialWon": 7,
+          "duelLost": 4,
+          "duelWon": 9,
+          "shotOffTarget": 1,
+          "onTargetScoringAttempt": 2,
+          "totalClearance": 1,
+          "wasFouled": 2,
+          "totalOffside": 1,
+          "minutesPlayed": 90,
+          "touches": 36,
+          "rating": 7.1,
+          "possessionLostCtrl": 14
+        }
+      },
+      {
+        "player": {
+          "name": "André Gomes",
+          "slug": "andre-gomes",
+          "shortName": "A. Gomes",
+          "position": "M",
+          "userCount": 1928,
+          "id": 235460,
+          "country": {
+            "alpha2": "PT",
+            "name": "Portugal"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 743990400
+        },
+        "shirtNumber": 21,
+        "jerseyNumber": "21",
+        "position": "M",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 12,
+          "accuratePass": 12,
+          "aerialLost": 1,
+          "duelLost": 1,
+          "duelWon": 1,
+          "shotOffTarget": 1,
+          "blockedScoringAttempt": 1,
+          "wasFouled": 1,
+          "minutesPlayed": 23,
+          "touches": 18,
+          "rating": 6.7,
+          "possessionLostCtrl": 1,
+          "keyPass": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Alex Iwobi",
+          "firstName": "",
+          "lastName": "",
+          "slug": "alex-iwobi",
+          "shortName": "A. Iwobi",
+          "position": "M",
+          "userCount": 3674,
+          "id": 352770,
+          "country": {
+            "alpha2": "NG",
+            "name": "Nigeria"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 831081600
+        },
+        "shirtNumber": 17,
+        "jerseyNumber": "17",
+        "position": "F",
+        "substitute": true,
+        "statistics": {
+          "totalPass": 7,
+          "accuratePass": 6,
+          "totalLongBalls": 1,
+          "totalCross": 2,
+          "accurateCross": 1,
+          "duelLost": 1,
+          "duelWon": 1,
+          "totalContest": 2,
+          "wonContest": 1,
+          "interceptionWon": 1,
+          "minutesPlayed": 15,
+          "touches": 13,
+          "rating": 6.7,
+          "possessionLostCtrl": 4
+        }
+      },
+      {
+        "player": {
+          "name": "João Virgínia",
+          "slug": "joao-virginia",
+          "shortName": "J. Virgínia",
+          "position": "G",
+          "userCount": 428,
+          "id": 930666,
+          "country": {
+            "alpha2": "PT",
+            "name": "Portugal"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 939513600
+        },
+        "shirtNumber": 31,
+        "jerseyNumber": "31",
+        "position": "G",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Robin Olsen",
+          "firstName": "",
+          "lastName": "",
+          "slug": "robin-olsen",
+          "shortName": "R. Olsen",
+          "position": "G",
+          "userCount": 977,
+          "id": 26025,
+          "country": {
+            "alpha2": "SE",
+            "name": "Sweden"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 631756800
+        },
+        "shirtNumber": 33,
+        "jerseyNumber": "33",
+        "position": "G",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Tom Davies",
+          "slug": "tom-davies",
+          "shortName": "T. Davies",
+          "position": "M",
+          "userCount": 497,
+          "id": 795058,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 899164800
+        },
+        "shirtNumber": 26,
+        "jerseyNumber": "26",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Bernard",
+          "firstName": "",
+          "lastName": "",
+          "slug": "bernard",
+          "shortName": "Bernard",
+          "position": "M",
+          "userCount": 1285,
+          "id": 241488,
+          "country": {
+            "alpha2": "BR",
+            "name": "Brazil"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 715910400
+        },
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "position": "F",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Niels Nkounkou",
+          "firstName": "",
+          "lastName": "",
+          "slug": "nkounkou-niels",
+          "shortName": "N. Nkounkou",
+          "position": "M",
+          "userCount": 441,
+          "id": 941179,
+          "country": {
+            "alpha2": "FR",
+            "name": "France"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 973036800
+        },
+        "shirtNumber": 18,
+        "jerseyNumber": "18",
+        "position": "D",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Fabian Delph",
+          "firstName": "",
+          "lastName": "",
+          "slug": "fabian-delph",
+          "shortName": "F. Delph",
+          "position": "M",
+          "userCount": 398,
+          "id": 24048,
+          "country": {
+            "alpha2": "EN",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 627609600
+        },
+        "shirtNumber": 8,
+        "jerseyNumber": "8",
+        "position": "M",
+        "substitute": true,
+        "statistics": {}
+      },
+      {
+        "player": {
+          "name": "Joshua King",
+          "firstName": "",
+          "lastName": "",
+          "slug": "joshua-king",
+          "shortName": "J. King",
+          "position": "F",
+          "userCount": 1610,
+          "id": 100621,
+          "country": {
+            "alpha2": "NO",
+            "name": "Norway"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 695433600
+        },
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "position": "F",
+        "substitute": true,
+        "statistics": {}
+      }
+    ],
+    "supportStaff": [],
+    "formation": "4-4-2",
+    "playerColor": {
+      "primary": "eac234",
+      "number": "000064",
+      "outline": "eac234",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "66ff00",
+      "number": "000000",
+      "outline": "66ff00",
+      "fancyNumber": "222226"
+    },
+    "missingPlayers": [
+      {
+        "player": {
+          "name": "James Rodríguez",
+          "slug": "james-rodriguez",
+          "shortName": "James Rodríguez",
+          "position": "M",
+          "userCount": 29190,
+          "id": 107414,
+          "country": {
+            "alpha2": "CO",
+            "name": "Colombia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 679276800
+        },
+        "type": "doubtful",
+        "reason": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,655 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Aryan Dutt",
+          "slug": "aryan-dutt",
+          "shortName": "A Dutt",
+          "position": "B",
+          "userCount": 0,
+          "id": 1121861,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1052697600,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Off break"
+          }
+        },
+        "position": "B",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Bas de Leede",
+          "slug": "bas-de-leede",
+          "shortName": "de Leede",
+          "position": "AR",
+          "userCount": 1,
+          "id": 937608,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 942624000,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Right-arm medium"
+          }
+        },
+        "position": "AR",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Colin Ackermann",
+          "slug": "colin-ackermann",
+          "shortName": "C Ackermann",
+          "position": "AR",
+          "userCount": 0,
+          "id": 786784,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 670723200,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Off break"
+          }
+        },
+        "position": "AR",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Logan van Beek",
+          "slug": "logan-van-beek",
+          "shortName": "van Beek",
+          "position": "B",
+          "userCount": 1,
+          "id": 787260,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 652665600,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Right-arm fast medium"
+          }
+        },
+        "position": "B",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Max O'Dowd",
+          "slug": "max-odowd",
+          "shortName": "M O'Dowd",
+          "position": "BM",
+          "userCount": 0,
+          "id": 867620,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 762739200,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Off break"
+          }
+        },
+        "position": "BM",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Paul van Meekeren",
+          "slug": "paul-van-meekeren",
+          "shortName": "van Meekeren",
+          "position": "B",
+          "userCount": 0,
+          "id": 834287,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 727056000,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Right-arm fast medium"
+          }
+        },
+        "position": "B",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Roelof van der Merwe",
+          "slug": "roelof-van-der-merwe",
+          "shortName": "van der Merwe",
+          "position": "AR",
+          "userCount": 1,
+          "id": 786750,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 473299200,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Slow left-arm orthodox"
+          }
+        },
+        "position": "AR",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Sybrand Engelbrecht",
+          "slug": "sybrand-engelbrecht",
+          "shortName": "Sybrand Engelbrecht",
+          "position": "AR",
+          "userCount": 0,
+          "id": 786733,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 590284800,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Off break"
+          }
+        },
+        "position": "AR",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Teja Nidamanuru",
+          "slug": "teja-nidamanuru",
+          "shortName": "T Nidamanuru",
+          "position": "BM",
+          "userCount": 0,
+          "id": 916097,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 777513600,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Off break"
+          }
+        },
+        "position": "BM",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Vikramjit Singh",
+          "slug": "vikramjit-singh",
+          "shortName": "V Singh",
+          "position": "AR",
+          "userCount": 0,
+          "id": 996807,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1042070400,
+          "cricketPlayerInfo": {
+            "batting": "Left",
+            "bowling": "Right-arm medium"
+          }
+        },
+        "position": "AR",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Scott Edwards",
+          "slug": "scott-edwards",
+          "shortName": "S Edwards",
+          "position": "WK",
+          "userCount": 1,
+          "id": 937609,
+          "country": {
+            "alpha2": "NL",
+            "name": "Netherlands"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 840758400,
+          "cricketPlayerInfo": {
+            "batting": "Right"
+          }
+        },
+        "position": "WK",
+        "substitute": false,
+        "captain": true
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Chamika Karunaratne",
+          "slug": "chamika-karunaratne",
+          "shortName": "C Karunaratne",
+          "position": "AR",
+          "userCount": 0,
+          "id": 974625,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 833328000,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Right-arm medium fast"
+          }
+        },
+        "position": "AR",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Charith Asalanka",
+          "slug": "charith-asalanka",
+          "shortName": "Charith Asalanka",
+          "position": "BM",
+          "userCount": 0,
+          "id": 934881,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 867542400,
+          "cricketPlayerInfo": {
+            "batting": "Left",
+            "bowling": "Off break"
+          }
+        },
+        "position": "BM",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Dhananjaya de Silva",
+          "firstName": "",
+          "lastName": "",
+          "slug": "dhananjaya-de-silva",
+          "shortName": "de Silva",
+          "position": "AR",
+          "userCount": 1,
+          "id": 801499,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 684115200,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Off break"
+          }
+        },
+        "position": "AR",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Dilshan Madushanka",
+          "slug": "dilshan-madushanka",
+          "shortName": "Dilshan Madushanka",
+          "position": "B",
+          "userCount": 1,
+          "id": 994895,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 969235200,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Left-arm fast medium"
+          }
+        },
+        "position": "B",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Dushan Hemantha",
+          "slug": "dushan-hemantha",
+          "shortName": "D Hemantha",
+          "position": "AR",
+          "userCount": 0,
+          "id": 1212952,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Leg break"
+          }
+        },
+        "position": "AR",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Kasun Rajitha",
+          "slug": "kasun-rajitha",
+          "shortName": "Kasun Rajitha",
+          "position": "B",
+          "userCount": 0,
+          "id": 831059,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 738892800,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Right-arm medium fast"
+          }
+        },
+        "position": "B",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Kusal Perera",
+          "slug": "kusal-perera",
+          "shortName": "K Perera",
+          "position": "WK",
+          "userCount": 0,
+          "id": 786668,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 650851200,
+          "cricketPlayerInfo": {
+            "batting": "Left"
+          }
+        },
+        "position": "WK",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Maheesh Theekshana",
+          "slug": "maheesh-theekshana",
+          "shortName": "Maheesh Theekshana",
+          "position": "B",
+          "userCount": 1,
+          "id": 1092140,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 965088000,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Off break"
+          }
+        },
+        "position": "B",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Pathum Nissanka",
+          "slug": "pathum-nissanka",
+          "shortName": "Pathum Nissanka",
+          "position": "BM",
+          "userCount": 0,
+          "id": 936119,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 895449600,
+          "cricketPlayerInfo": {
+            "batting": "Right"
+          }
+        },
+        "position": "BM",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Sadeera Samarawickrama",
+          "firstName": "",
+          "lastName": "",
+          "slug": "sadeera-samarawickrama",
+          "shortName": "Sadeera Samarawickrama",
+          "position": "WK",
+          "userCount": 0,
+          "id": 905582,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 809740800,
+          "cricketPlayerInfo": {
+            "batting": "Right"
+          }
+        },
+        "position": "WK",
+        "substitute": false
+      },
+      {
+        "player": {
+          "name": "Kusal Mendis",
+          "slug": "kusal-mendis",
+          "shortName": "Kusal Mendis",
+          "position": "WK",
+          "userCount": 1,
+          "id": 823450,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 791683200,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Leg break"
+          }
+        },
+        "position": "WK",
+        "substitute": false,
+        "captain": true
+      },
+      {
+        "player": {
+          "name": "Angelo Mathews",
+          "firstName": "",
+          "lastName": "",
+          "slug": "angelo-mathews",
+          "shortName": "A Mathews",
+          "position": "BM",
+          "userCount": 0,
+          "id": 786565,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 549590400,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Right-arm medium"
+          }
+        },
+        "position": "BM",
+        "substitute": true
+      },
+      {
+        "player": {
+          "name": "Dimuth Karunaratne",
+          "slug": "dimuth-karunaratne",
+          "shortName": "Dimuth Karunaratne",
+          "position": "BM",
+          "userCount": 0,
+          "id": 786562,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 577584000,
+          "cricketPlayerInfo": {
+            "batting": "Left",
+            "bowling": "Right-arm medium"
+          }
+        },
+        "position": "BM",
+        "substitute": true
+      },
+      {
+        "player": {
+          "name": "Dunith Wellalage",
+          "slug": "dunith-wellalage",
+          "shortName": "Dunith Wellalage",
+          "position": "B",
+          "userCount": 0,
+          "id": 956763,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1042070400,
+          "cricketPlayerInfo": {
+            "batting": "Left",
+            "bowling": "Slow left-arm orthodox"
+          }
+        },
+        "position": "B",
+        "substitute": true
+      },
+      {
+        "player": {
+          "name": "Dushmantha Chameera",
+          "slug": "dushmantha-chameera",
+          "shortName": "Dushmantha Chameera",
+          "position": "B",
+          "userCount": 0,
+          "id": 788062,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 695088000,
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Right-arm fast"
+          }
+        },
+        "position": "B",
+        "substitute": true
+      },
+      {
+        "player": {
+          "name": "Lahiru Kumara",
+          "slug": "lahiru-kumara",
+          "shortName": "Lahiru Kumara",
+          "position": "B",
+          "userCount": 0,
+          "id": 859610,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 855792000,
+          "cricketPlayerInfo": {
+            "batting": "Left",
+            "bowling": "Right-arm fast"
+          }
+        },
+        "position": "B",
+        "substitute": true
+      },
+      {
+        "player": {
+          "name": "Matheesha Pathirana",
+          "slug": "matheesha-pathirana",
+          "shortName": "M Pathirana",
+          "position": "B",
+          "userCount": 1,
+          "id": 1015963,
+          "country": {
+            "alpha2": "LK",
+            "name": "Sri Lanka"
+          },
+          "marketValueCurrency": "EUR",
+          "cricketPlayerInfo": {
+            "batting": "Right",
+            "bowling": "Right-arm fast"
+          }
+        },
+        "position": "B",
+        "substitute": true
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    }
+  }
+}

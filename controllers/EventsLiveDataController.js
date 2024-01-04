@@ -176,6 +176,9 @@ const getOthersSummery = async (eventId, filePath) => {
 };
 
 const getDataForFootballLiveEvents = catchAsync(async (folderPath) => {
+  if (!fs.existsSync(folderPath)) {
+    return;
+  }
   const fileList = await fsPromise.readdir(folderPath);
 
   const currentTime = new Date().getTime() / 1000;
@@ -250,7 +253,7 @@ exports.gitOtherSportsLiveMatchesData = catchAsync(async (req, res, next) => {
   const formattedDate = currentDate.toISOString().substring(0, 10);
 
   (async () => {
-    const types = ["Lineups", "Events", "Statistics", "Standings"];
+    const types = ["Lineups", "Events", "Statistics"];
     for (let j = 0; j < types.length; j = j + 1) {
       const folderPath = path.join(
         __dirname,

@@ -1,0 +1,1295 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Clayton Kershaw",
+          "firstName": "Clayton",
+          "lastName": "Kershaw",
+          "slug": "kershaw-clayton",
+          "shortName": "C. Kershaw",
+          "position": "P",
+          "userCount": 5,
+          "id": 961282,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 574732800
+        },
+        "position": "P",
+        "substitute": false,
+        "statistics": {
+          "pitchingRuns": 6,
+          "pitchingHomeRuns": 1,
+          "pitchingStrikeOuts": 0,
+          "pitchingBaseOnBalls": 1,
+          "pitchingHits": 6,
+          "pitchingInningsPitched": 0.1,
+          "pitchingEarnedRuns": 6,
+          "pitchingBattersFaced": 8,
+          "pitchingOuts": 1,
+          "pitchingPitchesThrown": 35,
+          "pitchingStrikes": 25,
+          "pitchingEarnedRunsAverage": 162
+        }
+      },
+      {
+        "player": {
+          "name": "Mookie Betts",
+          "firstName": "Markus",
+          "lastName": "Betts",
+          "slug": "betts-mookie",
+          "shortName": "M. Betts",
+          "position": "RF",
+          "userCount": 9,
+          "id": 960736,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 718416000
+        },
+        "position": "RF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 2,
+          "battingGroundOuts": 0,
+          "battingRuns": 1,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 1,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "David Peralta",
+          "firstName": "Senger",
+          "lastName": "Peralta",
+          "slug": "peralta-david",
+          "shortName": "D. Peralta",
+          "position": "LF",
+          "userCount": 1,
+          "id": 961351,
+          "country": {
+            "alpha2": "VE",
+            "name": "Venezuela"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 555897600
+        },
+        "position": "LF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 1,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 2,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.5
+        }
+      },
+      {
+        "player": {
+          "name": "James Outman",
+          "firstName": "James",
+          "lastName": "Outman",
+          "slug": "outman-james",
+          "shortName": "J. Outman",
+          "position": "CF",
+          "userCount": 2,
+          "id": 979455,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 863568000
+        },
+        "position": "CF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 2,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Will Smith",
+          "firstName": "William",
+          "lastName": "Smith",
+          "slug": "smith-will",
+          "shortName": "W. Smith",
+          "position": "C",
+          "userCount": 1,
+          "id": 977319,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 796348800
+        },
+        "position": "C",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 1,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 1,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 2,
+          "battingHitByPitch": 0,
+          "battingRbi": 2,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 2,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.5
+        }
+      },
+      {
+        "player": {
+          "name": "Jason Heyward",
+          "firstName": "Jason",
+          "lastName": "Heyward",
+          "slug": "heyward-jason",
+          "shortName": "J. Heyward",
+          "position": "RF",
+          "userCount": 1,
+          "id": 961145,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 618624000
+        },
+        "position": "RF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 3,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Miguel Rojas",
+          "firstName": "Miguel",
+          "lastName": "Rojas",
+          "slug": "rojas-miguel",
+          "shortName": "M. Rojas",
+          "position": "SS",
+          "userCount": 1,
+          "id": 961593,
+          "country": {
+            "alpha2": "VE",
+            "name": "Venezuela"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 604281600
+        },
+        "position": "SS",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 2,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.5
+        }
+      },
+      {
+        "player": {
+          "name": "Max Muncy",
+          "firstName": "Maxwell",
+          "lastName": "Muncy",
+          "slug": "muncy-max",
+          "shortName": "M. Muncy",
+          "position": "3B",
+          "userCount": 2,
+          "id": 961269,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 651542400
+        },
+        "position": "3B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 2,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 4,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Freddie Freeman",
+          "firstName": "Frederick",
+          "lastName": "Freeman",
+          "slug": "freeman-freddie",
+          "shortName": "F. Freeman",
+          "position": "1B",
+          "userCount": 5,
+          "id": 961444,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 621561600
+        },
+        "position": "1B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 1,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 2,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 2,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "George Sheehan",
+          "slug": "sheehan-george",
+          "shortName": "G. Sheehan",
+          "position": "P",
+          "userCount": 0,
+          "id": 1501605,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 942624000
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 3,
+          "pitchingHomeRuns": 1,
+          "pitchingStrikeOuts": 4,
+          "pitchingBaseOnBalls": 2,
+          "pitchingHits": 4,
+          "pitchingInningsPitched": 3.2,
+          "pitchingEarnedRuns": 3,
+          "pitchingBattersFaced": 18,
+          "pitchingOuts": 11,
+          "pitchingPitchesThrown": 71,
+          "pitchingStrikes": 48,
+          "pitchingEarnedRunsAverage": 7.364
+        }
+      },
+      {
+        "player": {
+          "name": "J.D. Martinez",
+          "firstName": "Julio",
+          "lastName": "Martinez",
+          "slug": "martinez-jd",
+          "shortName": "J. Martinez",
+          "position": "DH",
+          "userCount": 2,
+          "id": 960734,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 556502400
+        },
+        "position": "DH",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 2,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 1,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Shelby Miller",
+          "firstName": "Shelby",
+          "lastName": "Miller",
+          "slug": "miller-shelby",
+          "shortName": "S. Miller",
+          "position": "P",
+          "userCount": 0,
+          "id": 961337,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 655516800
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 0,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 3,
+          "pitchingBaseOnBalls": 0,
+          "pitchingHits": 1,
+          "pitchingInningsPitched": 2,
+          "pitchingEarnedRuns": 0,
+          "pitchingBattersFaced": 7,
+          "pitchingOuts": 6,
+          "pitchingPitchesThrown": 27,
+          "pitchingStrikes": 17,
+          "pitchingEarnedRunsAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Michael Grove",
+          "firstName": "Michael",
+          "lastName": "Grove",
+          "slug": "grove-michael",
+          "shortName": "M. Grove",
+          "position": "P",
+          "userCount": 0,
+          "id": 1105345,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 850867200
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 1,
+          "pitchingHomeRuns": 1,
+          "pitchingStrikeOuts": 1,
+          "pitchingBaseOnBalls": 0,
+          "pitchingHits": 1,
+          "pitchingInningsPitched": 1,
+          "pitchingEarnedRuns": 1,
+          "pitchingBattersFaced": 4,
+          "pitchingOuts": 3,
+          "pitchingPitchesThrown": 25,
+          "pitchingStrikes": 21,
+          "pitchingEarnedRunsAverage": 9
+        }
+      },
+      {
+        "player": {
+          "name": "Chris Taylor",
+          "firstName": "Christopher",
+          "lastName": "Taylor",
+          "slug": "taylor-chris",
+          "shortName": "C. Taylor",
+          "position": "SS",
+          "userCount": 1,
+          "id": 961276,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 651888000
+        },
+        "position": "SS",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 2,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Kike Hernandez",
+          "firstName": "Enrique",
+          "lastName": "Hernandez",
+          "slug": "hernandez-kike",
+          "shortName": "E. Hernandez",
+          "position": "SS",
+          "userCount": 1,
+          "id": 961272,
+          "country": {
+            "alpha2": "PR",
+            "name": "Puerto Rico"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 682992000
+        },
+        "position": "SS",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 1,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 2,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Alex Vesia",
+          "firstName": "Alexander",
+          "lastName": "Vesia",
+          "slug": "vesia-alex",
+          "shortName": "A. Vesia",
+          "position": "P",
+          "userCount": 0,
+          "id": 1021685,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 829180800
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 1,
+          "pitchingHomeRuns": 1,
+          "pitchingStrikeOuts": 1,
+          "pitchingBaseOnBalls": 0,
+          "pitchingHits": 1,
+          "pitchingInningsPitched": 1,
+          "pitchingEarnedRuns": 1,
+          "pitchingBattersFaced": 4,
+          "pitchingOuts": 3,
+          "pitchingPitchesThrown": 14,
+          "pitchingStrikes": 10,
+          "pitchingEarnedRunsAverage": 9
+        }
+      },
+      {
+        "player": {
+          "name": "Caleb Ferguson",
+          "firstName": "Caleb",
+          "lastName": "Ferguson",
+          "slug": "ferguson-caleb",
+          "shortName": "C. Ferguson",
+          "position": "P",
+          "userCount": 0,
+          "id": 961264,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 836265600
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 0,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 0,
+          "pitchingBaseOnBalls": 0,
+          "pitchingHits": 0,
+          "pitchingInningsPitched": 1,
+          "pitchingEarnedRuns": 0,
+          "pitchingBattersFaced": 3,
+          "pitchingOuts": 3,
+          "pitchingPitchesThrown": 10,
+          "pitchingStrikes": 7,
+          "pitchingEarnedRunsAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Kolten Wong",
+          "firstName": "Kolten",
+          "lastName": "Wong",
+          "slug": "wong-kolten",
+          "shortName": "K. Wong",
+          "position": "2B",
+          "userCount": 1,
+          "id": 961175,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 655516800
+        },
+        "position": "2B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 1,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "000080",
+      "outline": "ffffff",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Alek Thomas",
+          "firstName": "Alek",
+          "lastName": "Thomas",
+          "slug": "thomas-alek",
+          "shortName": "A. Thomas",
+          "position": "CF",
+          "userCount": 4,
+          "id": 979852,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 956880000
+        },
+        "position": "CF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 2,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 1,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 2,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 1,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.333
+        }
+      },
+      {
+        "player": {
+          "name": "Geraldo Perdomo",
+          "firstName": "Geraldo",
+          "lastName": "Perdomo",
+          "slug": "perdomo-geraldo",
+          "shortName": "G. Perdomo",
+          "position": "SS",
+          "userCount": 2,
+          "id": 979854,
+          "country": {
+            "alpha2": "DO",
+            "name": "Dominican Republic"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 940550400
+        },
+        "position": "SS",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 3,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 3,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Ketel Marte",
+          "firstName": "Ketel",
+          "lastName": "Marte",
+          "slug": "marte-ketel",
+          "shortName": "K. Marte",
+          "position": "2B",
+          "userCount": 2,
+          "id": 961345,
+          "country": {
+            "alpha2": "DO",
+            "name": "Dominican Republic"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 750384000
+        },
+        "position": "2B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 2,
+          "battingRuns": 1,
+          "battingDoubles": 1,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 2,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 5,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.2
+        }
+      },
+      {
+        "player": {
+          "name": "Corbin Carroll",
+          "firstName": "Corbin",
+          "lastName": "Carroll",
+          "slug": "carroll-corbin",
+          "shortName": "C. Carroll",
+          "position": "LF",
+          "userCount": 4,
+          "id": 1022942,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 966816000
+        },
+        "position": "LF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 2,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 1,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 2,
+          "battingHitByPitch": 0,
+          "battingRbi": 2,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 5,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.4
+        }
+      },
+      {
+        "player": {
+          "name": "Thomas Pham",
+          "firstName": "Thomas",
+          "lastName": "Pham",
+          "slug": "pham-thomas",
+          "shortName": "T. Pham",
+          "position": "LF",
+          "userCount": 1,
+          "id": 960809,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 573782400
+        },
+        "position": "LF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 1,
+          "battingGroundOuts": 0,
+          "battingRuns": 3,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 1,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 4,
+          "battingHitByPitch": 0,
+          "battingRbi": 1,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 5,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.8
+        }
+      },
+      {
+        "player": {
+          "name": "Merrill Kelly",
+          "firstName": "Kenneth",
+          "lastName": "Kelly",
+          "slug": "kelly-merrill",
+          "shortName": "M. Kelly",
+          "position": "P",
+          "userCount": 1,
+          "id": 976766,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 592790400
+        },
+        "position": "P",
+        "substitute": false,
+        "statistics": {
+          "pitchingRuns": 0,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 5,
+          "pitchingBaseOnBalls": 2,
+          "pitchingHits": 3,
+          "pitchingInningsPitched": 6.1,
+          "pitchingEarnedRuns": 0,
+          "pitchingBattersFaced": 24,
+          "pitchingOuts": 19,
+          "pitchingPitchesThrown": 89,
+          "pitchingStrikes": 59,
+          "pitchingEarnedRunsAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Gabriel Moreno",
+          "firstName": "Gabriel",
+          "lastName": "Moreno",
+          "slug": "moreno-gabriel",
+          "shortName": "G. Moreno",
+          "position": "C",
+          "userCount": 1,
+          "id": 1021468,
+          "country": {
+            "alpha2": "VE",
+            "name": "Venezuela"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 950486400
+        },
+        "position": "C",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 1,
+          "battingGroundOuts": 0,
+          "battingRuns": 1,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 1,
+          "battingStrikeOuts": 2,
+          "battingBaseOnBalls": 0,
+          "battingHits": 2,
+          "battingHitByPitch": 0,
+          "battingRbi": 3,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 5,
+          "battingLeftOnBase": 4,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.4
+        }
+      },
+      {
+        "player": {
+          "name": "Christian Walker",
+          "firstName": "Christian",
+          "lastName": "Walker",
+          "slug": "walker-christian",
+          "shortName": "C. Walker",
+          "position": "1B",
+          "userCount": 1,
+          "id": 961344,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 670118400
+        },
+        "position": "1B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 2,
+          "battingDoubles": 1,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 1,
+          "battingHits": 1,
+          "battingHitByPitch": 1,
+          "battingRbi": 1,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.333
+        }
+      },
+      {
+        "player": {
+          "name": "Lourdes Gurriel Jr.",
+          "firstName": "Lourdes",
+          "lastName": "Gurriel",
+          "slug": "gurriel-jr-lourdes",
+          "shortName": "L. Gurriel Jr.",
+          "position": "LF",
+          "userCount": 2,
+          "id": 960842,
+          "country": {
+            "alpha2": "CU",
+            "name": "Cuba"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 750211200
+        },
+        "position": "LF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 1,
+          "battingGroundOuts": 3,
+          "battingRuns": 0,
+          "battingDoubles": 1,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 1,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 5,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.2
+        }
+      },
+      {
+        "player": {
+          "name": "Evan Longoria",
+          "firstName": "Evan",
+          "lastName": "Longoria",
+          "slug": "longoria-evan",
+          "shortName": "E. Longoria",
+          "position": "3B",
+          "userCount": 0,
+          "id": 961380,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 497491200
+        },
+        "position": "3B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 1,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 1,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 2,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 1,
+          "battingAverage": 0.25
+        }
+      },
+      {
+        "player": {
+          "name": "Joe Mantiply",
+          "firstName": "Joseph",
+          "lastName": "Mantiply",
+          "slug": "mantiply-joe",
+          "shortName": "J. Mantiply",
+          "position": "P",
+          "userCount": 1,
+          "id": 991931,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 667785600
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 0,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 1,
+          "pitchingBaseOnBalls": 0,
+          "pitchingHits": 0,
+          "pitchingInningsPitched": 0.2,
+          "pitchingEarnedRuns": 0,
+          "pitchingBattersFaced": 2,
+          "pitchingOuts": 2,
+          "pitchingPitchesThrown": 7,
+          "pitchingStrikes": 4,
+          "pitchingEarnedRunsAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Luis Frias",
+          "firstName": "Luis",
+          "lastName": "Frias",
+          "slug": "frias-luis",
+          "shortName": "L. Frias",
+          "position": "P",
+          "userCount": 2,
+          "id": 1110371,
+          "country": {
+            "alpha2": "DO",
+            "name": "Dominican Republic"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 895881600
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 0,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 1,
+          "pitchingBaseOnBalls": 0,
+          "pitchingHits": 0,
+          "pitchingInningsPitched": 1,
+          "pitchingEarnedRuns": 0,
+          "pitchingBattersFaced": 3,
+          "pitchingOuts": 3,
+          "pitchingPitchesThrown": 9,
+          "pitchingStrikes": 7,
+          "pitchingEarnedRunsAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jose Herrera",
+          "firstName": "Jose",
+          "lastName": "Herrera",
+          "slug": "herrera-jose",
+          "shortName": "J. Herrera",
+          "position": "C",
+          "userCount": 1,
+          "id": 1023174,
+          "country": {
+            "alpha2": "VE",
+            "name": "Venezuela"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 856742400
+        },
+        "position": "C",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 0,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jace Peterson",
+          "firstName": "Jace",
+          "lastName": "Peterson",
+          "slug": "peterson-jace",
+          "shortName": "J. Peterson",
+          "position": "3B",
+          "userCount": 1,
+          "id": 960878,
+          "country": {
+            "alpha2": "US",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 642211200
+        },
+        "position": "3B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 0,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Miguel Castro",
+          "firstName": "Miguel",
+          "lastName": "Castro",
+          "slug": "castro-miguel",
+          "shortName": "M. Castro",
+          "position": "P",
+          "userCount": 1,
+          "id": 960863,
+          "country": {
+            "alpha2": "DO",
+            "name": "Dominican Republic"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 788227200
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 2,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 1,
+          "pitchingBaseOnBalls": 2,
+          "pitchingHits": 1,
+          "pitchingInningsPitched": 1,
+          "pitchingEarnedRuns": 2,
+          "pitchingBattersFaced": 6,
+          "pitchingOuts": 3,
+          "pitchingPitchesThrown": 27,
+          "pitchingStrikes": 14,
+          "pitchingEarnedRunsAverage": 18
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "000000",
+      "outline": "ffffff",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    }
+  }
+}

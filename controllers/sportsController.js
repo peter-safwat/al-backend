@@ -39,11 +39,6 @@ exports.getMatchByTeamNames = catchAsync(async (req, res) => {
     .populate("servers")
     .populate("customAPI")
     .exec();
-  // const result = await Sport.findOne(findQuery)
-  // .populate("servers customApi")
-  // .exec();
-
-  console.dir(result);
   res.status(200).json({
     status: "success",
     data: {
@@ -286,3 +281,7 @@ exports.getAllSports = catchAsync(async (req, res, next) => {
 });
 exports.createCustomAPI = factory.createOne(CustomAPI);
 exports.updateCustomAPI = factory.updateOne(CustomAPI);
+exports.test = (req, res, next) => {
+  console.dir(req.body);
+  next();
+};

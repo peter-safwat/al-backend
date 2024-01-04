@@ -11,7 +11,7 @@ router.route("/teamNames").get(sportsController.getMatchByTeamNames);
 router
   .route("/customAPI")
   .post(sportsController.createCustomAPI)
-  .patch(sportsController.updateCustomAPI)
+  .patch(sportsController.updateCustomAPI);
 
 router
   .route("/")
@@ -25,6 +25,7 @@ router
     sportsController.uploadEventImages,
     sportsController.handleNewFiles,
     sportsController.makeFileWillHoldStats,
+    sportsController.test,
     sportsController.createSport
   )
   .delete(
@@ -54,10 +55,14 @@ router
   );
 router
   .route("/eventAPIData/lineups")
-  .get(ServreAPIDataController.gitEventLineups);
+  .get(ServreAPIDataController.gitEventData);
 
 router
   .route("/eventAPIData/statistics")
-  .get(ServreAPIDataController.gitEventStatistics);
+  .get(ServreAPIDataController.gitEventData);
+
+router
+  .route("/eventAPIData/event")
+  .get( ServreAPIDataController.gitEventData);
 
 module.exports = router;

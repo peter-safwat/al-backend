@@ -95,7 +95,7 @@ app.use((req, res, next) => {
 //   EventsLiveDataController.gitFootballLiveMatchesData
 // );
 // cron.schedule(
-//   "*/3 * * * * *",
+//   "*/10 * * * * *",
 //   EventsLiveDataController.gitOtherSportsLiveMatchesData
 // );
 

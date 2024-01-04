@@ -5,8 +5,10 @@ const path = require("path");
 const catchAsync = require("../utils/catchAsync");
 
 exports.gitEventLineups = catchAsync(async (req, res, next) => {
+  console.log("1");
+  console.log("1");
+  console.log("1");
   const { matchId, sportCategory, eventDate } = req.query;
-  console.log(matchId, sportCategory);
   const formattedDate = eventDate.split("T")[0];
   const category = sportCategory === "football" ? "Football" : "Others";
   const folderPath = path.join(
@@ -37,8 +39,10 @@ exports.gitEventLineups = catchAsync(async (req, res, next) => {
   });
 });
 exports.gitEventStatistics = catchAsync(async (req, res, next) => {
+  console.log("2");
+  console.log("2");
+  console.log("2");
   const { matchId, sportCategory, eventDate } = req.query;
-  console.log(matchId, sportCategory);
   const formattedDate = eventDate.split("T")[0];
   const category = sportCategory === "football" ? "Football" : "Others";
   const folderPath = path.join(
@@ -54,6 +58,47 @@ exports.gitEventStatistics = catchAsync(async (req, res, next) => {
     return res.status(200).json({
       status: "success",
       data: null,
+    });
+  }
+  const fileList = await fsPromise.readdir(folderPath);
+
+  const requiredFile = fileList.find((fileName) => {
+    const [, eventId, timestamp] = fileName.match(/(\d+)-(\d+)\.json/) || [];
+    return eventId && timestamp && matchId === eventId;
+  });
+
+  const filePath = path.join(folderPath, requiredFile);
+  const fileContent = fs.readFileSync(filePath, "utf8");
+
+  // Parse the JSON content
+  const jsonData = JSON.parse(fileContent);
+  res.status(200).json({
+    status: "success",
+    data: jsonData,
+  });
+});
+exports.gitEventData = catchAsync(async (req, res, next) => {
+  console.log("3");
+  console.log("3");
+  console.log("3");
+
+  const { matchId, sportCategory, eventDate, dataType } = req.query;
+  const formattedDate = eventDate.split("T")[0];
+  const category = sportCategory === "football" ? "Football" : "Others";
+  const folderPath = path.join(
+    __dirname,
+    "../",
+    "APIdata",
+    "Matches",
+    category,
+    dataType,
+    formattedDate
+  );
+  if (!fs.existsSync(folderPath)) {
+    return res.status(200).json({
+      status: "success",
+      data: null,
+      folderPath: folderPath,
     });
   }
   const fileList = await fsPromise.readdir(folderPath);
