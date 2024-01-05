@@ -1,23 +1,23 @@
 [
   {
     "fixture": {
-      "id": 1126379,
+      "id": 1149542,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-12-06T19:00:00+00:00",
-      "timestamp": 1701889200,
+      "date": "2024-02-15T17:45:00+00:00",
+      "timestamp": 1708019100,
       "periods": {
         "first": null,
         "second": null
       },
       "venue": {
-        "id": 1498,
-        "name": "Estadio de la Cerámica",
-        "city": "Villarreal"
+        "id": 1128,
+        "name": "Stadion Feijenoord",
+        "city": "Rotterdam"
       },
       "status": {
-        "long": "Time to be defined",
-        "short": "TBD",
+        "long": "Not Started",
+        "short": "NS",
         "elapsed": null
       }
     },
@@ -25,22 +25,22 @@
       "id": 3,
       "name": "UEFA Europa League",
       "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
+      "logo": "https://media.api-sports.io/football/leagues/3.png",
       "flag": null,
       "season": 2023,
-      "round": "Group Stage - 3"
+      "round": "Knockout Round Play-offs"
     },
     "teams": {
       "home": {
-        "id": 533,
-        "name": "Villarreal",
-        "logo": "https://media-4.api-sports.io/football/teams/533.png",
+        "id": 209,
+        "name": "Feyenoord",
+        "logo": "https://media.api-sports.io/football/teams/209.png",
         "winner": null
       },
       "away": {
-        "id": 4195,
-        "name": "Maccabi Haifa",
-        "logo": "https://media-4.api-sports.io/football/teams/4195.png",
+        "id": 497,
+        "name": "AS Roma",
+        "logo": "https://media.api-sports.io/football/teams/497.png",
         "winner": null
       }
     },
@@ -69,19 +69,19 @@
   },
   {
     "fixture": {
-      "id": 1126400,
+      "id": 1149544,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-11-30T17:45:00+00:00",
-      "timestamp": 1701366300,
+      "date": "2024-02-15T17:45:00+00:00",
+      "timestamp": 1708019100,
       "periods": {
         "first": null,
         "second": null
       },
       "venue": {
-        "id": 12717,
-        "name": "Europa-Park Stadion",
-        "city": "Freiburg im Breisgau"
+        "id": 10500,
+        "name": "Stadion Wankdorf",
+        "city": "Bern"
       },
       "status": {
         "long": "Not Started",
@@ -93,294 +93,22 @@
       "id": 3,
       "name": "UEFA Europa League",
       "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
+      "logo": "https://media.api-sports.io/football/leagues/3.png",
       "flag": null,
       "season": 2023,
-      "round": "Group Stage - 5"
+      "round": "Knockout Round Play-offs"
     },
     "teams": {
       "home": {
-        "id": 160,
-        "name": "SC Freiburg",
-        "logo": "https://media-4.api-sports.io/football/teams/160.png",
-        "winner": null
-      },
-      "away": {
-        "id": 553,
-        "name": "Olympiakos Piraeus",
-        "logo": "https://media-4.api-sports.io/football/teams/553.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126401,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T17:45:00+00:00",
-      "timestamp": 1701366300,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 18679,
-        "name": "TSC Arena",
-        "city": "Bačka Topola"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 2646,
-        "name": "TSC Backa Topola",
-        "logo": "https://media-4.api-sports.io/football/teams/2646.png",
-        "winner": null
-      },
-      "away": {
-        "id": 48,
-        "name": "West Ham",
-        "logo": "https://media-4.api-sports.io/football/teams/48.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126402,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T17:45:00+00:00",
-      "timestamp": 1701366300,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": null,
-        "name": "OPAP Arena",
-        "city": "Athens"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 575,
-        "name": "AEK Athens FC",
-        "logo": "https://media-4.api-sports.io/football/teams/575.png",
-        "winner": null
-      },
-      "away": {
-        "id": 51,
-        "name": "Brighton",
-        "logo": "https://media-4.api-sports.io/football/teams/51.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126403,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T17:45:00+00:00",
-      "timestamp": 1701366300,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 19513,
-        "name": "epet ARENA",
-        "city": "Praha"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 628,
-        "name": "Sparta Praha",
-        "logo": "https://media-4.api-sports.io/football/teams/628.png",
-        "winner": null
-      },
-      "away": {
-        "id": 543,
-        "name": "Real Betis",
-        "logo": "https://media-4.api-sports.io/football/teams/543.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126404,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T17:45:00+00:00",
-      "timestamp": 1701366300,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 879,
-        "name": "Gewiss Stadium",
-        "city": "Bergamo"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 499,
-        "name": "Atalanta",
-        "logo": "https://media-4.api-sports.io/football/teams/499.png",
+        "id": 565,
+        "name": "BSC Young Boys",
+        "logo": "https://media.api-sports.io/football/teams/565.png",
         "winner": null
       },
       "away": {
         "id": 228,
         "name": "Sporting CP",
-        "logo": "https://media-4.api-sports.io/football/teams/228.png",
+        "logo": "https://media.api-sports.io/football/teams/228.png",
         "winner": null
       }
     },
@@ -409,19 +137,19 @@
   },
   {
     "fixture": {
-      "id": 1126405,
+      "id": 1149546,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-11-30T17:45:00+00:00",
-      "timestamp": 1701366300,
+      "date": "2024-02-15T17:45:00+00:00",
+      "timestamp": 1708019100,
       "periods": {
         "first": null,
         "second": null
       },
       "venue": {
-        "id": 150,
-        "name": "Merkur Arena",
-        "city": "Graz"
+        "id": 19941,
+        "name": "Rams Global Stadium",
+        "city": "İstanbul"
       },
       "status": {
         "long": "Not Started",
@@ -433,1654 +161,22 @@
       "id": 3,
       "name": "UEFA Europa League",
       "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
+      "logo": "https://media.api-sports.io/football/leagues/3.png",
       "flag": null,
       "season": 2023,
-      "round": "Group Stage - 5"
+      "round": "Knockout Round Play-offs"
     },
     "teams": {
       "home": {
-        "id": 637,
-        "name": "Sturm Graz",
-        "logo": "https://media-4.api-sports.io/football/teams/637.png",
-        "winner": null
-      },
-      "away": {
-        "id": 3491,
-        "name": "Raków Częstochowa",
-        "logo": "https://media-4.api-sports.io/football/teams/3491.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126406,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T17:45:00+00:00",
-      "timestamp": 1701366300,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 19605,
-        "name": "Puskás Aréna",
-        "city": "Budapest"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 4195,
-        "name": "Maccabi Haifa",
-        "logo": "https://media-4.api-sports.io/football/teams/4195.png",
-        "winner": null
-      },
-      "away": {
-        "id": 94,
-        "name": "Rennes",
-        "logo": "https://media-4.api-sports.io/football/teams/94.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126407,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T20:00:00+00:00",
-      "timestamp": 1701374400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 12678,
-        "name": "Stade Orange Vélodrome",
-        "city": "Marseille"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 81,
-        "name": "Marseille",
-        "logo": "https://media-4.api-sports.io/football/teams/81.png",
-        "winner": null
-      },
-      "away": {
-        "id": 194,
-        "name": "Ajax",
-        "logo": "https://media-4.api-sports.io/football/teams/194.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126408,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T20:00:00+00:00",
-      "timestamp": 1701374400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 1401,
-        "name": "Ibrox Stadium",
-        "city": "Glasgow"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 257,
-        "name": "Rangers",
-        "logo": "https://media-4.api-sports.io/football/teams/257.png",
-        "winner": null
-      },
-      "away": {
-        "id": 3408,
-        "name": "Aris",
-        "logo": "https://media-4.api-sports.io/football/teams/3408.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126409,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T20:00:00+00:00",
-      "timestamp": 1701374400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 550,
-        "name": "Anfield",
-        "city": "Liverpool"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 40,
-        "name": "Liverpool",
-        "logo": "https://media-4.api-sports.io/football/teams/40.png",
-        "winner": null
-      },
-      "away": {
-        "id": 1026,
-        "name": "Lask Linz",
-        "logo": "https://media-4.api-sports.io/football/teams/1026.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126410,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T20:00:00+00:00",
-      "timestamp": 1701374400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 682,
-        "name": "Stadium de Toulouse",
-        "city": "Toulouse"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 96,
-        "name": "Toulouse",
-        "logo": "https://media-4.api-sports.io/football/teams/96.png",
-        "winner": null
-      },
-      "away": {
-        "id": 1393,
-        "name": "Union St. Gilloise",
-        "logo": "https://media-4.api-sports.io/football/teams/1393.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126411,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T20:00:00+00:00",
-      "timestamp": 1701374400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 1498,
-        "name": "Estadio de la Cerámica",
-        "city": "Villarreal"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 533,
-        "name": "Villarreal",
-        "logo": "https://media-4.api-sports.io/football/teams/533.png",
-        "winner": null
-      },
-      "away": {
-        "id": 617,
-        "name": "Panathinaikos",
-        "logo": "https://media-4.api-sports.io/football/teams/617.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126412,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T20:00:00+00:00",
-      "timestamp": 1701374400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": null,
-        "name": "Stade de Genève",
-        "city": "Lancy"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 2184,
-        "name": "Servette FC",
-        "logo": "https://media-4.api-sports.io/football/teams/2184.png",
-        "winner": null
-      },
-      "away": {
-        "id": 497,
-        "name": "AS Roma",
-        "logo": "https://media-4.api-sports.io/football/teams/497.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126413,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T20:00:00+00:00",
-      "timestamp": 1701374400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 1093,
-        "name": "Bolshaya Sportivnaya Arena",
-        "city": "Tiraspol"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 568,
-        "name": "Sheriff Tiraspol",
-        "logo": "https://media-4.api-sports.io/football/teams/568.png",
-        "winner": null
-      },
-      "away": {
-        "id": 560,
-        "name": "Slavia Praha",
-        "logo": "https://media-4.api-sports.io/football/teams/560.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126414,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T20:00:00+00:00",
-      "timestamp": 1701374400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 1184,
-        "name": "Aker Stadion",
-        "city": "Molde"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 329,
-        "name": "Molde",
-        "logo": "https://media-4.api-sports.io/football/teams/329.png",
-        "winner": null
-      },
-      "away": {
-        "id": 556,
-        "name": "Qarabag",
-        "logo": "https://media-4.api-sports.io/football/teams/556.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126415,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-11-30T20:00:00+00:00",
-      "timestamp": 1701374400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 1514,
-        "name": "Nya Ullevi",
-        "city": "Göteborg"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 5"
-    },
-    "teams": {
-      "home": {
-        "id": 367,
-        "name": "BK Hacken",
-        "logo": "https://media-4.api-sports.io/football/teams/367.png",
-        "winner": null
-      },
-      "away": {
-        "id": 168,
-        "name": "Bayer Leverkusen",
-        "logo": "https://media-4.api-sports.io/football/teams/168.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126416,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T17:45:00+00:00",
-      "timestamp": 1702575900,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": null,
-        "name": "Lotto Park",
-        "city": "Brussel"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 1393,
-        "name": "Union St. Gilloise",
-        "logo": "https://media-4.api-sports.io/football/teams/1393.png",
-        "winner": null
-      },
-      "away": {
-        "id": 40,
-        "name": "Liverpool",
-        "logo": "https://media-4.api-sports.io/football/teams/40.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126417,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T17:45:00+00:00",
-      "timestamp": 1702575900,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": null,
-        "name": "Raiffeisen Arena",
-        "city": "Linz"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 1026,
-        "name": "Lask Linz",
-        "logo": "https://media-4.api-sports.io/football/teams/1026.png",
-        "winner": null
-      },
-      "away": {
-        "id": 96,
-        "name": "Toulouse",
-        "logo": "https://media-4.api-sports.io/football/teams/96.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126418,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T17:45:00+00:00",
-      "timestamp": 1702575900,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 680,
-        "name": "Roazhon Park",
-        "city": "Rennes"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 94,
-        "name": "Rennes",
-        "logo": "https://media-4.api-sports.io/football/teams/94.png",
-        "winner": null
-      },
-      "away": {
-        "id": 533,
-        "name": "Villarreal",
-        "logo": "https://media-4.api-sports.io/football/teams/533.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126419,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T17:45:00+00:00",
-      "timestamp": 1702575900,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": null,
-        "name": "Olympiako Stadio Spyros Louis",
-        "city": "Athens"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 617,
-        "name": "Panathinaikos",
-        "logo": "https://media-4.api-sports.io/football/teams/617.png",
-        "winner": null
-      },
-      "away": {
-        "id": 4195,
-        "name": "Maccabi Haifa",
-        "logo": "https://media-4.api-sports.io/football/teams/4195.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126420,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T17:45:00+00:00",
-      "timestamp": 1702575900,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 910,
-        "name": "Stadio Olimpico",
-        "city": "Roma"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 497,
-        "name": "AS Roma",
-        "logo": "https://media-4.api-sports.io/football/teams/497.png",
-        "winner": null
-      },
-      "away": {
-        "id": 568,
-        "name": "Sheriff Tiraspol",
-        "logo": "https://media-4.api-sports.io/football/teams/568.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126421,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T17:45:00+00:00",
-      "timestamp": 1702575900,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 18856,
-        "name": "Fortuna Arena",
-        "city": "Praha"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 560,
-        "name": "Slavia Praha",
-        "logo": "https://media-4.api-sports.io/football/teams/560.png",
-        "winner": null
-      },
-      "away": {
-        "id": 2184,
-        "name": "Servette FC",
-        "logo": "https://media-4.api-sports.io/football/teams/2184.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126422,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T17:45:00+00:00",
-      "timestamp": 1702575900,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 699,
-        "name": "BayArena",
-        "city": "Leverkusen"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 168,
-        "name": "Bayer Leverkusen",
-        "logo": "https://media-4.api-sports.io/football/teams/168.png",
-        "winner": null
-      },
-      "away": {
-        "id": 329,
-        "name": "Molde",
-        "logo": "https://media-4.api-sports.io/football/teams/329.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126423,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T17:45:00+00:00",
-      "timestamp": 1702575900,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 5799,
-        "name": "Tofiq Bəhramov adına Respublika stadionu",
-        "city": "Baku"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 556,
-        "name": "Qarabag",
-        "logo": "https://media-4.api-sports.io/football/teams/556.png",
-        "winner": null
-      },
-      "away": {
-        "id": 367,
-        "name": "BK Hacken",
-        "logo": "https://media-4.api-sports.io/football/teams/367.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126424,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T20:00:00+00:00",
-      "timestamp": 1702584000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 598,
-        "name": "London Stadium",
-        "city": "London"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 48,
-        "name": "West Ham",
-        "logo": "https://media-4.api-sports.io/football/teams/48.png",
-        "winner": null
-      },
-      "away": {
-        "id": 160,
-        "name": "SC Freiburg",
-        "logo": "https://media-4.api-sports.io/football/teams/160.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126425,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T20:00:00+00:00",
-      "timestamp": 1702584000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": null,
-        "name": "Stadio Georgios Karaiskáki",
-        "city": "Piraeus"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 553,
-        "name": "Olympiakos Piraeus",
-        "logo": "https://media-4.api-sports.io/football/teams/553.png",
-        "winner": null
-      },
-      "away": {
-        "id": 2646,
-        "name": "TSC Backa Topola",
-        "logo": "https://media-4.api-sports.io/football/teams/2646.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126426,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T20:00:00+00:00",
-      "timestamp": 1702584000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 1117,
-        "name": "Johan Cruijff Arena",
-        "city": "Amsterdam"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 194,
-        "name": "Ajax",
-        "logo": "https://media-4.api-sports.io/football/teams/194.png",
-        "winner": null
-      },
-      "away": {
-        "id": 575,
-        "name": "AEK Athens FC",
-        "logo": "https://media-4.api-sports.io/football/teams/575.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126427,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T20:00:00+00:00",
-      "timestamp": 1702584000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 508,
-        "name": "The American Express Community Stadium",
-        "city": "Falmer, East Sussex"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 51,
-        "name": "Brighton",
-        "logo": "https://media-4.api-sports.io/football/teams/51.png",
-        "winner": null
-      },
-      "away": {
-        "id": 81,
-        "name": "Marseille",
-        "logo": "https://media-4.api-sports.io/football/teams/81.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126428,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T20:00:00+00:00",
-      "timestamp": 1702584000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 1489,
-        "name": "Estadio Benito Villamarín",
-        "city": "Sevilla"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 543,
-        "name": "Real Betis",
-        "logo": "https://media-4.api-sports.io/football/teams/543.png",
-        "winner": null
-      },
-      "away": {
-        "id": 257,
-        "name": "Rangers",
-        "logo": "https://media-4.api-sports.io/football/teams/257.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1126429,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-14T20:00:00+00:00",
-      "timestamp": 1702584000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 19616,
-        "name": "Alphamega Stadium",
-        "city": "Kolossi"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 3,
-      "name": "UEFA Europa League",
-      "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
-      "flag": null,
-      "season": 2023,
-      "round": "Group Stage - 6"
-    },
-    "teams": {
-      "home": {
-        "id": 3408,
-        "name": "Aris",
-        "logo": "https://media-4.api-sports.io/football/teams/3408.png",
+        "id": 645,
+        "name": "Galatasaray",
+        "logo": "https://media.api-sports.io/football/teams/645.png",
         "winner": null
       },
       "away": {
         "id": 628,
         "name": "Sparta Praha",
-        "logo": "https://media-4.api-sports.io/football/teams/628.png",
+        "logo": "https://media.api-sports.io/football/teams/628.png",
         "winner": null
       }
     },
@@ -2109,18 +205,222 @@
   },
   {
     "fixture": {
-      "id": 1126430,
+      "id": 1149548,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-12-14T20:00:00+00:00",
-      "timestamp": 1702584000,
+      "date": "2024-02-15T17:45:00+00:00",
+      "timestamp": 1708019100,
       "periods": {
         "first": null,
         "second": null
       },
       "venue": {
-        "id": 1293,
-        "name": "Estádio José Alvalade",
+        "id": 720,
+        "name": "Volksparkstadion",
+        "city": "Hamburg"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 3,
+      "name": "UEFA Europa League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/3.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Knockout Round Play-offs"
+    },
+    "teams": {
+      "home": {
+        "id": 550,
+        "name": "Shakhtar Donetsk",
+        "logo": "https://media.api-sports.io/football/teams/550.png",
+        "winner": null
+      },
+      "away": {
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media.api-sports.io/football/teams/81.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1149550,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-02-15T20:00:00+00:00",
+      "timestamp": 1708027200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 907,
+        "name": "Stadio Giuseppe Meazza",
+        "city": "Milano"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 3,
+      "name": "UEFA Europa League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/3.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Knockout Round Play-offs"
+    },
+    "teams": {
+      "home": {
+        "id": 489,
+        "name": "AC Milan",
+        "logo": "https://media.api-sports.io/football/teams/489.png",
+        "winner": null
+      },
+      "away": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media.api-sports.io/football/teams/94.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1149552,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-02-15T20:00:00+00:00",
+      "timestamp": 1708027200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 654,
+        "name": "Stade Bollaert-Delelis",
+        "city": "Lens"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 3,
+      "name": "UEFA Europa League",
+      "country": "World",
+      "logo": "https://media.api-sports.io/football/leagues/3.png",
+      "flag": null,
+      "season": 2023,
+      "round": "Knockout Round Play-offs"
+    },
+    "teams": {
+      "home": {
+        "id": 116,
+        "name": "Lens",
+        "logo": "https://media.api-sports.io/football/teams/116.png",
+        "winner": null
+      },
+      "away": {
+        "id": 160,
+        "name": "SC Freiburg",
+        "logo": "https://media.api-sports.io/football/teams/160.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1149554,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-02-15T20:00:00+00:00",
+      "timestamp": 1708027200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": null,
+        "name": "Estádio do Sport Lisboa e Benfica",
         "city": "Lisboa"
       },
       "status": {
@@ -2133,22 +433,22 @@
       "id": 3,
       "name": "UEFA Europa League",
       "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
+      "logo": "https://media.api-sports.io/football/leagues/3.png",
       "flag": null,
       "season": 2023,
-      "round": "Group Stage - 6"
+      "round": "Knockout Round Play-offs"
     },
     "teams": {
       "home": {
-        "id": 228,
-        "name": "Sporting CP",
-        "logo": "https://media-4.api-sports.io/football/teams/228.png",
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png",
         "winner": null
       },
       "away": {
-        "id": 637,
-        "name": "Sturm Graz",
-        "logo": "https://media-4.api-sports.io/football/teams/637.png",
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media.api-sports.io/football/teams/96.png",
         "winner": null
       }
     },
@@ -2177,19 +477,19 @@
   },
   {
     "fixture": {
-      "id": 1126431,
+      "id": 1149556,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-12-14T20:00:00+00:00",
-      "timestamp": 1702584000,
+      "date": "2024-02-15T20:00:00+00:00",
+      "timestamp": 1708027200,
       "periods": {
         "first": null,
         "second": null
       },
       "venue": {
-        "id": 19931,
-        "name": "ArcelorMittal Park",
-        "city": "Sosnowiec"
+        "id": 1291,
+        "name": "Estádio Municipal de Braga",
+        "city": "Braga"
       },
       "status": {
         "long": "Not Started",
@@ -2201,22 +501,22 @@
       "id": 3,
       "name": "UEFA Europa League",
       "country": "World",
-      "logo": "https://media-4.api-sports.io/football/leagues/3.png",
+      "logo": "https://media.api-sports.io/football/leagues/3.png",
       "flag": null,
       "season": 2023,
-      "round": "Group Stage - 6"
+      "round": "Knockout Round Play-offs"
     },
     "teams": {
       "home": {
-        "id": 3491,
-        "name": "Raków Częstochowa",
-        "logo": "https://media-4.api-sports.io/football/teams/3491.png",
+        "id": 217,
+        "name": "SC Braga",
+        "logo": "https://media.api-sports.io/football/teams/217.png",
         "winner": null
       },
       "away": {
-        "id": 499,
-        "name": "Atalanta",
-        "logo": "https://media-4.api-sports.io/football/teams/499.png",
+        "id": 556,
+        "name": "Qarabag",
+        "logo": "https://media.api-sports.io/football/teams/556.png",
         "winner": null
       }
     },

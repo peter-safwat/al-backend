@@ -57,13 +57,6 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 // app.use(cors());
 app.use(bodyParser.json());
-app.use(
-  cors({
-    origin: ["*"],
-    methods: ["GET", "POST", "PATCH", "DELETE"],
-    allowedHeaders: ["Content-Type", "Authorization"],
-  })
-);
 
 // Data sanitization against NoSQL query injection
 app.use(mongoSanitize());
@@ -99,6 +92,13 @@ cron.schedule(
 //   EventsLiveDataController.gitOtherSportsLiveMatchesData
 // );
 
+app.use(
+  cors({
+    origin: ["http://localhost:3000", "https://aj-umber.vercel.app"],
+    methods: ["GET", "POST", "PATCH", "DELETE"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
 // 3) ROUTES
 
 app.use("/api/users", userRouter);
