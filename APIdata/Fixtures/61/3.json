@@ -1,283 +1,11 @@
 [
   {
     "fixture": {
-      "id": 1044963,
-      "referee": "F. Letexier",
-      "timezone": "UTC",
-      "date": "2023-12-06T20:00:00+00:00",
-      "timestamp": 1701892800,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 12678,
-        "name": "Stade Orange Vélodrome",
-        "city": "Marseille"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 10"
-    },
-    "teams": {
-      "home": {
-        "id": 81,
-        "name": "Marseille",
-        "logo": "https://media-4.api-sports.io/football/teams/81.png",
-        "winner": null
-      },
-      "away": {
-        "id": 80,
-        "name": "Lyon",
-        "logo": "https://media-4.api-sports.io/football/teams/80.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044988,
+      "id": 1045034,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-12-07T19:30:00+00:00",
-      "timestamp": 1701977400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 641,
-        "name": "Stade Francis-Le Blé",
-        "city": "Brest"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 12"
-    },
-    "teams": {
-      "home": {
-        "id": 106,
-        "name": "Stade Brestois 29",
-        "logo": "https://media-4.api-sports.io/football/teams/106.png",
-        "winner": null
-      },
-      "away": {
-        "id": 95,
-        "name": "Strasbourg",
-        "logo": "https://media-4.api-sports.io/football/teams/95.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044989,
-      "referee": "B. Bastien",
-      "timezone": "UTC",
-      "date": "2023-11-24T20:00:00+00:00",
-      "timestamp": 1700856000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 671,
-        "name": "Parc des Princes",
-        "city": "Paris"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 13"
-    },
-    "teams": {
-      "home": {
-        "id": 85,
-        "name": "Paris Saint Germain",
-        "logo": "https://media-4.api-sports.io/football/teams/85.png",
-        "winner": null
-      },
-      "away": {
-        "id": 91,
-        "name": "Monaco",
-        "logo": "https://media-4.api-sports.io/football/teams/91.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044990,
-      "referee": "J. Brisard",
-      "timezone": "UTC",
-      "date": "2023-11-25T20:00:00+00:00",
-      "timestamp": 1700942400,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 681,
-        "name": "Stade de la Meinau",
-        "city": "Strasbourg"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 13"
-    },
-    "teams": {
-      "home": {
-        "id": 95,
-        "name": "Strasbourg",
-        "logo": "https://media-4.api-sports.io/football/teams/95.png",
-        "winner": null
-      },
-      "away": {
-        "id": 81,
-        "name": "Marseille",
-        "logo": "https://media-4.api-sports.io/football/teams/81.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044991,
-      "referee": "R. Buquet",
-      "timezone": "UTC",
-      "date": "2023-11-26T16:05:00+00:00",
-      "timestamp": 1701014700,
+      "date": "2024-01-13T20:00:00+00:00",
+      "timestamp": 1705176000,
       "periods": {
         "first": null,
         "second": null
@@ -297,226 +25,22 @@
       "id": 61,
       "name": "Ligue 1",
       "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
       "season": 2023,
-      "round": "Regular Season - 13"
+      "round": "Regular Season - 18"
     },
     "teams": {
       "home": {
         "id": 94,
         "name": "Rennes",
-        "logo": "https://media-4.api-sports.io/football/teams/94.png",
+        "logo": "https://media.api-sports.io/football/teams/94.png",
         "winner": null
       },
       "away": {
-        "id": 93,
-        "name": "Reims",
-        "logo": "https://media-4.api-sports.io/football/teams/93.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044992,
-      "referee": "J. Pignard",
-      "timezone": "UTC",
-      "date": "2023-11-26T14:00:00+00:00",
-      "timestamp": 1701007200,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 656,
-        "name": "Stade Yves Allainmat - Le Moustoir",
-        "city": "Lorient"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 13"
-    },
-    "teams": {
-      "home": {
-        "id": 97,
-        "name": "Lorient",
-        "logo": "https://media-4.api-sports.io/football/teams/97.png",
-        "winner": null
-      },
-      "away": {
-        "id": 112,
-        "name": "Metz",
-        "logo": "https://media-4.api-sports.io/football/teams/112.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044993,
-      "referee": "E. Wattellier",
-      "timezone": "UTC",
-      "date": "2023-11-26T19:45:00+00:00",
-      "timestamp": 1701027900,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 666,
-        "name": "Groupama Stadium",
-        "city": "Décines-Charpieu"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 13"
-    },
-    "teams": {
-      "home": {
-        "id": 80,
-        "name": "Lyon",
-        "logo": "https://media-4.api-sports.io/football/teams/80.png",
-        "winner": null
-      },
-      "away": {
-        "id": 79,
-        "name": "Lille",
-        "logo": "https://media-4.api-sports.io/football/teams/79.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044994,
-      "referee": "F. Letexier",
-      "timezone": "UTC",
-      "date": "2023-11-26T12:00:00+00:00",
-      "timestamp": 1701000000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 663,
-        "name": "Allianz Riviera",
-        "city": "Nice"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 13"
-    },
-    "teams": {
-      "home": {
         "id": 84,
         "name": "Nice",
-        "logo": "https://media-4.api-sports.io/football/teams/84.png",
-        "winner": null
-      },
-      "away": {
-        "id": 96,
-        "name": "Toulouse",
-        "logo": "https://media-4.api-sports.io/football/teams/96.png",
+        "logo": "https://media.api-sports.io/football/teams/84.png",
         "winner": null
       }
     },
@@ -545,290 +69,18 @@
   },
   {
     "fixture": {
-      "id": 1044995,
-      "referee": "B. Millot",
-      "timezone": "UTC",
-      "date": "2023-11-25T16:00:00+00:00",
-      "timestamp": 1700928000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 644,
-        "name": "Stade Gabriel Montpied",
-        "city": "Clermont-Ferrand"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 13"
-    },
-    "teams": {
-      "home": {
-        "id": 99,
-        "name": "Clermont Foot",
-        "logo": "https://media-4.api-sports.io/football/teams/99.png",
-        "winner": null
-      },
-      "away": {
-        "id": 116,
-        "name": "Lens",
-        "logo": "https://media-4.api-sports.io/football/teams/116.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044996,
+      "id": 1045035,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-11-26T14:00:00+00:00",
-      "timestamp": 1701007200,
+      "date": "2024-01-12T20:00:00+00:00",
+      "timestamp": 1705089600,
       "periods": {
         "first": null,
         "second": null
       },
       "venue": {
-        "id": 662,
-        "name": "Stade de la Beaujoire - Louis Fonteneau",
-        "city": "Nantes"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 13"
-    },
-    "teams": {
-      "home": {
-        "id": 83,
-        "name": "Nantes",
-        "logo": "https://media-4.api-sports.io/football/teams/83.png",
-        "winner": null
-      },
-      "away": {
-        "id": 111,
-        "name": "LE Havre",
-        "logo": "https://media-4.api-sports.io/football/teams/111.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044997,
-      "referee": "P. Gaillouste",
-      "timezone": "UTC",
-      "date": "2023-11-26T14:00:00+00:00",
-      "timestamp": 1701007200,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 20107,
-        "name": "Stade de la Mosson-Mondial 98",
-        "city": "Montpellier"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 13"
-    },
-    "teams": {
-      "home": {
-        "id": 82,
-        "name": "Montpellier",
-        "logo": "https://media-4.api-sports.io/football/teams/82.png",
-        "winner": null
-      },
-      "away": {
-        "id": 106,
-        "name": "Stade Brestois 29",
-        "logo": "https://media-4.api-sports.io/football/teams/106.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044998,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-03T14:00:00+00:00",
-      "timestamp": 1701612000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 682,
-        "name": "Stadium de Toulouse",
-        "city": "Toulouse"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 14"
-    },
-    "teams": {
-      "home": {
-        "id": 96,
-        "name": "Toulouse",
-        "logo": "https://media-4.api-sports.io/football/teams/96.png",
-        "winner": null
-      },
-      "away": {
-        "id": 97,
-        "name": "Lorient",
-        "logo": "https://media-4.api-sports.io/football/teams/97.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1044999,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-03T19:45:00+00:00",
-      "timestamp": 1701632700,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 12678,
-        "name": "Stade Orange Vélodrome",
+        "id": 667,
+        "name": "Orange Vélodrome",
         "city": "Marseille"
       },
       "status": {
@@ -841,22 +93,22 @@
       "id": 61,
       "name": "Ligue 1",
       "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
       "season": 2023,
-      "round": "Regular Season - 14"
+      "round": "Regular Season - 18"
     },
     "teams": {
       "home": {
         "id": 81,
         "name": "Marseille",
-        "logo": "https://media-4.api-sports.io/football/teams/81.png",
+        "logo": "https://media.api-sports.io/football/teams/81.png",
         "winner": null
       },
       "away": {
-        "id": 94,
-        "name": "Rennes",
-        "logo": "https://media-4.api-sports.io/football/teams/94.png",
+        "id": 95,
+        "name": "Strasbourg",
+        "logo": "https://media.api-sports.io/football/teams/95.png",
         "winner": null
       }
     },
@@ -885,18 +137,18 @@
   },
   {
     "fixture": {
-      "id": 1045000,
+      "id": 1045036,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-12-03T14:00:00+00:00",
-      "timestamp": 1701612000,
+      "date": "2024-01-13T16:00:00+00:00",
+      "timestamp": 1705161600,
       "periods": {
         "first": null,
         "second": null
       },
       "venue": {
         "id": 659,
-        "name": "Stade Louis II",
+        "name": "Stade Louis-II",
         "city": "Monaco"
       },
       "status": {
@@ -909,22 +161,22 @@
       "id": 61,
       "name": "Ligue 1",
       "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
       "season": 2023,
-      "round": "Regular Season - 14"
+      "round": "Regular Season - 18"
     },
     "teams": {
       "home": {
         "id": 91,
         "name": "Monaco",
-        "logo": "https://media-4.api-sports.io/football/teams/91.png",
+        "logo": "https://media.api-sports.io/football/teams/91.png",
         "winner": null
       },
       "away": {
-        "id": 82,
-        "name": "Montpellier",
-        "logo": "https://media-4.api-sports.io/football/teams/82.png",
+        "id": 93,
+        "name": "Reims",
+        "logo": "https://media.api-sports.io/football/teams/93.png",
         "winner": null
       }
     },
@@ -953,18 +205,18 @@
   },
   {
     "fixture": {
-      "id": 1045001,
+      "id": 1045037,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-12-03T16:05:00+00:00",
-      "timestamp": 1701619500,
+      "date": "2024-01-14T12:00:00+00:00",
+      "timestamp": 1705233600,
       "periods": {
         "first": null,
         "second": null
       },
       "venue": {
         "id": 19207,
-        "name": "Decathlon Arena – Stade Pierre-Mauroy",
+        "name": "Decathlon Arena - Stade Pierre-Mauroy",
         "city": "Villeneuve d'Ascq"
       },
       "status": {
@@ -977,22 +229,22 @@
       "id": 61,
       "name": "Ligue 1",
       "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
       "season": 2023,
-      "round": "Regular Season - 14"
+      "round": "Regular Season - 18"
     },
     "teams": {
       "home": {
         "id": 79,
         "name": "Lille",
-        "logo": "https://media-4.api-sports.io/football/teams/79.png",
+        "logo": "https://media.api-sports.io/football/teams/79.png",
         "winner": null
       },
       "away": {
-        "id": 112,
-        "name": "Metz",
-        "logo": "https://media-4.api-sports.io/football/teams/112.png",
+        "id": 97,
+        "name": "Lorient",
+        "logo": "https://media.api-sports.io/football/teams/97.png",
         "winner": null
       }
     },
@@ -1021,147 +273,11 @@
   },
   {
     "fixture": {
-      "id": 1045002,
+      "id": 1045038,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-12-01T20:00:00+00:00",
-      "timestamp": 1701460800,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 674,
-        "name": "Stade Auguste-Delaune II",
-        "city": "Reims"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 14"
-    },
-    "teams": {
-      "home": {
-        "id": 93,
-        "name": "Reims",
-        "logo": "https://media-4.api-sports.io/football/teams/93.png",
-        "winner": null
-      },
-      "away": {
-        "id": 95,
-        "name": "Strasbourg",
-        "logo": "https://media-4.api-sports.io/football/teams/95.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1045003,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-02T16:00:00+00:00",
-      "timestamp": 1701532800,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 654,
-        "name": "Stade Bollaert-Delelis",
-        "city": "Lens"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 14"
-    },
-    "teams": {
-      "home": {
-        "id": 116,
-        "name": "Lens",
-        "logo": "https://media-4.api-sports.io/football/teams/116.png",
-        "winner": null
-      },
-      "away": {
-        "id": 80,
-        "name": "Lyon",
-        "logo": "https://media-4.api-sports.io/football/teams/80.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1045004,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-02T20:00:00+00:00",
-      "timestamp": 1701547200,
+      "date": "2024-01-14T14:00:00+00:00",
+      "timestamp": 1705240800,
       "periods": {
         "first": null,
         "second": null
@@ -1181,22 +297,22 @@
       "id": 61,
       "name": "Ligue 1",
       "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
       "season": 2023,
-      "round": "Regular Season - 14"
+      "round": "Regular Season - 18"
     },
     "teams": {
       "home": {
         "id": 83,
         "name": "Nantes",
-        "logo": "https://media-4.api-sports.io/football/teams/83.png",
+        "logo": "https://media.api-sports.io/football/teams/83.png",
         "winner": null
       },
       "away": {
-        "id": 84,
-        "name": "Nice",
-        "logo": "https://media-4.api-sports.io/football/teams/84.png",
+        "id": 99,
+        "name": "Clermont Foot",
+        "logo": "https://media.api-sports.io/football/teams/99.png",
         "winner": null
       }
     },
@@ -1225,11 +341,11 @@
   },
   {
     "fixture": {
-      "id": 1045005,
+      "id": 1045039,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-12-03T12:00:00+00:00",
-      "timestamp": 1701604800,
+      "date": "2024-01-14T16:05:00+00:00",
+      "timestamp": 1705248300,
       "periods": {
         "first": null,
         "second": null
@@ -1249,430 +365,22 @@
       "id": 61,
       "name": "Ligue 1",
       "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
       "season": 2023,
-      "round": "Regular Season - 14"
+      "round": "Regular Season - 18"
     },
     "teams": {
       "home": {
         "id": 111,
         "name": "LE Havre",
-        "logo": "https://media-4.api-sports.io/football/teams/111.png",
+        "logo": "https://media.api-sports.io/football/teams/111.png",
         "winner": null
       },
       "away": {
-        "id": 85,
-        "name": "Paris Saint Germain",
-        "logo": "https://media-4.api-sports.io/football/teams/85.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1045006,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-03T14:00:00+00:00",
-      "timestamp": 1701612000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 641,
-        "name": "Stade Francis-Le Blé",
-        "city": "Brest"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 14"
-    },
-    "teams": {
-      "home": {
-        "id": 106,
-        "name": "Stade Brestois 29",
-        "logo": "https://media-4.api-sports.io/football/teams/106.png",
-        "winner": null
-      },
-      "away": {
-        "id": 99,
-        "name": "Clermont Foot",
-        "logo": "https://media-4.api-sports.io/football/teams/99.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1045007,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-09T20:00:00+00:00",
-      "timestamp": 1702152000,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 671,
-        "name": "Parc des Princes",
-        "city": "Paris"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 15"
-    },
-    "teams": {
-      "home": {
-        "id": 85,
-        "name": "Paris Saint Germain",
-        "logo": "https://media-4.api-sports.io/football/teams/85.png",
-        "winner": null
-      },
-      "away": {
-        "id": 83,
-        "name": "Nantes",
-        "logo": "https://media-4.api-sports.io/football/teams/83.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1045008,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-10T14:00:00+00:00",
-      "timestamp": 1702216800,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 681,
-        "name": "Stade de la Meinau",
-        "city": "Strasbourg"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 15"
-    },
-    "teams": {
-      "home": {
-        "id": 95,
-        "name": "Strasbourg",
-        "logo": "https://media-4.api-sports.io/football/teams/95.png",
-        "winner": null
-      },
-      "away": {
-        "id": 111,
-        "name": "LE Havre",
-        "logo": "https://media-4.api-sports.io/football/teams/111.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1045009,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-09T16:00:00+00:00",
-      "timestamp": 1702137600,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 680,
-        "name": "Roazhon Park",
-        "city": "Rennes"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 15"
-    },
-    "teams": {
-      "home": {
-        "id": 94,
-        "name": "Rennes",
-        "logo": "https://media-4.api-sports.io/football/teams/94.png",
-        "winner": null
-      },
-      "away": {
-        "id": 91,
-        "name": "Monaco",
-        "logo": "https://media-4.api-sports.io/football/teams/91.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1045010,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-10T19:45:00+00:00",
-      "timestamp": 1702237500,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 656,
-        "name": "Stade Yves Allainmat - Le Moustoir",
-        "city": "Lorient"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 15"
-    },
-    "teams": {
-      "home": {
-        "id": 97,
-        "name": "Lorient",
-        "logo": "https://media-4.api-sports.io/football/teams/97.png",
-        "winner": null
-      },
-      "away": {
-        "id": 81,
-        "name": "Marseille",
-        "logo": "https://media-4.api-sports.io/football/teams/81.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1045011,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-10T16:05:00+00:00",
-      "timestamp": 1702224300,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 666,
-        "name": "Groupama Stadium",
-        "city": "Décines-Charpieu"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 15"
-    },
-    "teams": {
-      "home": {
         "id": 80,
         "name": "Lyon",
-        "logo": "https://media-4.api-sports.io/football/teams/80.png",
-        "winner": null
-      },
-      "away": {
-        "id": 96,
-        "name": "Toulouse",
-        "logo": "https://media-4.api-sports.io/football/teams/96.png",
+        "logo": "https://media.api-sports.io/football/teams/80.png",
         "winner": null
       }
     },
@@ -1701,147 +409,11 @@
   },
   {
     "fixture": {
-      "id": 1045012,
+      "id": 1045040,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-12-10T12:00:00+00:00",
-      "timestamp": 1702209600,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 663,
-        "name": "Allianz Riviera",
-        "city": "Nice"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 15"
-    },
-    "teams": {
-      "home": {
-        "id": 84,
-        "name": "Nice",
-        "logo": "https://media-4.api-sports.io/football/teams/84.png",
-        "winner": null
-      },
-      "away": {
-        "id": 93,
-        "name": "Reims",
-        "logo": "https://media-4.api-sports.io/football/teams/93.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1045013,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-10T14:00:00+00:00",
-      "timestamp": 1702216800,
-      "periods": {
-        "first": null,
-        "second": null
-      },
-      "venue": {
-        "id": 644,
-        "name": "Stade Gabriel Montpied",
-        "city": "Clermont-Ferrand"
-      },
-      "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
-      }
-    },
-    "league": {
-      "id": 61,
-      "name": "Ligue 1",
-      "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
-      "season": 2023,
-      "round": "Regular Season - 15"
-    },
-    "teams": {
-      "home": {
-        "id": 99,
-        "name": "Clermont Foot",
-        "logo": "https://media-4.api-sports.io/football/teams/99.png",
-        "winner": null
-      },
-      "away": {
-        "id": 79,
-        "name": "Lille",
-        "logo": "https://media-4.api-sports.io/football/teams/79.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": null,
-      "away": null
-    },
-    "score": {
-      "halftime": {
-        "home": null,
-        "away": null
-      },
-      "fulltime": {
-        "home": null,
-        "away": null
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1045014,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2023-12-10T14:00:00+00:00",
-      "timestamp": 1702216800,
+      "date": "2024-01-14T14:00:00+00:00",
+      "timestamp": 1705240800,
       "periods": {
         "first": null,
         "second": null
@@ -1861,22 +433,22 @@
       "id": 61,
       "name": "Ligue 1",
       "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
       "season": 2023,
-      "round": "Regular Season - 15"
+      "round": "Regular Season - 18"
     },
     "teams": {
       "home": {
         "id": 112,
         "name": "Metz",
-        "logo": "https://media-4.api-sports.io/football/teams/112.png",
+        "logo": "https://media.api-sports.io/football/teams/112.png",
         "winner": null
       },
       "away": {
-        "id": 106,
-        "name": "Stade Brestois 29",
-        "logo": "https://media-4.api-sports.io/football/teams/106.png",
+        "id": 96,
+        "name": "Toulouse",
+        "logo": "https://media.api-sports.io/football/teams/96.png",
         "winner": null
       }
     },
@@ -1905,19 +477,19 @@
   },
   {
     "fixture": {
-      "id": 1045015,
+      "id": 1045041,
       "referee": null,
       "timezone": "UTC",
-      "date": "2023-12-08T20:00:00+00:00",
-      "timestamp": 1702065600,
+      "date": "2024-01-14T14:00:00+00:00",
+      "timestamp": 1705240800,
       "periods": {
         "first": null,
         "second": null
       },
       "venue": {
-        "id": 20107,
-        "name": "Stade de la Mosson-Mondial 98",
-        "city": "Montpellier"
+        "id": 641,
+        "name": "Stade Francis-Le Blé",
+        "city": "Brest"
       },
       "status": {
         "long": "Not Started",
@@ -1929,22 +501,158 @@
       "id": 61,
       "name": "Ligue 1",
       "country": "France",
-      "logo": "https://media-4.api-sports.io/football/leagues/61.png",
-      "flag": "https://media-4.api-sports.io/flags/fr.svg",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
       "season": 2023,
-      "round": "Regular Season - 15"
+      "round": "Regular Season - 18"
     },
     "teams": {
       "home": {
-        "id": 82,
-        "name": "Montpellier",
-        "logo": "https://media-4.api-sports.io/football/teams/82.png",
+        "id": 106,
+        "name": "Stade Brestois 29",
+        "logo": "https://media.api-sports.io/football/teams/106.png",
         "winner": null
       },
       "away": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media.api-sports.io/football/teams/82.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1045042,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-01-14T19:45:00+00:00",
+      "timestamp": 1705261500,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 654,
+        "name": "Stade Bollaert-Delelis",
+        "city": "Lens"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 18"
+    },
+    "teams": {
+      "home": {
         "id": 116,
         "name": "Lens",
-        "logo": "https://media-4.api-sports.io/football/teams/116.png",
+        "logo": "https://media.api-sports.io/football/teams/116.png",
+        "winner": null
+      },
+      "away": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1045047,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-01-26T20:00:00+00:00",
+      "timestamp": 1706299200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 666,
+        "name": "Groupama Stadium",
+        "city": "Décines-Charpieu"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 80,
+        "name": "Lyon",
+        "logo": "https://media.api-sports.io/football/teams/80.png",
+        "winner": null
+      },
+      "away": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media.api-sports.io/football/teams/94.png",
         "winner": null
       }
     },
