@@ -71,26 +71,26 @@ app.use((req, res, next) => {
   next();
 });
 
-// cron.schedule("*/10 * * * * *", statisticsController.getStandingsScheduledData);
+cron.schedule("* */1 * * * *", statisticsController.getStandingsScheduledData);
 
-// cron.schedule(
-//   "* */1 * * * *",
-//   statisticsController.getFixturesAndResultsForLeaguesScheduledData
-// );
+cron.schedule(
+  "* * */1 * * *",
+  statisticsController.getFixturesAndResultsForLeaguesScheduledData
+);
 
 cron.schedule(
   "* * */9 * * *",
   statisticsController.getFixturesAndResultsForCupsScheduledData
 );
 
-// cron.schedule(
-//   "*/3 * * * * *",
-//   EventsLiveDataController.gitFootballLiveMatchesData
-// );
-// cron.schedule(
-//   "*/10 * * * * *",
-//   EventsLiveDataController.gitOtherSportsLiveMatchesData
-// );
+cron.schedule(
+  "* */1 * * * *",
+  EventsLiveDataController.gitFootballLiveMatchesData
+);
+cron.schedule(
+  "* */1 * * * *",
+  EventsLiveDataController.gitOtherSportsLiveMatchesData
+);
 
 app.use(
   cors({
