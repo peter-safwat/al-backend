@@ -1,7 +1,7 @@
 exports.sportCategoryApiDataTypes = [
   { sport: "football", dataTypes: ["Lineups", "Events", "Statistics"] },
   { sport: "basketball", dataTypes: ["Statistics"] },
-  { sport: "nfl", dataTypes: ["Lineups", "Events", "Statistics"] },
+  { sport: "nfl", dataTypes: ["Statistics"] },
   { sport: "tennis", dataTypes: ["Statistics"] },
   { sport: "tabletennis", dataTypes: ["Statistics"] },
   { sport: "handball", dataTypes: ["Statistics", "Lineups"] },

@@ -2804,9 +2804,9 @@
         "city": "Milano"
       },
       "status": {
-        "long": "First Half",
-        "short": "1H",
-        "elapsed": 39
+        "long": "Halftime",
+        "short": "HT",
+        "elapsed": 45
       }
     },
     "league": {

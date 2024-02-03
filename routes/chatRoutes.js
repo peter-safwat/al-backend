@@ -2,8 +2,12 @@ const express = require("express");
 
 const chatController = require("../controllers/chatController");
 const authController = require("../controllers/authController");
-
 const router = express.Router();
+
+router
+  .route("/")
+  .post(chatController.sendMessage)
+  .get(chatController.getAllMessages);
 
 router
   .route("/chatRules")

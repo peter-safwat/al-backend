@@ -2,7 +2,7 @@
   {
     "fixture": {
       "id": 1052413,
-      "referee": "A. Rapuano",
+      "referee": "Antonio Rapuano, Italy",
       "timezone": "UTC",
       "date": "2023-12-23T14:00:00+00:00",
       "timestamp": 1703340000,
@@ -69,76 +69,8 @@
   },
   {
     "fixture": {
-      "id": 1052414,
-      "referee": "M. Marchetti",
-      "timezone": "UTC",
-      "date": "2023-12-22T17:30:00+00:00",
-      "timestamp": 1703266200,
-      "periods": {
-        "first": 1703266200,
-        "second": 1703269800
-      },
-      "venue": {
-        "id": 20109,
-        "name": "Stadio Carlo Castellani – Computer Gross Arena",
-        "city": "Empoli"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90
-      }
-    },
-    "league": {
-      "id": 135,
-      "name": "Serie A",
-      "country": "Italy",
-      "logo": "https://media.api-sports.io/football/leagues/135.png",
-      "flag": "https://media.api-sports.io/flags/it.svg",
-      "season": 2023,
-      "round": "Regular Season - 17"
-    },
-    "teams": {
-      "home": {
-        "id": 511,
-        "name": "Empoli",
-        "logo": "https://media.api-sports.io/football/teams/511.png",
-        "winner": false
-      },
-      "away": {
-        "id": 487,
-        "name": "Lazio",
-        "logo": "https://media.api-sports.io/football/teams/487.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 2
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1052415,
-      "referee": "M. Mariani",
+      "referee": "Maurizio Mariani, Italy",
       "timezone": "UTC",
       "date": "2023-12-23T11:30:00+00:00",
       "timestamp": 1703331000,
@@ -206,7 +138,7 @@
   {
     "fixture": {
       "id": 1052416,
-      "referee": "D. Orsato",
+      "referee": "Daniele Orsato, Italy",
       "timezone": "UTC",
       "date": "2023-12-23T17:00:00+00:00",
       "timestamp": 1703350800,
@@ -274,7 +206,7 @@
   {
     "fixture": {
       "id": 1052417,
-      "referee": "M. Marcenaro",
+      "referee": "Matteo Marcenaro, Italy",
       "timezone": "UTC",
       "date": "2023-12-23T17:00:00+00:00",
       "timestamp": 1703350800,
@@ -341,76 +273,8 @@
   },
   {
     "fixture": {
-      "id": 1052418,
-      "referee": "J. Sacchi",
-      "timezone": "UTC",
-      "date": "2023-12-22T19:45:00+00:00",
-      "timestamp": 1703274300,
-      "periods": {
-        "first": 1703274300,
-        "second": 1703277900
-      },
-      "venue": {
-        "id": 12086,
-        "name": "U-Power Stadium",
-        "city": "Monza"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90
-      }
-    },
-    "league": {
-      "id": 135,
-      "name": "Serie A",
-      "country": "Italy",
-      "logo": "https://media.api-sports.io/football/leagues/135.png",
-      "flag": "https://media.api-sports.io/flags/it.svg",
-      "season": 2023,
-      "round": "Regular Season - 17"
-    },
-    "teams": {
-      "home": {
-        "id": 1579,
-        "name": "Monza",
-        "logo": "https://media.api-sports.io/football/teams/1579.png",
-        "winner": false
-      },
-      "away": {
-        "id": 502,
-        "name": "Fiorentina",
-        "logo": "https://media.api-sports.io/football/teams/502.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1052419,
-      "referee": "A. Colombo",
+      "referee": "Andrea Colombo, Italy",
       "timezone": "UTC",
       "date": "2023-12-23T19:45:00+00:00",
       "timestamp": 1703360700,
@@ -477,144 +341,8 @@
   },
   {
     "fixture": {
-      "id": 1052420,
-      "referee": "D. Doveri",
-      "timezone": "UTC",
-      "date": "2023-12-22T19:45:00+00:00",
-      "timestamp": 1703274300,
-      "periods": {
-        "first": 1703274300,
-        "second": 1703277900
-      },
-      "venue": {
-        "id": 933,
-        "name": "Stadio Arechi",
-        "city": "Salerno"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90
-      }
-    },
-    "league": {
-      "id": 135,
-      "name": "Serie A",
-      "country": "Italy",
-      "logo": "https://media.api-sports.io/football/leagues/135.png",
-      "flag": "https://media.api-sports.io/flags/it.svg",
-      "season": 2023,
-      "round": "Regular Season - 17"
-    },
-    "teams": {
-      "home": {
-        "id": 514,
-        "name": "Salernitana",
-        "logo": "https://media.api-sports.io/football/teams/514.png",
-        "winner": null
-      },
-      "away": {
-        "id": 489,
-        "name": "AC Milan",
-        "logo": "https://media.api-sports.io/football/teams/489.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 2,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 2,
-        "away": 2
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1052421,
-      "referee": "M. Guida",
-      "timezone": "UTC",
-      "date": "2023-12-22T17:30:00+00:00",
-      "timestamp": 1703266200,
-      "periods": {
-        "first": 1703266200,
-        "second": 1703269800
-      },
-      "venue": {
-        "id": 935,
-        "name": "MAPEI Stadium - Città del Tricolore",
-        "city": "Reggio Emilia"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90
-      }
-    },
-    "league": {
-      "id": 135,
-      "name": "Serie A",
-      "country": "Italy",
-      "logo": "https://media.api-sports.io/football/leagues/135.png",
-      "flag": "https://media.api-sports.io/flags/it.svg",
-      "season": 2023,
-      "round": "Regular Season - 17"
-    },
-    "teams": {
-      "home": {
-        "id": 488,
-        "name": "Sassuolo",
-        "logo": "https://media.api-sports.io/football/teams/488.png",
-        "winner": false
-      },
-      "away": {
-        "id": 495,
-        "name": "Genoa",
-        "logo": "https://media.api-sports.io/football/teams/495.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 2
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1052422,
-      "referee": "M. Fabbri",
+      "referee": "Michael Fabbri, Italy",
       "timezone": "UTC",
       "date": "2023-12-23T14:00:00+00:00",
       "timestamp": 1703340000,
@@ -682,7 +410,7 @@
   {
     "fixture": {
       "id": 1052423,
-      "referee": "G. Manganiello",
+      "referee": "Gianluca Manganiello, Italy",
       "timezone": "UTC",
       "date": "2023-12-30T11:30:00+00:00",
       "timestamp": 1703935800,
@@ -750,7 +478,7 @@
   {
     "fixture": {
       "id": 1052424,
-      "referee": "F. Maresca",
+      "referee": "Fabio Maresca, Italy",
       "timezone": "UTC",
       "date": "2023-12-30T14:00:00+00:00",
       "timestamp": 1703944800,
@@ -818,7 +546,7 @@
   {
     "fixture": {
       "id": 1052425,
-      "referee": "F. La Penna",
+      "referee": "Federico La Penna, Italy",
       "timezone": "UTC",
       "date": "2023-12-29T17:30:00+00:00",
       "timestamp": 1703871000,
@@ -886,7 +614,7 @@
   {
     "fixture": {
       "id": 1052426,
-      "referee": "D. Doveri",
+      "referee": "Daniele Doveri, Italy",
       "timezone": "UTC",
       "date": "2023-12-29T19:45:00+00:00",
       "timestamp": 1703879100,
@@ -954,7 +682,7 @@
   {
     "fixture": {
       "id": 1052427,
-      "referee": "M. Mariani",
+      "referee": "Maurizio Mariani, Italy",
       "timezone": "UTC",
       "date": "2023-12-30T17:00:00+00:00",
       "timestamp": 1703955600,
@@ -1022,7 +750,7 @@
   {
     "fixture": {
       "id": 1052428,
-      "referee": "S. Sozza",
+      "referee": "Simone Sozza, Italy",
       "timezone": "UTC",
       "date": "2023-12-30T19:45:00+00:00",
       "timestamp": 1703965500,
@@ -1090,7 +818,7 @@
   {
     "fixture": {
       "id": 1052429,
-      "referee": "E. Feliciani",
+      "referee": "Ermanno Feliciani, Italy",
       "timezone": "UTC",
       "date": "2023-12-29T19:45:00+00:00",
       "timestamp": 1703879100,
@@ -1158,7 +886,7 @@
   {
     "fixture": {
       "id": 1052430,
-      "referee": "L. Marinelli",
+      "referee": "Livio Marinelli, Italy",
       "timezone": "UTC",
       "date": "2023-12-30T17:00:00+00:00",
       "timestamp": 1703955600,
@@ -1226,7 +954,7 @@
   {
     "fixture": {
       "id": 1052431,
-      "referee": "M. Di Bello",
+      "referee": "Marco Di Bello, Italy",
       "timezone": "UTC",
       "date": "2023-12-29T17:30:00+00:00",
       "timestamp": 1703871000,
@@ -1294,7 +1022,7 @@
   {
     "fixture": {
       "id": 1052432,
-      "referee": "D. Orsato",
+      "referee": "Daniele Orsato, Italy",
       "timezone": "UTC",
       "date": "2023-12-30T14:00:00+00:00",
       "timestamp": 1703944800,
@@ -1362,13 +1090,13 @@
   {
     "fixture": {
       "id": 1052433,
-      "referee": "A. Colombo",
+      "referee": "Andrea Colombo, Italy",
       "timezone": "UTC",
       "date": "2024-01-05T19:45:00+00:00",
       "timestamp": 1704483900,
       "periods": {
-        "first": null,
-        "second": null
+        "first": 1704483900,
+        "second": 1704487500
       },
       "venue": {
         "id": 881,
@@ -1376,9 +1104,9 @@
         "city": "Bologna"
       },
       "status": {
-        "long": "Not Started",
-        "short": "NS",
-        "elapsed": null
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90
       }
     },
     "league": {
@@ -1401,6 +1129,278 @@
         "id": 495,
         "name": "Genoa",
         "logo": "https://media.api-sports.io/football/teams/495.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1052435,
+      "referee": "M. Ferrieri Caputi",
+      "timezone": "UTC",
+      "date": "2024-01-06T14:00:00+00:00",
+      "timestamp": 1704549600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 904,
+        "name": "Stadio Benito Stirpe",
+        "city": "Frosinone"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 135,
+      "name": "Serie A",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/135.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2023,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 512,
+        "name": "Frosinone",
+        "logo": "https://media.api-sports.io/football/teams/512.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1579,
+        "name": "Monza",
+        "logo": "https://media.api-sports.io/football/teams/1579.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1052436,
+      "referee": "Michael Fabbri, Italy",
+      "timezone": "UTC",
+      "date": "2024-01-06T11:30:00+00:00",
+      "timestamp": 1704540600,
+      "periods": {
+        "first": 1704540600,
+        "second": null
+      },
+      "venue": {
+        "id": 907,
+        "name": "Stadio Giuseppe Meazza",
+        "city": "Milano"
+      },
+      "status": {
+        "long": "Halftime",
+        "short": "HT",
+        "elapsed": 45
+      }
+    },
+    "league": {
+      "id": 135,
+      "name": "Serie A",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/135.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2023,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png",
+        "winner": true
+      },
+      "away": {
+        "id": 504,
+        "name": "Verona",
+        "logo": "https://media.api-sports.io/football/teams/504.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1052437,
+      "referee": "D. Massa",
+      "timezone": "UTC",
+      "date": "2024-01-06T17:00:00+00:00",
+      "timestamp": 1704560400,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 911,
+        "name": "Stadio Ettore Giardiniero - Via del Mare",
+        "city": "Lecce"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 135,
+      "name": "Serie A",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/135.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2023,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 867,
+        "name": "Lecce",
+        "logo": "https://media.api-sports.io/football/teams/867.png",
+        "winner": null
+      },
+      "away": {
+        "id": 490,
+        "name": "Cagliari",
+        "logo": "https://media.api-sports.io/football/teams/490.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1052440,
+      "referee": "R. Abisso",
+      "timezone": "UTC",
+      "date": "2024-01-06T19:45:00+00:00",
+      "timestamp": 1704570300,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 935,
+        "name": "MAPEI Stadium - Città del Tricolore",
+        "city": "Reggio Emilia"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 135,
+      "name": "Serie A",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/135.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2023,
+      "round": "Regular Season - 19"
+    },
+    "teams": {
+      "home": {
+        "id": 488,
+        "name": "Sassuolo",
+        "logo": "https://media.api-sports.io/football/teams/488.png",
+        "winner": null
+      },
+      "away": {
+        "id": 502,
+        "name": "Fiorentina",
+        "logo": "https://media.api-sports.io/football/teams/502.png",
         "winner": null
       }
     },

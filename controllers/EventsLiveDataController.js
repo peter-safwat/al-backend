@@ -91,6 +91,33 @@ const getFootballEvents = async (eventId, filePath) => {
     console.error(error);
   }
 };
+const getOthersEvents = async (eventId, filePath) => {
+  const options = {
+    method: "GET",
+    url: "https://api-football-v1.p.rapidapi.com/v3/fixtures/events",
+    params: { fixture: eventId },
+    headers: {
+      "X-RapidAPI-Key": "5cb056bd4cmsh99302d93650a33fp1360f2jsn67d3464fb9c7",
+      "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
+    },
+  };
+
+  try {
+    const response = await axios.request(options);
+    const jsonData = JSON.stringify(response.data.response, null, 2); // The third parameter is for indentation (2 spaces in this case)
+
+    // Write the data to the file
+    fs.writeFile(filePath, jsonData, (err) => {
+      if (err) {
+        console.error(`Error writing to file ${filePath}: ${err.message}`);
+      } else {
+        console.log(`Data written to file ${filePath} successfully.`);
+      }
+    });
+  } catch (error) {
+    console.error(error);
+  }
+};
 const getOthersLineUps = async (eventId, filePath) => {
   const options = {
     method: "GET",
@@ -220,7 +247,11 @@ const getDataForOtherSportslLiveEvents = catchAsync(async (folderPath) => {
         getOthersLineUps(eventId, filePath);
       } else if (folderPath.includes("Statistics")) {
         getOthersstatistics(eventId, filePath);
-      } else if (folderPath.includes("Summery")) {
+      }
+      //  else if (folderPath.includes("events")) {
+      //   getOthersstatistics(eventId, filePath);
+      // } 
+      else if (folderPath.includes("Summery")) {
         getOthersSummery(eventId, filePath);
       }
     }

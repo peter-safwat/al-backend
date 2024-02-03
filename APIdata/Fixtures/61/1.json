@@ -1,6 +1,74 @@
 [
   {
     "fixture": {
+      "id": 1045034,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-01-13T20:00:00+00:00",
+      "timestamp": 1705176000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 680,
+        "name": "Roazhon Park",
+        "city": "Rennes"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 18"
+    },
+    "teams": {
+      "home": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media.api-sports.io/football/teams/94.png",
+        "winner": null
+      },
+      "away": {
+        "id": 84,
+        "name": "Nice",
+        "logo": "https://media.api-sports.io/football/teams/84.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
       "id": 1045035,
       "referee": null,
       "timezone": "UTC",
@@ -41,6 +109,74 @@
         "id": 95,
         "name": "Strasbourg",
         "logo": "https://media.api-sports.io/football/teams/95.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1045036,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-01-13T16:00:00+00:00",
+      "timestamp": 1705161600,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 659,
+        "name": "Stade Louis-II",
+        "city": "Monaco"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 18"
+    },
+    "teams": {
+      "home": {
+        "id": 91,
+        "name": "Monaco",
+        "logo": "https://media.api-sports.io/football/teams/91.png",
+        "winner": null
+      },
+      "away": {
+        "id": 93,
+        "name": "Reims",
+        "logo": "https://media.api-sports.io/football/teams/93.png",
         "winner": null
       }
     },

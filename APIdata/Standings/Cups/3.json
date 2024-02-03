@@ -5,544 +5,544 @@
       "team": {
         "id": 48,
         "name": "West Ham",
-        "logo": "https://media-4.api-sports.io/football/teams/48.png"
+        "logo": "https://media.api-sports.io/football/teams/48.png"
       },
-      "points": 9,
-      "goalsDiff": 3,
+      "points": 15,
+      "goalsDiff": 6,
       "group": "Group A",
-      "form": "WLWW",
+      "form": "WWWLW",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
       "all": {
-        "played": 4,
-        "win": 3,
+        "played": 6,
+        "win": 5,
         "draw": 0,
         "lose": 1,
         "goals": {
-          "for": 7,
+          "for": 10,
           "against": 4
         }
       },
       "home": {
-        "played": 2,
-        "win": 2,
+        "played": 3,
+        "win": 3,
         "draw": 0,
         "lose": 0,
         "goals": {
-          "for": 4,
+          "for": 6,
           "against": 1
         }
       },
       "away": {
-        "played": 2,
-        "win": 1,
+        "played": 3,
+        "win": 2,
         "draw": 0,
         "lose": 1,
         "goals": {
-          "for": 3,
+          "for": 4,
           "against": 3
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 2,
       "team": {
         "id": 160,
         "name": "SC Freiburg",
-        "logo": "https://media-4.api-sports.io/football/teams/160.png"
+        "logo": "https://media.api-sports.io/football/teams/160.png"
       },
-      "points": 9,
-      "goalsDiff": 7,
+      "points": 12,
+      "goalsDiff": 10,
       "group": "Group A",
-      "form": "WWLW",
+      "form": "LWWWL",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
-        "win": 3,
+        "played": 6,
+        "win": 4,
         "draw": 0,
-        "lose": 1,
+        "lose": 2,
         "goals": {
-          "for": 12,
-          "against": 5
+          "for": 17,
+          "against": 7
         }
       },
       "home": {
-        "played": 2,
-        "win": 1,
+        "played": 3,
+        "win": 2,
         "draw": 0,
         "lose": 1,
         "goals": {
-          "for": 6,
+          "for": 11,
           "against": 2
         }
       },
       "away": {
-        "played": 2,
+        "played": 3,
         "win": 2,
         "draw": 0,
-        "lose": 0,
+        "lose": 1,
         "goals": {
           "for": 6,
-          "against": 3
+          "against": 5
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 3,
       "team": {
         "id": 553,
         "name": "Olympiakos Piraeus",
-        "logo": "https://media-4.api-sports.io/football/teams/553.png"
+        "logo": "https://media.api-sports.io/football/teams/553.png"
       },
-      "points": 4,
-      "goalsDiff": -1,
+      "points": 7,
+      "goalsDiff": -3,
       "group": "Group A",
-      "form": "LWDL",
+      "form": "WLLWD",
       "status": "same",
       "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
-        "win": 1,
+        "played": 6,
+        "win": 2,
         "draw": 1,
-        "lose": 2,
+        "lose": 3,
         "goals": {
-          "for": 6,
-          "against": 7
+          "for": 11,
+          "against": 14
         }
       },
       "home": {
-        "played": 2,
-        "win": 1,
+        "played": 3,
+        "win": 2,
         "draw": 0,
         "lose": 1,
         "goals": {
-          "for": 4,
-          "against": 4
+          "for": 9,
+          "against": 6
         }
       },
       "away": {
-        "played": 2,
+        "played": 3,
         "win": 0,
         "draw": 1,
-        "lose": 1,
+        "lose": 2,
         "goals": {
           "for": 2,
-          "against": 3
+          "against": 8
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 4,
       "team": {
         "id": 2646,
         "name": "TSC Backa Topola",
-        "logo": "https://media-4.api-sports.io/football/teams/2646.png"
+        "logo": "https://media.api-sports.io/football/teams/2646.png"
       },
       "points": 1,
-      "goalsDiff": -9,
+      "goalsDiff": -13,
       "group": "Group A",
-      "form": "LLDL",
+      "form": "LLLLD",
       "status": "same",
       "description": null,
       "all": {
-        "played": 4,
+        "played": 6,
         "win": 0,
         "draw": 1,
-        "lose": 3,
+        "lose": 5,
         "goals": {
-          "for": 4,
-          "against": 13
+          "for": 6,
+          "against": 19
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 0,
         "draw": 1,
-        "lose": 1,
+        "lose": 2,
         "goals": {
           "for": 3,
-          "against": 5
+          "against": 6
         }
       },
       "away": {
-        "played": 2,
+        "played": 3,
         "win": 0,
         "draw": 0,
-        "lose": 2,
+        "lose": 3,
         "goals": {
-          "for": 1,
-          "against": 8
+          "for": 3,
+          "against": 13
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     }
   ],
   [
     {
       "rank": 1,
       "team": {
-        "id": 81,
-        "name": "Marseille",
-        "logo": "https://media-4.api-sports.io/football/teams/81.png"
+        "id": 51,
+        "name": "Brighton",
+        "logo": "https://media.api-sports.io/football/teams/51.png"
       },
-      "points": 8,
-      "goalsDiff": 4,
+      "points": 13,
+      "goalsDiff": 5,
       "group": "Group B",
-      "form": "WWDD",
+      "form": "WWWWD",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
       "all": {
-        "played": 4,
-        "win": 2,
-        "draw": 2,
-        "lose": 0,
+        "played": 6,
+        "win": 4,
+        "draw": 1,
+        "lose": 1,
         "goals": {
           "for": 10,
-          "against": 6
+          "against": 5
         }
       },
       "home": {
-        "played": 2,
-        "win": 1,
-        "draw": 1,
-        "lose": 0,
+        "played": 3,
+        "win": 2,
+        "draw": 0,
+        "lose": 1,
         "goals": {
           "for": 5,
           "against": 3
         }
       },
       "away": {
-        "played": 2,
-        "win": 1,
+        "played": 3,
+        "win": 2,
         "draw": 1,
         "lose": 0,
         "goals": {
           "for": 5,
-          "against": 3
+          "against": 2
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 2,
       "team": {
-        "id": 51,
-        "name": "Brighton",
-        "logo": "https://media-4.api-sports.io/football/teams/51.png"
+        "id": 81,
+        "name": "Marseille",
+        "logo": "https://media.api-sports.io/football/teams/81.png"
       },
-      "points": 7,
-      "goalsDiff": 3,
+      "points": 11,
+      "goalsDiff": 4,
       "group": "Group B",
-      "form": "WWDL",
+      "form": "LWWWD",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
+        "played": 6,
+        "win": 3,
+        "draw": 2,
+        "lose": 1,
+        "goals": {
+          "for": 14,
+          "against": 10
+        }
+      },
+      "home": {
+        "played": 3,
         "win": 2,
         "draw": 1,
+        "lose": 0,
+        "goals": {
+          "for": 9,
+          "against": 6
+        }
+      },
+      "away": {
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goals": {
+          "for": 5,
+          "against": 4
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": 194,
+        "name": "Ajax",
+        "logo": "https://media.api-sports.io/football/teams/194.png"
+      },
+      "points": 5,
+      "goalsDiff": -3,
+      "group": "Group B",
+      "form": "WLLLD",
+      "status": "same",
+      "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+      "all": {
+        "played": 6,
+        "win": 1,
+        "draw": 2,
+        "lose": 3,
+        "goals": {
+          "for": 10,
+          "against": 13
+        }
+      },
+      "home": {
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goals": {
+          "for": 6,
+          "against": 6
+        }
+      },
+      "away": {
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 4,
+          "against": 7
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png"
+      },
+      "points": 4,
+      "goalsDiff": -6,
+      "group": "Group B",
+      "form": "LLLLD",
+      "status": "same",
+      "description": null,
+      "all": {
+        "played": 6,
+        "win": 1,
+        "draw": 1,
+        "lose": 4,
+        "goals": {
+          "for": 6,
+          "against": 12
+        }
+      },
+      "home": {
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 1,
+          "against": 4
+        }
+      },
+      "away": {
+        "played": 3,
+        "win": 1,
+        "draw": 0,
+        "lose": 2,
+        "goals": {
+          "for": 5,
+          "against": 8
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
+    }
+  ],
+  [
+    {
+      "rank": 1,
+      "team": {
+        "id": 257,
+        "name": "Rangers",
+        "logo": "https://media.api-sports.io/football/teams/257.png"
+      },
+      "points": 11,
+      "goalsDiff": 2,
+      "group": "Group C",
+      "form": "WDWDL",
+      "status": "same",
+      "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
+      "all": {
+        "played": 6,
+        "win": 3,
+        "draw": 2,
+        "lose": 1,
+        "goals": {
+          "for": 8,
+          "against": 6
+        }
+      },
+      "home": {
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goals": {
+          "for": 4,
+          "against": 2
+        }
+      },
+      "away": {
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goals": {
+          "for": 4,
+          "against": 4
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
+    },
+    {
+      "rank": 2,
+      "team": {
+        "id": 628,
+        "name": "Sparta Praha",
+        "logo": "https://media.api-sports.io/football/teams/628.png"
+      },
+      "points": 10,
+      "goalsDiff": 2,
+      "group": "Group C",
+      "form": "WWLDL",
+      "status": "same",
+      "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
+      "all": {
+        "played": 6,
+        "win": 3,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 9,
+          "against": 7
+        }
+      },
+      "home": {
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goals": {
+          "for": 4,
+          "against": 2
+        }
+      },
+      "away": {
+        "played": 3,
+        "win": 1,
+        "draw": 0,
+        "lose": 2,
+        "goals": {
+          "for": 5,
+          "against": 5
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": 543,
+        "name": "Real Betis",
+        "logo": "https://media.api-sports.io/football/teams/543.png"
+      },
+      "points": 9,
+      "goalsDiff": 2,
+      "group": "Group C",
+      "form": "LLWWW",
+      "status": "same",
+      "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+      "all": {
+        "played": 6,
+        "win": 3,
+        "draw": 0,
+        "lose": 3,
+        "goals": {
+          "for": 9,
+          "against": 7
+        }
+      },
+      "home": {
+        "played": 3,
+        "win": 2,
+        "draw": 0,
         "lose": 1,
         "goals": {
           "for": 8,
           "against": 5
         }
       },
-      "home": {
-        "played": 2,
+      "away": {
+        "played": 3,
         "win": 1,
         "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 4,
-          "against": 3
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 1,
-        "draw": 1,
-        "lose": 0,
-        "goals": {
-          "for": 4,
-          "against": 2
-        }
-      },
-      "update": "2023-11-12T00:00:00+00:00"
-    },
-    {
-      "rank": 3,
-      "team": {
-        "id": 575,
-        "name": "AEK Athens FC",
-        "logo": "https://media-4.api-sports.io/football/teams/575.png"
-      },
-      "points": 4,
-      "goalsDiff": -3,
-      "group": "Group B",
-      "form": "LLDW",
-      "status": "same",
-      "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
-      "all": {
-        "played": 4,
-        "win": 1,
-        "draw": 1,
         "lose": 2,
-        "goals": {
-          "for": 5,
-          "against": 8
-        }
-      },
-      "home": {
-        "played": 2,
-        "win": 0,
-        "draw": 1,
-        "lose": 1,
-        "goals": {
-          "for": 1,
-          "against": 3
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 1,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 4,
-          "against": 5
-        }
-      },
-      "update": "2023-11-12T00:00:00+00:00"
-    },
-    {
-      "rank": 4,
-      "team": {
-        "id": 194,
-        "name": "Ajax",
-        "logo": "https://media-4.api-sports.io/football/teams/194.png"
-      },
-      "points": 2,
-      "goalsDiff": -4,
-      "group": "Group B",
-      "form": "LLDD",
-      "status": "same",
-      "description": null,
-      "all": {
-        "played": 4,
-        "win": 0,
-        "draw": 2,
-        "lose": 2,
-        "goals": {
-          "for": 4,
-          "against": 8
-        }
-      },
-      "home": {
-        "played": 2,
-        "win": 0,
-        "draw": 1,
-        "lose": 1,
-        "goals": {
-          "for": 3,
-          "against": 5
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 0,
-        "draw": 1,
-        "lose": 1,
-        "goals": {
-          "for": 1,
-          "against": 3
-        }
-      },
-      "update": "2023-11-12T00:00:00+00:00"
-    }
-  ],
-  [
-    {
-      "rank": 1,
-      "team": {
-        "id": 543,
-        "name": "Real Betis",
-        "logo": "https://media-4.api-sports.io/football/teams/543.png"
-      },
-      "points": 9,
-      "goalsDiff": 4,
-      "group": "Group C",
-      "form": "WWWL",
-      "status": "same",
-      "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
-      "all": {
-        "played": 4,
-        "win": 3,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 7,
-          "against": 3
-        }
-      },
-      "home": {
-        "played": 2,
-        "win": 2,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 6,
-          "against": 2
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 1,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 1,
-          "against": 1
-        }
-      },
-      "update": "2023-11-12T00:00:00+00:00"
-    },
-    {
-      "rank": 2,
-      "team": {
-        "id": 257,
-        "name": "Rangers",
-        "logo": "https://media-4.api-sports.io/football/teams/257.png"
-      },
-      "points": 7,
-      "goalsDiff": 1,
-      "group": "Group C",
-      "form": "WDLW",
-      "status": "same",
-      "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
-      "all": {
-        "played": 4,
-        "win": 2,
-        "draw": 1,
-        "lose": 1,
-        "goals": {
-          "for": 4,
-          "against": 3
-        }
-      },
-      "home": {
-        "played": 2,
-        "win": 2,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 3,
-          "against": 1
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 0,
-        "draw": 1,
-        "lose": 1,
         "goals": {
           "for": 1,
           "against": 2
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
-    },
-    {
-      "rank": 3,
-      "team": {
-        "id": 628,
-        "name": "Sparta Praha",
-        "logo": "https://media-4.api-sports.io/football/teams/628.png"
-      },
-      "points": 4,
-      "goalsDiff": -1,
-      "group": "Group C",
-      "form": "LDLW",
-      "status": "same",
-      "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
-      "all": {
-        "played": 4,
-        "win": 1,
-        "draw": 1,
-        "lose": 2,
-        "goals": {
-          "for": 5,
-          "against": 6
-        }
-      },
-      "home": {
-        "played": 2,
-        "win": 1,
-        "draw": 1,
-        "lose": 0,
-        "goals": {
-          "for": 3,
-          "against": 2
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 0,
-        "draw": 0,
-        "lose": 2,
-        "goals": {
-          "for": 2,
-          "against": 4
-        }
-      },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 4,
       "team": {
         "id": 3408,
         "name": "Aris",
-        "logo": "https://media-4.api-sports.io/football/teams/3408.png"
+        "logo": "https://media.api-sports.io/football/teams/3408.png"
       },
-      "points": 3,
-      "goalsDiff": -4,
+      "points": 4,
+      "goalsDiff": -6,
       "group": "Group C",
-      "form": "LLWL",
+      "form": "LDLLW",
       "status": "same",
       "description": null,
       "all": {
-        "played": 4,
+        "played": 6,
         "win": 1,
-        "draw": 0,
-        "lose": 3,
+        "draw": 1,
+        "lose": 4,
         "goals": {
-          "for": 5,
-          "against": 9
+          "for": 7,
+          "against": 13
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 1,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 2,
-          "against": 2
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 0,
         "draw": 0,
         "lose": 2,
         "goals": {
           "for": 3,
-          "against": 7
+          "against": 5
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "away": {
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 4,
+          "against": 8
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
     }
   ],
   [
@@ -551,180 +551,180 @@
       "team": {
         "id": 499,
         "name": "Atalanta",
-        "logo": "https://media-4.api-sports.io/football/teams/499.png"
+        "logo": "https://media.api-sports.io/football/teams/499.png"
       },
-      "points": 10,
-      "goalsDiff": 4,
+      "points": 14,
+      "goalsDiff": 8,
       "group": "Group D",
-      "form": "WDWW",
+      "form": "WDWDW",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
       "all": {
-        "played": 4,
-        "win": 3,
-        "draw": 1,
+        "played": 6,
+        "win": 4,
+        "draw": 2,
         "lose": 0,
         "goals": {
-          "for": 7,
-          "against": 3
+          "for": 12,
+          "against": 4
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 2,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 3,
-          "against": 0
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 1,
         "draw": 1,
         "lose": 0,
         "goals": {
           "for": 4,
+          "against": 1
+        }
+      },
+      "away": {
+        "played": 3,
+        "win": 2,
+        "draw": 1,
+        "lose": 0,
+        "goals": {
+          "for": 8,
           "against": 3
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 2,
       "team": {
         "id": 228,
         "name": "Sporting CP",
-        "logo": "https://media-4.api-sports.io/football/teams/228.png"
+        "logo": "https://media.api-sports.io/football/teams/228.png"
       },
-      "points": 7,
-      "goalsDiff": 1,
+      "points": 11,
+      "goalsDiff": 4,
       "group": "Group D",
-      "form": "WDLW",
+      "form": "WDWDL",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
-        "win": 2,
-        "draw": 1,
+        "played": 6,
+        "win": 3,
+        "draw": 2,
         "lose": 1,
         "goals": {
-          "for": 6,
-          "against": 5
+          "for": 10,
+          "against": 6
         }
       },
       "home": {
-        "played": 2,
-        "win": 1,
+        "played": 3,
+        "win": 2,
         "draw": 0,
         "lose": 1,
         "goals": {
-          "for": 3,
+          "for": 6,
           "against": 3
         }
       },
       "away": {
-        "played": 2,
+        "played": 3,
         "win": 1,
-        "draw": 1,
+        "draw": 2,
         "lose": 0,
         "goals": {
-          "for": 3,
-          "against": 2
+          "for": 4,
+          "against": 3
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 3,
       "team": {
         "id": 637,
         "name": "Sturm Graz",
-        "logo": "https://media-4.api-sports.io/football/teams/637.png"
+        "logo": "https://media.api-sports.io/football/teams/637.png"
       },
       "points": 4,
-      "goalsDiff": -1,
+      "goalsDiff": -5,
       "group": "Group D",
-      "form": "LDWL",
+      "form": "LLLDW",
       "status": "same",
       "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
+        "played": 6,
         "win": 1,
         "draw": 1,
-        "lose": 2,
+        "lose": 4,
         "goals": {
           "for": 4,
-          "against": 5
+          "against": 9
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 0,
         "draw": 1,
-        "lose": 1,
+        "lose": 2,
         "goals": {
           "for": 3,
-          "against": 4
+          "against": 5
         }
       },
       "away": {
-        "played": 2,
+        "played": 3,
         "win": 1,
         "draw": 0,
-        "lose": 1,
+        "lose": 2,
         "goals": {
           "for": 1,
-          "against": 1
+          "against": 4
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 4,
       "team": {
         "id": 3491,
         "name": "Raków Częstochowa",
-        "logo": "https://media-4.api-sports.io/football/teams/3491.png"
+        "logo": "https://media.api-sports.io/football/teams/3491.png"
       },
-      "points": 1,
-      "goalsDiff": -4,
+      "points": 4,
+      "goalsDiff": -7,
       "group": "Group D",
-      "form": "LDLL",
+      "form": "LWLDL",
       "status": "same",
       "description": null,
       "all": {
-        "played": 4,
-        "win": 0,
+        "played": 6,
+        "win": 1,
         "draw": 1,
-        "lose": 3,
+        "lose": 4,
         "goals": {
-          "for": 2,
-          "against": 6
+          "for": 3,
+          "against": 10
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 0,
         "draw": 1,
-        "lose": 1,
-        "goals": {
-          "for": 1,
-          "against": 2
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 0,
-        "draw": 0,
         "lose": 2,
         "goals": {
           "for": 1,
+          "against": 6
+        }
+      },
+      "away": {
+        "played": 3,
+        "win": 1,
+        "draw": 0,
+        "lose": 2,
+        "goals": {
+          "for": 2,
           "against": 4
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     }
   ],
   [
@@ -733,73 +733,73 @@
       "team": {
         "id": 40,
         "name": "Liverpool",
-        "logo": "https://media-4.api-sports.io/football/teams/40.png"
+        "logo": "https://media.api-sports.io/football/teams/40.png"
       },
-      "points": 9,
-      "goalsDiff": 7,
+      "points": 12,
+      "goalsDiff": 10,
       "group": "Group E",
-      "form": "LWWW",
+      "form": "LWLWW",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
       "all": {
-        "played": 4,
-        "win": 3,
+        "played": 6,
+        "win": 4,
         "draw": 0,
-        "lose": 1,
+        "lose": 2,
         "goals": {
-          "for": 12,
-          "against": 5
+          "for": 17,
+          "against": 7
         }
       },
       "home": {
-        "played": 2,
-        "win": 2,
+        "played": 3,
+        "win": 3,
         "draw": 0,
         "lose": 0,
         "goals": {
-          "for": 7,
+          "for": 11,
           "against": 1
         }
       },
       "away": {
-        "played": 2,
+        "played": 3,
         "win": 1,
         "draw": 0,
-        "lose": 1,
+        "lose": 2,
         "goals": {
-          "for": 5,
-          "against": 4
+          "for": 6,
+          "against": 6
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 2,
       "team": {
         "id": 96,
         "name": "Toulouse",
-        "logo": "https://media-4.api-sports.io/football/teams/96.png"
+        "logo": "https://media.api-sports.io/football/teams/96.png"
       },
-      "points": 7,
-      "goalsDiff": -2,
+      "points": 11,
+      "goalsDiff": -1,
       "group": "Group E",
-      "form": "WLWD",
+      "form": "WDWLW",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
-        "win": 2,
-        "draw": 1,
+        "played": 6,
+        "win": 3,
+        "draw": 2,
         "lose": 1,
         "goals": {
-          "for": 6,
-          "against": 8
+          "for": 8,
+          "against": 9
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 2,
-        "draw": 0,
+        "draw": 1,
         "lose": 0,
         "goals": {
           "for": 4,
@@ -807,258 +807,223 @@
         }
       },
       "away": {
-        "played": 2,
-        "win": 0,
+        "played": 3,
+        "win": 1,
         "draw": 1,
         "lose": 1,
         "goals": {
-          "for": 2,
-          "against": 6
+          "for": 4,
+          "against": 7
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 3,
       "team": {
         "id": 1393,
         "name": "Union St. Gilloise",
-        "logo": "https://media-4.api-sports.io/football/teams/1393.png"
+        "logo": "https://media.api-sports.io/football/teams/1393.png"
       },
-      "points": 4,
-      "goalsDiff": -4,
+      "points": 8,
+      "goalsDiff": -3,
       "group": "Group E",
-      "form": "LWLD",
+      "form": "WDLWL",
       "status": "same",
       "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
-        "win": 1,
-        "draw": 1,
+        "played": 6,
+        "win": 2,
+        "draw": 2,
         "lose": 2,
         "goals": {
-          "for": 3,
-          "against": 7
+          "for": 5,
+          "against": 8
         }
       },
       "home": {
-        "played": 2,
-        "win": 1,
+        "played": 3,
+        "win": 2,
         "draw": 1,
         "lose": 0,
         "goals": {
-          "for": 3,
-          "against": 2
+          "for": 5,
+          "against": 3
         }
       },
       "away": {
-        "played": 2,
+        "played": 3,
         "win": 0,
-        "draw": 0,
+        "draw": 1,
         "lose": 2,
         "goals": {
           "for": 0,
           "against": 5
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 4,
       "team": {
         "id": 1026,
         "name": "Lask Linz",
-        "logo": "https://media-4.api-sports.io/football/teams/1026.png"
+        "logo": "https://media.api-sports.io/football/teams/1026.png"
       },
       "points": 3,
-      "goalsDiff": -1,
+      "goalsDiff": -6,
       "group": "Group E",
-      "form": "WLLL",
+      "form": "LLWLL",
       "status": "same",
       "description": null,
       "all": {
-        "played": 4,
+        "played": 6,
         "win": 1,
         "draw": 0,
-        "lose": 3,
+        "lose": 5,
         "goals": {
-          "for": 5,
-          "against": 6
+          "for": 6,
+          "against": 12
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 1,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 4,
-          "against": 3
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 0,
         "draw": 0,
         "lose": 2,
         "goals": {
-          "for": 1,
-          "against": 3
+          "for": 5,
+          "against": 5
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "away": {
+        "played": 3,
+        "win": 0,
+        "draw": 0,
+        "lose": 3,
+        "goals": {
+          "for": 1,
+          "against": 7
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
     }
   ],
   [
     {
       "rank": 1,
       "team": {
-        "id": 94,
-        "name": "Rennes",
-        "logo": "https://media-4.api-sports.io/football/teams/94.png"
+        "id": 533,
+        "name": "Villarreal",
+        "logo": "https://media.api-sports.io/football/teams/533.png"
       },
-      "points": 9,
-      "goalsDiff": 5,
+      "points": 13,
+      "goalsDiff": 2,
       "group": "Group F",
-      "form": "WWLW",
+      "form": "WDWWW",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
       "all": {
-        "played": 4,
-        "win": 3,
-        "draw": 0,
+        "played": 6,
+        "win": 4,
+        "draw": 1,
         "lose": 1,
         "goals": {
-          "for": 8,
-          "against": 3
+          "for": 9,
+          "against": 7
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 2,
-        "draw": 0,
+        "draw": 1,
         "lose": 0,
         "goals": {
-          "for": 6,
-          "against": 1
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 1,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 2,
+          "for": 4,
           "against": 2
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "away": {
+        "played": 3,
+        "win": 2,
+        "draw": 0,
+        "lose": 1,
+        "goals": {
+          "for": 5,
+          "against": 5
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 2,
       "team": {
-        "id": 533,
-        "name": "Villarreal",
-        "logo": "https://media-4.api-sports.io/football/teams/533.png"
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media.api-sports.io/football/teams/94.png"
       },
-      "points": 6,
-      "goalsDiff": 0,
+      "points": 12,
+      "goalsDiff": 7,
       "group": "Group F",
-      "form": "WWL",
+      "form": "LWWWL",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
       "all": {
+        "played": 6,
+        "win": 4,
+        "draw": 0,
+        "lose": 2,
+        "goals": {
+          "for": 13,
+          "against": 6
+        }
+      },
+      "home": {
         "played": 3,
         "win": 2,
         "draw": 0,
         "lose": 1,
         "goals": {
-          "for": 3,
-          "against": 3
-        }
-      },
-      "home": {
-        "played": 1,
-        "win": 1,
-        "draw": 0,
-        "lose": 0,
-        "goals": {
-          "for": 1,
-          "against": 0
+          "for": 8,
+          "against": 4
         }
       },
       "away": {
-        "played": 2,
-        "win": 1,
+        "played": 3,
+        "win": 2,
         "draw": 0,
         "lose": 1,
         "goals": {
-          "for": 2,
-          "against": 3
+          "for": 5,
+          "against": 2
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 3,
       "team": {
-        "id": 617,
-        "name": "Panathinaikos",
-        "logo": "https://media-4.api-sports.io/football/teams/617.png"
+        "id": 4195,
+        "name": "Maccabi Haifa",
+        "logo": "https://media.api-sports.io/football/teams/4195.png"
       },
-      "points": 4,
-      "goalsDiff": -1,
+      "points": 5,
+      "goalsDiff": -6,
       "group": "Group F",
-      "form": "LLDW",
+      "form": "WDLLD",
       "status": "same",
       "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
+        "played": 6,
         "win": 1,
-        "draw": 1,
-        "lose": 2,
+        "draw": 2,
+        "lose": 3,
         "goals": {
-          "for": 4,
-          "against": 5
+          "for": 3,
+          "against": 9
         }
       },
       "home": {
-        "played": 2,
-        "win": 1,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 3,
-          "against": 2
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 0,
-        "draw": 1,
-        "lose": 1,
-        "goals": {
-          "for": 1,
-          "against": 3
-        }
-      },
-      "update": "2023-11-12T00:00:00+00:00"
-    },
-    {
-      "rank": 4,
-      "team": {
-        "id": 4195,
-        "name": "Maccabi Haifa",
-        "logo": "https://media-4.api-sports.io/football/teams/4195.png"
-      },
-      "points": 1,
-      "goalsDiff": -4,
-      "group": "Group F",
-      "form": "LDL",
-      "status": "same",
-      "description": null,
-      "all": {
         "played": 3,
         "win": 0,
         "draw": 1,
@@ -1068,27 +1033,62 @@
           "against": 5
         }
       },
-      "home": {
-        "played": 2,
-        "win": 0,
+      "away": {
+        "played": 3,
+        "win": 1,
         "draw": 1,
         "lose": 1,
         "goals": {
-          "for": 1,
-          "against": 2
+          "for": 2,
+          "against": 4
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
+    },
+    {
+      "rank": 4,
+      "team": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png"
+      },
+      "points": 4,
+      "goalsDiff": -3,
+      "group": "Group F",
+      "form": "LLLLD",
+      "status": "same",
+      "description": null,
+      "all": {
+        "played": 6,
+        "win": 1,
+        "draw": 1,
+        "lose": 4,
+        "goals": {
+          "for": 7,
+          "against": 10
+        }
+      },
+      "home": {
+        "played": 3,
+        "win": 1,
+        "draw": 0,
+        "lose": 2,
+        "goals": {
+          "for": 4,
+          "against": 4
         }
       },
       "away": {
-        "played": 1,
+        "played": 3,
         "win": 0,
-        "draw": 0,
-        "lose": 1,
+        "draw": 1,
+        "lose": 2,
         "goals": {
-          "for": 0,
-          "against": 3
+          "for": 3,
+          "against": 6
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     }
   ],
   [
@@ -1097,180 +1097,180 @@
       "team": {
         "id": 560,
         "name": "Slavia Praha",
-        "logo": "https://media-4.api-sports.io/football/teams/560.png"
+        "logo": "https://media.api-sports.io/football/teams/560.png"
       },
-      "points": 9,
-      "goalsDiff": 8,
+      "points": 15,
+      "goalsDiff": 13,
       "group": "Group G",
-      "form": "WLWW",
+      "form": "WWWLW",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
       "all": {
-        "played": 4,
-        "win": 3,
+        "played": 6,
+        "win": 5,
         "draw": 0,
         "lose": 1,
         "goals": {
-          "for": 10,
-          "against": 2
+          "for": 17,
+          "against": 4
         }
       },
       "home": {
-        "played": 2,
-        "win": 2,
+        "played": 3,
+        "win": 3,
         "draw": 0,
         "lose": 0,
         "goals": {
-          "for": 8,
+          "for": 12,
           "against": 0
         }
       },
       "away": {
-        "played": 2,
-        "win": 1,
+        "played": 3,
+        "win": 2,
         "draw": 0,
         "lose": 1,
         "goals": {
-          "for": 2,
-          "against": 2
+          "for": 5,
+          "against": 4
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 2,
       "team": {
         "id": 497,
         "name": "AS Roma",
-        "logo": "https://media-4.api-sports.io/football/teams/497.png"
+        "logo": "https://media.api-sports.io/football/teams/497.png"
       },
-      "points": 9,
-      "goalsDiff": 5,
+      "points": 13,
+      "goalsDiff": 8,
       "group": "Group G",
-      "form": "LWWW",
+      "form": "WDLWW",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
-        "win": 3,
-        "draw": 0,
+        "played": 6,
+        "win": 4,
+        "draw": 1,
         "lose": 1,
         "goals": {
-          "for": 8,
-          "against": 3
+          "for": 12,
+          "against": 4
         }
       },
       "home": {
-        "played": 2,
-        "win": 2,
+        "played": 3,
+        "win": 3,
         "draw": 0,
         "lose": 0,
         "goals": {
-          "for": 6,
+          "for": 9,
           "against": 0
         }
       },
       "away": {
-        "played": 2,
+        "played": 3,
         "win": 1,
-        "draw": 0,
+        "draw": 1,
         "lose": 1,
         "goals": {
-          "for": 2,
-          "against": 3
+          "for": 3,
+          "against": 4
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 3,
       "team": {
         "id": 2184,
         "name": "Servette FC",
-        "logo": "https://media-4.api-sports.io/football/teams/2184.png"
+        "logo": "https://media.api-sports.io/football/teams/2184.png"
       },
-      "points": 4,
-      "goalsDiff": -5,
+      "points": 5,
+      "goalsDiff": -9,
       "group": "Group G",
-      "form": "WDLL",
+      "form": "LDWDL",
       "status": "same",
       "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
+        "played": 6,
         "win": 1,
-        "draw": 1,
-        "lose": 2,
+        "draw": 2,
+        "lose": 3,
         "goals": {
-          "for": 3,
-          "against": 8
+          "for": 4,
+          "against": 13
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 1,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 2,
-          "against": 3
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 0,
         "draw": 1,
         "lose": 1,
         "goals": {
-          "for": 1,
-          "against": 5
+          "for": 3,
+          "against": 4
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "away": {
+        "played": 3,
+        "win": 0,
+        "draw": 1,
+        "lose": 2,
+        "goals": {
+          "for": 1,
+          "against": 9
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 4,
       "team": {
         "id": 568,
         "name": "Sheriff Tiraspol",
-        "logo": "https://media-4.api-sports.io/football/teams/568.png"
+        "logo": "https://media.api-sports.io/football/teams/568.png"
       },
       "points": 1,
-      "goalsDiff": -8,
+      "goalsDiff": -12,
       "group": "Group G",
-      "form": "LDLL",
+      "form": "LLLDL",
       "status": "same",
       "description": null,
       "all": {
-        "played": 4,
+        "played": 6,
         "win": 0,
         "draw": 1,
-        "lose": 3,
+        "lose": 5,
         "goals": {
-          "for": 3,
-          "against": 11
+          "for": 5,
+          "against": 17
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 0,
         "draw": 1,
-        "lose": 1,
+        "lose": 2,
         "goals": {
-          "for": 2,
-          "against": 3
+          "for": 4,
+          "against": 6
         }
       },
       "away": {
-        "played": 2,
+        "played": 3,
         "win": 0,
         "draw": 0,
-        "lose": 2,
+        "lose": 3,
         "goals": {
           "for": 1,
-          "against": 8
+          "against": 11
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     }
   ],
   [
@@ -1279,127 +1279,72 @@
       "team": {
         "id": 168,
         "name": "Bayer Leverkusen",
-        "logo": "https://media-4.api-sports.io/football/teams/168.png"
+        "logo": "https://media.api-sports.io/football/teams/168.png"
       },
-      "points": 12,
-      "goalsDiff": 10,
+      "points": 18,
+      "goalsDiff": 16,
       "group": "Group H",
-      "form": "WWWW",
+      "form": "WWWWW",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/8-finals)",
       "all": {
-        "played": 4,
-        "win": 4,
+        "played": 6,
+        "win": 6,
         "draw": 0,
         "lose": 0,
         "goals": {
-          "for": 12,
-          "against": 2
+          "for": 19,
+          "against": 3
         }
       },
       "home": {
-        "played": 2,
-        "win": 2,
+        "played": 3,
+        "win": 3,
         "draw": 0,
         "lose": 0,
         "goals": {
-          "for": 9,
-          "against": 1
+          "for": 14,
+          "against": 2
         }
       },
       "away": {
-        "played": 2,
-        "win": 2,
+        "played": 3,
+        "win": 3,
         "draw": 0,
         "lose": 0,
         "goals": {
-          "for": 3,
+          "for": 5,
           "against": 1
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 2,
       "team": {
         "id": 556,
         "name": "Qarabag",
-        "logo": "https://media-4.api-sports.io/football/teams/556.png"
+        "logo": "https://media.api-sports.io/football/teams/556.png"
       },
-      "points": 6,
-      "goalsDiff": -3,
+      "points": 10,
+      "goalsDiff": -2,
       "group": "Group H",
-      "form": "LLWW",
+      "form": "WDLLW",
       "status": "same",
       "description": "Promotion - Europa League (Play Offs: 1/16-finals)",
       "all": {
-        "played": 4,
-        "win": 2,
-        "draw": 0,
+        "played": 6,
+        "win": 3,
+        "draw": 1,
         "lose": 2,
         "goals": {
-          "for": 3,
-          "against": 6
+          "for": 7,
+          "against": 9
         }
       },
       "home": {
-        "played": 2,
-        "win": 1,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 1,
-          "against": 1
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 1,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 2,
-          "against": 5
-        }
-      },
-      "update": "2023-11-12T00:00:00+00:00"
-    },
-    {
-      "rank": 3,
-      "team": {
-        "id": 329,
-        "name": "Molde",
-        "logo": "https://media-4.api-sports.io/football/teams/329.png"
-      },
-      "points": 6,
-      "goalsDiff": 4,
-      "group": "Group H",
-      "form": "WWLL",
-      "status": "same",
-      "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
-      "all": {
-        "played": 4,
+        "played": 3,
         "win": 2,
-        "draw": 0,
-        "lose": 2,
-        "goals": {
-          "for": 9,
-          "against": 5
-        }
-      },
-      "home": {
-        "played": 2,
-        "win": 1,
-        "draw": 0,
-        "lose": 1,
-        "goals": {
-          "for": 6,
-          "against": 3
-        }
-      },
-      "away": {
-        "played": 2,
-        "win": 1,
         "draw": 0,
         "lose": 1,
         "goals": {
@@ -1407,52 +1352,107 @@
           "against": 2
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "away": {
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goals": {
+          "for": 4,
+          "against": 7
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
+    },
+    {
+      "rank": 3,
+      "team": {
+        "id": 329,
+        "name": "Molde",
+        "logo": "https://media.api-sports.io/football/teams/329.png"
+      },
+      "points": 7,
+      "goalsDiff": 0,
+      "group": "Group H",
+      "form": "LDWWL",
+      "status": "same",
+      "description": "Promotion - Europa Conference League (Play Offs: 1/16-finals)",
+      "all": {
+        "played": 6,
+        "win": 2,
+        "draw": 1,
+        "lose": 3,
+        "goals": {
+          "for": 12,
+          "against": 12
+        }
+      },
+      "home": {
+        "played": 3,
+        "win": 1,
+        "draw": 1,
+        "lose": 1,
+        "goals": {
+          "for": 8,
+          "against": 5
+        }
+      },
+      "away": {
+        "played": 3,
+        "win": 1,
+        "draw": 0,
+        "lose": 2,
+        "goals": {
+          "for": 4,
+          "against": 7
+        }
+      },
+      "update": "2023-12-17T00:00:00+00:00"
     },
     {
       "rank": 4,
       "team": {
         "id": 367,
         "name": "BK Hacken",
-        "logo": "https://media-4.api-sports.io/football/teams/367.png"
+        "logo": "https://media.api-sports.io/football/teams/367.png"
       },
       "points": 0,
-      "goalsDiff": -11,
+      "goalsDiff": -14,
       "group": "Group H",
-      "form": "LLLL",
+      "form": "LLLLL",
       "status": "same",
       "description": null,
       "all": {
-        "played": 4,
+        "played": 6,
         "win": 0,
         "draw": 0,
-        "lose": 4,
+        "lose": 6,
         "goals": {
-          "for": 2,
-          "against": 13
+          "for": 3,
+          "against": 17
         }
       },
       "home": {
-        "played": 2,
+        "played": 3,
         "win": 0,
         "draw": 0,
-        "lose": 2,
+        "lose": 3,
         "goals": {
           "for": 1,
-          "against": 4
+          "against": 6
         }
       },
       "away": {
-        "played": 2,
+        "played": 3,
         "win": 0,
         "draw": 0,
-        "lose": 2,
+        "lose": 3,
         "goals": {
-          "for": 1,
-          "against": 9
+          "for": 2,
+          "against": 11
         }
       },
-      "update": "2023-11-12T00:00:00+00:00"
+      "update": "2023-12-17T00:00:00+00:00"
     }
   ]
 ]

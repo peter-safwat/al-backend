@@ -1154,5 +1154,73 @@
         "away": null
       }
     }
+  },
+  {
+    "fixture": {
+      "id": 1038171,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-01-26T20:00:00+00:00",
+      "timestamp": 1706299200,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 19216,
+        "name": "Power Horse Stadium – Estadio de los Juegos Mediterráneos",
+        "city": "Almería"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 140,
+      "name": "La Liga",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/140.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2023,
+      "round": "Regular Season - 22"
+    },
+    "teams": {
+      "home": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png",
+        "winner": null
+      },
+      "away": {
+        "id": 542,
+        "name": "Alaves",
+        "logo": "https://media.api-sports.io/football/teams/542.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
   }
 ]

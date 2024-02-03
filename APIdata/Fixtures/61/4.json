@@ -1290,5 +1290,73 @@
         "away": null
       }
     }
+  },
+  {
+    "fixture": {
+      "id": 1045053,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2024-02-03T16:00:00+00:00",
+      "timestamp": 1706976000,
+      "periods": {
+        "first": null,
+        "second": null
+      },
+      "venue": {
+        "id": 680,
+        "name": "Roazhon Park",
+        "city": "Rennes"
+      },
+      "status": {
+        "long": "Not Started",
+        "short": "NS",
+        "elapsed": null
+      }
+    },
+    "league": {
+      "id": 61,
+      "name": "Ligue 1",
+      "country": "France",
+      "logo": "https://media.api-sports.io/football/leagues/61.png",
+      "flag": "https://media.api-sports.io/flags/fr.svg",
+      "season": 2023,
+      "round": "Regular Season - 20"
+    },
+    "teams": {
+      "home": {
+        "id": 94,
+        "name": "Rennes",
+        "logo": "https://media.api-sports.io/football/teams/94.png",
+        "winner": null
+      },
+      "away": {
+        "id": 82,
+        "name": "Montpellier",
+        "logo": "https://media.api-sports.io/football/teams/82.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": null,
+      "away": null
+    },
+    "score": {
+      "halftime": {
+        "home": null,
+        "away": null
+      },
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
   }
 ]

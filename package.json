@@ -39,6 +39,7 @@
     "node-cron": "^3.0.3",
     "nodemailer": "^6.9.4",
     "sharp": "^0.32.4",
+    "socket.io": "^4.7.4",
     "validator": "^13.9.0"
   },
   "engines": {

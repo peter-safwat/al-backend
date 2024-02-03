@@ -4,6 +4,18 @@ const authController = require("../controllers/authController");
 
 const router = express.Router();
 
+// websites users
+router
+  .route("/regulerUsers/tempMail/checkAvailability")
+  .post(userController.checkUsernameAvailability);
+router.route("/regulrUsers/tempMail").post(userController.createTempUser);
+
+router
+  .route("/regulerUsers")
+  // .get(userController.getAllUsers)
+  .post(userController.loginUser)
+  .patch(userController.updateRegulerUser);
+
 // router.post("/signup", authController.signup);
 router.post("/login", authController.login);
 router.get("/logout", authController.logout);

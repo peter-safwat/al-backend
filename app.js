@@ -29,7 +29,6 @@ const statisticsController = require("./controllers/statisticsController");
 const EventsLiveDataController = require("./controllers/EventsLiveDataController");
 
 const app = express();
-
 // 1) GLOBAL MIDDLEWARES
 // Set security HTTP headers
 app.use(helmet());
@@ -52,10 +51,8 @@ if (process.env.NODE_ENV === "development") {
 
 app.use(express.json({ limit: "10000kb" }));
 
-// app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-// app.use(cors());
 app.use(bodyParser.json());
 
 // Data sanitization against NoSQL query injection
@@ -71,27 +68,6 @@ app.use((req, res, next) => {
   next();
 });
 
-cron.schedule("* */1 * * * *", statisticsController.getStandingsScheduledData);
-
-cron.schedule(
-  "* * */1 * * *",
-  statisticsController.getFixturesAndResultsForLeaguesScheduledData
-);
-
-cron.schedule(
-  "* * */9 * * *",
-  statisticsController.getFixturesAndResultsForCupsScheduledData
-);
-
-cron.schedule(
-  "* */1 * * * *",
-  EventsLiveDataController.gitFootballLiveMatchesData
-);
-cron.schedule(
-  "* */1 * * * *",
-  EventsLiveDataController.gitOtherSportsLiveMatchesData
-);
-
 app.use(
   cors({
     origin: ["http://localhost:3000", "https://aj-umber.vercel.app"],
@@ -99,6 +75,28 @@ app.use(
     allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
+
+// cron.schedule("* */1 * * * *", statisticsController.getStandingsScheduledData);
+
+// cron.schedule(
+//   "* * */1 * * *",
+//   statisticsController.getFixturesAndResultsForLeaguesScheduledData
+// );
+
+// cron.schedule(
+//   "* * */9 * * *",
+//   statisticsController.getFixturesAndResultsForCupsScheduledData
+// );
+
+// cron.schedule(
+//   "* */1 * * * *",
+//   EventsLiveDataController.gitFootballLiveMatchesData
+// );
+// cron.schedule(
+//   "*/3 * * * * *",
+//   EventsLiveDataController.gitOtherSportsLiveMatchesData
+// );
+
 // 3) ROUTES
 
 app.use("/api/users", userRouter);
