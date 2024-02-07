@@ -99,6 +99,23 @@ exports.loginUser = catchAsync(async (req, res, next) => {
     },
   });
 });
+exports.updateUserLooks= catchAsync(async (req, res, next) => {
+  const { user } = req.body;
+  const userExist = await User.findOne({ name: user.name });
+  if (!userExist) {
+    res.status(404).json({
+      status: "fail",
+      message:
+        "this username is not connected to the website , please login and continue",
+    });
+    return;
+  }
+  const updatedUser = await User.findOneAndUpdate({ name: user.name }, user, {
+    new: true,
+  }).exec();
+  res.status(200).json({ status: "success", user: updatedUser });
+});
+
 exports.updateRegulerUser = catchAsync(async (req, res, next) => {
   console.log(req.body);
   const user = { ...req.body };
