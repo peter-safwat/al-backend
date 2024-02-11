@@ -57,6 +57,13 @@ app.use(bodyParser.json());
 
 // Data sanitization against NoSQL query injection
 app.use(mongoSanitize());
+app.use(
+  cors({
+    origin: ["http://localhost:3000", "https://aj-umber.vercel.app"],
+    methods: ["GET", "POST", "PATCH", "DELETE"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
 
 // Serving static files
 app.use(express.static(`${__dirname}/public`));
@@ -67,14 +74,6 @@ app.use((req, res, next) => {
   // console.log(req.headers);
   next();
 });
-
-app.use(
-  cors({
-    origin: ["http://localhost:3000", "https://aj-umber.vercel.app"],
-    methods: ["GET", "POST", "PATCH", "DELETE"],
-    allowedHeaders: ["Content-Type", "Authorization"],
-  })
-);
 
 // cron.schedule("* */1 * * * *", statisticsController.getStandingsScheduledData);
 

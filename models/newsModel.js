@@ -24,6 +24,12 @@ const newsSchema = new mongoose.Schema({
       image: String,
     },
   ],
+  comments: [
+    {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "Comment",
+    },
+  ],
   createdAt: {
     type: Date,
     default: Date.now(),
