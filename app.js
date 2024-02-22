@@ -96,6 +96,14 @@ app.use((req, res, next) => {
 //   EventsLiveDataController.gitOtherSportsLiveMatchesData
 // );
 
+app.use((req, res, next) => {
+  const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
+  console.log('Client IP:', ip);
+  next();
+});
+
+
+
 // 3) ROUTES
 
 app.use("/api/users", userRouter);
