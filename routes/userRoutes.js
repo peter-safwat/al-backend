@@ -10,7 +10,9 @@ router
   .post(userController.checkUsernameAvailability);
 router.route("/regulrUsers/tempMail").post(userController.createTempUser);
 
-router.route("/regulerUsers/looks").patch(userController.updateUserLooks);
+router
+  .route("/regulerUsers/looks")
+  .patch(userController.uploadUserImage, userController.updateUserLooks);
 
 router
   .route("/regulerUsers")

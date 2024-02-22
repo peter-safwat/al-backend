@@ -3,6 +3,7 @@ const User = require("../models/userModel");
 const catchAsync = require("../utils/catchAsync");
 const AppError = require("../utils/appError");
 const factory = require("./handlerFactory");
+const multer = require("multer");
 
 const filterObj = (obj, ...allowedFields) => {
   const newObj = {};
@@ -99,8 +100,15 @@ exports.loginUser = catchAsync(async (req, res, next) => {
     },
   });
 });
-exports.updateUserLooks= catchAsync(async (req, res, next) => {
-  const { user } = req.body;
+exports.updateUserLooks = catchAsync(async (req, res, next) => {
+  console.log("reqqq");
+  console.log(req.files);
+  // console.log(req.body.name);
+  let { user } = req.body;
+  if (req.files) {
+    user = { name: req.body.name, image: req.files[0].filename };
+  }
+
   const userExist = await User.findOne({ name: user.name });
   if (!userExist) {
     res.status(404).json({
@@ -205,3 +213,31 @@ exports.createTempUser = catchAsync(async (req, res, next) => {
     },
   });
 });
+const multerFilter = (req, file, cb) => {
+  if (file) {
+    if (file.mimetype.startsWith("image")) {
+      cb(null, true);
+    } else {
+      cb(new AppError("Not an image! Please upload only images.", 400), false);
+    }
+  } else {
+    cb(null, true);
+  }
+};
+
+const storage = multer.diskStorage({
+  destination: function (req, file, cb) {
+    cb(null, "public/img/users/");
+  },
+  filename: function (req, file, cb) {
+    cb(
+      null,
+      `user-${Date.now()}.${file.originalname.slice(
+        file.originalname.lastIndexOf(".") + 1
+      )}`
+    );
+  },
+});
+
+const upload = multer({ storage: storage, fileFilter: multerFilter });
+exports.uploadUserImage = upload.any();
