@@ -13,6 +13,11 @@ const ChatPollSchema = new mongoose.Schema({
     type: Array,
     required: [true, "please enter the inputs values for the poll question"],
   },
+  createdAt: {
+    type: Date,
+    // default: Date.now(),
+    required: [true, "please enter the date now"],
+  },
 });
 
 const ChatPoll = mongoose.model("ChatPoll", ChatPollSchema);

@@ -31,7 +31,10 @@ const server = createServer(app); // Use createServer directly for the HTTP serv
 
 const io = new Server(server, {
   cors: {
-    origin: "http://localhost:3000", // Change this to your client's origin
+    origin: [
+      "http://localhost:3000",
+      "https://ajfinal-git-master-petersafwat11.vercel.app",
+    ], // Change this to your client's origin
     methods: ["GET", "POST"],
   },
 });
@@ -44,19 +47,19 @@ io.on("connection", (socket) => {
     // Broadcast the event to all other clients except the sender
     socket.broadcast.emit("chat message English (Default)", message);
   });
-  
+
   socket.on("chat message Espain", (message) => {
     console.log("Received event from frontend:", message);
     // Broadcast the event to all other clients except the sender
     socket.broadcast.emit("chat message English (Default)", message);
   });
-  
+
   socket.on("chat message العربية", (message) => {
     console.log("Received event from frontend:", message);
     // Broadcast the event to all other clients except the sender
     socket.broadcast.emit("chat message English (Default)", message);
   });
-  
+
   socket.on("chat message Français", (message) => {
     console.log("Received event from frontend:", message);
     // Broadcast the event to all other clients except the sender

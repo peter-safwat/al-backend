@@ -33,6 +33,8 @@ router
   .route("/chatFilteredWords/:id")
   .patch(chatController.updateChatFilteredWords);
 
+router.route("/vote").patch(chatController.makeVote);
+
 router
   .route("/chatPoll")
   //   .get(channelsController.getAllChannels)
