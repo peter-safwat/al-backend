@@ -59,7 +59,10 @@ app.use(bodyParser.json());
 app.use(mongoSanitize());
 app.use(
   cors({
-    origin: ["http://localhost:3000", "https://aj-umber.vercel.app"],
+    origin: [
+      "http://localhost:3000",
+      "https://ajfinal-git-master-petersafwat11.vercel.app",
+    ],
     methods: ["GET", "POST", "PATCH", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })
@@ -97,12 +100,10 @@ app.use((req, res, next) => {
 // );
 
 app.use((req, res, next) => {
-  const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
-  console.log('Client IP:', ip);
+  const ip = req.headers["x-forwarded-for"] || req.connection.remoteAddress;
+  console.log("Client IP:", ip);
   next();
 });
-
-
 
 // 3) ROUTES
 
