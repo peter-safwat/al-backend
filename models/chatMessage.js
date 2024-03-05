@@ -18,11 +18,12 @@ const chatMessageSchema = new mongoose.Schema({
     type: String,
     required: [true, "please enter the message you want to send!"],
   },
+  mode: {
+    type: String,
+    default: "normal",
+  },
 });
 
-const ChatMessage = mongoose.model(
-  "ChatMessage",
-  chatMessageSchema
-);
+const ChatMessage = mongoose.model("ChatMessage", chatMessageSchema);
 
 module.exports = ChatMessage;

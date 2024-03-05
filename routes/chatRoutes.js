@@ -7,7 +7,10 @@ const router = express.Router();
 router
   .route("/")
   .post(chatController.sendMessage)
-  .get(chatController.getAllMessages);
+  .get(chatController.getAllMessages)
+  .delete(chatController.deleteMessages)
+  .patch(chatController.updateMessages);
+router.route("/:id").patch(chatController.updateMessage);
 
 router
   .route("/chatRules")
@@ -34,6 +37,13 @@ router
   .patch(chatController.updateChatFilteredWords);
 
 router.route("/vote").patch(chatController.makeVote);
+router
+  .route("/chatMode")
+  // .post(chatController.createchatMode)
+  // .patch(chatController.updateChatMode)
+  .get(chatController.getChatMode);
+
+router.route("/chatMode/:id").patch(chatController.updateChatMode);
 
 router
   .route("/chatPoll")

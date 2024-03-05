@@ -51,20 +51,26 @@ io.on("connection", (socket) => {
   socket.on("chat message Espain", (message) => {
     console.log("Received event from frontend:", message);
     // Broadcast the event to all other clients except the sender
-    socket.broadcast.emit("chat message English (Default)", message);
+    socket.broadcast.emit("chat message Espain", message);
   });
 
   socket.on("chat message العربية", (message) => {
     console.log("Received event from frontend:", message);
     // Broadcast the event to all other clients except the sender
-    socket.broadcast.emit("chat message English (Default)", message);
+    socket.broadcast.emit("chat message العربية", message);
   });
 
   socket.on("chat message Français", (message) => {
     console.log("Received event from frontend:", message);
     // Broadcast the event to all other clients except the sender
-    socket.broadcast.emit("chat message English (Default)", message);
+    socket.broadcast.emit("chat message Français", message);
   });
+  socket.on("slow mode", (message) => {
+    console.log("Received event from frontend:", message, "slow mode");
+    // Broadcast the event to all other clients except the sender
+    socket.broadcast.emit("slow mode", message);
+  });
+
   socket.on("disconnect", () => {
     console.log("user disconnected");
   });
