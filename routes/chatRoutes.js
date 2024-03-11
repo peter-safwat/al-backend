@@ -4,6 +4,8 @@ const chatController = require("../controllers/chatController");
 const authController = require("../controllers/authController");
 const router = express.Router();
 
+router.route("/vote").patch(chatController.makeVote);
+
 router
   .route("/")
   .post(chatController.sendMessage)
@@ -36,7 +38,6 @@ router
   .route("/chatFilteredWords/:id")
   .patch(chatController.updateChatFilteredWords);
 
-router.route("/vote").patch(chatController.makeVote);
 router
   .route("/chatMode")
   // .post(chatController.createchatMode)

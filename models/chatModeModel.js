@@ -8,7 +8,6 @@ const chatModeSchema = new mongoose.Schema({
   slowMode: {
     type: {
       value: { type: Boolean, default: false },
-      createdAt: Date,
       time: Number,
     },
     // required: [true, "please selcet the room you want to communicate in!"],

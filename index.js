@@ -65,10 +65,15 @@ io.on("connection", (socket) => {
     // Broadcast the event to all other clients except the sender
     socket.broadcast.emit("chat message Français", message);
   });
-  socket.on("slow mode", (message) => {
-    console.log("Received event from frontend:", message, "slow mode");
+  socket.on("chat mode", (data) => {
+    console.log("chat mode updated:", data);
     // Broadcast the event to all other clients except the sender
-    socket.broadcast.emit("slow mode", message);
+    socket.broadcast.emit("chat mode", data);
+  });
+  socket.on("chat poll", (data) => {
+    console.log("chat poll added:", data);
+    // Broadcast the event to all other clients except the sender
+    socket.broadcast.emit("chat poll", data);
   });
 
   socket.on("disconnect", () => {

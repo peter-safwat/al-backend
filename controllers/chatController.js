@@ -11,6 +11,8 @@ const ChatMessage = require("../models/chatMessage");
 const factory = require("./handlerFactory");
 const catchAsync = require("../utils/catchAsync");
 
+const { ObjectId } = mongoose.Types;
+
 exports.createchatRules = factory.createOne(ChatRules);
 exports.updateChatRules = factory.updateOne(ChatRules);
 exports.getChatRules = factory.getAll(ChatRules);
@@ -40,7 +42,6 @@ exports.updateMessage = factory.updateOne(ChatMessage);
 exports.updateMessages = catchAsync(async (req, res, next) => {
   // Convert array of strings to array of ObjectIDs
   const { idsToUpdate, updateData } = req.body;
-  const { ObjectId } = mongoose.Types;
 
   const objectIds = idsToUpdate.map((id) => new ObjectId(id));
 
@@ -56,26 +57,30 @@ exports.updateMessages = catchAsync(async (req, res, next) => {
 });
 exports.makeVote = catchAsync(async (req, res, next) => {
   const { pollId, voteValue } = req.body;
-
+  const objectIdPollId = new ObjectId(pollId);
   const updatedPoll = await ChatPoll.findOneAndUpdate(
-    { _id: pollId, "inputs.value": voteValue },
-    { $inc: { "inputs.$.votes": 1 } },
+    { _id: objectIdPollId, "inputs.value": voteValue },
+    {
+      $inc: {
+        "inputs.$.votes": 1, // Increment the votes for the specific input
+        totalVotes: 1, // Increment the totalVotes by 1
+      },
+    },
     { new: true }
   );
-
   if (!updatedPoll) {
     return res.status(404).json({ error: "Poll not found or input not found" });
   }
 
-  let totalVotes = 0;
-  updatedPoll.inputs.forEach((input) => {
-    totalVotes += input.votes;
-  });
+  // let totalVotes = 0;
+  // updatedPoll.inputs.forEach((input) => {
+  //   totalVotes += input.votes;
+  // });
 
   // Include total votes in the response
   res.status(200).json({
     message: "Vote submitted successfully",
     poll: updatedPoll,
-    totalVotes: totalVotes,
+    // totalVotes: totalVotes,
   });
 });

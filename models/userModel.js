@@ -16,7 +16,7 @@ const userSchema = new mongoose.Schema({
   },
   color: {
     type: String,
-    default: "#B71DFF",
+    default: "rgb(183, 29, 255)",
   },
   createdAt: {
     type: Date,
