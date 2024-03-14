@@ -90,14 +90,14 @@ app.use((req, res, next) => {
 //   statisticsController.getFixturesAndResultsForCupsScheduledData
 // );
 
-// cron.schedule(
-//   "* */1 * * * *",
-//   EventsLiveDataController.gitFootballLiveMatchesData
-// );
-// cron.schedule(
-//   "*/3 * * * * *",
-//   EventsLiveDataController.gitOtherSportsLiveMatchesData
-// );
+cron.schedule(
+  "* */1 * * * *",
+  EventsLiveDataController.gitFootballLiveMatchesData
+);
+cron.schedule(
+  "*/3 * * * * *",
+  EventsLiveDataController.gitOtherSportsLiveMatchesData
+);
 
 // app.use((req, res, next) => {
 //   const ip = req.headers["x-forwarded-for"] || req.connection.remoteAddress;
@@ -106,10 +106,17 @@ app.use((req, res, next) => {
 // });
 
 // 3) ROUTES
-
+app.use(
+  "/api/contact-us",
+  (req, res, next) => {
+    console.log("req.body");
+    console.dir(req.body);
+    next();
+  },
+  conatctUsRouter
+);
 app.use("/api/users", userRouter);
 app.use("/api/links", linksRouter);
-app.use("/api/contact-us", conatctUsRouter);
 app.use("/api/newsletter", newsletterRouter);
 app.use("/api/feedback", feedbackRouter);
 app.use("/api/channels", channelsRouter);

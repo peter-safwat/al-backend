@@ -14,7 +14,7 @@ const getFootballLineUps = async (eventId, filePath) => {
     url: "https://api-football-v1.p.rapidapi.com/v3/fixtures/lineups",
     params: { fixture: eventId },
     headers: {
-      "X-RapidAPI-Key": "5cb056bd4cmsh99302d93650a33fp1360f2jsn67d3464fb9c7",
+      "X-RapidAPI-Key": "92c814bc30msh07cc976712f6472p1b4e19jsnc7b06a3e742a",
       "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
     },
   };
@@ -42,7 +42,7 @@ const getFootballstatistics = async (eventId, filePath) => {
     url: "https://api-football-v1.p.rapidapi.com/v3/fixtures/statistics",
     params: { fixture: eventId },
     headers: {
-      "X-RapidAPI-Key": "5cb056bd4cmsh99302d93650a33fp1360f2jsn67d3464fb9c7",
+      "X-RapidAPI-Key": "92c814bc30msh07cc976712f6472p1b4e19jsnc7b06a3e742a",
       "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
     },
   };
@@ -70,7 +70,7 @@ const getFootballEvents = async (eventId, filePath) => {
     url: "https://api-football-v1.p.rapidapi.com/v3/fixtures/events",
     params: { fixture: eventId },
     headers: {
-      "X-RapidAPI-Key": "5cb056bd4cmsh99302d93650a33fp1360f2jsn67d3464fb9c7",
+      "X-RapidAPI-Key": "92c814bc30msh07cc976712f6472p1b4e19jsnc7b06a3e742a",
       "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
     },
   };
@@ -126,7 +126,7 @@ const getOthersLineUps = async (eventId, filePath) => {
       matchId: eventId,
     },
     headers: {
-      "X-RapidAPI-Key": "5cb056bd4cmsh99302d93650a33fp1360f2jsn67d3464fb9c7",
+      "X-RapidAPI-Key": "92c814bc30msh07cc976712f6472p1b4e19jsnc7b06a3e742a",
       "X-RapidAPI-Host": "divanscore.p.rapidapi.com",
     },
   };
@@ -153,7 +153,7 @@ const getOthersstatistics = async (eventId, filePath) => {
     url: "https://divanscore.p.rapidapi.com/matches/get-statistics",
     params: { matchId: eventId },
     headers: {
-      "X-RapidAPI-Key": "5cb056bd4cmsh99302d93650a33fp1360f2jsn67d3464fb9c7",
+      "X-RapidAPI-Key": "92c814bc30msh07cc976712f6472p1b4e19jsnc7b06a3e742a",
       "X-RapidAPI-Host": "divanscore.p.rapidapi.com",
     },
   };
@@ -180,7 +180,7 @@ const getOthersSummery = async (eventId, filePath) => {
     url: "https://divanscore.p.rapidapi.com/matches/get-statistics",
     params: { matchId: eventId },
     headers: {
-      "X-RapidAPI-Key": "5cb056bd4cmsh99302d93650a33fp1360f2jsn67d3464fb9c7",
+      "X-RapidAPI-Key": "92c814bc30msh07cc976712f6472p1b4e19jsnc7b06a3e742a",
       "X-RapidAPI-Host": "divanscore.p.rapidapi.com",
     },
   };
@@ -250,7 +250,7 @@ const getDataForOtherSportslLiveEvents = catchAsync(async (folderPath) => {
       }
       //  else if (folderPath.includes("events")) {
       //   getOthersstatistics(eventId, filePath);
-      // } 
+      // }
       else if (folderPath.includes("Summery")) {
         getOthersSummery(eventId, filePath);
       }

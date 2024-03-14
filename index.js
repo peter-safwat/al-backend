@@ -39,8 +39,8 @@ const io = new Server(server, {
   },
 });
 io.on("connection", (socket) => {
-  console.log("a user connected");
-  console.log(socket.id); // Access the socket ID
+  // console.log("a user connected");
+  // console.log(socket.id); // Access the socket ID
 
   socket.on("chat message English (Default)", (message) => {
     console.log("Received event from frontend:", message);
@@ -76,9 +76,9 @@ io.on("connection", (socket) => {
     socket.broadcast.emit("chat poll", data);
   });
 
-  socket.on("disconnect", () => {
-    console.log("user disconnected");
-  });
+  // socket.on("disconnect", () => {
+  //   console.log("user disconnected");
+  // });
 });
 
 server.listen(port, () => {
