@@ -41,10 +41,10 @@ app.use((req, res, next) => {
 //   statisticsController.getFixturesAndResultsForCupsScheduledData
 // );
 
-cron.schedule(
-  "* */1 * * * *",
-  EventsLiveDataController.gitFootballLiveMatchesData
-);
+// cron.schedule(
+//   "* */1 * * * *",
+//   EventsLiveDataController.gitFootballLiveMatchesData
+// );
 cron.schedule(
   "* */1 * * * *",
   EventsLiveDataController.gitOtherSportsLiveMatchesData
