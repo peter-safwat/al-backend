@@ -121,7 +121,6 @@ exports.makeFileWillHoldStats = catchAsync(async (req, res, next) => {
 
   const basePath = path.join(
     __dirname,
-    // "../",
     "../",
     "APIdata",
     "Matches"
@@ -140,8 +139,16 @@ exports.makeFileWillHoldStats = catchAsync(async (req, res, next) => {
 
     if (!fs.existsSync(folderFullullPath)) {
       // Create the folder
-      fs.mkdirSync(folderFullullPath);
-      console.log(`Folder "${folderFullullPath}" created successfully.`);
+      fs.mkdirSync(folderFullullPath, { recursive: true }, (err) => {
+        if (err) {
+          console.error('Error creating directory:', err);
+        } else {
+          console.log('Directory created successfully:', folderFullullPath);
+        }
+      });
+      
+      // fs.mkdirSync(folderFullullPath);
+      // console.log(`Folder "${folderFullullPath}" created successfully.`);
     }
     const timestamp = new Date(req.body.eventDate).getTime() / 1000;
     const fileName = `${req.body.matchId}-${timestamp}.json`;
