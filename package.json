@@ -4,9 +4,11 @@
   "description": "the API of the ajsports website",
   "main": "index.js",
   "scripts": {
-    "start": "concurrently \"npm run start-main\" \"npm run start-fetching\"",
+    "start:2": "concurrently \"npm run start-main\" \"npm run start-fetching\"",
+    "start": "node index.js",
     "start-main": "node index.js",
     "start-fetching": "cd fetching && node index.js",
+
     "dev": "nodemon index.js",
     "debug": "ndb index.js"
   },
