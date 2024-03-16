@@ -14,6 +14,7 @@ exports.gitEventLineups = catchAsync(async (req, res, next) => {
   const folderPath = path.join(
     __dirname,
     "../",
+    "../",
     "APIdata",
     "Matches",
     category,
@@ -48,6 +49,8 @@ exports.gitEventStatistics = catchAsync(async (req, res, next) => {
   const folderPath = path.join(
     __dirname,
     "../",
+    "../",
+
     "APIdata",
     "Matches",
     category,
@@ -78,15 +81,12 @@ exports.gitEventStatistics = catchAsync(async (req, res, next) => {
   });
 });
 exports.gitEventData = catchAsync(async (req, res, next) => {
-  console.log("3");
-  console.log("3");
-  console.log("3");
-
   const { matchId, sportCategory, eventDate, dataType } = req.query;
   const formattedDate = eventDate.split("T")[0];
   const category = sportCategory === "football" ? "Football" : "Others";
   const folderPath = path.join(
     __dirname,
+    // "../",
     "../",
     "APIdata",
     "Matches",

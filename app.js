@@ -90,14 +90,14 @@ app.use((req, res, next) => {
 //   statisticsController.getFixturesAndResultsForCupsScheduledData
 // );
 
-cron.schedule(
-  "* */1 * * * *",
-  EventsLiveDataController.gitFootballLiveMatchesData
-);
-cron.schedule(
-  "*/3 * * * * *",
-  EventsLiveDataController.gitOtherSportsLiveMatchesData
-);
+// cron.schedule(
+//   "* */1 * * * *",
+//   EventsLiveDataController.gitFootballLiveMatchesData
+// );
+// cron.schedule(
+//   "* */1 * * * *",
+//   EventsLiveDataController.gitOtherSportsLiveMatchesData
+// );
 
 // app.use((req, res, next) => {
 //   const ip = req.headers["x-forwarded-for"] || req.connection.remoteAddress;

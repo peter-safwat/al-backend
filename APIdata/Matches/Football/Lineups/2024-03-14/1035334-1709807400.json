@@ -1,0 +1,418 @@
+[
+  {
+    "team": {
+      "id": 35,
+      "name": "Bournemouth",
+      "logo": "https://media.api-sports.io/football/teams/35.png",
+      "colors": {
+        "player": {
+          "primary": "c4211f",
+          "number": "ffffff",
+          "border": "c4211f"
+        },
+        "goalkeeper": {
+          "primary": "f1ee3f",
+          "number": "020300",
+          "border": "f1ee3f"
+        }
+      }
+    },
+    "formation": "4-2-3-1",
+    "startXI": [
+      {
+        "player": {
+          "id": 912,
+          "name": "Neto",
+          "number": 1,
+          "pos": "G",
+          "grid": "1:1"
+        }
+      },
+      {
+        "player": {
+          "id": 18869,
+          "name": "Adam Smith",
+          "number": 15,
+          "pos": "D",
+          "grid": "2:4"
+        }
+      },
+      {
+        "player": {
+          "id": 18866,
+          "name": "Chris Mepham",
+          "number": 6,
+          "pos": "D",
+          "grid": "2:3"
+        }
+      },
+      {
+        "player": {
+          "id": 161671,
+          "name": "Illia Zabarnyi",
+          "number": 27,
+          "pos": "D",
+          "grid": "2:2"
+        }
+      },
+      {
+        "player": {
+          "id": 284797,
+          "name": "Dango Ouattara",
+          "number": 11,
+          "pos": "D",
+          "grid": "2:1"
+        }
+      },
+      {
+        "player": {
+          "id": 18872,
+          "name": "Lewis Cook",
+          "number": 4,
+          "pos": "M",
+          "grid": "3:2"
+        }
+      },
+      {
+        "player": {
+          "id": 1125,
+          "name": "Ryan Christie",
+          "number": 10,
+          "pos": "M",
+          "grid": "3:1"
+        }
+      },
+      {
+        "player": {
+          "id": 19281,
+          "name": "Antoine Semenyo",
+          "number": 24,
+          "pos": "M",
+          "grid": "4:3"
+        }
+      },
+      {
+        "player": {
+          "id": 304853,
+          "name": "Alex Scott",
+          "number": 14,
+          "pos": "M",
+          "grid": "4:2"
+        }
+      },
+      {
+        "player": {
+          "id": 37161,
+          "name": "Luis Sinisterra",
+          "number": 17,
+          "pos": "M",
+          "grid": "4:1"
+        }
+      },
+      {
+        "player": {
+          "id": 18883,
+          "name": "Dominic Solanke",
+          "number": 9,
+          "pos": "F",
+          "grid": "5:1"
+        }
+      }
+    ],
+    "substitutes": [
+      {
+        "player": {
+          "id": 19245,
+          "name": "Marcus Tavernier",
+          "number": 16,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 47499,
+          "name": "Enes Ünal",
+          "number": 26,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 1150,
+          "name": "Tyler Adams",
+          "number": 18,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 20093,
+          "name": "James Hill",
+          "number": 23,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 2734,
+          "name": "Philip Billing",
+          "number": 29,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 18860,
+          "name": "Mark Travers",
+          "number": 42,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 206254,
+          "name": "Miloš Kerkez",
+          "number": 3,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 792,
+          "name": "Justin Kluivert",
+          "number": 19,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 84082,
+          "name": "Romain Faivre",
+          "number": 8,
+          "pos": "M",
+          "grid": null
+        }
+      }
+    ],
+    "coach": {
+      "id": null,
+      "name": null
+    }
+  },
+  {
+    "team": {
+      "id": 1359,
+      "name": "Luton",
+      "logo": "https://media.api-sports.io/football/teams/1359.png",
+      "colors": {
+        "player": {
+          "primary": "ffffff",
+          "number": "fa7900",
+          "border": "ffffff"
+        },
+        "goalkeeper": {
+          "primary": "00f112",
+          "number": "ffffff",
+          "border": "00f112"
+        }
+      }
+    },
+    "formation": "3-4-2-1",
+    "startXI": [
+      {
+        "player": {
+          "id": 8471,
+          "name": "Thomas Kaminski",
+          "number": 24,
+          "pos": "G",
+          "grid": "1:1"
+        }
+      },
+      {
+        "player": {
+          "id": 19408,
+          "name": "Reece Burke",
+          "number": 16,
+          "pos": "D",
+          "grid": "2:3"
+        }
+      },
+      {
+        "player": {
+          "id": 153429,
+          "name": "Teden Mengi",
+          "number": 15,
+          "pos": "D",
+          "grid": "2:2"
+        }
+      },
+      {
+        "player": {
+          "id": 33095,
+          "name": "Daiki Hashioka",
+          "number": 27,
+          "pos": "D",
+          "grid": "2:1"
+        }
+      },
+      {
+        "player": {
+          "id": 140947,
+          "name": "Issa Kaboré",
+          "number": 12,
+          "pos": "M",
+          "grid": "3:4"
+        }
+      },
+      {
+        "player": {
+          "id": 20189,
+          "name": "Jordan Clark",
+          "number": 18,
+          "pos": "M",
+          "grid": "3:3"
+        }
+      },
+      {
+        "player": {
+          "id": 2287,
+          "name": "Ross Barkley",
+          "number": 6,
+          "pos": "M",
+          "grid": "3:2"
+        }
+      },
+      {
+        "player": {
+          "id": 19829,
+          "name": "Alfie Doughty",
+          "number": 45,
+          "pos": "M",
+          "grid": "3:1"
+        }
+      },
+      {
+        "player": {
+          "id": 19365,
+          "name": "Chiedozie Ogbene",
+          "number": 7,
+          "pos": "F",
+          "grid": "4:2"
+        }
+      },
+      {
+        "player": {
+          "id": 906,
+          "name": "Tahith Chong",
+          "number": 14,
+          "pos": "F",
+          "grid": "4:1"
+        }
+      },
+      {
+        "player": {
+          "id": 19083,
+          "name": "Carlton Morris",
+          "number": 9,
+          "pos": "F",
+          "grid": "5:1"
+        }
+      }
+    ],
+    "substitutes": [
+      {
+        "player": {
+          "id": 19767,
+          "name": "Pelly Ruddock Mpanzu",
+          "number": 17,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 19808,
+          "name": "Cauley Woodrow",
+          "number": 10,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 19759,
+          "name": "Luke Berry",
+          "number": 8,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 18854,
+          "name": "Andros Townsend",
+          "number": 30,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 19061,
+          "name": "Tim Krul",
+          "number": 23,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 19750,
+          "name": "James Shea",
+          "number": 1,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 406508,
+          "name": "Axel Piesold",
+          "number": 44,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 379627,
+          "name": "Zack Nelson",
+          "number": 43,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 456129,
+          "name": "Dominic Martins",
+          "number": 48,
+          "pos": "M",
+          "grid": null
+        }
+      }
+    ],
+    "coach": {
+      "id": null,
+      "name": null
+    }
+  }
+]

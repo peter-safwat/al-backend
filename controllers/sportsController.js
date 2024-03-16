@@ -119,7 +119,13 @@ exports.makeFileWillHoldStats = catchAsync(async (req, res, next) => {
   }
   const folderName = req.body.eventDate.split("T")[0];
 
-  const basePath = path.join(__dirname, "../", "APIdata", "Matches");
+  const basePath = path.join(
+    __dirname,
+    // "../",
+    "../",
+    "APIdata",
+    "Matches"
+  );
 
   // Combine the base path and folder name to create the full path
   const { dataTypes } = sportCategoryApiDataTypes.find(
