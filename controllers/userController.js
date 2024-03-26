@@ -213,6 +213,19 @@ exports.createTempUser = catchAsync(async (req, res, next) => {
     },
   });
 });
+exports.deleteTempUser = catchAsync(async (req, res, next) => {
+  const { name } = req.body;
+  const doc = await User.deleteOne({ name: name });
+
+  if (!doc) {
+    return next(new AppError("No document found with that ID", 404));
+  }
+
+  res.status(200).json({
+    status: "success",
+    data: null,
+  });
+});
 const multerFilter = (req, file, cb) => {
   if (file) {
     if (file.mimetype.startsWith("image")) {

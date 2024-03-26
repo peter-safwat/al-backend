@@ -8,7 +8,8 @@ const router = express.Router();
 router
   .route("/regulerUsers/tempMail/checkAvailability")
   .post(userController.checkUsernameAvailability);
-router.route("/regulrUsers/tempMail").post(userController.createTempUser);
+router.route("/regulrUsers/tempMail").post(userController.createTempUser).delete(userController.deleteTempUser);
+
 
 router
   .route("/regulerUsers/looks")
