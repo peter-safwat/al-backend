@@ -16,7 +16,7 @@ router
 router
   .route("/")
   .get(
-    // sportsController.filterOldData,
+    sportsController.filterOldData,
     sportsController.getAllSports
   )
   .post(

@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const AppError = require("../utils/appError");
+const AppError = require("../utils/AppError");
 const Sport = require("./sportModel");
 
 const serversAndLanguagesSchema = new mongoose.Schema({

@@ -14,7 +14,7 @@ const port = process.env.PORT || 4000;
 const server = createServer(app); // Use createServer directly for the HTTP server
 
 server.listen(port, () => {
-  console.log(`App running on port ${port}...`);
+  console.log(`app running on port ${port}...`);
 });
 
 process.on("unhandledRejection", (err) => {

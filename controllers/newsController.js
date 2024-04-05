@@ -4,7 +4,7 @@ const multer = require("multer");
 
 const News = require("../models/newsModel");
 const factory = require("./handlerFactory");
-const AppError = require("../utils/appError");
+const AppError = require("../utils/AppError");
 const catchAsync = require("../utils/catchAsync");
 const APIFeatures = require("../utils/apiFeatures");
 

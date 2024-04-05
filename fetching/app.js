@@ -3,10 +3,11 @@ const cron = require("node-cron");
 
 const bodyParser = require("body-parser");
 
-const AppError = require("./utils/appError");
+const AppError = require("./utils/AppError");
 const globalErrorHandler = require("./controllers/errorController");
 const statisticsController = require("./controllers/statisticsController");
 const EventsLiveDataController = require("./controllers/EventsLiveDataController");
+const DeleteOldDataController = require("./controllers/DeleteOldDataController");
 
 const app = express();
 // 1) GLOBAL MIDDLEWARES
@@ -41,14 +42,15 @@ app.use((req, res, next) => {
 //   statisticsController.getFixturesAndResultsForCupsScheduledData
 // );
 
-// cron.schedule(
-//   "* */1 * * * *",
-//   EventsLiveDataController.gitFootballLiveMatchesData
-// );
 cron.schedule(
-  "* */1 * * * *",
+  "0 * * * * *",
+  EventsLiveDataController.gitFootballLiveMatchesData
+);
+cron.schedule(
+  "0 * * * * *",
   EventsLiveDataController.gitOtherSportsLiveMatchesData
 );
+cron.schedule("0 2 * * *", DeleteOldDataController.deletOldSportsEvents);
 
 // 3) ROUTES
 app.all("*", (req, res, next) => {

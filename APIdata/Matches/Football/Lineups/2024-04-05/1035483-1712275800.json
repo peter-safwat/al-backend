@@ -1,0 +1,409 @@
+[
+  {
+    "team": {
+      "id": 50,
+      "name": "Manchester City",
+      "logo": "https://media.api-sports.io/football/teams/50.png",
+      "colors": {
+        "player": {
+          "primary": "abd1f5",
+          "number": "004e85",
+          "border": "abd1f5"
+        },
+        "goalkeeper": {
+          "primary": "00cc0f",
+          "number": "ffffff",
+          "border": "00cc0f"
+        }
+      }
+    },
+    "formation": "4-2-3-1",
+    "startXI": [
+      {
+        "player": {
+          "id": 25004,
+          "name": "Stefan Ortega",
+          "number": 18,
+          "pos": "G",
+          "grid": "1:1"
+        }
+      },
+      {
+        "player": {
+          "id": 284230,
+          "name": "Rico Lewis",
+          "number": 82,
+          "pos": "D",
+          "grid": "2:4"
+        }
+      },
+      {
+        "player": {
+          "id": 567,
+          "name": "Rúben Dias",
+          "number": 3,
+          "pos": "D",
+          "grid": "2:3"
+        }
+      },
+      {
+        "player": {
+          "id": 5,
+          "name": "Manuel Akanji",
+          "number": 25,
+          "pos": "D",
+          "grid": "2:2"
+        }
+      },
+      {
+        "player": {
+          "id": 129033,
+          "name": "Joško Gvardiol",
+          "number": 24,
+          "pos": "D",
+          "grid": "2:1"
+        }
+      },
+      {
+        "player": {
+          "id": 44,
+          "name": "Rodri",
+          "number": 16,
+          "pos": "M",
+          "grid": "3:2"
+        }
+      },
+      {
+        "player": {
+          "id": 636,
+          "name": "Bernardo Silva",
+          "number": 20,
+          "pos": "M",
+          "grid": "3:1"
+        }
+      },
+      {
+        "player": {
+          "id": 1422,
+          "name": "Jérémy Doku",
+          "number": 11,
+          "pos": "M",
+          "grid": "4:3"
+        }
+      },
+      {
+        "player": {
+          "id": 631,
+          "name": "Phil Foden",
+          "number": 47,
+          "pos": "M",
+          "grid": "4:2"
+        }
+      },
+      {
+        "player": {
+          "id": 19187,
+          "name": "Jack Grealish",
+          "number": 10,
+          "pos": "M",
+          "grid": "4:1"
+        }
+      },
+      {
+        "player": {
+          "id": 6009,
+          "name": "Julián Álvarez",
+          "number": 19,
+          "pos": "F",
+          "grid": "5:1"
+        }
+      }
+    ],
+    "substitutes": [
+      {
+        "player": {
+          "id": 41621,
+          "name": "Matheus Nunes",
+          "number": 27,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 2291,
+          "name": "Mateo Kovačić",
+          "number": 8,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 278133,
+          "name": "Oscar Bobb",
+          "number": 52,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 23,
+          "name": "Sergio Gómez",
+          "number": 21,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 19197,
+          "name": "Scott Carson",
+          "number": 33,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 626,
+          "name": "John Stones",
+          "number": 5,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 629,
+          "name": "Kevin De Bruyne",
+          "number": 17,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 328097,
+          "name": "Mahamadou Susoho",
+          "number": 76,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 1100,
+          "name": "Erling Haaland",
+          "number": 9,
+          "pos": "F",
+          "grid": null
+        }
+      }
+    ],
+    "coach": {
+      "id": null,
+      "name": null
+    }
+  },
+  {
+    "team": {
+      "id": 66,
+      "name": "Aston Villa",
+      "logo": "https://media.api-sports.io/football/teams/66.png",
+      "colors": {
+        "player": {
+          "primary": "88002d",
+          "number": "ffffff",
+          "border": "88002d"
+        },
+        "goalkeeper": {
+          "primary": "64e458",
+          "number": "000000",
+          "border": "64e458"
+        }
+      }
+    },
+    "formation": "4-2-3-1",
+    "startXI": [
+      {
+        "player": {
+          "id": 766,
+          "name": "Robin Olsen",
+          "number": 25,
+          "pos": "G",
+          "grid": "1:1"
+        }
+      },
+      {
+        "player": {
+          "id": 19354,
+          "name": "Ezri Konsa",
+          "number": 4,
+          "pos": "D",
+          "grid": "2:4"
+        }
+      },
+      {
+        "player": {
+          "id": 21090,
+          "name": "Diego Carlos",
+          "number": 3,
+          "pos": "D",
+          "grid": "2:3"
+        }
+      },
+      {
+        "player": {
+          "id": 133,
+          "name": "Clément Lenglet",
+          "number": 17,
+          "pos": "D",
+          "grid": "2:2"
+        }
+      },
+      {
+        "player": {
+          "id": 2724,
+          "name": "Lucas Digne",
+          "number": 12,
+          "pos": "D",
+          "grid": "2:1"
+        }
+      },
+      {
+        "player": {
+          "id": 284500,
+          "name": "Tim Iroegbunam",
+          "number": 47,
+          "pos": "M",
+          "grid": "3:2"
+        }
+      },
+      {
+        "player": {
+          "id": 47522,
+          "name": "Douglas Luiz",
+          "number": 6,
+          "pos": "M",
+          "grid": "3:1"
+        }
+      },
+      {
+        "player": {
+          "id": 277,
+          "name": "Moussa Diaby",
+          "number": 19,
+          "pos": "M",
+          "grid": "4:3"
+        }
+      },
+      {
+        "player": {
+          "id": 19170,
+          "name": "Morgan Rogers",
+          "number": 27,
+          "pos": "M",
+          "grid": "4:2"
+        }
+      },
+      {
+        "player": {
+          "id": 786,
+          "name": "Nicolò Zaniolo",
+          "number": 22,
+          "pos": "M",
+          "grid": "4:1"
+        }
+      },
+      {
+        "player": {
+          "id": 13489,
+          "name": "Jhon Durán",
+          "number": 24,
+          "pos": "F",
+          "grid": "5:1"
+        }
+      }
+    ],
+    "substitutes": [
+      {
+        "player": {
+          "id": 983,
+          "name": "Leon Bailey",
+          "number": 31,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 2926,
+          "name": "Youri Tielemans",
+          "number": 8,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 19016,
+          "name": "Calum Chambers",
+          "number": 16,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 47547,
+          "name": "Álex Moreno",
+          "number": 15,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 329347,
+          "name": "Omari Kellyman",
+          "number": 71,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 7029,
+          "name": "Joe Gauci",
+          "number": 18,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 46815,
+          "name": "Pau Torres",
+          "number": 14,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 298128,
+          "name": "Kaine Kesler-Hayden",
+          "number": 29,
+          "pos": "D",
+          "grid": null
+        }
+      }
+    ],
+    "coach": {
+      "id": null,
+      "name": null
+    }
+  }
+]

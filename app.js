@@ -5,11 +5,10 @@ const helmet = require("helmet");
 const mongoSanitize = require("express-mongo-sanitize");
 const cors = require("cors");
 const bodyParser = require("body-parser");
-const cron = require("node-cron");
+// const cron = require("node-cron");
 
 // const bodyParser = require("body-parser");
 
-const AppError = require("./utils/appError");
 const globalErrorHandler = require("./controllers/errorController");
 const userRouter = require("./routes/userRoutes");
 const linksRouter = require("./routes/importantLinksRoutes");
@@ -25,17 +24,18 @@ const serversRouter = require("./routes/serversRoutes");
 const reportedLinksRouter = require("./routes/reportedLinksRoutes");
 const statisticsRouter = require("./routes/statisticsRoutes");
 const chatRouter = require("./routes/chatRoutes");
-const statisticsController = require("./controllers/statisticsController");
-const EventsLiveDataController = require("./controllers/EventsLiveDataController");
+// const statisticsController = require("./controllers/statisticsController");
+// const EventsLiveDataController = require("./controllers/EventsLiveDataController");
+const AppError = require("./utils/AppError");
 
-const app = express();
+const apiRouter = express.Router();
 // 1) GLOBAL MIDDLEWARES
 // Set security HTTP headers
-app.use(helmet());
+apiRouter.use(helmet());
 
 // Development logging
 if (process.env.NODE_ENV === "development") {
-  app.use(morgan("dev"));
+  apiRouter.use(morgan("dev"));
 }
 
 // Limit requests from same API
@@ -44,24 +44,24 @@ if (process.env.NODE_ENV === "development") {
 //   windowMs: 60 * 60 * 1000,
 //   message: 'Too many requests from this IP, please try again in an hour!'
 // });
-// app.use('/api', limiter);
+// apiRouter.use('/api', limiter);
 
 // Body parser, reading data from body into req.body
-// app.use(bodyParser.json({ limit: "100kb" }));
+// apiRouter.use(bodyParser.json({ limit: "100kb" }));
 
-app.use(express.json({ limit: "10000kb" }));
+apiRouter.use(express.json({ limit: "10000kb" }));
 
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-app.use(bodyParser.json());
+apiRouter.use(express.json());
+apiRouter.use(express.urlencoded({ extended: false }));
+apiRouter.use(bodyParser.json());
 
 // Data sanitization against NoSQL query injection
-app.use(mongoSanitize());
-app.use(
+apiRouter.use(mongoSanitize());
+apiRouter.use(
   cors({
     origin: [
       "http://localhost:3000",
-      "https://ajfinal-git-master-petersafwat11.vercel.app",
+      "https://ajfinal-git-master-petersafwat11.vercel.apiRouter",
     ],
     methods: ["GET", "POST", "PATCH", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
@@ -69,71 +69,42 @@ app.use(
 );
 
 // Serving static files
-app.use(express.static(`${__dirname}/public`));
+apiRouter.use(express.static(`${__dirname}/public`));
 
 // Test middleware
-app.use((req, res, next) => {
+apiRouter.use((req, res, next) => {
   req.requestTime = new Date().toISOString();
   // console.log(req.headers);
   next();
 });
 
-// cron.schedule("* */1 * * * *", statisticsController.getStandingsScheduledData);
-
-// cron.schedule(
-//   "* * */1 * * *",
-//   statisticsController.getFixturesAndResultsForLeaguesScheduledData
-// );
-
-// cron.schedule(
-//   "* * */9 * * *",
-//   statisticsController.getFixturesAndResultsForCupsScheduledData
-// );
-
-// cron.schedule(
-//   "* */1 * * * *",
-//   EventsLiveDataController.gitFootballLiveMatchesData
-// );
-// cron.schedule(
-//   "* */1 * * * *",
-//   EventsLiveDataController.gitOtherSportsLiveMatchesData
-// );
-
-// app.use((req, res, next) => {
+// apiRouter.use((req, res, next) => {
 //   const ip = req.headers["x-forwarded-for"] || req.connection.remoteAddress;
 //   console.log("Client IP:", ip);
 //   next();
 // });
 
 // 3) ROUTES
-app.use(
-  "/api/contact-us",
-  (req, res, next) => {
-    console.log("req.body");
-    console.dir(req.body);
-    next();
-  },
-  conatctUsRouter
-);
-app.use("/api/users", userRouter);
-app.use("/api/links", linksRouter);
-app.use("/api/newsletter", newsletterRouter);
-app.use("/api/feedback", feedbackRouter);
-app.use("/api/channels", channelsRouter);
-app.use("/api/giveaway", giveawayRouter);
-app.use("/api/reportedLinks", reportedLinksRouter);
+apiRouter.use("/api/contact-us", conatctUsRouter);
+apiRouter.use("/users", userRouter);
+apiRouter.use("/links", linksRouter);
+apiRouter.use("/newsletter", newsletterRouter);
+apiRouter.use("/feedback", feedbackRouter);
+apiRouter.use("/channels", channelsRouter);
+apiRouter.use("/giveaway", giveawayRouter);
+apiRouter.use("/reportedLinks", reportedLinksRouter);
 
-app.use("/api/news", newsRouter);
-app.use("/api/sports", sportsRouter);
-app.use("/api/servers", serversRouter);
-app.use("/api/streamLink", streamLinksRouter);
-app.use("/api/statistics", statisticsRouter);
-app.use("/api/chat", chatRouter);
+apiRouter.use("/news", newsRouter);
+apiRouter.use("/sports", sportsRouter);
+apiRouter.use("/servers", serversRouter);
+apiRouter.use("/streamLink", streamLinksRouter);
+apiRouter.use("/statistics", statisticsRouter);
+apiRouter.use("/chat", chatRouter);
 
-app.all("*", (req, res, next) => {
+apiRouter.all("*", (req, res, next) => {
   next(new AppError(`Can't find ${req.originalUrl} on this server!`, 404));
 });
 
-app.use(globalErrorHandler);
+apiRouter.use(globalErrorHandler);
 
-module.exports = app;
+module.exports = apiRouter;

@@ -6,7 +6,7 @@ const multer = require("multer");
 const Sport = require("../models/sportModel");
 const CustomAPI = require("../models/CustomAPI");
 const factory = require("./handlerFactory");
-const AppError = require("../utils/appError");
+const AppError = require("../utils/AppError");
 const ServersAndLangs = require("../models/serverAndLangsModel");
 const catchAsync = require("../utils/catchAsync");
 const APIFeatures = require("../utils/apiFeatures");
@@ -14,7 +14,7 @@ const {
   sportCategoryApiDataTypes,
 } = require("../utils/sportCategoryApiDataTypes");
 
-// const AppError = require("../utils/appError");
+// const AppError = require("../utils/AppError");
 
 exports.getMatchByTeamNames = catchAsync(async (req, res) => {
   // const { firstTeamName, secondTeamName } = req.query;
@@ -119,12 +119,7 @@ exports.makeFileWillHoldStats = catchAsync(async (req, res, next) => {
   }
   const folderName = req.body.eventDate.split("T")[0];
 
-  const basePath = path.join(
-    __dirname,
-    "../",
-    "APIdata",
-    "Matches"
-  );
+  const basePath = path.join(__dirname, "../", "APIdata", "Matches");
 
   // Combine the base path and folder name to create the full path
   const { dataTypes } = sportCategoryApiDataTypes.find(
@@ -133,7 +128,7 @@ exports.makeFileWillHoldStats = catchAsync(async (req, res, next) => {
   for (let i = 0; i < dataTypes.length; i = i + 1) {
     const folderFullullPath =
       req.body.sportCategory === "football"
-        ? path.join(basePath, "FootBall", dataTypes[i], folderName)
+        ? path.join(basePath, "Football", dataTypes[i], folderName)
         : path.join(basePath, "Others", dataTypes[i], folderName);
     // Check if the folder already exists
 
@@ -141,12 +136,12 @@ exports.makeFileWillHoldStats = catchAsync(async (req, res, next) => {
       // Create the folder
       fs.mkdirSync(folderFullullPath, { recursive: true }, (err) => {
         if (err) {
-          console.error('Error creating directory:', err);
+          console.error("Error creating directory:", err);
         } else {
-          console.log('Directory created successfully:', folderFullullPath);
+          console.log("Directory created successfully:", folderFullullPath);
         }
       });
-      
+
       // fs.mkdirSync(folderFullullPath);
       // console.log(`Folder "${folderFullullPath}" created successfully.`);
     }

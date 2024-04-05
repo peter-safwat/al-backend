@@ -1,0 +1,862 @@
+[
+  {
+    "period": "ALL",
+    "groups": [
+      {
+        "groupName": "Scoring",
+        "statisticsItems": [
+          {
+            "name": "Free throws",
+            "home": "16/19 (84%)",
+            "away": "5/9 (55%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 16,
+            "awayValue": 5,
+            "homeTotal": 19,
+            "awayTotal": 9
+          },
+          {
+            "name": "2 pointers",
+            "home": "26/54 (48%)",
+            "away": "24/46 (52%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 26,
+            "awayValue": 24,
+            "homeTotal": 54,
+            "awayTotal": 46
+          },
+          {
+            "name": "3 pointers",
+            "home": "13/38 (34%)",
+            "away": "24/47 (51%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 13,
+            "awayValue": 24,
+            "homeTotal": 38,
+            "awayTotal": 47
+          },
+          {
+            "name": "Field goals",
+            "home": "39/92 (42%)",
+            "away": "48/93 (51%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 39,
+            "awayValue": 48,
+            "homeTotal": 92,
+            "awayTotal": 93
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Rebounds",
+            "home": "43",
+            "away": "47",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 43,
+            "awayValue": 47
+          },
+          {
+            "name": "Defensive rebounds",
+            "home": "31",
+            "away": "37",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 31,
+            "awayValue": 37
+          },
+          {
+            "name": "Offensive rebounds",
+            "home": "12",
+            "away": "10",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 12,
+            "awayValue": 10
+          },
+          {
+            "name": "Assists",
+            "home": "22",
+            "away": "24",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 22,
+            "awayValue": 24
+          },
+          {
+            "name": "Turnovers",
+            "home": "10",
+            "away": "13",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 10,
+            "awayValue": 13
+          },
+          {
+            "name": "Steals",
+            "home": "9",
+            "away": "7",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 9,
+            "awayValue": 7
+          },
+          {
+            "name": "Blocks",
+            "home": "3",
+            "away": "8",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 8
+          },
+          {
+            "name": "Fouls",
+            "home": "14",
+            "away": "17",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 14,
+            "awayValue": 17
+          }
+        ]
+      },
+      {
+        "groupName": "Lead",
+        "statisticsItems": [
+          {
+            "name": "Max points in a row",
+            "home": "12",
+            "away": "10",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 12,
+            "awayValue": 10
+          },
+          {
+            "name": "Time spent in lead",
+            "home": "3:24",
+            "away": "43:19",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "time",
+            "homeValue": 204,
+            "awayValue": 2599,
+            "homeTotal": 2880,
+            "awayTotal": 2880
+          },
+          {
+            "name": "Biggest lead",
+            "home": "5",
+            "away": "29",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "period": "1Q",
+    "groups": [
+      {
+        "groupName": "Scoring",
+        "statisticsItems": [
+          {
+            "name": "Free throws",
+            "home": "2/2 (100%)",
+            "away": "2/6 (33%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 2,
+            "awayValue": 2,
+            "homeTotal": 2,
+            "awayTotal": 6
+          },
+          {
+            "name": "2 pointers",
+            "home": "5/12 (41%)",
+            "away": "5/11 (45%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 5,
+            "awayValue": 5,
+            "homeTotal": 12,
+            "awayTotal": 11
+          },
+          {
+            "name": "3 pointers",
+            "home": "4/11 (36%)",
+            "away": "8/11 (72%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 4,
+            "awayValue": 8,
+            "homeTotal": 11,
+            "awayTotal": 11
+          },
+          {
+            "name": "Field goals",
+            "home": "9/23 (39%)",
+            "away": "13/22 (59%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 9,
+            "awayValue": 13,
+            "homeTotal": 23,
+            "awayTotal": 22
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Rebounds",
+            "home": "11",
+            "away": "14",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 11,
+            "awayValue": 14
+          },
+          {
+            "name": "Defensive rebounds",
+            "home": "9",
+            "away": "12",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 9,
+            "awayValue": 12
+          },
+          {
+            "name": "Offensive rebounds",
+            "home": "2",
+            "away": "2",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 2
+          },
+          {
+            "name": "Assists",
+            "home": "7",
+            "away": "5",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 7,
+            "awayValue": 5
+          },
+          {
+            "name": "Turnovers",
+            "home": "2",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 3
+          },
+          {
+            "name": "Steals",
+            "home": "2",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 1
+          },
+          {
+            "name": "Blocks",
+            "home": "0",
+            "away": "2",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 2
+          },
+          {
+            "name": "Fouls",
+            "home": "5",
+            "away": "3",
+            "compareCode": 1,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 3
+          }
+        ]
+      },
+      {
+        "groupName": "Lead",
+        "statisticsItems": [
+          {
+            "name": "Time spent in lead",
+            "home": "3:24",
+            "away": "7:19",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "time",
+            "homeValue": 204,
+            "awayValue": 439,
+            "homeTotal": 720,
+            "awayTotal": 720
+          },
+          {
+            "name": "Biggest lead",
+            "home": "5",
+            "away": "13",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 13
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "period": "2Q",
+    "groups": [
+      {
+        "groupName": "Scoring",
+        "statisticsItems": [
+          {
+            "name": "Free throws",
+            "home": "9/9 (100%)",
+            "away": "1/1 (100%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 9,
+            "awayValue": 1,
+            "homeTotal": 9,
+            "awayTotal": 1
+          },
+          {
+            "name": "2 pointers",
+            "home": "6/14 (42%)",
+            "away": "7/13 (53%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 6,
+            "awayValue": 7,
+            "homeTotal": 14,
+            "awayTotal": 13
+          },
+          {
+            "name": "3 pointers",
+            "home": "0/6 (0%)",
+            "away": "5/13 (38%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 0,
+            "awayValue": 5,
+            "homeTotal": 6,
+            "awayTotal": 13
+          },
+          {
+            "name": "Field goals",
+            "home": "6/20 (30%)",
+            "away": "12/26 (46%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 6,
+            "awayValue": 12,
+            "homeTotal": 20,
+            "awayTotal": 26
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Rebounds",
+            "home": "10",
+            "away": "15",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 10,
+            "awayValue": 15
+          },
+          {
+            "name": "Defensive rebounds",
+            "home": "8",
+            "away": "12",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 8,
+            "awayValue": 12
+          },
+          {
+            "name": "Offensive rebounds",
+            "home": "2",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 3
+          },
+          {
+            "name": "Assists",
+            "home": "4",
+            "away": "6",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 4,
+            "awayValue": 6
+          },
+          {
+            "name": "Turnovers",
+            "home": "1",
+            "away": "2",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 2
+          },
+          {
+            "name": "Steals",
+            "home": "2",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 1
+          },
+          {
+            "name": "Blocks",
+            "home": "1",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 3
+          },
+          {
+            "name": "Fouls",
+            "home": "3",
+            "away": "5",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 5
+          }
+        ]
+      },
+      {
+        "groupName": "Lead",
+        "statisticsItems": [
+          {
+            "name": "Time spent in lead",
+            "home": "0:00",
+            "away": "12:00",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "time",
+            "homeValue": 0,
+            "awayValue": 720,
+            "homeTotal": 720,
+            "awayTotal": 720
+          },
+          {
+            "name": "Biggest lead",
+            "home": "0",
+            "away": "21",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 21
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "period": "3Q",
+    "groups": [
+      {
+        "groupName": "Scoring",
+        "statisticsItems": [
+          {
+            "name": "Free throws",
+            "home": "0/0 (0%)",
+            "away": "1/1 (100%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 0,
+            "awayValue": 1,
+            "homeTotal": 0,
+            "awayTotal": 1
+          },
+          {
+            "name": "2 pointers",
+            "home": "8/14 (57%)",
+            "away": "6/10 (60%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 8,
+            "awayValue": 6,
+            "homeTotal": 14,
+            "awayTotal": 10
+          },
+          {
+            "name": "3 pointers",
+            "home": "4/11 (36%)",
+            "away": "4/11 (36%)",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 4,
+            "awayValue": 4,
+            "homeTotal": 11,
+            "awayTotal": 11
+          },
+          {
+            "name": "Field goals",
+            "home": "12/25 (48%)",
+            "away": "10/21 (47%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 12,
+            "awayValue": 10,
+            "homeTotal": 25,
+            "awayTotal": 21
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Rebounds",
+            "home": "9",
+            "away": "11",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 9,
+            "awayValue": 11
+          },
+          {
+            "name": "Defensive rebounds",
+            "home": "6",
+            "away": "8",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 6,
+            "awayValue": 8
+          },
+          {
+            "name": "Offensive rebounds",
+            "home": "3",
+            "away": "3",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 3
+          },
+          {
+            "name": "Assists",
+            "home": "8",
+            "away": "6",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 8,
+            "awayValue": 6
+          },
+          {
+            "name": "Turnovers",
+            "home": "3",
+            "away": "7",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 7
+          },
+          {
+            "name": "Steals",
+            "home": "4",
+            "away": "3",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 4,
+            "awayValue": 3
+          },
+          {
+            "name": "Blocks",
+            "home": "1",
+            "away": "1",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 1
+          },
+          {
+            "name": "Fouls",
+            "home": "2",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 3
+          }
+        ]
+      },
+      {
+        "groupName": "Lead",
+        "statisticsItems": [
+          {
+            "name": "Time spent in lead",
+            "home": "0:00",
+            "away": "12:00",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "time",
+            "homeValue": 0,
+            "awayValue": 720,
+            "homeTotal": 720,
+            "awayTotal": 720
+          },
+          {
+            "name": "Biggest lead",
+            "home": "0",
+            "away": "29",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 29
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "period": "4Q",
+    "groups": [
+      {
+        "groupName": "Scoring",
+        "statisticsItems": [
+          {
+            "name": "Free throws",
+            "home": "5/8 (62%)",
+            "away": "1/1 (100%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 5,
+            "awayValue": 1,
+            "homeTotal": 8,
+            "awayTotal": 1
+          },
+          {
+            "name": "2 pointers",
+            "home": "7/14 (50%)",
+            "away": "6/12 (50%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 7,
+            "awayValue": 6,
+            "homeTotal": 14,
+            "awayTotal": 12
+          },
+          {
+            "name": "3 pointers",
+            "home": "5/10 (50%)",
+            "away": "7/12 (58%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 5,
+            "awayValue": 7,
+            "homeTotal": 10,
+            "awayTotal": 12
+          },
+          {
+            "name": "Field goals",
+            "home": "12/24 (50%)",
+            "away": "13/24 (54%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 12,
+            "awayValue": 13,
+            "homeTotal": 24,
+            "awayTotal": 24
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Rebounds",
+            "home": "13",
+            "away": "7",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 13,
+            "awayValue": 7
+          },
+          {
+            "name": "Defensive rebounds",
+            "home": "8",
+            "away": "5",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 8,
+            "awayValue": 5
+          },
+          {
+            "name": "Offensive rebounds",
+            "home": "5",
+            "away": "2",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 2
+          },
+          {
+            "name": "Assists",
+            "home": "3",
+            "away": "7",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 7
+          },
+          {
+            "name": "Turnovers",
+            "home": "4",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 4,
+            "awayValue": 1
+          },
+          {
+            "name": "Steals",
+            "home": "1",
+            "away": "2",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 2
+          },
+          {
+            "name": "Blocks",
+            "home": "1",
+            "away": "2",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 2
+          },
+          {
+            "name": "Fouls",
+            "home": "4",
+            "away": "6",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 4,
+            "awayValue": 6
+          }
+        ]
+      },
+      {
+        "groupName": "Lead",
+        "statisticsItems": [
+          {
+            "name": "Time spent in lead",
+            "home": "0:00",
+            "away": "12:00",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "time",
+            "homeValue": 0,
+            "awayValue": 720,
+            "homeTotal": 720,
+            "awayTotal": 720
+          },
+          {
+            "name": "Biggest lead",
+            "home": "0",
+            "away": "28",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 28
+          }
+        ]
+      }
+    ]
+  }
+]

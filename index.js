@@ -1,9 +1,10 @@
+const express = require("express");
 const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const { createServer } = require("http");
 const { Server } = require("socket.io");
 const EventEmitter = require("events");
-const app = require("./app");
+const apiRouter = require("./app");
 
 const ioEmitter = new EventEmitter();
 
@@ -27,8 +28,10 @@ mongoose
   .then(() => console.log("DB connection successful!"));
 
 const port = process.env.PORT || 8000;
-const server = createServer(app); // Use createServer directly for the HTTP server
+const app = express();
+app.use("/api", apiRouter);
 
+const server = createServer(app); // Use createServer directly for the HTTP server
 const io = new Server(server, {
   cors: {
     origin: [
@@ -82,7 +85,7 @@ io.on("connection", (socket) => {
 });
 
 server.listen(port, () => {
-  console.log(`App running on port ${port}...`);
+  console.log(`app running on port ${port}...`);
 });
 
 process.on("unhandledRejection", (err) => {
