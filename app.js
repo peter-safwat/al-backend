@@ -60,6 +60,7 @@ apiRouter.use(mongoSanitize());
 apiRouter.use(
   cors({
     origin: [
+      "https://next14-aj.vercel.app/",
       "http://localhost:3000",
       "https://ajfinal-git-master-petersafwat11.vercel.apiRouter",
     ],
@@ -85,7 +86,6 @@ apiRouter.use((req, res, next) => {
 // });
 
 // 3) ROUTES
-apiRouter.use("/api/contact-us", conatctUsRouter);
 apiRouter.use("/users", userRouter);
 apiRouter.use("/links", linksRouter);
 apiRouter.use("/newsletter", newsletterRouter);
