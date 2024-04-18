@@ -18,7 +18,6 @@ const {
 
 exports.getMatchByTeamNames = catchAsync(async (req, res) => {
   // const { firstTeamName, secondTeamName } = req.query;
-  const dateNow = new Date();
   let findQuery;
   if (req.query.firstTeamName && req.query.secondTeamName) {
     findQuery = {

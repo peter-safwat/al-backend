@@ -16,7 +16,7 @@ router
 router
   .route("/")
   .get(
-    sportsController.filterOldData,
+    // sportsController.filterOldData,
     sportsController.getAllSports
   )
   .post(
@@ -53,16 +53,12 @@ router
     sportsController.deleteOneItemRelatedData,
     sportsController.deleteSport
   );
-router
-  .route("/eventAPIData/lineups")
-  .get(ServreAPIDataController.gitEventData);
+router.route("/eventAPIData/lineups").get(ServreAPIDataController.gitEventData);
 
 router
   .route("/eventAPIData/statistics")
   .get(ServreAPIDataController.gitEventData);
 
-router
-  .route("/eventAPIData/event")
-  .get( ServreAPIDataController.gitEventData);
+router.route("/eventAPIData/event").get(ServreAPIDataController.gitEventData);
 
 module.exports = router;

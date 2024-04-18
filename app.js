@@ -50,7 +50,12 @@ if (process.env.NODE_ENV === "development") {
 // apiRouter.use(bodyParser.json({ limit: "100kb" }));
 
 apiRouter.use(express.json({ limit: "10000kb" }));
-
+apiRouter.use((req, res, next) => {
+  console.log("body");
+  console.log(req.query);
+  console.log(req.body);
+  next();
+});
 apiRouter.use(express.json());
 apiRouter.use(express.urlencoded({ extended: false }));
 apiRouter.use(bodyParser.json());
@@ -60,8 +65,9 @@ apiRouter.use(mongoSanitize());
 apiRouter.use(
   cors({
     origin: [
-      "https://next14-aj.vercel.app/",
+      "https://next14-aj.vercel.app",
       "http://localhost:3000",
+      "http://localhost:3001",
       "https://ajfinal-git-master-petersafwat11.vercel.apiRouter",
     ],
     methods: ["GET", "POST", "PATCH", "DELETE"],

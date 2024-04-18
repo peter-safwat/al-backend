@@ -10,18 +10,9 @@ exports.getChannelByName = catchAsync(async (req, res) => {
     mode: "Visible",
   });
   delete req.query.channelName;
-  const filtered = new APIFeatures(Channels.find(), req.query).filter();
-  const filteredChannels = await filtered.query;
-  const allLanguages = [
-    ...new Set(filteredChannels.map((channel) => channel.language)),
-  ];
-
   res.status(200).json({
     status: "success",
-    allLanguages,
-    data: {
-      data: result,
-    },
+    data: result,
   });
 });
 
@@ -29,22 +20,21 @@ exports.getAllChannels =
   //  factory.getAll(Channels);
 
   catchAsync(async (req, res, next) => {
-    console.log(req.query);
     const features = new APIFeatures(Channels.find(), req.query)
       .sort()
       .filter()
       .paginate();
-    const filtered = new APIFeatures(Channels.find(), req.query).filter();
+    const filtered = new APIFeatures(Channels.find(), req.query)
+      .filter()
+      .countDocs();
     const featuresChannels = await features.query;
     const filteredChannels = await filtered.query;
-    const allLanguages = [
-      ...new Set(filteredChannels.map((channel) => channel.language)),
-    ];
-
+    const allLanguages = await Channels.distinct("language");
+    console.dir(featuresChannels);
     res.status(200).json({
       status: "success",
-      results: filteredChannels.length,
-      allLanguages,
+      results: filteredChannels,
+      allLanguages: allLanguages,
       data: {
         data: featuresChannels,
       },
