@@ -68,7 +68,7 @@ apiRouter.use(
       "https://next14-aj.vercel.app",
       "http://localhost:3000",
       "http://localhost:3001",
-      "https://ajfinal-git-master-petersafwat11.vercel.apiRouter",
+      "https://ajfinal.vercel.app",
     ],
     methods: ["GET", "POST", "PATCH", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
