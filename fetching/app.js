@@ -3,7 +3,7 @@ const cron = require("node-cron");
 
 const bodyParser = require("body-parser");
 
-const AppError = require("./utils/AppError");
+const AppError = require("./utils/appError");
 const globalErrorHandler = require("./controllers/errorController");
 const statisticsController = require("./controllers/statisticsController");
 const EventsLiveDataController = require("./controllers/EventsLiveDataController");

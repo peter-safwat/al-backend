@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 const validator = require("validator");
-const AppError = require("../utils/AppError");
+const AppError = require("../utils/appError");
 
 const newsletterSchema = new mongoose.Schema({
   email: {

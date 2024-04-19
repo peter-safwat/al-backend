@@ -26,7 +26,7 @@ const statisticsRouter = require("./routes/statisticsRoutes");
 const chatRouter = require("./routes/chatRoutes");
 // const statisticsController = require("./controllers/statisticsController");
 // const EventsLiveDataController = require("./controllers/EventsLiveDataController");
-const AppError = require("./utils/AppError");
+const AppError = require("./utils/appError");
 
 const apiRouter = express.Router();
 // 1) GLOBAL MIDDLEWARES
