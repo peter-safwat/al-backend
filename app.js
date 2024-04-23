@@ -54,6 +54,7 @@ apiRouter.use(
       "goggle.com",
       // "http://localhost:3001",
       "https://ajfinal.vercel.app",
+      "https://dashboard-14.vercel.app/",
     ],
     methods: ["GET", "POST", "PATCH", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
