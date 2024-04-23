@@ -4,12 +4,25 @@ const authController = require("../controllers/authController");
 
 const router = express.Router();
 
+// router.use(authController.restrictTo("Admin"));
+router
+  .route("/")
+  .get(userController.getAllUsers)
+  .post(userController.createUser)
+  .delete(userController.deleteManyUsers);
+
+router
+  .route("/:id")
+  .get(userController.getUser)
+  .patch(authController.adminProtection, authController.updateUser);
 // websites users
 router
   .route("/regulerUsers/tempMail/checkAvailability")
   .post(userController.checkUsernameAvailability);
-router.route("/regulrUsers/tempMail").post(userController.createTempUser).delete(userController.deleteTempUser);
-
+router
+  .route("/regulrUsers/tempMail")
+  .post(userController.createTempUser)
+  .delete(userController.deleteTempUser);
 
 router
   .route("/regulerUsers/looks")
@@ -35,17 +48,5 @@ router.patch("/updateMyPassword", authController.updatePassword);
 router.get("/me", userController.getMe, userController.getUser);
 // router.patch("/updateMe", userController.updateMe);
 // router.delete("/deleteMe", userController.deleteMe);
-
-// router.use(authController.restrictTo("Admin"));
-router
-  .route("/")
-  .get(userController.getAllUsers)
-  .post(userController.createUser)
-  .delete(userController.deleteManyUsers);
-
-router
-  .route("/:id")
-  .get(userController.getUser)
-  .patch(authController.adminProtection, authController.updateUser);
 
 module.exports = router;

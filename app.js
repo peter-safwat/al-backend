@@ -46,8 +46,20 @@ if (process.env.NODE_ENV === "development") {
 // });
 // apiRouter.use('/api', limiter);
 
-// Body parser, reading data from body into req.body
-// apiRouter.use(bodyParser.json({ limit: "100kb" }));
+apiRouter.use(
+  cors({
+    origin: [
+      "https://next14-aj.vercel.app",
+      "http://localhost:3000",
+      "goggle.com",
+      // "http://localhost:3001",
+      "https://ajfinal.vercel.app",
+    ],
+    methods: ["GET", "POST", "PATCH", "DELETE"],
+    allowedHeaders: ["Content-Type", "Authorization"],
+  })
+);
+apiRouter.use(express.static(`${__dirname}/public`));
 
 apiRouter.use(express.json({ limit: "10000kb" }));
 apiRouter.use((req, res, next) => {
@@ -62,21 +74,7 @@ apiRouter.use(bodyParser.json());
 
 // Data sanitization against NoSQL query injection
 apiRouter.use(mongoSanitize());
-apiRouter.use(
-  cors({
-    origin: [
-      "https://next14-aj.vercel.app",
-      "http://localhost:3000",
-      "http://localhost:3001",
-      "https://ajfinal.vercel.app",
-    ],
-    methods: ["GET", "POST", "PATCH", "DELETE"],
-    allowedHeaders: ["Content-Type", "Authorization"],
-  })
-);
-
 // Serving static files
-apiRouter.use(express.static(`${__dirname}/public`));
 
 // Test middleware
 apiRouter.use((req, res, next) => {
@@ -92,6 +90,8 @@ apiRouter.use((req, res, next) => {
 // });
 
 // 3) ROUTES
+
+apiRouter.use("/contact-us", conatctUsRouter);
 apiRouter.use("/users", userRouter);
 apiRouter.use("/links", linksRouter);
 apiRouter.use("/newsletter", newsletterRouter);
