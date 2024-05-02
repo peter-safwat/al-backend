@@ -16,7 +16,7 @@ const standingsOptions = {
     league: "",
   },
   headers: {
-    "X-RapidAPI-Key": "92c814bc30msh07cc976712f6472p1b4e19jsnc7b06a3e742a",
+    "X-RapidAPI-Key": "921f373660msha3e0d928464b8e4p198461jsn4e6138ae0d40",
     "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
   },
 };
@@ -109,7 +109,7 @@ const fetchfixuresAndResultDataByLeagueId = async (leagueId, type, order) => {
             : serveDates(order).currDate,
       },
       headers: {
-        "X-RapidAPI-Key": "92c814bc30msh07cc976712f6472p1b4e19jsnc7b06a3e742a",
+        "X-RapidAPI-Key": "921f373660msha3e0d928464b8e4p198461jsn4e6138ae0d40",
         "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com",
       },
     };
