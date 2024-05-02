@@ -48,6 +48,7 @@ exports.getMatchByTeamNames = catchAsync(async (req, res) => {
 
 exports.filterOldData = catchAsync(async (req, res, next) => {
   const dateNow = new Date();
+  
   req.query.removeStream = { gt: dateNow };
   next();
 });

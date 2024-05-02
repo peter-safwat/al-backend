@@ -52,7 +52,7 @@ apiRouter.use(
       "https://next14-aj.vercel.app",
       "http://localhost:3000",
       "goggle.com",
-      // "http://localhost:3001",
+      "http://localhost:3001",
       "https://ajfinal.vercel.app",
       "https://dashboard-14.vercel.app/",
     ],
