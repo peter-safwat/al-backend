@@ -15,10 +15,7 @@ router
 
 router
   .route("/")
-  .get(
-    sportsController.filterOldData,
-    sportsController.getAllSports
-  )
+  .get(sportsController.filterOldData, sportsController.getAllSports)
   .post(
     // authController.protect,
     // authController.restrictTo("Manager", "Moderator", "Admin"),
@@ -42,7 +39,8 @@ router
     // authController.restrictTo("Manager", "Moderator", "Admin"),
     sportsController.uploadEventImages,
     sportsController.handleEditedFiles,
-    // sportsController.test,
+    sportsController.editFileWillHoldStats,
+    sportsController.test,
     sportsController.updateSport
   )
   .get(sportsController.getSport)

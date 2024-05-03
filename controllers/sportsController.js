@@ -16,6 +16,30 @@ const {
 
 // const AppError = require("../utils/appError");
 
+const deleteFilesWithID = (id, folderPath) => {
+  const directoryPath = path.join(folderPath);
+
+  fs.readdir(directoryPath, (err, files) => {
+    if (err) {
+      return console.error("Unable to read directory:", err);
+    }
+
+    files.forEach((file) => {
+      if (file.includes(id)) {
+        // Checks if the file contains the specific ID
+        const filePath = path.join(directoryPath, file);
+
+        fs.unlink(filePath, (err) => {
+          if (err) {
+            return console.error("Unable to delete file:", err);
+          }
+          console.log(`Deleted file: ${filePath}`);
+        });
+      }
+    });
+  });
+};
+
 exports.getMatchByTeamNames = catchAsync(async (req, res) => {
   // const { firstTeamName, secondTeamName } = req.query;
   let findQuery;
@@ -48,7 +72,7 @@ exports.getMatchByTeamNames = catchAsync(async (req, res) => {
 
 exports.filterOldData = catchAsync(async (req, res, next) => {
   const dateNow = new Date();
-  
+
   req.query.removeStream = { gt: dateNow };
   next();
 });
@@ -156,6 +180,48 @@ exports.makeFileWillHoldStats = catchAsync(async (req, res, next) => {
   }
   next();
 });
+exports.editFileWillHoldStats = catchAsync(async (req, res, next) => {
+  if (!req.body.matchId) {
+    return next();
+  }
+
+  const folderName = req.body.eventDate.split("T")[0];
+
+  const basePath = path.join(__dirname, "../", "APIdata", "Matches");
+
+  // Combine the base path and folder name to create the full path
+  const { dataTypes } = sportCategoryApiDataTypes.find(
+    (item) => item.sport === req.body.sportCategory
+  );
+
+  for (let i = 0; i < dataTypes.length; i = i + 1) {
+    const folderFullullPath =
+      req.body.sportCategory === "football"
+        ? path.join(basePath, "Football", dataTypes[i], folderName)
+        : path.join(basePath, "Others", dataTypes[i], folderName);
+    // Check if the folder already exists
+    deleteFilesWithID(req.body.matchId, folderFullullPath);
+    if (!fs.existsSync(folderFullullPath)) {
+      // Create the folder
+      fs.mkdirSync(folderFullullPath, { recursive: true }, (err) => {
+        if (err) {
+          console.error("Error creating directory:", err);
+        } else {
+          console.log("Directory created successfully:", folderFullullPath);
+        }
+      });
+    }
+    const timestamp = new Date(req.body.eventDate).getTime() / 1000;
+    const fileName = `${req.body.matchId}-${timestamp}.json`;
+
+    // Combine the base path and file name to create the full path
+    const filrFullPath = path.join(folderFullullPath, fileName);
+
+    // Create an empty file synchronously
+    fs.writeFileSync(filrFullPath, "");
+  }
+  next();
+});
 exports.handleEditedFiles = catchAsync(async (req, res, next) => {
   if (!req.files) {
     return next();
@@ -186,7 +252,6 @@ exports.handleEditedFiles = catchAsync(async (req, res, next) => {
   delete data.servers;
   req.body = data;
   delete req.body.servers;
-
   next();
 });
 exports.deleteManyItemsRelatedData = async (req, res, next) => {
