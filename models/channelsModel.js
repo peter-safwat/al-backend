@@ -13,14 +13,16 @@ const channelsSchema = new mongoose.Schema({
     type: String,
     required: [true, "please enter the language for this channel!"],
   },
-  streamLinkName: {
-    type: String,
-    required: [true, "please enter the stream link name for this channel!"],
-  },
-  streamLinkUrl: {
-    type: String,
-    required: [true, "please enter the stream link url for this channel!"],
-  },
+  streamLink: { type: mongoose.Schema.Types.ObjectId, ref: "StreamLink" },
+
+  // streamLinkName: {
+  //   type: String,
+  //   required: [true, "please enter the stream link name for this channel!"],
+  // },
+  // streamLinkUrl: {
+  //   type: String,
+  //   required: [true, "please enter the stream link url for this channel!"],
+  // },
 });
 
 const Channels = mongoose.model("Channels", channelsSchema);

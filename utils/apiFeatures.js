@@ -41,7 +41,7 @@ class APIFeatures {
 
     if (this.queryString.otherCategory === "true") {
       queryStr.sportCategory = {
-        $nin: ["football", "basketball", "nfl", "boxing"],
+        $nin: ["football", "basketball", "nfl", "fights"],
       };
     }
     this.query = this.query.find(queryStr);
