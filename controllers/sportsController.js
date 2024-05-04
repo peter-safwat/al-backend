@@ -1,15 +1,21 @@
 const fsPromise = require("fs").promises;
 const fs = require("fs");
 const path = require("path");
+const mongoose = require("mongoose");
 
 const multer = require("multer");
 const Sport = require("../models/sportModel");
 const CustomAPI = require("../models/CustomAPI");
+const MatchPoll = require("../models/MatchPoll");
 const factory = require("./handlerFactory");
 const AppError = require("../utils/appError");
 const ServersAndLangs = require("../models/serverAndLangsModel");
 const catchAsync = require("../utils/catchAsync");
+
+const { ObjectId } = mongoose.Types;
+
 const APIFeatures = require("../utils/apiFeatures");
+
 const {
   sportCategoryApiDataTypes,
 } = require("../utils/sportCategoryApiDataTypes");
@@ -61,7 +67,9 @@ exports.getMatchByTeamNames = catchAsync(async (req, res) => {
   const result = await Sport.findOne(findQuery)
     .populate("servers")
     .populate("customAPI")
+    .populate("matchPoll")
     .exec();
+  console.dir(result);
   res.status(200).json({
     status: "success",
     data: {
@@ -316,7 +324,9 @@ exports.deleteSport = factory.deleteOne(Sport);
 exports.updateSport = factory.updateOne(Sport);
 exports.getSport = catchAsync(async (req, res, next) => {
   const eventData = await Sport.findById(req.params.id)
-    .populate("servers")
+    // .populate("servers")
+    .populate("matchPoll")
+    .populate("customAPI")
     .exec();
   res.status(200).json({
     status: "success",
@@ -354,6 +364,49 @@ exports.getAllSports = catchAsync(async (req, res, next) => {
 });
 exports.createCustomAPI = factory.createOne(CustomAPI);
 exports.updateCustomAPI = factory.updateOne(CustomAPI);
+exports.createPoll = factory.createOne(MatchPoll);
+// exports.updatePoll = factory.updateOne(MatchPoll);
+
+exports.MatchVote = catchAsync(async (req, res, next) => {
+  const { pollId, voteValue } = req.body;
+  const objectIdPollId = new ObjectId(pollId);
+  const updatedPoll = await MatchPoll.findOneAndUpdate(
+    { _id: objectIdPollId, "inputs.value": voteValue },
+    {
+      $inc: {
+        "inputs.$.votes": 1, // Increment the votes for the specific input
+        totalVotes: 1, // Increment the totalVotes by 1
+      },
+    },
+    { new: true }
+  );
+  if (!updatedPoll) {
+    return res.status(404).json({ error: "Poll not found or input not found" });
+  }
+
+  res.status(200).json({
+    message: "Vote submitted successfully",
+    poll: updatedPoll,
+  });
+});
+// exports.updatePoll = catchAsync(async (req, res, next) => {
+//   const { pollId, data } = req.body;
+//   const objectIdPollId = new ObjectId(pollId);
+//   const updatedPoll = await MatchPoll.findOneAndUpdate(
+//     { _id: objectIdPollId },
+//     { ...data },
+//     { new: true }
+//   );
+//   if (!updatedPoll) {
+//     return res.status(404).json({ error: "Poll not found or input not found" });
+//   }
+
+//   res.status(200).json({
+//     message: "Vote submitted successfully",
+//     poll: updatedPoll,
+//   });
+// });
+
 exports.test = (req, res, next) => {
   console.dir(req.body);
   next();

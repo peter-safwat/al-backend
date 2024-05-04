@@ -103,11 +103,12 @@ const sportSchema = new mongoose.Schema({
     type: Date,
     required: [true, "please enter the date for endedEvent"],
   },
-  showsPoll: { type: Boolean, default: false },
-  firstTeamPoll: String,
-  secondTeamPoll: String,
+  // showsPoll: { type: Boolean, default: false },
+  // firstTeamPoll: String,
+  // secondTeamPoll: String,
   servers: [{ type: mongoose.Schema.Types.ObjectId, ref: "ServerAndLangs" }],
   customAPI: { type: mongoose.Schema.Types.ObjectId, ref: "CustomAPI" },
+  matchPoll: { type: mongoose.Schema.Types.ObjectId, ref: "MatchPoll" },
 });
 
 const Sport = mongoose.model("Sport", sportSchema);

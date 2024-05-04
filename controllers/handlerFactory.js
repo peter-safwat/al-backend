@@ -34,6 +34,8 @@ exports.deleteMany = (Model) =>
 
 exports.updateOne = (Model) =>
   catchAsync(async (req, res, next) => {
+    console.dir(req.query);
+    console.dir(req.body);
     const doc = await Model.findByIdAndUpdate(
       req.params.id,
       req.body,

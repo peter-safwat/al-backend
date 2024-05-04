@@ -72,15 +72,8 @@ exports.makeVote = catchAsync(async (req, res, next) => {
     return res.status(404).json({ error: "Poll not found or input not found" });
   }
 
-  // let totalVotes = 0;
-  // updatedPoll.inputs.forEach((input) => {
-  //   totalVotes += input.votes;
-  // });
-
-  // Include total votes in the response
   res.status(200).json({
     message: "Vote submitted successfully",
     poll: updatedPoll,
-    // totalVotes: totalVotes,
   });
 });

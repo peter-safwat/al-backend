@@ -1,0 +1,1334 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Brett Cameron",
+          "slug": "cameron-brett",
+          "shortName": "B. Cameron",
+          "userCount": 0,
+          "id": 978808,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 10,
+        "jerseyNumber": "10",
+        "substitute": false,
+        "statistics": {
+          "points": 11,
+          "carries": 7,
+          "cleanBreaks": 1,
+          "metersRun": 13,
+          "offloads": 0,
+          "passes": 37,
+          "tacklesMissed": 4,
+          "tackles": 3,
+          "tryAssists": 2,
+          "turnoversWon": 0,
+          "penaltyGoals": 0,
+          "tries": 1,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Devan Flanders",
+          "slug": "flanders-devan",
+          "shortName": "D. Flanders",
+          "userCount": 0,
+          "id": 1017978,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 6,
+        "jerseyNumber": "6",
+        "substitute": false,
+        "statistics": {
+          "carries": 7,
+          "cleanBreaks": 2,
+          "metersRun": 38,
+          "offloads": 0,
+          "passes": 8,
+          "tacklesMissed": 1,
+          "tackles": 10,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Riley Higgins",
+          "slug": "riley-higgins",
+          "shortName": "R. Higgins",
+          "userCount": 0,
+          "id": 1214394,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 12,
+        "jerseyNumber": "12",
+        "substitute": false,
+        "statistics": {
+          "carries": 18,
+          "cleanBreaks": 1,
+          "metersRun": 71,
+          "offloads": 2,
+          "passes": 14,
+          "tacklesMissed": 0,
+          "tackles": 6,
+          "tryAssists": 0,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Brayden Iose",
+          "slug": "iose-brayden",
+          "shortName": "B. Iose",
+          "userCount": 0,
+          "id": 1185284,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 8,
+        "jerseyNumber": "8",
+        "substitute": false,
+        "statistics": {
+          "points": 5,
+          "carries": 19,
+          "cleanBreaks": 0,
+          "metersRun": 60,
+          "offloads": 1,
+          "passes": 8,
+          "tacklesMissed": 0,
+          "tackles": 8,
+          "tryAssists": 0,
+          "turnoversWon": 0,
+          "penaltyGoals": 0,
+          "tries": 1,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Richard Judd",
+          "slug": "judd-richard",
+          "shortName": "R. Judd",
+          "userCount": 0,
+          "id": 1185285,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "substitute": false,
+        "statistics": {
+          "carries": 7,
+          "cleanBreaks": 0,
+          "metersRun": 13,
+          "offloads": 1,
+          "passes": 80,
+          "tacklesMissed": 2,
+          "tackles": 5,
+          "tryAssists": 1,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Kianu Kereru-Symes",
+          "slug": "kereru-symes-kianu",
+          "shortName": "K. Kereru-Symes",
+          "userCount": 0,
+          "id": 1210166,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 2,
+        "jerseyNumber": "2",
+        "substitute": false,
+        "statistics": {
+          "carries": 8,
+          "cleanBreaks": 0,
+          "metersRun": 26,
+          "offloads": 1,
+          "passes": 3,
+          "tacklesMissed": 0,
+          "tackles": 6,
+          "tryAssists": 1,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Peter Lakai",
+          "slug": "lakai-peter",
+          "shortName": "P. Lakai",
+          "position": "BR",
+          "jerseyNumber": "0",
+          "userCount": 0,
+          "id": 1472887,
+          "country": {
+            "alpha2": "NZ",
+            "alpha3": "NZL",
+            "name": "New Zealand"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 7,
+        "jerseyNumber": "7",
+        "position": "BR",
+        "substitute": false,
+        "statistics": {
+          "carries": 12,
+          "cleanBreaks": 1,
+          "metersRun": 44,
+          "offloads": 3,
+          "passes": 14,
+          "tacklesMissed": 0,
+          "tackles": 17,
+          "tryAssists": 0,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Tyrel Lomax",
+          "slug": "lomax-tyrel",
+          "shortName": "T. Lomax",
+          "userCount": 0,
+          "id": 936705,
+          "country": {
+            "alpha2": "NZ",
+            "alpha3": "NZL",
+            "name": "New Zealand"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 826934400
+        },
+        "shirtNumber": 3,
+        "jerseyNumber": "3",
+        "substitute": false,
+        "statistics": {
+          "carries": 7,
+          "cleanBreaks": 0,
+          "metersRun": 10,
+          "offloads": 1,
+          "passes": 2,
+          "tacklesMissed": 1,
+          "tackles": 2,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Ruben Love",
+          "slug": "love-ruben",
+          "shortName": "R. Love",
+          "userCount": 0,
+          "id": 1185281,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 15,
+        "jerseyNumber": "15",
+        "substitute": false,
+        "statistics": {
+          "carries": 8,
+          "cleanBreaks": 1,
+          "metersRun": 89,
+          "offloads": 3,
+          "passes": 12,
+          "tacklesMissed": 1,
+          "tackles": 1,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Josh Moorby",
+          "slug": "moorby-josh",
+          "shortName": "J. Moorby",
+          "userCount": 0,
+          "id": 1197074,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 14,
+        "jerseyNumber": "14",
+        "substitute": false,
+        "statistics": {
+          "points": 5,
+          "carries": 13,
+          "cleanBreaks": 2,
+          "metersRun": 95,
+          "offloads": 1,
+          "passes": 7,
+          "tacklesMissed": 0,
+          "tackles": 3,
+          "tryAssists": 1,
+          "turnoversWon": 1,
+          "penaltyGoals": 0,
+          "tries": 1,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Billy Proctor",
+          "slug": "proctor-billy",
+          "shortName": "B. Proctor",
+          "userCount": 0,
+          "id": 1017976,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 13,
+        "jerseyNumber": "13",
+        "substitute": false,
+        "statistics": {
+          "points": 5,
+          "carries": 12,
+          "cleanBreaks": 1,
+          "metersRun": 74,
+          "offloads": 1,
+          "passes": 19,
+          "tacklesMissed": 2,
+          "tackles": 5,
+          "tryAssists": 1,
+          "turnoversWon": 0,
+          "penaltyGoals": 0,
+          "tries": 1,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Pouri Rakete-Stones",
+          "slug": "rakete-stones-pouri",
+          "shortName": "P. Rakete-Stones",
+          "userCount": 0,
+          "id": 1017980,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 1,
+        "jerseyNumber": "1",
+        "substitute": false,
+        "statistics": {
+          "carries": 6,
+          "cleanBreaks": 0,
+          "metersRun": 9,
+          "offloads": 1,
+          "passes": 2,
+          "tacklesMissed": 0,
+          "tackles": 8,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Bailyn Sullivan",
+          "slug": "sullivan-bailyn",
+          "shortName": "B. Sullivan",
+          "userCount": 0,
+          "id": 1185286,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "substitute": false,
+        "statistics": {
+          "carries": 5,
+          "cleanBreaks": 1,
+          "metersRun": 58,
+          "offloads": 1,
+          "passes": 5,
+          "tacklesMissed": 0,
+          "tackles": 1,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Isaia Walker-Leawere",
+          "slug": "walker-leawere-isaia",
+          "shortName": "I. Walker-Leawere",
+          "userCount": 0,
+          "id": 986781,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "substitute": false,
+        "statistics": {
+          "carries": 6,
+          "cleanBreaks": 0,
+          "metersRun": 1,
+          "offloads": 0,
+          "passes": 3,
+          "tacklesMissed": 1,
+          "tackles": 6,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jordie Barrett",
+          "slug": "jordie-barrett",
+          "shortName": "J. Barrett",
+          "userCount": 3,
+          "id": 953468,
+          "country": {
+            "alpha2": "NZ",
+            "alpha3": "NZL",
+            "name": "New Zealand"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 856137600
+        },
+        "shirtNumber": 22,
+        "jerseyNumber": "22",
+        "substitute": true,
+        "statistics": {
+          "carries": 3,
+          "cleanBreaks": 0,
+          "metersRun": 13,
+          "offloads": 0,
+          "passes": 3,
+          "tacklesMissed": 0,
+          "tackles": 1,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Du'Plessis Kirifi",
+          "slug": "kirifi-duplessis",
+          "shortName": "D. Kirifi",
+          "userCount": 0,
+          "id": 976023,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "substitute": true,
+        "statistics": {
+          "carries": 2,
+          "cleanBreaks": 0,
+          "metersRun": 11,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 8,
+          "tryAssists": 0,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Xavier Numia",
+          "slug": "numia-xavier",
+          "shortName": "X. Numia",
+          "userCount": 0,
+          "id": 1021922,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 17,
+        "jerseyNumber": "17",
+        "substitute": true,
+        "statistics": {
+          "carries": 1,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "TJ Perenara",
+          "slug": "tj-perenara",
+          "shortName": "T. Perenara",
+          "userCount": 0,
+          "id": 815297,
+          "country": {
+            "alpha2": "NZ",
+            "alpha3": "NZL",
+            "name": "New Zealand"
+          },
+          "marketValueCurrency": "EUR",
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "Perenara, Thomas"
+            },
+            "shortNameTranslation": {
+              "ar": "T. Perenara"
+            }
+          }
+        },
+        "shirtNumber": 21,
+        "jerseyNumber": "21",
+        "substitute": true,
+        "statistics": {
+          "points": 5,
+          "carries": 2,
+          "cleanBreaks": 0,
+          "metersRun": 1,
+          "offloads": 1,
+          "passes": 9,
+          "tacklesMissed": 0,
+          "tackles": 1,
+          "tryAssists": 0,
+          "turnoversWon": 0,
+          "penaltyGoals": 0,
+          "tries": 1,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Salesi Rayasi",
+          "slug": "rayasi-salesi",
+          "shortName": "S. Rayasi",
+          "userCount": 0,
+          "id": 981889,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 23,
+        "jerseyNumber": "23",
+        "substitute": true,
+        "statistics": {
+          "points": 10,
+          "carries": 5,
+          "cleanBreaks": 4,
+          "metersRun": 60,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 0,
+          "tryAssists": 0,
+          "turnoversWon": 0,
+          "penaltyGoals": 0,
+          "tries": 2,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Justin Sangster",
+          "slug": "sangster-justin",
+          "shortName": "J. Sangster",
+          "userCount": 0,
+          "id": 1185282,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 4,
+        "jerseyNumber": "4",
+        "substitute": true,
+        "statistics": {
+          "carries": 8,
+          "cleanBreaks": 0,
+          "metersRun": 9,
+          "offloads": 0,
+          "passes": 4,
+          "tacklesMissed": 2,
+          "tackles": 13,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Pasilio Tosi",
+          "slug": "tosi-pasilio",
+          "shortName": "P. Tosi",
+          "userCount": 0,
+          "id": 1210168,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 18,
+        "jerseyNumber": "18",
+        "substitute": true,
+        "statistics": {
+          "carries": 4,
+          "cleanBreaks": 0,
+          "metersRun": 8,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 5,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Raymond Tuputupu",
+          "slug": "raymond-tuputupu",
+          "shortName": "R. Tuputupu",
+          "position": "HO",
+          "userCount": 0,
+          "id": 1855354,
+          "country": {
+            "alpha2": "NZ",
+            "alpha3": "NZL",
+            "name": "New Zealand"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1050019200
+        },
+        "shirtNumber": 16,
+        "jerseyNumber": "16",
+        "position": "HO",
+        "substitute": true,
+        "statistics": {
+          "carries": 2,
+          "cleanBreaks": 0,
+          "metersRun": 9,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 0,
+          "tackles": 8,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Ben Grant",
+          "slug": "grant-ben",
+          "shortName": "B. Grant",
+          "position": "L",
+          "userCount": 0,
+          "id": 1844308,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 895449600
+        },
+        "shirtNumber": 19,
+        "jerseyNumber": "19",
+        "position": "L",
+        "substitute": false,
+        "statistics": {
+          "carries": 3,
+          "cleanBreaks": 0,
+          "metersRun": 11,
+          "offloads": 0,
+          "passes": 4,
+          "tacklesMissed": 1,
+          "tackles": 7,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Lalakai Foketi",
+          "slug": "foketi-lalakai",
+          "shortName": "L. Foketi",
+          "userCount": 0,
+          "id": 929934,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 788054400
+        },
+        "shirtNumber": 12,
+        "jerseyNumber": "12",
+        "substitute": false,
+        "statistics": {
+          "carries": 4,
+          "cleanBreaks": 0,
+          "metersRun": 25,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 3,
+          "tackles": 9,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jake Gordon",
+          "slug": "gordon-jake",
+          "shortName": "J. Gordon",
+          "userCount": 0,
+          "id": 876029,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 9,
+        "jerseyNumber": "9",
+        "substitute": false,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 41,
+          "tacklesMissed": 2,
+          "tackles": 11,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Will Harrison",
+          "slug": "harrison-will",
+          "shortName": "W. Harrison",
+          "userCount": 0,
+          "id": 1017949,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 10,
+        "jerseyNumber": "10",
+        "substitute": false,
+        "statistics": {
+          "carries": 7,
+          "cleanBreaks": 0,
+          "metersRun": 37,
+          "offloads": 0,
+          "passes": 12,
+          "tacklesMissed": 2,
+          "tackles": 8,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Julian Heaven",
+          "slug": "heaven-julian",
+          "shortName": "J. Heaven",
+          "position": "HO",
+          "userCount": 0,
+          "id": 1806841,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 970358400
+        },
+        "shirtNumber": 2,
+        "jerseyNumber": "2",
+        "position": "HO",
+        "substitute": false,
+        "statistics": {
+          "carries": 1,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 1,
+          "tackles": 11,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Harry Johnson-Holmes",
+          "slug": "johnson-holmes-harry",
+          "shortName": "H. Johnson-Holmes",
+          "userCount": 0,
+          "id": 932016,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 3,
+        "jerseyNumber": "3",
+        "substitute": false,
+        "statistics": {
+          "carries": 2,
+          "cleanBreaks": 0,
+          "metersRun": 1,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 3,
+          "tackles": 12,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Fergus Lee Warner",
+          "slug": "warner-fergus-lee",
+          "shortName": "F. L. Warner",
+          "userCount": 0,
+          "id": 1185519,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 5,
+        "jerseyNumber": "5",
+        "substitute": false,
+        "statistics": {
+          "carries": 9,
+          "cleanBreaks": 0,
+          "metersRun": 10,
+          "offloads": 0,
+          "passes": 5,
+          "tacklesMissed": 3,
+          "tackles": 14,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Mark Nawaqanitawase",
+          "slug": "nawaqanitawase-mark",
+          "shortName": "M. Nawaqanitawase",
+          "userCount": 0,
+          "id": 1017950,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 968630400
+        },
+        "shirtNumber": 15,
+        "jerseyNumber": "15",
+        "substitute": false,
+        "statistics": {
+          "carries": 12,
+          "cleanBreaks": 0,
+          "metersRun": 91,
+          "offloads": 2,
+          "passes": 5,
+          "tacklesMissed": 4,
+          "tackles": 5,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Dylan Pietsch",
+          "slug": "pietsch-dylan",
+          "shortName": "D. Pietsch",
+          "userCount": 0,
+          "id": 1185002,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 11,
+        "jerseyNumber": "11",
+        "substitute": false,
+        "statistics": {
+          "carries": 6,
+          "cleanBreaks": 1,
+          "metersRun": 39,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 1,
+          "tackles": 5,
+          "tryAssists": 0,
+          "turnoversWon": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Triston Reilly",
+          "slug": "reilly-triston",
+          "shortName": "T. Reilly",
+          "userCount": 0,
+          "id": 1197441,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 14,
+        "jerseyNumber": "14",
+        "substitute": false,
+        "statistics": {
+          "carries": 8,
+          "cleanBreaks": 1,
+          "metersRun": 54,
+          "offloads": 0,
+          "passes": 4,
+          "tacklesMissed": 3,
+          "tackles": 8,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Hugh Sinclair",
+          "slug": "sinclair-hugh",
+          "shortName": "H. Sinclair",
+          "userCount": 0,
+          "id": 1185007,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 4,
+        "jerseyNumber": "4",
+        "substitute": false,
+        "statistics": {
+          "points": 5,
+          "carries": 4,
+          "cleanBreaks": 0,
+          "metersRun": 6,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 3,
+          "tackles": 12,
+          "tryAssists": 0,
+          "turnoversWon": 0,
+          "penaltyGoals": 0,
+          "tries": 1,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Lachlan Swinton",
+          "slug": "swinton-lachlan",
+          "shortName": "L. Swinton",
+          "userCount": 0,
+          "id": 1017951,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 6,
+        "jerseyNumber": "6",
+        "substitute": false,
+        "statistics": {
+          "carries": 5,
+          "cleanBreaks": 0,
+          "metersRun": 8,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 3,
+          "tackles": 15,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Hayden Thompson-Stringer",
+          "slug": "thompson-stringer-hayden",
+          "shortName": "H. Thompson-Stringer",
+          "userCount": 0,
+          "id": 979659,
+          "country": {
+            "alpha2": "EN",
+            "alpha3": "ENG",
+            "name": "England"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 788659200
+        },
+        "shirtNumber": 1,
+        "jerseyNumber": "1",
+        "substitute": false,
+        "statistics": {
+          "carries": 3,
+          "cleanBreaks": 0,
+          "metersRun": 2,
+          "offloads": 1,
+          "passes": 3,
+          "tacklesMissed": 0,
+          "tackles": 7,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Miles Amatosero",
+          "slug": "amatosero-miles",
+          "shortName": "M. Amatosero",
+          "userCount": 0,
+          "id": 1202046,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 19,
+        "jerseyNumber": "19",
+        "substitute": true,
+        "statistics": {
+          "carries": 2,
+          "cleanBreaks": 0,
+          "metersRun": 8,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 0,
+          "tackles": 0,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Bradley Amituanai",
+          "slug": "amituanai-bradley",
+          "shortName": "B. Amituanai",
+          "position": "PR",
+          "userCount": 0,
+          "id": 1857784,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 18,
+        "jerseyNumber": "18",
+        "position": "PR",
+        "substitute": true,
+        "statistics": {
+          "carries": 0,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 0,
+          "tackles": 1,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Tane Edmed",
+          "slug": "edmed-tane",
+          "shortName": "T. Edmed",
+          "userCount": 0,
+          "id": 1185004,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 22,
+        "jerseyNumber": "22",
+        "substitute": true,
+        "statistics": {
+          "points": 2,
+          "carries": 4,
+          "cleanBreaks": 0,
+          "metersRun": 3,
+          "offloads": 1,
+          "passes": 4,
+          "tacklesMissed": 1,
+          "tackles": 0,
+          "tryAssists": 1,
+          "turnoversWon": 0,
+          "penaltyGoals": 0,
+          "tries": 0,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jay Fonokalafi",
+          "slug": "fonokalafi-jay",
+          "shortName": "J. Fonokalafi",
+          "position": "HO",
+          "userCount": 0,
+          "id": 1822900,
+          "country": {
+            "alpha2": "TO",
+            "alpha3": "TON",
+            "name": "Tonga"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 16,
+        "jerseyNumber": "16",
+        "position": "HO",
+        "substitute": true,
+        "statistics": {
+          "carries": 4,
+          "cleanBreaks": 0,
+          "metersRun": 4,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 1,
+          "tackles": 3,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Charlie Gamble",
+          "slug": "gamble-charlie",
+          "shortName": "C. Gamble",
+          "userCount": 0,
+          "id": 1185000,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 20,
+        "jerseyNumber": "20",
+        "substitute": true,
+        "statistics": {
+          "carries": 4,
+          "cleanBreaks": 0,
+          "metersRun": 8,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 0,
+          "tackles": 2,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Langi Gleeson",
+          "slug": "gleeson-langi",
+          "shortName": "L. Gleeson",
+          "userCount": 0,
+          "id": 1186750,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 8,
+        "jerseyNumber": "8",
+        "substitute": false,
+        "statistics": {
+          "carries": 11,
+          "cleanBreaks": 0,
+          "metersRun": 29,
+          "offloads": 0,
+          "passes": 1,
+          "tacklesMissed": 2,
+          "tackles": 10,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jack Grant",
+          "slug": "grant-jack",
+          "shortName": "J. Grant",
+          "userCount": 0,
+          "id": 1186751,
+          "country": {},
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 21,
+        "jerseyNumber": "21",
+        "substitute": true,
+        "statistics": {
+          "carries": 2,
+          "cleanBreaks": 0,
+          "metersRun": 0,
+          "offloads": 1,
+          "passes": 35,
+          "tacklesMissed": 1,
+          "tackles": 6,
+          "tryAssists": 1,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Vuate Karawalev",
+          "slug": "karawalev-vuate",
+          "shortName": "V. Karawalev",
+          "userCount": 0,
+          "id": 1425021,
+          "country": {
+            "alpha2": "FJ",
+            "alpha3": "FJI",
+            "name": "Fiji"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 23,
+        "jerseyNumber": "23",
+        "substitute": true,
+        "statistics": {
+          "points": 5,
+          "carries": 3,
+          "cleanBreaks": 1,
+          "metersRun": 23,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 2,
+          "tackles": 1,
+          "tryAssists": 0,
+          "turnoversWon": 0,
+          "penaltyGoals": 0,
+          "tries": 1,
+          "dropGoals": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Lewis Ponini",
+          "slug": "ponini-lewis",
+          "shortName": "L. Ponini",
+          "position": "PR",
+          "userCount": 0,
+          "id": 1841153,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 17,
+        "jerseyNumber": "17",
+        "position": "PR",
+        "substitute": true,
+        "statistics": {
+          "carries": 1,
+          "cleanBreaks": 0,
+          "metersRun": 2,
+          "offloads": 0,
+          "passes": 0,
+          "tacklesMissed": 1,
+          "tackles": 2,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Hunter Ward",
+          "slug": "ward-hunter",
+          "shortName": "H. Ward",
+          "position": "BR",
+          "jerseyNumber": "0",
+          "userCount": 0,
+          "id": 1484365,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR"
+        },
+        "shirtNumber": 7,
+        "jerseyNumber": "7",
+        "position": "BR",
+        "substitute": false,
+        "statistics": {
+          "carries": 4,
+          "cleanBreaks": 0,
+          "metersRun": 20,
+          "offloads": 0,
+          "passes": 2,
+          "tacklesMissed": 2,
+          "tackles": 21,
+          "tryAssists": 0,
+          "turnoversWon": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Izaia Perese",
+          "slug": "perese-izaia",
+          "shortName": "I. Perese",
+          "userCount": 0,
+          "id": 878186,
+          "country": {
+            "alpha2": "AU",
+            "alpha3": "AUS",
+            "name": "Australia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 863827200
+        },
+        "shirtNumber": 26,
+        "jerseyNumber": "26",
+        "substitute": false,
+        "statistics": {
+          "carries": 5,
+          "cleanBreaks": 0,
+          "metersRun": 3,
+          "offloads": 0,
+          "passes": 3,
+          "tacklesMissed": 3,
+          "tackles": 6,
+          "tryAssists": 0,
+          "turnoversWon": 0
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    }
+  }
+}

@@ -11,4 +11,5 @@ exports.sportCategoryApiDataTypes = [
   { sport: "rugby", dataTypes: ["Statistics", "Lineups"] },
   { sport: "volleyball", dataTypes: ["Statistics"] },
   { sport: "cricket", dataTypes: ["Statistics", "Lineups"] },
+  { sport: "f1", dataTypes: [] },
 ];

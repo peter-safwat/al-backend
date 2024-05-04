@@ -13,6 +13,15 @@ router
   .post(sportsController.createCustomAPI)
   .patch(sportsController.updateCustomAPI);
 
+router.route("/makevote").patch(sportsController.MatchVote);
+router
+  .route("/poll")
+  .post(sportsController.createPoll)
+  // .patch(sportsController.updatePoll);
+
+// .patch(sportsController.updatePoll);
+// router.route("/updatepoll").patch(sportsController.updatePoll);
+
 router
   .route("/")
   .get(sportsController.filterOldData, sportsController.getAllSports)

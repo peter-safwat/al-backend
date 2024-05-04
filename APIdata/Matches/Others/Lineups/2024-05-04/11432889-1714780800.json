@@ -1,0 +1,1211 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Tim Kneule",
+          "firstName": "",
+          "lastName": "",
+          "slug": "kneule-tim",
+          "shortName": "T. Kneule",
+          "position": "CB",
+          "jerseyNumber": "4",
+          "userCount": 13,
+          "id": 806637,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 524707200
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 4,
+          "goals": 3,
+          "assists": 1,
+          "goals7m": 0,
+          "goals6m": 1,
+          "shots6m": 2,
+          "goals9m": 1,
+          "shots9m": 1,
+          "pivotGoals": 1,
+          "pivotShots": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Marcel Schiller",
+          "firstName": "Marcel",
+          "lastName": "Schiller",
+          "slug": "schiller-marcel",
+          "shortName": "M. Schiller",
+          "position": "LW",
+          "jerseyNumber": "24",
+          "userCount": 52,
+          "id": 806642,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 682214400
+        },
+        "position": "LW",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 4,
+          "goals": 2,
+          "assists": 0,
+          "goals7m": 1,
+          "shots7m": 3,
+          "goals6m": 1,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "wingGoals": 1,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "David Schmidt",
+          "firstName": "David",
+          "lastName": "Schmidt",
+          "slug": "schmidt-david",
+          "shortName": "D. Schmidt",
+          "position": "RB",
+          "jerseyNumber": "77",
+          "userCount": 24,
+          "id": 808630,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 750988800,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "شميدت, دافيد"
+            },
+            "shortNameTranslation": {
+              "ar": "د. شميدت"
+            }
+          }
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 3,
+          "goals": 1,
+          "assists": 1,
+          "goals7m": 0,
+          "goals6m": 1,
+          "shots6m": 1,
+          "shots9m": 2,
+          "breakthroughGoals": 1,
+          "breakthroughShots": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Till Hermann",
+          "firstName": "",
+          "lastName": "",
+          "slug": "hermann-till",
+          "shortName": "T. Hermann",
+          "position": "LW",
+          "jerseyNumber": "41",
+          "userCount": 6,
+          "id": 992471,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 851212800
+        },
+        "position": "LW",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 3,
+          "goals": 2,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 1,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 1,
+          "wingGoals": 1,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Marin Sego",
+          "firstName": "Marin",
+          "lastName": "Šego",
+          "slug": "sego-marin",
+          "shortName": "M. Šego",
+          "position": "G",
+          "jerseyNumber": "16",
+          "userCount": 350,
+          "id": 902867,
+          "country": {
+            "alpha2": "HR",
+            "alpha3": "HRV",
+            "name": "Croatia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 491788800,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سيجو, مارين"
+            },
+            "shortNameTranslation": {
+              "ar": "م. سيجو"
+            }
+          }
+        },
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "saves": 3,
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gkShots": 16,
+          "gk7mGoals": 2,
+          "gk7mShots": 2,
+          "gk7mSaves": 0,
+          "gk6mSaves": 2,
+          "gk6mShots": 9,
+          "gkPivotShots": 1,
+          "gk9mSaves": 1,
+          "gk9mShots": 3,
+          "gkBreakthroughShots": 2,
+          "gkFastbreakGoals": 3,
+          "gkFastbreakShots": 3,
+          "gkWingSaves": 2,
+          "gkWingShots": 7,
+          "shotsTaken": 0,
+          "goals": 0,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 0,
+          "gkGoalsConceded": 13,
+          "secondsPlayed": 1323,
+          "gkFastbreakSaves": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Andreas Flodman",
+          "slug": "flodman-andreas",
+          "shortName": "A. Flodman",
+          "position": "RW",
+          "jerseyNumber": "9",
+          "userCount": 6,
+          "id": 1407152,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 732067200
+        },
+        "position": "RW",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 2,
+          "goals": 2,
+          "assists": 0,
+          "goals7m": 1,
+          "shots7m": 1,
+          "goals6m": 1,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "wingGoals": 1,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Kresimir Kozina",
+          "slug": "kozina-kresimir",
+          "shortName": "K. Kozina",
+          "position": "P",
+          "jerseyNumber": "44",
+          "userCount": 47,
+          "id": 833704,
+          "country": {
+            "alpha2": "HR",
+            "alpha3": "HRV",
+            "name": "Croatia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 646272000
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 1,
+          "technicalFaults": 1,
+          "yellowCards": 1,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 3,
+          "goals": 1,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 1,
+          "shots6m": 2,
+          "breakthroughShots": 1,
+          "pivotShots": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Tobias Ellebaek",
+          "slug": "ellebaek-tobias",
+          "shortName": "T. Ellebæk",
+          "position": "LB",
+          "jerseyNumber": "17",
+          "userCount": 10,
+          "id": 902554,
+          "country": {
+            "alpha2": "DK",
+            "alpha3": "DNK",
+            "name": "Denmark"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 705888000
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 2,
+          "goals": 2,
+          "assists": 1,
+          "goals7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "goals9m": 2,
+          "shots9m": 2,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jaka Malus",
+          "firstName": "Jaka",
+          "lastName": "Malus",
+          "slug": "malus-jaka",
+          "shortName": "J. Malus",
+          "position": "CB",
+          "jerseyNumber": "66",
+          "userCount": 19,
+          "id": 902606,
+          "country": {
+            "alpha2": "SI",
+            "alpha3": "SVN",
+            "name": "Slovenia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 834796800
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 3,
+          "goals": 1,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 1,
+          "shots6m": 3,
+          "breakthroughGoals": 1,
+          "breakthroughShots": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Erik Persson",
+          "slug": "persson-erik",
+          "shortName": "E. Persson",
+          "position": "RB",
+          "jerseyNumber": "22",
+          "userCount": 8,
+          "id": 1515848,
+          "country": {
+            "alpha2": "SE",
+            "alpha3": "SWE",
+            "name": "Sweden"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 894672000
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 5,
+          "goals": 4,
+          "assists": 1,
+          "goals7m": 0,
+          "goals6m": 3,
+          "shots6m": 3,
+          "goals9m": 1,
+          "shots9m": 2,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Josip Sarac",
+          "firstName": "Josip",
+          "lastName": "Šarac",
+          "slug": "sarac-josip",
+          "shortName": "J. Šarac",
+          "position": "LB",
+          "jerseyNumber": "13",
+          "userCount": 216,
+          "id": 941780,
+          "country": {
+            "alpha2": "HR",
+            "alpha3": "HRV",
+            "name": "Croatia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 888278400,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ساراتش, جوسيب"
+            },
+            "shortNameTranslation": {
+              "ar": "ج. ساراتش"
+            }
+          }
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 1,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 13,
+          "goals": 8,
+          "assists": 2,
+          "goals7m": 0,
+          "goals6m": 6,
+          "shots6m": 9,
+          "goals9m": 1,
+          "shots9m": 3,
+          "breakthroughGoals": 4,
+          "breakthroughShots": 5,
+          "pivotGoals": 1,
+          "pivotShots": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Franko Lastro",
+          "firstName": "",
+          "lastName": "",
+          "slug": "lastro-franko",
+          "shortName": "L. Franko",
+          "position": "RW",
+          "jerseyNumber": "28",
+          "userCount": 28,
+          "id": 1019224,
+          "country": {
+            "alpha2": "AT",
+            "alpha3": "AUT",
+            "name": "Austria"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1050192000
+        },
+        "position": "RW",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 1,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 2,
+          "goals": 1,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 1,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "wingGoals": 1,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Julian Buchele",
+          "slug": "buchele-julian",
+          "shortName": "J. Buchele",
+          "position": "G",
+          "jerseyNumber": "12",
+          "userCount": 1,
+          "id": 1116450,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1083283200
+        },
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "saves": 6,
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gkShots": 22,
+          "gk7mGoals": 1,
+          "gk7mShots": 1,
+          "gk7mSaves": 0,
+          "gk6mSaves": 5,
+          "gk6mShots": 13,
+          "gkPivotSaves": 1,
+          "gkPivotShots": 5,
+          "gk9mShots": 7,
+          "gkBreakthroughSaves": 1,
+          "gkBreakthroughShots": 6,
+          "gkWingSaves": 1,
+          "gkWingShots": 2,
+          "shotsTaken": 0,
+          "goals": 0,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 0,
+          "gkGoalsConceded": 16,
+          "secondsPlayed": 2090
+        }
+      },
+      {
+        "player": {
+          "name": "Markus Bauer",
+          "slug": "bauer-markus",
+          "shortName": "M. Bauer",
+          "userCount": 2,
+          "id": 1442221,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 33350400
+        },
+        "substitute": false,
+        "statistics": {
+          "yellowCards": 1,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "000000",
+      "outline": "fafb00",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Moritz Preuss",
+          "firstName": "Moritz",
+          "lastName": "Preuss",
+          "slug": "preuss-moritz",
+          "shortName": "M. Preuss",
+          "position": "P",
+          "jerseyNumber": "24",
+          "userCount": 8,
+          "id": 806572,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 793411200
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 3,
+          "goals": 1,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "pivotGoals": 1,
+          "pivotShots": 3,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Simon Ernst",
+          "slug": "ernst-simon",
+          "shortName": "S. Ernst",
+          "position": "CB",
+          "jerseyNumber": "5",
+          "userCount": 37,
+          "id": 806771,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 765244800
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 3,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 0,
+          "goals": 0,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Lukas Binder",
+          "slug": "binder-lukas",
+          "shortName": "L. Binder",
+          "position": "LW",
+          "jerseyNumber": "11",
+          "userCount": 13,
+          "id": 806660,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 709862400
+        },
+        "position": "LW",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 7,
+          "goals": 5,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 2,
+          "shots6m": 0,
+          "pivotGoals": 1,
+          "pivotShots": 2,
+          "fastbreakGoals": 2,
+          "fastbreakShots": 2,
+          "wingGoals": 2,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Franz Semper",
+          "slug": "semper-franz",
+          "shortName": "F. Semper",
+          "position": "RB",
+          "jerseyNumber": "32",
+          "userCount": 50,
+          "id": 830797,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 868060800
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 3,
+          "goals": 2,
+          "assists": 3,
+          "goals7m": 0,
+          "goals6m": 1,
+          "shots6m": 2,
+          "goals9m": 1,
+          "shots9m": 1,
+          "breakthroughGoals": 1,
+          "breakthroughShots": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 1,
+          "blockedShots": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Marko Mamic",
+          "firstName": "Marko",
+          "lastName": "Mamić",
+          "slug": "mamic-marko",
+          "shortName": "M. Mamić",
+          "position": "LB",
+          "jerseyNumber": "14",
+          "userCount": 240,
+          "id": 902511,
+          "country": {
+            "alpha2": "HR",
+            "alpha3": "HRV",
+            "name": "Croatia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 762912000,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "ماميتش, ماركو"
+            },
+            "shortNameTranslation": {
+              "ar": "م. ماميتش"
+            }
+          }
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 2,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 0,
+          "goals": 0,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 1,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Domenico Ebner",
+          "slug": "ebner-domenico",
+          "shortName": "D. Ebner",
+          "position": "G",
+          "jerseyNumber": "1",
+          "userCount": 25,
+          "id": 856114,
+          "country": {
+            "alpha2": "IT",
+            "alpha3": "ITA",
+            "name": "Italy"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 767318400
+        },
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "saves": 4,
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gkShots": 12,
+          "gk7mSaves": 0,
+          "gk6mSaves": 1,
+          "gk6mShots": 8,
+          "gkPivotShots": 1,
+          "gk9mSaves": 2,
+          "gk9mShots": 3,
+          "gkBreakthroughShots": 1,
+          "gkFastbreakShots": 1,
+          "gkWingSaves": 1,
+          "gkWingShots": 3,
+          "shotsTaken": 0,
+          "goals": 0,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 0,
+          "gkGoalsConceded": 8,
+          "secondsPlayed": 920
+        }
+      },
+      {
+        "player": {
+          "name": "Luca Witzke",
+          "slug": "witzke-luca",
+          "shortName": "L. Witzke",
+          "position": "CB",
+          "jerseyNumber": "7",
+          "userCount": 37,
+          "id": 858866,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 923097600
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 2,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 10,
+          "goals": 6,
+          "assists": 3,
+          "goals7m": 0,
+          "goals6m": 3,
+          "shots6m": 6,
+          "goals9m": 2,
+          "shots9m": 3,
+          "breakthroughGoals": 2,
+          "breakthroughShots": 3,
+          "pivotGoals": 1,
+          "pivotShots": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 1
+        }
+      },
+      {
+        "player": {
+          "name": "Viggo Kristjansson",
+          "firstName": "Viggo",
+          "lastName": "Kristjansson",
+          "slug": "kristjansson-viggo",
+          "shortName": "V. Kristjánsson",
+          "position": "RB",
+          "jerseyNumber": "73",
+          "userCount": 84,
+          "id": 949522,
+          "country": {
+            "alpha2": "IS",
+            "alpha3": "ISL",
+            "name": "Iceland"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 755395200,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كريستيانسون, فيجو"
+            },
+            "shortNameTranslation": {
+              "ar": "ف. كريستيانسون"
+            }
+          }
+        },
+        "position": "RB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 13,
+          "goals": 10,
+          "assists": 2,
+          "goals7m": 3,
+          "shots7m": 3,
+          "goals6m": 3,
+          "shots6m": 4,
+          "goals9m": 2,
+          "shots9m": 2,
+          "breakthroughGoals": 3,
+          "breakthroughShots": 3,
+          "fastbreakGoals": 1,
+          "fastbreakShots": 1,
+          "wingGoals": 1,
+          "steals": 1,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Kristian Saeveraas",
+          "slug": "saeveraas-kristian",
+          "shortName": "K. Sæverås",
+          "position": "G",
+          "jerseyNumber": "12",
+          "userCount": 36,
+          "id": 913487,
+          "country": {
+            "alpha2": "NO",
+            "alpha3": "NOR",
+            "name": "Norway"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 835401600,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "سايفيراس, كريستيان"
+            },
+            "shortNameTranslation": {
+              "ar": "ك. سايفيراس"
+            }
+          }
+        },
+        "position": "G",
+        "substitute": true,
+        "statistics": {
+          "saves": 8,
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gkShots": 26,
+          "gk7mGoals": 2,
+          "gk7mShots": 3,
+          "gk7mSaves": 1,
+          "gk6mSaves": 5,
+          "gk6mShots": 16,
+          "gkPivotShots": 2,
+          "gk9mSaves": 2,
+          "gk9mShots": 7,
+          "gkBreakthroughSaves": 2,
+          "gkBreakthroughShots": 7,
+          "gkWingShots": 2,
+          "shotsTaken": 0,
+          "goals": 0,
+          "assists": 2,
+          "goals7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 0,
+          "gkGoalsConceded": 18,
+          "secondsPlayed": 2371
+        }
+      },
+      {
+        "player": {
+          "name": "Matej Klima",
+          "slug": "klima-matej",
+          "shortName": "M. Klima",
+          "position": "LB",
+          "jerseyNumber": "13",
+          "userCount": 15,
+          "id": 964474,
+          "country": {
+            "alpha2": "CZ",
+            "alpha3": "CZE",
+            "name": "Czech Republic"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 922233600,
+          "fieldTranslations": {
+            "nameTranslation": {
+              "ar": "كليما, ماتيج"
+            },
+            "shortNameTranslation": {
+              "ar": "م. كليما"
+            }
+          }
+        },
+        "position": "LB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 1,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 5,
+          "goals": 1,
+          "assists": 1,
+          "goals7m": 0,
+          "goals6m": 0,
+          "shots6m": 1,
+          "goals9m": 1,
+          "shots9m": 4,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Andri Mar Runarsson",
+          "slug": "runarsson-andri-mar",
+          "shortName": "A. M. Runarsson",
+          "position": "CB",
+          "jerseyNumber": "4",
+          "userCount": 13,
+          "id": 1140968,
+          "country": {
+            "alpha2": "IS",
+            "alpha3": "ISL",
+            "name": "Iceland"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1029888000
+        },
+        "position": "CB",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 4,
+          "goals": 2,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 1,
+          "shots6m": 1,
+          "goals9m": 1,
+          "shots9m": 3,
+          "breakthroughGoals": 1,
+          "breakthroughShots": 1,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 2
+        }
+      },
+      {
+        "player": {
+          "name": "Staffan Peter",
+          "slug": "peter-staffan",
+          "shortName": "P. Steffan",
+          "position": "RW",
+          "jerseyNumber": "18",
+          "userCount": 6,
+          "id": 1189836,
+          "country": {
+            "alpha2": "DE",
+            "alpha3": "DEU",
+            "name": "Germany"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 1058140800
+        },
+        "position": "RW",
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 0,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 4,
+          "goals": 3,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 3,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "wingGoals": 3,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Milos Putera",
+          "slug": "putera-milos",
+          "shortName": "M. Putera",
+          "jerseyNumber": "44",
+          "userCount": 4,
+          "id": 806667,
+          "country": {
+            "alpha2": "SK",
+            "alpha3": "SVK",
+            "name": "Slovakia"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 380851200
+        },
+        "substitute": true,
+        "statistics": {
+          "twoMinutePenalties": 0,
+          "technicalFaults": 0,
+          "yellowCards": 1,
+          "gk6mSaves": 0,
+          "gk6mShots": 0,
+          "shotsTaken": 0,
+          "goals": 0,
+          "assists": 0,
+          "goals7m": 0,
+          "goals6m": 0,
+          "shots6m": 0,
+          "fastbreakGoals": 0,
+          "fastbreakShots": 0,
+          "steals": 0,
+          "blockedShots": 0
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "000000",
+      "outline": "fafb00",
+      "fancyNumber": "222226"
+    }
+  }
+}
