@@ -1,0 +1,282 @@
+[
+  {
+    "period": "ALL",
+    "groups": [
+      {
+        "groupName": "Batting",
+        "statisticsItems": [
+          {
+            "name": "Runs",
+            "home": "5",
+            "away": "4",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 4
+          },
+          {
+            "name": "Doubles",
+            "home": "2",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 1
+          },
+          {
+            "name": "Triples",
+            "home": "0",
+            "away": "1",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 1
+          },
+          {
+            "name": "Home runs",
+            "home": "1",
+            "away": "2",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 2
+          },
+          {
+            "name": "Strike outs",
+            "home": "17",
+            "away": "11",
+            "compareCode": 1,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 17,
+            "awayValue": 11
+          },
+          {
+            "name": "Base on balls",
+            "home": "2",
+            "away": "2",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 2
+          },
+          {
+            "name": "Hits",
+            "home": "9",
+            "away": "7",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 9,
+            "awayValue": 7
+          },
+          {
+            "name": "AVG",
+            "home": ".257",
+            "away": ".212",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0.257,
+            "awayValue": 0.212
+          },
+          {
+            "name": "OBP",
+            "home": "0.297",
+            "away": "0.297",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0.297,
+            "awayValue": 0.297
+          },
+          {
+            "name": "SLG",
+            "home": "0.4",
+            "away": "0.485",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0.4,
+            "awayValue": 0.485
+          },
+          {
+            "name": "OPS",
+            "home": "0.697",
+            "away": "0.782",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0.697,
+            "awayValue": 0.782
+          },
+          {
+            "name": "RBI",
+            "home": "5",
+            "away": "4",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 5,
+            "awayValue": 4
+          },
+          {
+            "name": "At bats",
+            "home": "35",
+            "away": "33",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 35,
+            "awayValue": 33
+          },
+          {
+            "name": "Left on base",
+            "home": "15",
+            "away": "15",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 15,
+            "awayValue": 15
+          }
+        ]
+      },
+      {
+        "groupName": "Pitching",
+        "statisticsItems": [
+          {
+            "name": "Runs",
+            "home": "4",
+            "away": "5",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 4,
+            "awayValue": 5
+          },
+          {
+            "name": "Home runs",
+            "home": "2",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 1
+          },
+          {
+            "name": "Strike outs",
+            "home": "11",
+            "away": "17",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 11,
+            "awayValue": 17
+          },
+          {
+            "name": "Base on balls",
+            "home": "2",
+            "away": "2",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 2
+          },
+          {
+            "name": "Hits",
+            "home": "7",
+            "away": "9",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 7,
+            "awayValue": 9
+          },
+          {
+            "name": "ERA",
+            "home": "4",
+            "away": "4.5",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 4,
+            "awayValue": 4.5
+          },
+          {
+            "name": "Innings pitched",
+            "home": "9",
+            "away": "8",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 9,
+            "awayValue": 8
+          },
+          {
+            "name": "Earned runs",
+            "home": "4",
+            "away": "4",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 4,
+            "awayValue": 4
+          },
+          {
+            "name": "Batters faced",
+            "home": "37",
+            "away": "37",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 37,
+            "awayValue": 37
+          },
+          {
+            "name": "Outs",
+            "home": "27",
+            "away": "24",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 27,
+            "awayValue": 24
+          }
+        ]
+      },
+      {
+        "groupName": "Fielding",
+        "statisticsItems": [
+          {
+            "name": "Assists",
+            "home": "2",
+            "away": "5",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 5
+          },
+          {
+            "name": "Put outs",
+            "home": "27",
+            "away": "24",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 27,
+            "awayValue": 24
+          }
+        ]
+      }
+    ]
+  }
+]

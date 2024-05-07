@@ -1,0 +1,474 @@
+[
+  {
+    "team": {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "logo": "https://media.api-sports.io/football/teams/85.png",
+      "colors": {
+        "player": {
+          "primary": "000066",
+          "number": "ffffff",
+          "border": "000066"
+        },
+        "goalkeeper": {
+          "primary": "ff9400",
+          "number": "0d0d0d",
+          "border": "ff9400"
+        }
+      }
+    },
+    "formation": "4-3-3",
+    "startXI": [
+      {
+        "player": {
+          "id": 1622,
+          "name": "Gianluigi Donnarumma",
+          "number": 99,
+          "pos": "G",
+          "grid": "1:1"
+        }
+      },
+      {
+        "player": {
+          "id": 9,
+          "name": "Achraf Hakimi",
+          "number": 2,
+          "pos": "D",
+          "grid": "2:4"
+        }
+      },
+      {
+        "player": {
+          "id": 257,
+          "name": "Marquinhos",
+          "number": 5,
+          "pos": "D",
+          "grid": "2:3"
+        }
+      },
+      {
+        "player": {
+          "id": 307835,
+          "name": "Lucas Beraldo",
+          "number": 35,
+          "pos": "D",
+          "grid": "2:2"
+        }
+      },
+      {
+        "player": {
+          "id": 263482,
+          "name": "Nuno Mendes",
+          "number": 25,
+          "pos": "D",
+          "grid": "2:1"
+        }
+      },
+      {
+        "player": {
+          "id": 336657,
+          "name": "Warren Zaïre-Emery",
+          "number": 33,
+          "pos": "M",
+          "grid": "3:3"
+        }
+      },
+      {
+        "player": {
+          "id": 128384,
+          "name": "Vitinha",
+          "number": 17,
+          "pos": "M",
+          "grid": "3:2"
+        }
+      },
+      {
+        "player": {
+          "id": 328,
+          "name": "Fabián Ruiz",
+          "number": 8,
+          "pos": "M",
+          "grid": "3:1"
+        }
+      },
+      {
+        "player": {
+          "id": 153,
+          "name": "Ousmane Dembélé",
+          "number": 10,
+          "pos": "F",
+          "grid": "4:3"
+        }
+      },
+      {
+        "player": {
+          "id": 41585,
+          "name": "Gonçalo Ramos",
+          "number": 9,
+          "pos": "F",
+          "grid": "4:2"
+        }
+      },
+      {
+        "player": {
+          "id": 278,
+          "name": "Kylian Mbappé",
+          "number": 7,
+          "pos": "F",
+          "grid": "4:1"
+        }
+      }
+    ],
+    "substitutes": [
+      {
+        "player": {
+          "id": 162473,
+          "name": "Arnau Tenas",
+          "number": 80,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 731,
+          "name": "Keylor Navas",
+          "number": 1,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 198,
+          "name": "Milan Škriniar",
+          "number": 37,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 386285,
+          "name": "Yoram Zague",
+          "number": 42,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 1146,
+          "name": "Nordi Mukiele",
+          "number": 26,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 381,
+          "name": "Danilo Pereira",
+          "number": 15,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 930,
+          "name": "Carlos Soler",
+          "number": 28,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 51494,
+          "name": "Manuel Ugarte",
+          "number": 4,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 927,
+          "name": "Kang-in Lee",
+          "number": 19,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 746,
+          "name": "Marco Asensio",
+          "number": 11,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 21104,
+          "name": "Randal Kolo Muani",
+          "number": 23,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 161904,
+          "name": "Bradley Barcola",
+          "number": 29,
+          "pos": "F",
+          "grid": null
+        }
+      }
+    ],
+    "coach": {
+      "id": 193,
+      "name": "Luis Enrique",
+      "photo": "https://media.api-sports.io/football/coachs/193.png"
+    }
+  },
+  {
+    "team": {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "logo": "https://media.api-sports.io/football/teams/165.png",
+      "colors": {
+        "player": {
+          "primary": "feda01",
+          "number": "000000",
+          "border": "feda01"
+        },
+        "goalkeeper": {
+          "primary": "fd7729",
+          "number": "1a1919",
+          "border": "fd7729"
+        }
+      }
+    },
+    "formation": "4-2-3-1",
+    "startXI": [
+      {
+        "player": {
+          "id": 25282,
+          "name": "Gregor Kobel",
+          "number": 1,
+          "pos": "G",
+          "grid": "1:1"
+        }
+      },
+      {
+        "player": {
+          "id": 24845,
+          "name": "Julian Ryerson",
+          "number": 26,
+          "pos": "D",
+          "grid": "2:4"
+        }
+      },
+      {
+        "player": {
+          "id": 501,
+          "name": "Mats Hummels",
+          "number": 15,
+          "pos": "D",
+          "grid": "2:3"
+        }
+      },
+      {
+        "player": {
+          "id": 26243,
+          "name": "Nico Schlotterbeck",
+          "number": 4,
+          "pos": "D",
+          "grid": "2:2"
+        }
+      },
+      {
+        "player": {
+          "id": 138816,
+          "name": "Ian Maatsen",
+          "number": 22,
+          "pos": "D",
+          "grid": "2:1"
+        }
+      },
+      {
+        "player": {
+          "id": 1159,
+          "name": "Marcel Sabitzer",
+          "number": 20,
+          "pos": "M",
+          "grid": "3:2"
+        }
+      },
+      {
+        "player": {
+          "id": 864,
+          "name": "Emre Can",
+          "number": 23,
+          "pos": "M",
+          "grid": "3:1"
+        }
+      },
+      {
+        "player": {
+          "id": 18,
+          "name": "Jadon Sancho",
+          "number": 10,
+          "pos": "M",
+          "grid": "4:3"
+        }
+      },
+      {
+        "player": {
+          "id": 984,
+          "name": "Julian Brandt",
+          "number": 19,
+          "pos": "M",
+          "grid": "4:2"
+        }
+      },
+      {
+        "player": {
+          "id": 7334,
+          "name": "Karim Adeyemi",
+          "number": 27,
+          "pos": "M",
+          "grid": "4:1"
+        }
+      },
+      {
+        "player": {
+          "id": 25391,
+          "name": "Niclas Füllkrug",
+          "number": 14,
+          "pos": "F",
+          "grid": "5:1"
+        }
+      }
+    ],
+    "substitutes": [
+      {
+        "player": {
+          "id": 162502,
+          "name": "Marcel Lotka",
+          "number": 35,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 26292,
+          "name": "Alexander Meyer",
+          "number": 33,
+          "pos": "G",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 506,
+          "name": "Niklas Süle",
+          "number": 25,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 26,
+          "name": "Marius Wolf",
+          "number": 17,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 25,
+          "name": "Marco Reus",
+          "number": 11,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 397740,
+          "name": "Kjell Wätjen",
+          "number": 38,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 24807,
+          "name": "Salih Özcan",
+          "number": 6,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 637,
+          "name": "Felix Nmecha",
+          "number": 8,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 286894,
+          "name": "Jamie Bynoe-Gittens",
+          "number": 43,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 1826,
+          "name": "Sébastien Haller",
+          "number": 9,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 161919,
+          "name": "Youssoufa Moukoko",
+          "number": 18,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 249,
+          "name": "Donyell Malen",
+          "number": 21,
+          "pos": "F",
+          "grid": null
+        }
+      }
+    ],
+    "coach": {
+      "id": 13491,
+      "name": "E. Terzić",
+      "photo": "https://media.api-sports.io/football/coachs/13491.png"
+    }
+  }
+]

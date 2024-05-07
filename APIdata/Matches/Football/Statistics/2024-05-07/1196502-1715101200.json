@@ -1,9 +1,86 @@
 [
   {
     "team": {
-      "id": 1359,
-      "name": "Luton",
-      "logo": "https://media.api-sports.io/football/teams/1359.png"
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "logo": "https://media.api-sports.io/football/teams/85.png"
+    },
+    "statistics": [
+      {
+        "type": "Shots on Goal",
+        "value": 5
+      },
+      {
+        "type": "Shots off Goal",
+        "value": 13
+      },
+      {
+        "type": "Total Shots",
+        "value": 25
+      },
+      {
+        "type": "Blocked Shots",
+        "value": 7
+      },
+      {
+        "type": "Shots insidebox",
+        "value": 17
+      },
+      {
+        "type": "Shots outsidebox",
+        "value": 8
+      },
+      {
+        "type": "Fouls",
+        "value": 8
+      },
+      {
+        "type": "Corner Kicks",
+        "value": 10
+      },
+      {
+        "type": "Offsides",
+        "value": 0
+      },
+      {
+        "type": "Ball Possession",
+        "value": "69%"
+      },
+      {
+        "type": "Yellow Cards",
+        "value": 2
+      },
+      {
+        "type": "Red Cards",
+        "value": null
+      },
+      {
+        "type": "Goalkeeper Saves",
+        "value": 2
+      },
+      {
+        "type": "Total passes",
+        "value": 608
+      },
+      {
+        "type": "Passes accurate",
+        "value": 546
+      },
+      {
+        "type": "Passes %",
+        "value": "90%"
+      },
+      {
+        "type": "expected_goals",
+        "value": "2.65"
+      }
+    ]
+  },
+  {
+    "team": {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "logo": "https://media.api-sports.io/football/teams/165.png"
     },
     "statistics": [
       {
@@ -12,11 +89,11 @@
       },
       {
         "type": "Shots off Goal",
-        "value": 3
+        "value": 2
       },
       {
         "type": "Total Shots",
-        "value": 8
+        "value": 7
       },
       {
         "type": "Blocked Shots",
@@ -24,15 +101,15 @@
       },
       {
         "type": "Shots insidebox",
-        "value": 6
+        "value": 7
       },
       {
         "type": "Shots outsidebox",
-        "value": 2
+        "value": 0
       },
       {
         "type": "Fouls",
-        "value": 15
+        "value": 6
       },
       {
         "type": "Corner Kicks",
@@ -40,15 +117,15 @@
       },
       {
         "type": "Offsides",
-        "value": 1
+        "value": 2
       },
       {
         "type": "Ball Possession",
-        "value": "39%"
+        "value": "31%"
       },
       {
         "type": "Yellow Cards",
-        "value": 6
+        "value": 2
       },
       {
         "type": "Red Cards",
@@ -56,100 +133,23 @@
       },
       {
         "type": "Goalkeeper Saves",
-        "value": 7
+        "value": 5
       },
       {
         "type": "Total passes",
-        "value": 335
+        "value": 283
       },
       {
         "type": "Passes accurate",
-        "value": 249
+        "value": 220
       },
       {
         "type": "Passes %",
-        "value": "74%"
+        "value": "78%"
       },
       {
         "type": "expected_goals",
-        "value": "0.94"
-      }
-    ]
-  },
-  {
-    "team": {
-      "id": 52,
-      "name": "Crystal Palace",
-      "logo": "https://media.api-sports.io/football/teams/52.png"
-    },
-    "statistics": [
-      {
-        "type": "Shots on Goal",
-        "value": 8
-      },
-      {
-        "type": "Shots off Goal",
-        "value": 3
-      },
-      {
-        "type": "Total Shots",
-        "value": 16
-      },
-      {
-        "type": "Blocked Shots",
-        "value": 5
-      },
-      {
-        "type": "Shots insidebox",
-        "value": 11
-      },
-      {
-        "type": "Shots outsidebox",
-        "value": 5
-      },
-      {
-        "type": "Fouls",
-        "value": 12
-      },
-      {
-        "type": "Corner Kicks",
-        "value": 5
-      },
-      {
-        "type": "Offsides",
-        "value": 1
-      },
-      {
-        "type": "Ball Possession",
-        "value": "61%"
-      },
-      {
-        "type": "Yellow Cards",
-        "value": 1
-      },
-      {
-        "type": "Red Cards",
-        "value": null
-      },
-      {
-        "type": "Goalkeeper Saves",
-        "value": 1
-      },
-      {
-        "type": "Total passes",
-        "value": 538
-      },
-      {
-        "type": "Passes accurate",
-        "value": 427
-      },
-      {
-        "type": "Passes %",
-        "value": "79%"
-      },
-      {
-        "type": "expected_goals",
-        "value": "1.67"
+        "value": "0.77"
       }
     ]
   }

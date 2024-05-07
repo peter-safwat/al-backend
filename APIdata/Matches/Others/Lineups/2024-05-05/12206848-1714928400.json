@@ -1,0 +1,1159 @@
+{
+  "confirmed": true,
+  "home": {
+    "players": [
+      {
+        "player": {
+          "name": "Nestor Cortes Jr.",
+          "firstName": "Nestor",
+          "lastName": "Cortes",
+          "slug": "cortes-jr-nestor",
+          "shortName": "N. Cortes",
+          "position": "P",
+          "jerseyNumber": "65",
+          "userCount": 6,
+          "id": 976887,
+          "country": {
+            "alpha2": "CU",
+            "alpha3": "CUB",
+            "name": "Cuba"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 787017600
+        },
+        "position": "P",
+        "substitute": false,
+        "statistics": {
+          "pitchingRuns": 2,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 9,
+          "pitchingBaseOnBalls": 1,
+          "pitchingHits": 3,
+          "pitchingInningsPitched": 6.1,
+          "pitchingEarnedRuns": 2,
+          "pitchingBattersFaced": 23,
+          "pitchingOuts": 19,
+          "pitchingPitchesThrown": 97,
+          "pitchingStrikes": 64,
+          "pitchingEarnedRunsAverage": 2.842
+        }
+      },
+      {
+        "player": {
+          "name": "Ian Hamilton",
+          "firstName": "Ian",
+          "lastName": "Hamilton",
+          "slug": "hamilton-ian",
+          "shortName": "I. Hamilton",
+          "position": "P",
+          "jerseyNumber": "71",
+          "userCount": 1,
+          "id": 961012,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 803260800
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 0,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 0,
+          "pitchingBaseOnBalls": 1,
+          "pitchingHits": 1,
+          "pitchingInningsPitched": 0.1,
+          "pitchingEarnedRuns": 0,
+          "pitchingBattersFaced": 3,
+          "pitchingOuts": 1,
+          "pitchingPitchesThrown": 14,
+          "pitchingStrikes": 8,
+          "pitchingEarnedRunsAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Dennis Santana",
+          "firstName": "Dennis",
+          "lastName": "Santana",
+          "slug": "santana-dennis",
+          "shortName": "D. Santana",
+          "position": "P",
+          "jerseyNumber": "53",
+          "userCount": 0,
+          "id": 962591,
+          "country": {
+            "alpha2": "DO",
+            "alpha3": "DOM",
+            "name": "Dominican Republic"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 829267200
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 0,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 2,
+          "pitchingBaseOnBalls": 0,
+          "pitchingHits": 1,
+          "pitchingInningsPitched": 1,
+          "pitchingEarnedRuns": 0,
+          "pitchingBattersFaced": 4,
+          "pitchingOuts": 3,
+          "pitchingPitchesThrown": 17,
+          "pitchingStrikes": 12,
+          "pitchingEarnedRunsAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Victor Gonzalez",
+          "firstName": "Victor",
+          "lastName": "Gonzalez",
+          "slug": "gonzalez-victor",
+          "shortName": "V. Gonzalez",
+          "position": "P",
+          "jerseyNumber": "47",
+          "userCount": 0,
+          "id": 1003857,
+          "country": {
+            "alpha2": "MX",
+            "alpha3": "MEX",
+            "name": "Mexico"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 816480000
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 0,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 0,
+          "pitchingBaseOnBalls": 0,
+          "pitchingHits": 0,
+          "pitchingInningsPitched": 0.1,
+          "pitchingEarnedRuns": 0,
+          "pitchingBattersFaced": 1,
+          "pitchingOuts": 1,
+          "pitchingPitchesThrown": 4,
+          "pitchingStrikes": 2,
+          "pitchingEarnedRunsAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Giancarlo Stanton",
+          "firstName": "Giancarlo",
+          "lastName": "Stanton",
+          "slug": "stanton-giancarlo",
+          "shortName": "G. Stanton",
+          "position": "DH",
+          "jerseyNumber": "27",
+          "userCount": 4,
+          "id": 960771,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 626486400
+        },
+        "position": "DH",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 3,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.25
+        }
+      },
+      {
+        "player": {
+          "name": "Juan Soto",
+          "firstName": "Juan",
+          "lastName": "Soto",
+          "slug": "soto-juan",
+          "shortName": "J. Soto",
+          "position": "RF",
+          "jerseyNumber": "22",
+          "userCount": 5,
+          "id": 961487,
+          "country": {
+            "alpha2": "DO",
+            "alpha3": "DOM",
+            "name": "Dominican Republic"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 909273600
+        },
+        "position": "RF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 1,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 2,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 3,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.25
+        }
+      },
+      {
+        "player": {
+          "name": "Anthony Volpe",
+          "slug": "volpe-anthony",
+          "shortName": "A. Volpe",
+          "position": "SS",
+          "jerseyNumber": "11",
+          "userCount": 4,
+          "id": 1480589,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 988416000
+        },
+        "position": "SS",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 2,
+          "battingGroundOuts": 0,
+          "battingRuns": 1,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 1,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 3,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jon Berti",
+          "firstName": "Jonathon",
+          "lastName": "Berti",
+          "slug": "berti-jon",
+          "shortName": "J. Berti",
+          "position": "3B",
+          "jerseyNumber": "19",
+          "userCount": 0,
+          "id": 976903,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 632966400
+        },
+        "position": "3B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 1,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 1,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 2,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.5
+        }
+      },
+      {
+        "player": {
+          "name": "Alex Verdugo",
+          "firstName": "Alexander",
+          "lastName": "Verdugo",
+          "slug": "verdugo-alex",
+          "shortName": "A. Verdugo",
+          "position": "LF",
+          "jerseyNumber": "24",
+          "userCount": 3,
+          "id": 962197,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 832118400
+        },
+        "position": "LF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 2,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 4,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Gleyber Torres",
+          "firstName": "Gleyber",
+          "lastName": "Torres",
+          "slug": "torres-gleyber",
+          "shortName": "G. Torres",
+          "position": "2B",
+          "jerseyNumber": "25",
+          "userCount": 6,
+          "id": 960763,
+          "country": {
+            "alpha2": "VE",
+            "alpha3": "VEN",
+            "name": "Venezuela"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 850435200
+        },
+        "position": "2B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 1,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 4,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.25
+        }
+      },
+      {
+        "player": {
+          "name": "Aaron Judge",
+          "firstName": "Aaron",
+          "lastName": "Judge",
+          "slug": "judge-aaron",
+          "shortName": "A. Judge",
+          "position": "CF",
+          "jerseyNumber": "99",
+          "userCount": 10,
+          "id": 960774,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 704246400
+        },
+        "position": "CF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 1,
+          "battingDoubles": 1,
+          "battingTriples": 0,
+          "battingHomeRuns": 1,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 1,
+          "battingHits": 2,
+          "battingHitByPitch": 0,
+          "battingRbi": 1,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.667
+        }
+      },
+      {
+        "player": {
+          "name": "Jose Trevino",
+          "firstName": "Jose",
+          "lastName": "Trevino",
+          "slug": "trevino-jose",
+          "shortName": "J. Trevino",
+          "position": "C",
+          "jerseyNumber": "39",
+          "userCount": 1,
+          "id": 961720,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 722908800
+        },
+        "position": "C",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 1,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 2,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.333
+        }
+      },
+      {
+        "player": {
+          "name": "Oswaldo Cabrera",
+          "firstName": "Oswaldo",
+          "lastName": "Cabrera",
+          "slug": "cabrera-oswaldo",
+          "shortName": "O. Cabrera",
+          "position": "3B",
+          "jerseyNumber": "95",
+          "userCount": 0,
+          "id": 977433,
+          "country": {
+            "alpha2": "VE",
+            "alpha3": "VEN",
+            "name": "Venezuela"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 920246400
+        },
+        "position": "3B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 1,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 2,
+          "battingHitByPitch": 0,
+          "battingRbi": 1,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 2,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.667
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "080868",
+      "outline": "ffffff",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "222226",
+      "outline": "808080",
+      "fancyNumber": "222226"
+    }
+  },
+  "away": {
+    "players": [
+      {
+        "player": {
+          "name": "Tarik Skubal",
+          "firstName": "Tarik",
+          "lastName": "Skubal",
+          "slug": "skubal-tarik",
+          "shortName": "T. Skubal",
+          "position": "P",
+          "jerseyNumber": "29",
+          "userCount": 1,
+          "id": 1020697,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 848448000
+        },
+        "position": "P",
+        "substitute": false,
+        "statistics": {
+          "pitchingRuns": 2,
+          "pitchingHomeRuns": 1,
+          "pitchingStrikeOuts": 12,
+          "pitchingBaseOnBalls": 0,
+          "pitchingHits": 6,
+          "pitchingInningsPitched": 6,
+          "pitchingEarnedRuns": 2,
+          "pitchingBattersFaced": 24,
+          "pitchingOuts": 18,
+          "pitchingPitchesThrown": 96,
+          "pitchingStrikes": 70,
+          "pitchingEarnedRunsAverage": 3
+        }
+      },
+      {
+        "player": {
+          "name": "Alex Lange",
+          "firstName": "Alexander",
+          "lastName": "Lange",
+          "slug": "lange-alex",
+          "shortName": "A. Lange",
+          "position": "P",
+          "jerseyNumber": "55",
+          "userCount": 1,
+          "id": 1020779,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 812592000
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 0,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 0,
+          "pitchingBaseOnBalls": 0,
+          "pitchingHits": 0,
+          "pitchingInningsPitched": 0.1,
+          "pitchingEarnedRuns": 0,
+          "pitchingBattersFaced": 1,
+          "pitchingOuts": 1,
+          "pitchingPitchesThrown": 9,
+          "pitchingStrikes": 6,
+          "pitchingEarnedRunsAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Zach McKinstry",
+          "firstName": "Zachary",
+          "lastName": "McKinstry",
+          "slug": "mckinstry-zach",
+          "shortName": "Z. McKinstry",
+          "position": "SS",
+          "jerseyNumber": "39",
+          "userCount": 1,
+          "id": 978136,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 799113600
+        },
+        "position": "SS",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 1,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Spencer Torkelson",
+          "firstName": "Spencer",
+          "lastName": "Torkelson",
+          "slug": "torkelson-spencer",
+          "shortName": "S. Torkelson",
+          "position": "1B",
+          "jerseyNumber": "20",
+          "userCount": 2,
+          "id": 1105706,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 935625600
+        },
+        "position": "1B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 2,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 2,
+          "battingHitByPitch": 0,
+          "battingRbi": 1,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.667
+        }
+      },
+      {
+        "player": {
+          "name": "Javier Baez",
+          "firstName": "Ednel",
+          "lastName": "Baez",
+          "slug": "baez-javier",
+          "shortName": "J. Baez",
+          "position": "SS",
+          "jerseyNumber": "28",
+          "userCount": 3,
+          "id": 961135,
+          "country": {
+            "alpha2": "PR",
+            "alpha3": "PRI",
+            "name": "Puerto Rico"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 723168000
+        },
+        "position": "SS",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 1,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 1,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 2,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Colt Keith",
+          "slug": "keith-colt",
+          "shortName": "C. Keith",
+          "position": "2B",
+          "jerseyNumber": "33",
+          "userCount": 0,
+          "id": 1481865,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 997747200
+        },
+        "position": "2B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 1,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 1,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 2,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Parker Meadows",
+          "slug": "meadows-parker",
+          "shortName": "P. Meadows",
+          "position": "CF",
+          "jerseyNumber": "22",
+          "userCount": 1,
+          "id": 979697,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 941500800
+        },
+        "position": "CF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 2,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 2,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Jake Rogers",
+          "firstName": "Jacob",
+          "lastName": "Rogers",
+          "slug": "rogers-jake",
+          "shortName": "J. Rogers",
+          "position": "C",
+          "jerseyNumber": "34",
+          "userCount": 1,
+          "id": 976676,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 798163200
+        },
+        "position": "C",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 1,
+          "battingGroundOuts": 0,
+          "battingRuns": 1,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.333
+        }
+      },
+      {
+        "player": {
+          "name": "Riley Greene",
+          "firstName": "Riley",
+          "lastName": "Greene",
+          "slug": "greene-riley",
+          "shortName": "R. Greene",
+          "position": "LF",
+          "jerseyNumber": "31",
+          "userCount": 2,
+          "id": 1021128,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 970099200
+        },
+        "position": "LF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 0,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 3,
+          "battingBaseOnBalls": 1,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 2,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Kerry Carpenter",
+          "firstName": "Kerry",
+          "lastName": "Carpenter",
+          "slug": "carpenter-kerry",
+          "shortName": "K. Carpenter",
+          "position": "RF",
+          "jerseyNumber": "30",
+          "userCount": 1,
+          "id": 1021146,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 873158400
+        },
+        "position": "RF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 1,
+          "battingLeftOnBase": 2,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Shelby Miller",
+          "firstName": "Shelby",
+          "lastName": "Miller",
+          "slug": "miller-shelby",
+          "shortName": "S. Miller",
+          "position": "P",
+          "jerseyNumber": "7",
+          "userCount": 0,
+          "id": 961337,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 655516800
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 3,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 1,
+          "pitchingBaseOnBalls": 2,
+          "pitchingHits": 1,
+          "pitchingInningsPitched": 0.1,
+          "pitchingEarnedRuns": 3,
+          "pitchingBattersFaced": 4,
+          "pitchingOuts": 1,
+          "pitchingPitchesThrown": 18,
+          "pitchingStrikes": 6,
+          "pitchingEarnedRunsAverage": 81
+        }
+      },
+      {
+        "player": {
+          "name": "Andy Ibanez",
+          "firstName": "Andy",
+          "lastName": "Ibanez",
+          "slug": "ibanez-andy",
+          "shortName": "A. Ibanez",
+          "position": "2B",
+          "jerseyNumber": "77",
+          "userCount": 1,
+          "id": 977252,
+          "country": {
+            "alpha2": "CU",
+            "alpha3": "CUB",
+            "name": "Cuba"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 733795200
+        },
+        "position": "2B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 1,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 0,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 3,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Andrew Chafin",
+          "firstName": "Andrew",
+          "lastName": "Chafin",
+          "slug": "chafin-andrew",
+          "shortName": "A. Chafin",
+          "position": "P",
+          "jerseyNumber": "17",
+          "userCount": 0,
+          "id": 961327,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 645580800
+        },
+        "position": "P",
+        "substitute": true,
+        "statistics": {
+          "pitchingRuns": 0,
+          "pitchingHomeRuns": 0,
+          "pitchingStrikeOuts": 0,
+          "pitchingBaseOnBalls": 1,
+          "pitchingHits": 2,
+          "pitchingInningsPitched": 0.1,
+          "pitchingEarnedRuns": 0,
+          "pitchingBattersFaced": 4,
+          "pitchingOuts": 1,
+          "pitchingPitchesThrown": 23,
+          "pitchingStrikes": 12,
+          "pitchingEarnedRunsAverage": 0
+        }
+      },
+      {
+        "player": {
+          "name": "Matt Vierling",
+          "firstName": "Matthew",
+          "lastName": "Vierling",
+          "slug": "vierling-matt",
+          "shortName": "M. Vierling",
+          "position": "3B",
+          "jerseyNumber": "8",
+          "userCount": 2,
+          "id": 978108,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 842832000
+        },
+        "position": "3B",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 0,
+          "battingGroundOuts": 1,
+          "battingRuns": 0,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 0,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 0,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.25
+        }
+      },
+      {
+        "player": {
+          "name": "Mark Canha",
+          "firstName": "Mark",
+          "lastName": "Canha",
+          "slug": "canha-mark",
+          "shortName": "M. Canha",
+          "position": "LF",
+          "jerseyNumber": "21",
+          "userCount": 2,
+          "id": 960569,
+          "country": {
+            "alpha2": "US",
+            "alpha3": "USA",
+            "name": "USA"
+          },
+          "marketValueCurrency": "EUR",
+          "dateOfBirthTimestamp": 603504000
+        },
+        "position": "LF",
+        "substitute": true,
+        "statistics": {
+          "battingFlyOuts": 2,
+          "battingGroundOuts": 0,
+          "battingRuns": 1,
+          "battingDoubles": 0,
+          "battingTriples": 0,
+          "battingHomeRuns": 0,
+          "battingStrikeOuts": 1,
+          "battingBaseOnBalls": 0,
+          "battingHits": 1,
+          "battingHitByPitch": 0,
+          "battingRbi": 0,
+          "battingCaughtStealing": 0,
+          "battingStolenBases": 0,
+          "battingAtBats": 4,
+          "battingLeftOnBase": 1,
+          "battingSacBunts": 0,
+          "battingSacFlies": 0,
+          "battingAverage": 0.25
+        }
+      }
+    ],
+    "supportStaff": [],
+    "playerColor": {
+      "primary": "000000",
+      "number": "000066",
+      "outline": "ffffff",
+      "fancyNumber": "222226"
+    },
+    "goalkeeperColor": {
+      "primary": "000000",
+      "number": "000000",
+      "outline": "222226",
+      "fancyNumber": "222226"
+    }
+  }
+}

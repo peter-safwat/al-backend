@@ -66,6 +66,6 @@ router
   .route("/eventAPIData/statistics")
   .get(ServreAPIDataController.gitEventData);
 
-router.route("/eventAPIData/event").get(ServreAPIDataController.gitEventData);
+router.route("/eventAPIData/events").get(ServreAPIDataController.gitEventData);
 
 module.exports = router;

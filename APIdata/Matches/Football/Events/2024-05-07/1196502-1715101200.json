@@ -1,0 +1,222 @@
+[
+  {
+    "time": {
+      "elapsed": 50,
+      "extra": null
+    },
+    "team": {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "logo": "https://media.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+      "id": 501,
+      "name": "M. Hummels"
+    },
+    "assist": {
+      "id": 984,
+      "name": "J. Brandt"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "logo": "https://media.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+      "id": 25,
+      "name": "M. Reus"
+    },
+    "assist": {
+      "id": 7334,
+      "name": "K. Adeyemi"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "logo": "https://media.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+      "id": 746,
+      "name": "M. Asensio"
+    },
+    "assist": {
+      "id": 328,
+      "name": "F. Ruiz"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "logo": "https://media.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+      "id": 161904,
+      "name": "B. Barcola"
+    },
+    "assist": {
+      "id": 41585,
+      "name": "G. Ramos"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "logo": "https://media.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+      "id": 1159,
+      "name": "M. Sabitzer"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 65,
+      "extra": null
+    },
+    "team": {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "logo": "https://media.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+      "id": 501,
+      "name": "M. Hummels"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "logo": "https://media.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+      "id": 506,
+      "name": "N. Sule"
+    },
+    "assist": {
+      "id": 18,
+      "name": "J. Sancho"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "logo": "https://media.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+      "id": 153,
+      "name": "O. Dembele"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "logo": "https://media.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+      "id": 927,
+      "name": "Lee Kang-In"
+    },
+    "assist": {
+      "id": 336657,
+      "name": "W. Zaire-Emery"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 85,
+      "name": "Paris Saint Germain",
+      "logo": "https://media.api-sports.io/football/teams/85.png"
+    },
+    "player": {
+      "id": 9,
+      "name": "A. Hakimi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": null
+  }
+]
