@@ -122,6 +122,33 @@
     "substitutes": [
       {
         "player": {
+          "id": 746,
+          "name": "Marco Asensio",
+          "number": 11,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 161904,
+          "name": "Bradley Barcola",
+          "number": 29,
+          "pos": "F",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 927,
+          "name": "Kang-in Lee",
+          "number": 19,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
           "id": 162473,
           "name": "Arnau Tenas",
           "number": 80,
@@ -194,36 +221,9 @@
       },
       {
         "player": {
-          "id": 927,
-          "name": "Kang-in Lee",
-          "number": 19,
-          "pos": "M",
-          "grid": null
-        }
-      },
-      {
-        "player": {
-          "id": 746,
-          "name": "Marco Asensio",
-          "number": 11,
-          "pos": "F",
-          "grid": null
-        }
-      },
-      {
-        "player": {
           "id": 21104,
           "name": "Randal Kolo Muani",
           "number": 23,
-          "pos": "F",
-          "grid": null
-        }
-      },
-      {
-        "player": {
-          "id": 161904,
-          "name": "Bradley Barcola",
-          "number": 29,
           "pos": "F",
           "grid": null
         }
@@ -358,6 +358,33 @@
     "substitutes": [
       {
         "player": {
+          "id": 25,
+          "name": "Marco Reus",
+          "number": 11,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 506,
+          "name": "Niklas Süle",
+          "number": 25,
+          "pos": "D",
+          "grid": null
+        }
+      },
+      {
+        "player": {
+          "id": 637,
+          "name": "Felix Nmecha",
+          "number": 8,
+          "pos": "M",
+          "grid": null
+        }
+      },
+      {
+        "player": {
           "id": 162502,
           "name": "Marcel Lotka",
           "number": 35,
@@ -376,27 +403,9 @@
       },
       {
         "player": {
-          "id": 506,
-          "name": "Niklas Süle",
-          "number": 25,
-          "pos": "D",
-          "grid": null
-        }
-      },
-      {
-        "player": {
           "id": 26,
           "name": "Marius Wolf",
           "number": 17,
-          "pos": "M",
-          "grid": null
-        }
-      },
-      {
-        "player": {
-          "id": 25,
-          "name": "Marco Reus",
-          "number": 11,
           "pos": "M",
           "grid": null
         }
@@ -415,15 +424,6 @@
           "id": 24807,
           "name": "Salih Özcan",
           "number": 6,
-          "pos": "M",
-          "grid": null
-        }
-      },
-      {
-        "player": {
-          "id": 637,
-          "name": "Felix Nmecha",
-          "number": 8,
           "pos": "M",
           "grid": null
         }

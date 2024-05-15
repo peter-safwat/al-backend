@@ -126,9 +126,9 @@ const getOthersstatistics = async (eventId, filePath) => {
     url: "https://divanscore.p.rapidapi.com/matches/get-statistics",
     params: { matchId: eventId },
     headers: {
-      'X-RapidAPI-Key': '921f373660msha3e0d928464b8e4p198461jsn4e6138ae0d40',
-      'X-RapidAPI-Host': 'divanscore.p.rapidapi.com'
-      },
+      "X-RapidAPI-Key": "921f373660msha3e0d928464b8e4p198461jsn4e6138ae0d40",
+      "X-RapidAPI-Host": "divanscore.p.rapidapi.com",
+    },
   };
 
   try {
@@ -153,9 +153,9 @@ const getOthersSummery = async (eventId, filePath) => {
     url: "https://divanscore.p.rapidapi.com/matches/get-statistics",
     params: { matchId: eventId },
     headers: {
-      'X-RapidAPI-Key': '921f373660msha3e0d928464b8e4p198461jsn4e6138ae0d40',
-      'X-RapidAPI-Host': 'divanscore.p.rapidapi.com'
-      },
+      "X-RapidAPI-Key": "921f373660msha3e0d928464b8e4p198461jsn4e6138ae0d40",
+      "X-RapidAPI-Host": "divanscore.p.rapidapi.com",
+    },
   };
 
   try {
@@ -271,7 +271,7 @@ exports.gitOtherSportsLiveMatchesData = catchAsync(async (req, res, next) => {
         formattedDate
       );
       // eslint-disable-next-line no-await-in-loop
-      await getDataForOtherSportslLiveEvents(folderPath);
+      getDataForOtherSportslLiveEvents(folderPath);
     }
   })();
 });

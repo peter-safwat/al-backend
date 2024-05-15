@@ -217,6 +217,28 @@
     },
     "type": "Card",
     "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 165,
+      "name": "Borussia Dortmund",
+      "logo": "https://media.api-sports.io/football/teams/165.png"
+    },
+    "player": {
+      "id": 637,
+      "name": "F. Nmecha"
+    },
+    "assist": {
+      "id": 984,
+      "name": "J. Brandt"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
     "comments": null
   }
 ]

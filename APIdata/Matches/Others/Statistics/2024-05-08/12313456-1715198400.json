@@ -1,0 +1,467 @@
+[
+  {
+    "period": "ALL",
+    "groups": [
+      {
+        "groupName": "Points",
+        "statisticsItems": [
+          {
+            "name": "Points won",
+            "home": "39",
+            "away": "43",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 39,
+            "awayValue": 43
+          },
+          {
+            "name": "Max points in a row",
+            "home": "3",
+            "away": "5",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 5
+          },
+          {
+            "name": "Comeback to win",
+            "home": "2",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 3
+          },
+          {
+            "name": "Biggest lead",
+            "home": "3",
+            "away": "3",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 3
+          },
+          {
+            "name": "Service points won",
+            "home": "19/42 (45%)",
+            "away": "20/40 (50%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 19,
+            "awayValue": 20,
+            "homeTotal": 42,
+            "awayTotal": 40
+          },
+          {
+            "name": "Receiver points won",
+            "home": "20/40 (50%)",
+            "away": "23/42 (55%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 20,
+            "awayValue": 23,
+            "homeTotal": 40,
+            "awayTotal": 42
+          },
+          {
+            "name": "Service errors",
+            "home": "0",
+            "away": "0",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 0
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Number of lets",
+            "home": "0",
+            "away": "1",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "period": "1ST",
+    "groups": [
+      {
+        "groupName": "Points",
+        "statisticsItems": [
+          {
+            "name": "Points won",
+            "home": "11",
+            "away": "8",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 11,
+            "awayValue": 8
+          },
+          {
+            "name": "Max points in a row",
+            "home": "3",
+            "away": "3",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 3
+          },
+          {
+            "name": "Comeback to win",
+            "home": "2",
+            "away": "0",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 0
+          },
+          {
+            "name": "Biggest lead",
+            "home": "3",
+            "away": "2",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 2
+          },
+          {
+            "name": "Service points won",
+            "home": "6/10 (60%)",
+            "away": "4/9 (44%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 6,
+            "awayValue": 4,
+            "homeTotal": 10,
+            "awayTotal": 9
+          },
+          {
+            "name": "Receiver points won",
+            "home": "5/9 (56%)",
+            "away": "4/10 (40%)",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 5,
+            "awayValue": 4,
+            "homeTotal": 9,
+            "awayTotal": 10
+          },
+          {
+            "name": "Service errors",
+            "home": "0",
+            "away": "0",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 0
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Number of lets",
+            "home": "0",
+            "away": "0",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "period": "2ND",
+    "groups": [
+      {
+        "groupName": "Points",
+        "statisticsItems": [
+          {
+            "name": "Points won",
+            "home": "11",
+            "away": "13",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 11,
+            "awayValue": 13
+          },
+          {
+            "name": "Max points in a row",
+            "home": "2",
+            "away": "4",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 4
+          },
+          {
+            "name": "Comeback to win",
+            "home": "0",
+            "away": "1",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 1
+          },
+          {
+            "name": "Biggest lead",
+            "home": "1",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 1,
+            "awayValue": 3
+          },
+          {
+            "name": "Service points won",
+            "home": "5/12 (42%)",
+            "away": "6/12 (50%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 5,
+            "awayValue": 6,
+            "homeTotal": 12,
+            "awayTotal": 12
+          },
+          {
+            "name": "Receiver points won",
+            "home": "6/12 (50%)",
+            "away": "7/12 (58%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 6,
+            "awayValue": 7,
+            "homeTotal": 12,
+            "awayTotal": 12
+          },
+          {
+            "name": "Service errors",
+            "home": "0",
+            "away": "0",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 0
+          }
+        ]
+      },
+      {
+        "groupName": "Other",
+        "statisticsItems": [
+          {
+            "name": "Number of lets",
+            "home": "0",
+            "away": "1",
+            "compareCode": 2,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "period": "3RD",
+    "groups": [
+      {
+        "groupName": "Points",
+        "statisticsItems": [
+          {
+            "name": "Points won",
+            "home": "8",
+            "away": "11",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 8,
+            "awayValue": 11
+          },
+          {
+            "name": "Max points in a row",
+            "home": "2",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 3
+          },
+          {
+            "name": "Comeback to win",
+            "home": "0",
+            "away": "0",
+            "compareCode": 3,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 0
+          },
+          {
+            "name": "Biggest lead",
+            "home": "0",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 3
+          },
+          {
+            "name": "Service points won",
+            "home": "4/10 (40%)",
+            "away": "5/9 (56%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 4,
+            "awayValue": 5,
+            "homeTotal": 10,
+            "awayTotal": 9
+          },
+          {
+            "name": "Receiver points won",
+            "home": "4/9 (44%)",
+            "away": "6/10 (60%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 4,
+            "awayValue": 6,
+            "homeTotal": 9,
+            "awayTotal": 10
+          },
+          {
+            "name": "Service errors",
+            "home": "0",
+            "away": "0",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "period": "4TH",
+    "groups": [
+      {
+        "groupName": "Points",
+        "statisticsItems": [
+          {
+            "name": "Points won",
+            "home": "9",
+            "away": "11",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 9,
+            "awayValue": 11
+          },
+          {
+            "name": "Max points in a row",
+            "home": "2",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 2,
+            "awayValue": 3
+          },
+          {
+            "name": "Comeback to win",
+            "home": "0",
+            "away": "3",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 3
+          },
+          {
+            "name": "Biggest lead",
+            "home": "3",
+            "away": "1",
+            "compareCode": 1,
+            "statisticsType": "positive",
+            "valueType": "event",
+            "homeValue": 3,
+            "awayValue": 1
+          },
+          {
+            "name": "Service points won",
+            "home": "4/10 (40%)",
+            "away": "5/10 (50%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 4,
+            "awayValue": 5,
+            "homeTotal": 10,
+            "awayTotal": 10
+          },
+          {
+            "name": "Receiver points won",
+            "home": "5/10 (50%)",
+            "away": "6/10 (60%)",
+            "compareCode": 2,
+            "statisticsType": "positive",
+            "valueType": "team",
+            "homeValue": 5,
+            "awayValue": 6,
+            "homeTotal": 10,
+            "awayTotal": 10
+          },
+          {
+            "name": "Service errors",
+            "home": "0",
+            "away": "0",
+            "compareCode": 3,
+            "statisticsType": "negative",
+            "valueType": "event",
+            "homeValue": 0,
+            "awayValue": 0
+          }
+        ]
+      }
+    ]
+  }
+]
