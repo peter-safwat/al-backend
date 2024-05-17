@@ -1,0 +1,420 @@
+[
+  {
+    "time": {
+      "elapsed": 29,
+      "extra": null
+    },
+    "team": {
+      "id": 51,
+      "name": "Brighton",
+      "logo": "https://media.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+      "id": 18963,
+      "name": "L. Dunk"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 34,
+      "extra": null
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 152982,
+      "name": "C. Palmer"
+    },
+    "assist": {
+      "id": 47380,
+      "name": "M. Cucurella"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 42,
+      "extra": null
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 269,
+      "name": "C. Nkunku"
+    },
+    "assist": {
+      "id": 63577,
+      "name": "M. Mudryk"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 51,
+      "name": "Brighton",
+      "logo": "https://media.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+      "id": 319572,
+      "name": "V. Barco"
+    },
+    "assist": {
+      "id": 18963,
+      "name": "L. Dunk"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 269,
+      "name": "C. Nkunku"
+    },
+    "assist": {
+      "id": 161907,
+      "name": "M. Gusto"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 69,
+      "extra": null
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 645,
+      "name": "R. Sterling"
+    },
+    "assist": {
+      "id": 136723,
+      "name": "N. Madueke"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 69,
+      "extra": null
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 19545,
+      "name": "R. James"
+    },
+    "assist": {
+      "id": 161907,
+      "name": "M. Gusto"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 51,
+      "name": "Brighton",
+      "logo": "https://media.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+      "id": 1469,
+      "name": "D. Welbeck"
+    },
+    "assist": {
+      "id": 311334,
+      "name": "F. Buonanotte"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 51,
+      "name": "Brighton",
+      "logo": "https://media.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+      "id": 356041,
+      "name": "C. Baleba"
+    },
+    "assist": {
+      "id": 130423,
+      "name": "B. Gilmour"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 77,
+      "extra": null
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 645,
+      "name": "R. Sterling"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 116117,
+      "name": "M. Caicedo"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 51,
+      "name": "Brighton",
+      "logo": "https://media.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+      "id": 129058,
+      "name": "B. Verbruggen"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 51,
+      "name": "Brighton",
+      "logo": "https://media.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+      "id": 282254,
+      "name": "O. Offiah"
+    },
+    "assist": {
+      "id": 138815,
+      "name": "T. Lamptey"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 51,
+      "name": "Brighton",
+      "logo": "https://media.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+      "id": 135775,
+      "name": "A. Fati"
+    },
+    "assist": {
+      "id": 70747,
+      "name": "J. Enciso"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 19545,
+      "name": "R. James"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Red Card",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": null
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 259,
+      "name": "T. Silva"
+    },
+    "assist": {
+      "id": 283058,
+      "name": "N. Jackson"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 7
+    },
+    "team": {
+      "id": 51,
+      "name": "Brighton",
+      "logo": "https://media.api-sports.io/football/teams/51.png"
+    },
+    "player": {
+      "id": 1469,
+      "name": "D. Welbeck"
+    },
+    "assist": {
+      "id": 10329,
+      "name": "Joao Pedro"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 9
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 270508,
+      "name": "L. Ugochukwu"
+    },
+    "assist": {
+      "id": 67972,
+      "name": "C. Gallagher"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 9
+    },
+    "team": {
+      "id": 49,
+      "name": "Chelsea",
+      "logo": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "player": {
+      "id": 270507,
+      "name": "C. Casadei"
+    },
+    "assist": {
+      "id": 152982,
+      "name": "C. Palmer"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  }
+]

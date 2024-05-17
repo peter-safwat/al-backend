@@ -10,6 +10,13 @@ const sportSchema = new mongoose.Schema({
     lowercase: true,
     required: [true, "please enter the sports category"],
   },
+
+  fightsGroup: {
+    type: String,
+    enum: [false, true],
+    default: false,
+  },
+
   teamsTitle: {
     type: String,
     required: [
@@ -109,6 +116,13 @@ const sportSchema = new mongoose.Schema({
   servers: [{ type: mongoose.Schema.Types.ObjectId, ref: "ServerAndLangs" }],
   customAPI: { type: mongoose.Schema.Types.ObjectId, ref: "CustomAPI" },
   matchPoll: { type: mongoose.Schema.Types.ObjectId, ref: "MatchPoll" },
+});
+const fightsGrouptypes = ["fights", "ufc", "wwe"];
+sportSchema.pre("save", function (next) {
+  if (fightsGrouptypes.includes(this.sportCategory)) {
+    this.fightsGroup = true;
+  }
+  next();
 });
 
 const Sport = mongoose.model("Sport", sportSchema);
