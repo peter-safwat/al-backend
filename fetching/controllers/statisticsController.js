@@ -126,7 +126,7 @@ const fetchfixuresAndResultDataByLeagueId = async (leagueId, type, order) => {
         : `./APIdata/Results/${leagueId}/${order}.json`;
     // Write the JSON string to the file
     fs.writeFileSync(pathFile, jsonData);
-    console.log("Data has been written to the file.", type, order);
+    // console.log("Data has been written to the file.", type, order);
   } catch (error) {
     console.error(`Error fetching data for league ${leagueId}:`, error.message);
   }

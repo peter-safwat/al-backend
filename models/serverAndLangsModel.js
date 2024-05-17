@@ -44,7 +44,7 @@ const serversAndLanguagesSchema = new mongoose.Schema({
 });
 serversAndLanguagesSchema.pre("save", async function (next) {
   const existedEvent = await Sport.find({ _id: this.matchId });
-  console.log("id", this.matchId, existedEvent);
+  // console.log("id", this.matchId, existedEvent);
 
   if (!existedEvent) {
     const error = new AppError("there is no match with this id  ", 409);

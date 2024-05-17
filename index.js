@@ -36,17 +36,15 @@ const io = new Server(server, {
   cors: {
     origin: [
       "http://localhost:3000",
-      "http://localhost:3001",
-      "https://ajfinal.vercel.app/",
-      "https://next14-aj.vercel.app",
+      "https://ajfinal-git-master-petersafwat11.vercel.app",
     ], // Change this to your client's origin
     methods: ["GET", "POST"],
   },
 });
 io.on("connection", (socket) => {
-  // console.log("a user connected");
-  // console.log(socket.id); // Access the socket ID
-
+  console.log("a user connected");
+  console.log(socket.id); // Access the socket ID
+  socket.emit("test", 'testing message');
   socket.on("chat message English (Default)", (message) => {
     console.log("Received event from frontend:", message);
     // Broadcast the event to all other clients except the sender

@@ -1,5 +1,4 @@
 const mongoose = require("mongoose");
-
 const ChatRules = require("../models/chatRulesModel");
 const ChatFilteredWords = require("../models/chatFilteredWords");
 const ChatPoll = require("../models/chatPollModel");
@@ -34,7 +33,6 @@ exports.sendMessage = catchAsync(async (req, res, next) => {
   const { message } = req.body;
   // console.log(message);
   const postMessage = await ChatMessage.create(message);
-  console.log(postMessage);
   res.status(201).json({ status: "success", message: postMessage });
 });
 exports.deleteMessages = factory.deleteMany(ChatMessage);

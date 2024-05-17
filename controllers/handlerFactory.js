@@ -97,6 +97,7 @@ exports.getAll = (Model) =>
       .sort()
       .limitFields()
       .paginate();
+
     const filtered = new APIFeatures(Model.find(), req.query)
       .filter()
       .countDocs();

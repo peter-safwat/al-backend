@@ -101,9 +101,6 @@ exports.loginUser = catchAsync(async (req, res, next) => {
   });
 });
 exports.updateUserLooks = catchAsync(async (req, res, next) => {
-  console.log("reqqq");
-  console.log(req.files);
-  // console.log(req.body.name);
   let { user } = req.body;
   if (req.files) {
     user = { name: req.body.name, image: req.files[0].filename };
@@ -125,7 +122,6 @@ exports.updateUserLooks = catchAsync(async (req, res, next) => {
 });
 
 exports.updateRegulerUser = catchAsync(async (req, res, next) => {
-  console.log(req.body);
   const user = { ...req.body };
 
   const userExist = await User.findOne({ email: user.email });

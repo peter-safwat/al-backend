@@ -5,9 +5,6 @@ const path = require("path");
 const catchAsync = require("../utils/catchAsync");
 
 exports.gitEventLineups = catchAsync(async (req, res, next) => {
-  console.log("1");
-  console.log("1");
-  console.log("1");
   const { matchId, sportCategory, eventDate } = req.query;
   const formattedDate = eventDate.split("T")[0];
   const category = sportCategory === "football" ? "Football" : "Others";
@@ -40,9 +37,6 @@ exports.gitEventLineups = catchAsync(async (req, res, next) => {
   });
 });
 exports.gitEventStatistics = catchAsync(async (req, res, next) => {
-  console.log("2");
-  console.log("2");
-  console.log("2");
   const { matchId, sportCategory, eventDate } = req.query;
   const formattedDate = eventDate.split("T")[0];
   const category = sportCategory === "football" ? "Football" : "Others";
