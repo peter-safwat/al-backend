@@ -50,7 +50,7 @@ cron.schedule(
   "0 * * * * *",
   EventsLiveDataController.gitOtherSportsLiveMatchesData
 );
-cron.schedule("0 2 * * *", DeleteOldDataController.deletOldSportsEvents);
+// cron.schedule("0 2 * * *", DeleteOldDataController.deletOldSportsEvents);
 
 // 3) ROUTES
 app.all("*", (req, res, next) => {

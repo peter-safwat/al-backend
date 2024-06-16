@@ -60,12 +60,12 @@ apiRouter.use(
 );
 
 apiRouter.use(express.json({ limit: "10000kb" }));
-// apiRouter.use((req, res, next) => {
-//   console.log("body");
-//   console.log(req.query);
-//   console.log(req.body);
-//   next();
-// });
+apiRouter.use((req, res, next) => {
+  console.log("body");
+  console.log(req.query);
+  console.log(req.body);
+  next();
+});
 apiRouter.use(express.json());
 apiRouter.use(express.urlencoded({ extended: false }));
 apiRouter.use(bodyParser.json());

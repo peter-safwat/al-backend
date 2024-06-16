@@ -22,6 +22,14 @@ const chatMessageSchema = new mongoose.Schema({
     type: String,
     default: "normal",
   },
+  color: {
+    type: String,
+    default: "rgb(183, 29, 255)",
+  },
+  createdAt: {
+    type: Date,
+    default: Date.now(),
+  },
 });
 
 const ChatMessage = mongoose.model("ChatMessage", chatMessageSchema);

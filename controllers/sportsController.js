@@ -45,7 +45,17 @@ const deleteFilesWithID = (id, folderPath) => {
     });
   });
 };
-
+exports.deleteOldData = async (req, res, next) => {
+  const currentTime = new Date();
+  const result = await Sport.deleteMany({
+    removeStream: { $lte: currentTime },
+  });
+  console.log(`${result.deletedCount} document(s) deleted successfully.`);
+  res.status(204).json({
+    status: "success",
+    data: null,
+  });
+};
 exports.getMatchByTeamNames = catchAsync(async (req, res) => {
   // const { firstTeamName, secondTeamName } = req.query;
   let findQuery;

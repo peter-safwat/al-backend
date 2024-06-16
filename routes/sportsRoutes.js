@@ -7,6 +7,7 @@ const authController = require("../controllers/authController");
 const router = express.Router();
 
 router.route("/teamNames").get(sportsController.getMatchByTeamNames);
+router.route("/deleteOldData").get(sportsController.deleteOldData);
 
 router
   .route("/customAPI")
@@ -38,7 +39,7 @@ router
   .delete(
     // authController.protect,
     // authController.restrictTo("Manager", "Moderator", "Admin"),
-    sportsController.deleteManyItemsRelatedData,
+    // sportsController.deleteManyItemsRelatedData,
     sportsController.deleteSports
   );
 
