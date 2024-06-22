@@ -52,7 +52,8 @@ class APIFeatures {
   sort() {
     if (this.queryString.sort) {
       // const sortBy = this.queryString.sort.split(",").join(" ");
-
+      console.log("this.queryString.sort");
+      console.log(this.queryString.sort);
       this.query = this.query.sort(this.queryString.sort);
     } else {
       this.query = this.query.sort({ _id: 1 });

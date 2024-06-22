@@ -40,7 +40,7 @@ router
 
 router
   .route("/chatMode")
-  // .post(chatController.createchatMode)
+  .post(chatController.createchatMode)
   // .patch(chatController.updateChatMode)
   .get(chatController.getChatMode);
 
