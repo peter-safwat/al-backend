@@ -84,7 +84,6 @@ const fetchStandingsDataByLeagueId = async (leagueId, type) => {
         : `./APIdata/Standings/Leagues/${leagueId}.json`;
     // Write the JSON string to the file
     fs.writeFileSync(pathFile, jsonData);
-    console.log("Data has been written to the file.");
   } catch (error) {
     console.error(`Error fetching data for league ${leagueId}:`, error.message);
   }

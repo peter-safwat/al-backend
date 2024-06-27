@@ -30,7 +30,6 @@ exports.gitEventLineups = catchAsync(async (req, res, next) => {
 
   // Parse the JSON content
   const jsonData = JSON.parse(fileContent);
-  console.log(jsonData);
   res.status(200).json({
     status: "success",
     data: jsonData,

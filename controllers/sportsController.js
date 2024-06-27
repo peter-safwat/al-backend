@@ -39,7 +39,7 @@ const deleteFilesWithID = (id, folderPath) => {
           if (err) {
             return console.error("Unable to delete file:", err);
           }
-          console.log(`Deleted file: ${filePath}`);
+          // console.log(`Deleted file: ${filePath}`);
         });
       }
     });
@@ -50,7 +50,7 @@ exports.deleteOldData = async (req, res, next) => {
   const result = await Sport.deleteMany({
     removeStream: { $lte: currentTime },
   });
-  console.log(`${result.deletedCount} document(s) deleted successfully.`);
+  // console.log(`${result.deletedCount} document(s) deleted successfully.`);
   res.status(204).json({
     status: "success",
     data: null,
@@ -179,9 +179,10 @@ exports.makeFileWillHoldStats = catchAsync(async (req, res, next) => {
       fs.mkdirSync(folderFullullPath, { recursive: true }, (err) => {
         if (err) {
           console.error("Error creating directory:", err);
-        } else {
-          console.log("Directory created successfully:", folderFullullPath);
         }
+        //  else {
+        //   console.log("Directory created successfully:", folderFullullPath);
+        // }
       });
 
       // fs.mkdirSync(folderFullullPath);
@@ -224,9 +225,10 @@ exports.editFileWillHoldStats = catchAsync(async (req, res, next) => {
       fs.mkdirSync(folderFullullPath, { recursive: true }, (err) => {
         if (err) {
           console.error("Error creating directory:", err);
-        } else {
-          console.log("Directory created successfully:", folderFullullPath);
-        }
+        } 
+        // else {
+        //   console.log("Directory created successfully:", folderFullullPath);
+        // }
       });
     }
     const timestamp = new Date(req.body.eventDate).getTime() / 1000;
@@ -344,7 +346,6 @@ exports.getSport = catchAsync(async (req, res, next) => {
   });
 });
 exports.getAllSports = catchAsync(async (req, res, next) => {
-  console.log(req.query);
   const features = new APIFeatures(Sport.find(), req.query)
     .filter()
     .sort()

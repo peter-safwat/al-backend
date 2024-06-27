@@ -166,8 +166,6 @@ exports.checkUsernameAvailability = catchAsync(async (req, res, next) => {
   }
 
   const nameTaken = await User.findOne({ name: name });
-  console.log(name);
-  console.log(nameTaken);
   if (nameTaken) {
     res.status(409).json({
       status: "fail",

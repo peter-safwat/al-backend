@@ -57,7 +57,6 @@ exports.getFixturesAndResults = catchAsync(async (req, res, next) => {
 
   // Parse the JSON content
   const jsonData = JSON.parse(fileContent);
-  console.log(jsonData);
   res.status(200).json({
     status: "success",
     data: jsonData,
@@ -84,7 +83,7 @@ const fetchStandingsDataByLeagueId = async (leagueId, type) => {
         : `./APIdata/Standings/Leagues/${leagueId}.json`;
     // Write the JSON string to the file
     fs.writeFileSync(pathFile, jsonData);
-    console.log("Data has been written to the file.");
+    // console.log("Data has been written to the file.");
   } catch (error) {
     console.error(`Error fetching data for league ${leagueId}:`, error.message);
   }
@@ -126,7 +125,7 @@ const fetchfixuresAndResultDataByLeagueId = async (leagueId, type, order) => {
         : `./APIdata/Results/${leagueId}/${order}.json`;
     // Write the JSON string to the file
     fs.writeFileSync(pathFile, jsonData);
-    console.log("Data has been written to the file.", type, order);
+    // console.log("Data has been written to the file.", type, order);
   } catch (error) {
     console.error(`Error fetching data for league ${leagueId}:`, error.message);
   }
@@ -147,7 +146,7 @@ exports.getStandingsScheduledData = async (req, res, next) => {
         await fetchStandingsDataByLeagueId(cup.id, "cup");
       })
     );
-    console.log("All requests for standings completed successfully.");
+    // console.log("All requests for standings completed successfully.");
   } catch (error) {
     console.error("Error in getScheduledData:", error.message);
   }
@@ -175,9 +174,9 @@ exports.getFixturesAndResultsForLeaguesScheduledData = async (
       })
     );
 
-    console.log(
-      "All requests fixtures&results for leagues completed successfully."
-    );
+    // console.log(
+    //   "All requests fixtures&results for leagues completed successfully."
+    // );
   } catch (error) {
     console.error("Error in getScheduledData:", error.message);
   }
@@ -202,9 +201,9 @@ exports.getFixturesAndResultsForCupsScheduledData = async (req, res, next) => {
       })
     );
 
-    console.log(
-      "All requests fixtures&results for cups completed successfully."
-    );
+    // console.log(
+    //   "All requests fixtures&results for cups completed successfully."
+    // );
   } catch (error) {
     console.error("Error in getScheduledData:", error.message);
   }

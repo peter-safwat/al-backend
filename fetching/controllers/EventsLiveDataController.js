@@ -28,9 +28,10 @@ const getFootballLineUps = async (eventId, filePath) => {
     fs.writeFile(filePath, jsonData, (err) => {
       if (err) {
         console.error(`Error writing to file ${filePath}: ${err.message}`);
-      } else {
-        console.log(`Data written to file ${filePath} successfully.`);
       }
+      //  else {
+      //   console.log(`Data written to file ${filePath} successfully.`);
+      // }
     });
   } catch (error) {
     console.error(error);
@@ -55,9 +56,7 @@ const getFootballstatistics = async (eventId, filePath) => {
     fs.writeFile(filePath, jsonData, (err) => {
       if (err) {
         console.error(`Error writing to file ${filePath}: ${err.message}`);
-      } else {
-        console.log(`Data written to file ${filePath} successfully.`);
-      }
+      } 
     });
   } catch (error) {
     console.error(error);
@@ -83,9 +82,7 @@ const getFootballEvents = async (eventId, filePath) => {
     fs.writeFile(filePath, jsonData, (err) => {
       if (err) {
         console.error(`Error writing to file ${filePath}: ${err.message}`);
-      } else {
-        console.log(`Data written to file ${filePath} successfully.`);
-      }
+      } 
     });
   } catch (error) {
     console.error(error);
@@ -112,9 +109,7 @@ const getOthersLineUps = async (eventId, filePath) => {
     fs.writeFile(filePath, jsonData, (err) => {
       if (err) {
         console.error(`Error writing to file ${filePath}: ${err.message}`);
-      } else {
-        console.log(`Data written to file ${filePath} successfully.`);
-      }
+      } 
     });
   } catch (error) {
     console.error(error);
@@ -138,9 +133,7 @@ const getOthersstatistics = async (eventId, filePath) => {
     fs.writeFile(filePath, jsonData, (err) => {
       if (err) {
         console.error(`Error writing to file ${filePath}: ${err.message}`);
-      } else {
-        console.log(`Data written to file ${filePath} successfully.`);
-      }
+      } 
     });
   } catch (error) {
     console.error(error);
@@ -166,9 +159,7 @@ const getOthersSummery = async (eventId, filePath) => {
     fs.writeFile(filePath, jsonData, (err) => {
       if (err) {
         console.error(`Error writing to file ${filePath}: ${err.message}`);
-      } else {
-        console.log(`Data written to file ${filePath} successfully.`);
-      }
+      } 
     });
   } catch (error) {
     console.error(error);
