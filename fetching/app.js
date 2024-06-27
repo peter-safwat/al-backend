@@ -29,17 +29,17 @@ app.use((req, res, next) => {
   next();
 });
 
-// cron.schedule("* */1 * * * *", statisticsController.getStandingsScheduledData);
+cron.schedule("0 * * * *", statisticsController.getStandingsScheduledData);
 
-// cron.schedule(
-//   "* * */1 * * *",
-//   statisticsController.getFixturesAndResultsForLeaguesScheduledData
-// );
+cron.schedule(
+  "0 0 * * *",
+  statisticsController.getFixturesAndResultsForLeaguesScheduledData
+);
 
-// cron.schedule(
-//   "* * */9 * * *",
-//   statisticsController.getFixturesAndResultsForCupsScheduledData
-// );
+cron.schedule(
+  "0 0 * * *",
+  statisticsController.getFixturesAndResultsForCupsScheduledData
+);
 
 cron.schedule(
   "0 * * * * *",
