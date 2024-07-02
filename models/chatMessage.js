@@ -17,6 +17,7 @@ const chatMessageSchema = new mongoose.Schema({
   message: {
     type: String,
     required: [true, "please enter the message you want to send!"],
+    maxlength: 40,
   },
   mode: {
     type: String,

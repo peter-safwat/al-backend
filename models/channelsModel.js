@@ -15,14 +15,6 @@ const channelsSchema = new mongoose.Schema({
   },
   streamLink: { type: mongoose.Schema.Types.ObjectId, ref: "StreamLink" },
 
-  // streamLinkName: {
-  //   type: String,
-  //   required: [true, "please enter the stream link name for this channel!"],
-  // },
-  // streamLinkUrl: {
-  //   type: String,
-  //   required: [true, "please enter the stream link url for this channel!"],
-  // },
 });
 
 const Channels = mongoose.model("Channels", channelsSchema);

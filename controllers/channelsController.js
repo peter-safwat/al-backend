@@ -30,7 +30,6 @@ exports.getAllChannels = catchAsync(async (req, res, next) => {
   const featuresChannels = await features.query.populate("streamLink").exec();
   const filteredChannels = await filtered.query;
   const allLanguages = await Channels.distinct("language");
-  console.dir(featuresChannels);
   res.status(200).json({
     status: "success",
     results: filteredChannels,

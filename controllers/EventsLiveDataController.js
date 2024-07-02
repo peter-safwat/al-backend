@@ -21,7 +21,6 @@ const getFootballLineUps = async (eventId, filePath) => {
 
   try {
     const response = await axios.request(options);
-    console.dir(response.data.response);
     const jsonData = JSON.stringify(response.data.response, null, 2); // The third parameter is for indentation (2 spaces in this case)
 
     // Write the data to the file

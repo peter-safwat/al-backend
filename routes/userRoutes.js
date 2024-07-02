@@ -11,10 +11,6 @@ router
   .post(userController.createUser)
   .delete(userController.deleteManyUsers);
 
-router
-  .route("/:id")
-  .get(userController.getUser)
-  .patch(authController.adminProtection, authController.updateUser);
 // websites users
 router
   .route("/regulerUsers/tempMail/checkAvailability")
@@ -48,5 +44,8 @@ router.patch("/updateMyPassword", authController.updatePassword);
 router.get("/me", userController.getMe, userController.getUser);
 // router.patch("/updateMe", userController.updateMe);
 // router.delete("/deleteMe", userController.deleteMe);
-
+router
+  .route("/:id")
+  .get(userController.getUser)
+  .patch(authController.adminProtection, authController.updateUser);
 module.exports = router;

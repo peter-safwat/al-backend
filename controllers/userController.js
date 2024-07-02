@@ -189,6 +189,25 @@ exports.createTempUser = catchAsync(async (req, res, next) => {
     });
     return;
   }
+  if (!name) {
+    res.status(404).json({
+      status: "fail",
+      message: "please enter a username",
+    });
+    return;
+  }
+  const prohibitedNames = [/^AJ Sports Moderator$/i,/^Owner$/i, /^Moderator, AJ Sports$/i];
+
+  // Check if the name matches any of the prohibited names
+  const isProhibited = prohibitedNames.some((regex) => regex.test(name));
+
+  if (isProhibited) {
+    res.status(404).json({
+      status: "fail",
+      message: "this name isn't allowed",
+    });
+    return;
+  }
 
   const nameTaken = await User.findOne({ name: name });
   if (nameTaken) {

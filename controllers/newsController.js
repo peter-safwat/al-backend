@@ -15,8 +15,6 @@ exports.updateNews = factory.updateOne(News);
 exports.deleteNews = factory.deleteOne(News);
 exports.deleteManyNews = factory.deleteMany(News);
 exports.test = (req, res, next) => {
-  console.dir("test");
-  console.dir(req.body);
   next();
 };
 

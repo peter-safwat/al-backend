@@ -79,7 +79,6 @@ exports.getMatchByTeamNames = catchAsync(async (req, res) => {
     .populate("customAPI")
     .populate("matchPoll")
     .exec();
-  console.dir(result);
   res.status(200).json({
     status: "success",
     data: {
@@ -419,6 +418,5 @@ exports.MatchVote = catchAsync(async (req, res, next) => {
 // });
 
 exports.test = (req, res, next) => {
-  console.dir(req.body);
   next();
 };
