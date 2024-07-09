@@ -9,10 +9,7 @@ const router = express.Router();
 router.route("/teamNames").get(sportsController.getMatchByTeamNames);
 router.route("/deleteOldData").get(sportsController.deleteOldData);
 
-router
-  .route("/customAPI")
-  .post(sportsController.createCustomAPI)
-  .patch(sportsController.updateCustomAPI);
+router.route("/customAPI").post(sportsController.createCustomAPI);
 
 router.route("/makevote").patch(sportsController.MatchVote);
 router.route("/poll").post(sportsController.createPoll);
@@ -59,6 +56,8 @@ router
     sportsController.deleteOneItemRelatedData,
     sportsController.deleteSport
   );
+router.route("/customAPI/:id").patch(sportsController.updateCustomAPI);
+
 router.route("/eventAPIData/lineups").get(ServreAPIDataController.gitEventData);
 
 router

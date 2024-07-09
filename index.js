@@ -15,35 +15,41 @@ dotenv.config({ path: "./config.env" });
 process.on("uncaughtException", (err) => {
   console.log("UNCAUGHT EXCEPTION! 💥 Shutting down...");
   console.log(err.name, err.message);
-
-  // Log the error to a file
-  const logMessage = `${new Date().toISOString()} - ${err.name}: ${
-    err.message
-  }\n`;
-  fs.appendFile("error.log", logMessage, (writeError) => {
-    if (writeError) {
-      console.error("Failed to write to log file:", writeError);
-    } else {
-      console.log("Error logged to file.");
-    }
-
-    // Close the server (optional if you are just using process.exit directly)
-    // server.close(() => {
-    // Restart the server
-    exec("sh start", (restartError, stdout, stderr) => {
-      if (restartError) {
-        console.error("Failed to restart the server:", restartError);
-        process.exit(1);
-      } else {
-        console.log("Server restarted.");
-        console.log(`stdout: ${stdout}`);
-        console.log(`stderr: ${stderr}`);
-        process.exit(1);
-      }
-    });
-    // });
-  });
+  process.exit(1);
 });
+
+// process.on("uncaughtException", (err) => {
+//   console.log("UNCAUGHT EXCEPTION! 💥 Shutting down...");
+//   console.log(err.name, err.message);
+
+//   // Log the error to a file
+//   const logMessage = `${new Date().toISOString()} - ${err.name}: ${
+//     err.message
+//   }\n`;
+//   fs.appendFile("error.log", logMessage, (writeError) => {
+//     if (writeError) {
+//       console.error("Failed to write to log file:", writeError);
+//     } else {
+//       console.log("Error logged to file.");
+//     }
+
+//     // Close the server (optional if you are just using process.exit directly)
+//     // server.close(() => {
+//     // Restart the server
+//     exec("sh start", (restartError, stdout, stderr) => {
+//       if (restartError) {
+//         console.error("Failed to restart the server:", restartError);
+//         process.exit(1);
+//       } else {
+//         console.log("Server restarted.");
+//         console.log(`stdout: ${stdout}`);
+//         console.log(`stderr: ${stderr}`);
+//         process.exit(1);
+//       }
+//     });
+//     // });
+//   });
+// });
 const DB = process.env.DATABASE.replace(
   "<PASSWORD>",
   process.env.DATABASE_PASSWORD
@@ -121,35 +127,43 @@ server.listen(port, () => {
   console.log(`app running on port ${port}...`);
 });
 
+// process.on("unhandledRejection", (err) => {
+//   console.log("UNHANDLED REJECTION! 💥 Shutting down...");
+//   console.log(err.name, err.message);
+//   const logMessage = `${new Date().toISOString()} - ${err.name}: ${
+//     err.message
+//   }\n`;
+//   fs.appendFile("error.log", logMessage, (writeError) => {
+//     if (writeError) {
+//       console.error("Failed to write to log file:", writeError);
+//     } else {
+//       console.log("Error logged to file.");
+//     }
+
+//     server.close(() => {
+//       // Restart the server
+//       exec("sh start", (restartError, stdout, stderr) => {
+//         if (restartError) {
+//           console.error("Failed to restart the server:", restartError);
+//           process.exit(1);
+//         } else {
+//           console.log("Server restarted.");
+//           console.log(`stdout: ${stdout}`);
+//           console.log(`stderr: ${stderr}`);
+//           process.exit(1);
+//         }
+//       });
+//     });
+//   });
+// });
 process.on("unhandledRejection", (err) => {
   console.log("UNHANDLED REJECTION! 💥 Shutting down...");
   console.log(err.name, err.message);
-  const logMessage = `${new Date().toISOString()} - ${err.name}: ${
-    err.message
-  }\n`;
-  fs.appendFile("error.log", logMessage, (writeError) => {
-    if (writeError) {
-      console.error("Failed to write to log file:", writeError);
-    } else {
-      console.log("Error logged to file.");
-    }
-
-    server.close(() => {
-      // Restart the server
-      exec("sh start", (restartError, stdout, stderr) => {
-        if (restartError) {
-          console.error("Failed to restart the server:", restartError);
-          process.exit(1);
-        } else {
-          console.log("Server restarted.");
-          console.log(`stdout: ${stdout}`);
-          console.log(`stderr: ${stderr}`);
-          process.exit(1);
-        }
-      });
-    });
+  server.close(() => {
+    process.exit(1);
   });
 });
+
 ioEmitter.emit("ioReady", io);
 
 module.exports = { ioEmitter };

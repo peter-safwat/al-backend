@@ -418,5 +418,6 @@ exports.MatchVote = catchAsync(async (req, res, next) => {
 // });
 
 exports.test = (req, res, next) => {
+  // console.dir(req.body)
   next();
 };

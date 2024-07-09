@@ -31,7 +31,6 @@ exports.updateChatMode = factory.updateOne(ChatMode);
 exports.getAllMessages = factory.getAll(ChatMessage);
 exports.sendMessage = catchAsync(async (req, res, next) => {
   const { message } = req.body;
-  // console.log(message);
   const postMessage = await ChatMessage.create(message);
   res.status(201).json({ status: "success", message: postMessage });
 });

@@ -196,7 +196,11 @@ exports.createTempUser = catchAsync(async (req, res, next) => {
     });
     return;
   }
-  const prohibitedNames = [/^AJ Sports Moderator$/i,/^Owner$/i, /^Moderator, AJ Sports$/i];
+  const prohibitedNames = [
+    /^AJ Sports Moderator$/i,
+    /^Owner$/i,
+    /^Moderator, AJ Sports$/i,
+  ];
 
   // Check if the name matches any of the prohibited names
   const isProhibited = prohibitedNames.some((regex) => regex.test(name));
@@ -217,7 +221,50 @@ exports.createTempUser = catchAsync(async (req, res, next) => {
     });
     return;
   }
+  console.dir(req.body);
   const newUser = await User.create(req.body);
+
+  res.status(200).json({
+    status: "success",
+    data: {
+      user: newUser,
+    },
+  });
+});
+// function generateRandomName(length = 14) {
+//   const letters = "abcdefghijklmnopqrstuvwxyz";
+//   return Array.from(
+//     { length },
+//     () => letters[Math.floor(Math.random() * letters.length)]
+//   ).join("");
+// }
+
+function generateRandomName() {
+  const randomNumber = Math.floor(10000 + Math.random() * 90000); // Generates a random 5-digit number
+  return `anon${randomNumber}`;
+}
+
+function generateRandomRGBColor() {
+  const r = Math.floor(Math.random() * 256);
+  const g = Math.floor(Math.random() * 256);
+  const b = Math.floor(Math.random() * 256);
+  return `rgb(${r}, ${g}, ${b})`;
+}
+exports.generateRandom = catchAsync(async (req, res, next) => {
+  let randomName = generateRandomName();
+  const randomColor = generateRandomRGBColor();
+
+  let nameTaken = await User.findOne({ name: randomName, color: randomColor });
+  while (nameTaken) {
+    randomName = generateRandomName();
+    nameTaken = await User.findOne({ name: randomName, color: randomColor });
+  }
+
+  const newUser = await User.create({
+    ...req.body,
+    name: randomName,
+    color: randomColor,
+  });
 
   res.status(200).json({
     status: "success",

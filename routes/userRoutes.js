@@ -13,6 +13,10 @@ router
 
 // websites users
 router
+  .route("/generateRandom")
+  .post(userController.generateRandom);
+
+router
   .route("/regulerUsers/tempMail/checkAvailability")
   .post(userController.checkUsernameAvailability);
 router

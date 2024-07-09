@@ -20,7 +20,7 @@ exports.getStreamLinkByName = catchAsync(async (req, res) => {
 // exports.getAllStreamLinks = factory.getAll(StreamLink);
 exports.getAllStreamLinks = catchAsync(async (req, res, next) => {
   const features = new APIFeatures(StreamLink.find(), req.query)
-    .sort("channelName")
+    .sort()
     .filter()
     .paginate();
   const filtered = new APIFeatures(StreamLink.find(), req.query)
