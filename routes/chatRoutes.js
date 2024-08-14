@@ -57,5 +57,13 @@ router
   .get(chatController.getChatPolls)
   .delete(chatController.deletePolls);
 // router.route("/chatPoll/:id").delete(chatController.deletePoll);
+router.route("/chatMembers").get(chatController.getChatMembers);
+router
+  .route("/bannedChatMembers")
+  .post(chatController.banChatMembers)
+  .get(chatController.getBannedChatMembers);
+  router
+  .route("/muteChatMember")
+  .post(chatController.muteChatMember)
 
 module.exports = router;

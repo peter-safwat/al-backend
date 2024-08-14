@@ -8,14 +8,15 @@ const globalErrorHandler = require("./controllers/errorController");
 const statisticsController = require("./controllers/statisticsController");
 const EventsLiveDataController = require("./controllers/EventsLiveDataController");
 const DeleteOldDataController = require("./controllers/DeleteOldDataController");
+const MutedBannedIp = require("./controllers/MutedBannedIp");
 
 const app = express();
 // 1) GLOBAL MIDDLEWARES
 
 // Development logging
-if (process.env.NODE_ENV === "development") {
-  app.use(morgan("dev"));
-}
+// if (process.env.NODE_ENV === "development") {
+//   app.use(morgan("dev"));
+// }
 
 app.use(express.json({ limit: "10000kb" }));
 
@@ -24,10 +25,12 @@ app.use(express.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 // Test middleware
+
 app.use((req, res, next) => {
   req.requestTime = new Date().toISOString();
   next();
 });
+cron.schedule("0 0 * * *", MutedBannedIp.deletMutedBannedIp);
 
 cron.schedule("0 * * * *", statisticsController.getStandingsScheduledData);
 

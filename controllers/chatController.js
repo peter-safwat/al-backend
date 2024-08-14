@@ -1,3 +1,6 @@
+const path = require("path");
+const fs = require("fs");
+
 const mongoose = require("mongoose");
 const ChatRules = require("../models/chatRulesModel");
 const ChatFilteredWords = require("../models/chatFilteredWords");
@@ -17,6 +20,45 @@ exports.updateChatRules = factory.updateOne(ChatRules);
 exports.getChatRules = factory.getAll(ChatRules);
 
 exports.createchatFilteredWords = factory.createOne(ChatFilteredWords);
+
+const membersFilePath = path.join(__dirname, "../", "activeMembers.json");
+const bannedMembersFilePath = path.join(__dirname, "../", "bannedMembers.json");
+const mutedMembersFilePath = path.join(__dirname, "../", "tempBan.json");
+
+const readFromFile = (filePath) => {
+  if (!fs.existsSync(filePath)) {
+    return [];
+  }
+  const data = fs.readFileSync(filePath, "utf8");
+  return data ? JSON.parse(data) : [];
+};
+const writeToFile = (filePath, data) => {
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2), "utf8");
+};
+
+exports.getChatMembers = (req, res, next) => {
+  const members = readFromFile(membersFilePath);
+  res.status(201).json({ status: "success", data: members });
+};
+exports.getBannedChatMembers = (req, res, next) => {
+  const members = readFromFile(bannedMembersFilePath);
+  res.status(201).json({ status: "success", data: members });
+};
+exports.banChatMembers = (req, res, next) => {
+  const { ip, name } = req.body;
+  const oldBannedMembers = readFromFile(bannedMembersFilePath);
+  oldBannedMembers.push({ name: name, ip: ip });
+  writeToFile(bannedMembersFilePath, oldBannedMembers);
+  res.status(201).json({ status: "success", data: oldBannedMembers });
+};
+exports.muteChatMember = (req, res, next) => {
+  const { ip, name } = req.body;
+  const oldMutedMembers = readFromFile(mutedMembersFilePath);
+  oldMutedMembers.push({ name: name, ip: ip });
+  writeToFile(mutedMembersFilePath, oldMutedMembers);
+  res.status(201).json({ status: "success", data: oldMutedMembers });
+};
+
 exports.updateChatFilteredWords = factory.updateOne(ChatFilteredWords);
 exports.getChatFilteredWords = factory.getAll(ChatFilteredWords);
 

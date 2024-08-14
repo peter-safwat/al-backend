@@ -26,6 +26,7 @@ exports.getStandings = catchAsync(async (req, res, next) => {
   const pathFile = path.join(
     __dirname,
     "../",
+    "../",
     "APIdata",
     "Standings",
     req.query.type,
@@ -46,6 +47,7 @@ exports.getFixturesAndResults = catchAsync(async (req, res, next) => {
   // get the specific file needed
   const pathFile = path.join(
     __dirname,
+    "../",
     "../",
     "APIdata",
     req.query.type,
@@ -80,8 +82,8 @@ const fetchStandingsDataByLeagueId = async (leagueId, type) => {
     // Specify the file path
     const pathFile =
       type === "cup"
-        ? `./APIdata/Standings/Cups/${leagueId}.json`
-        : `./APIdata/Standings/Leagues/${leagueId}.json`;
+        ? `../../APIdata/Standings/Cups/${leagueId}.json`
+        : `../../APIdata/Standings/Leagues/${leagueId}.json`;
     // Write the JSON string to the file
     fs.writeFileSync(pathFile, jsonData);
   } catch (error) {
@@ -121,8 +123,8 @@ const fetchfixuresAndResultDataByLeagueId = async (leagueId, type, order) => {
     // Specify the file path
     const pathFile =
       type === "fixures"
-        ? `./APIdata/Fixtures/${leagueId}/${order}.json`
-        : `./APIdata/Results/${leagueId}/${order}.json`;
+        ? `../../APIdata/Fixtures/${leagueId}/${order}.json`
+        : `../../APIdata/Results/${leagueId}/${order}.json`;
     // Write the JSON string to the file
     fs.writeFileSync(pathFile, jsonData);
     // console.log("Data has been written to the file.", type, order);
