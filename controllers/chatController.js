@@ -44,20 +44,30 @@ exports.getBannedChatMembers = (req, res, next) => {
   const members = readFromFile(bannedMembersFilePath);
   res.status(201).json({ status: "success", data: members });
 };
-exports.banChatMembers = (req, res, next) => {
-  const { ip, name } = req.body;
+exports.banChatMembers = catchAsync(async (req, res, next) => {
+  const { ip, name, type } = req.body;
   const oldBannedMembers = readFromFile(bannedMembersFilePath);
-  oldBannedMembers.push({ name: name, ip: ip });
-  writeToFile(bannedMembersFilePath, oldBannedMembers);
-  res.status(201).json({ status: "success", data: oldBannedMembers });
-};
-exports.muteChatMember = (req, res, next) => {
+  let updatedBannedMembers;
+  if (type === "ban") {
+    updatedBannedMembers = [...oldBannedMembers, { name, ip }];
+    await ChatMessage.deleteMany({ username: name });
+  } else {
+    updatedBannedMembers = oldBannedMembers.filter(
+      (member) => member.ip !== ip
+    );
+  }
+  console.log(updatedBannedMembers);
+  writeToFile(bannedMembersFilePath, updatedBannedMembers);
+  res.status(201).json({ status: "success", data: updatedBannedMembers });
+});
+exports.muteChatMember = catchAsync(async (req, res, next) => {
   const { ip, name } = req.body;
   const oldMutedMembers = readFromFile(mutedMembersFilePath);
   oldMutedMembers.push({ name: name, ip: ip });
   writeToFile(mutedMembersFilePath, oldMutedMembers);
+  await ChatMessage.deleteMany({ username: name });
   res.status(201).json({ status: "success", data: oldMutedMembers });
-};
+});
 
 exports.updateChatFilteredWords = factory.updateOne(ChatFilteredWords);
 exports.getChatFilteredWords = factory.getAll(ChatFilteredWords);

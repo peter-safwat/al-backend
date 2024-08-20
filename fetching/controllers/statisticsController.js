@@ -1,4 +1,6 @@
 const fs = require("fs");
+const fspromises = require("fs").promises;
+
 const path = require("path");
 
 const axios = require("axios");
@@ -7,6 +9,22 @@ const catchAsync = require("../utils/catchAsync");
 const { leaguesData } = require("../utils/leaguesData");
 const { serveDates } = require("../utils/APIConfig");
 const { cupsData } = require("../utils/leaguesData");
+async function writeToFile(pathFile, jsonData) {
+  try {
+    await fspromises.writeFile(pathFile, jsonData);
+    console.log("File written successfully");
+  } catch (err) {
+    console.error("Error writing to file", err);
+  }
+}
+async function readFromFile(pathFile) {
+  try {
+    const fileContent = await fspromises.readFile(pathFile, "utf8");
+    console.log(fileContent);
+  } catch (err) {
+    console.error("Error reading the file", err);
+  }
+}
 
 const standingsOptions = {
   method: "GET",
@@ -33,7 +51,8 @@ exports.getStandings = catchAsync(async (req, res, next) => {
     `${req.query.id}.json`
   );
 
-  const fileContent = fs.readFileSync(pathFile, "utf8");
+  // const fileContent = fs.readFileSync(pathFile, "utf8");
+  const fileContent = await readFromFile(pathFile);
 
   // Parse the JSON content
   const jsonData = JSON.parse(fileContent);
@@ -55,7 +74,7 @@ exports.getFixturesAndResults = catchAsync(async (req, res, next) => {
     `${req.query.week}.json`
   );
 
-  const fileContent = fs.readFileSync(pathFile, "utf8");
+  const fileContent = await readFromFile(pathFile);
 
   // Parse the JSON content
   const jsonData = JSON.parse(fileContent);
@@ -85,7 +104,8 @@ const fetchStandingsDataByLeagueId = async (leagueId, type) => {
         ? `../../APIdata/Standings/Cups/${leagueId}.json`
         : `../../APIdata/Standings/Leagues/${leagueId}.json`;
     // Write the JSON string to the file
-    fs.writeFileSync(pathFile, jsonData);
+    // fs.writeFileSync(pathFile, jsonData);
+    await writeToFile(pathFile, jsonData);
   } catch (error) {
     console.error(`Error fetching data for league ${leagueId}:`, error.message);
   }
@@ -126,7 +146,9 @@ const fetchfixuresAndResultDataByLeagueId = async (leagueId, type, order) => {
         ? `../../APIdata/Fixtures/${leagueId}/${order}.json`
         : `../../APIdata/Results/${leagueId}/${order}.json`;
     // Write the JSON string to the file
-    fs.writeFileSync(pathFile, jsonData);
+    // fs.writeFileSync(pathFile, jsonData);
+    await writeToFile(pathFile, jsonData);
+
     // console.log("Data has been written to the file.", type, order);
   } catch (error) {
     console.error(`Error fetching data for league ${leagueId}:`, error.message);

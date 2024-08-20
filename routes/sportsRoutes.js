@@ -21,8 +21,9 @@ router.route("/poll").post(sportsController.createPoll);
 router
   .route("/")
   .get(
-    sportsController.filterOldData,
-     sportsController.getAllSports)
+    // sportsController.filterOldData,
+    sportsController.getAllSports
+  )
   .post(
     // authController.protect,
     // authController.restrictTo("Manager", "Moderator", "Admin"),
