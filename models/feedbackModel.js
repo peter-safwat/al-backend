@@ -14,7 +14,7 @@ const feedbackSchema = new mongoose.Schema({
   },
   createdAt: {
     type: Date,
-    default: Date.now(),
+    default: Date.now,
   },
   flagged: {
     type: Boolean,

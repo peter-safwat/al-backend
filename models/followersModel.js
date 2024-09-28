@@ -16,7 +16,7 @@ const followerSchema = new mongoose.Schema({
   },
   createdAt: {
     type: Date,
-    default: Date.now(),
+    default: Date.now,
   },
   id: {
     type: Number,

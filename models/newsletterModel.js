@@ -18,7 +18,7 @@ const newsletterSchema = new mongoose.Schema({
   },
   createdAt: {
     type: Date,
-    default: Date.now(),
+    default: Date.now,
   },
 });
 newsletterSchema.pre("save", async function (next) {

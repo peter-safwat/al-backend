@@ -44,6 +44,7 @@
     "next": "^14.2.4",
     "node-cron": "^3.0.3",
     "nodemailer": "^6.9.4",
+    "pdfkit": "^0.15.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "sharp": "^0.32.4",

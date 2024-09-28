@@ -24,7 +24,7 @@ const contactUsSchema = new mongoose.Schema({
   flagged: { type: Boolean, default: false },
   createdAt: {
     type: Date,
-    default: Date.now(),
+    default: Date.now,
   },
 });
 const ContactUs = mongoose.model("ContactUs", contactUsSchema);

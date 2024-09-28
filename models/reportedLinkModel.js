@@ -21,14 +21,11 @@ const reportedLinkSchema = new mongoose.Schema({
   },
   eventLink: {
     type: String,
-    required: [
-      true,
-      "please specify the link where you encountered an issue",
-    ],
+    required: [true, "please specify the link where you encountered an issue"],
   },
   createdAt: {
     type: Date,
-    default: Date.now(),
+    default: Date.now,
   },
 });
 const ReportedLink = mongoose.model("ReportedLink", reportedLinkSchema);
