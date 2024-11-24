@@ -50,6 +50,7 @@ apiRouter.use(
   cors({
     origin: [
       "https://next14-aj.vercel.app",
+      "https://next14-aj-eight.vercel.app",
       "http://localhost:3000",
       "http://localhost:3001",
       "https://dashboard-14.vercel.app",

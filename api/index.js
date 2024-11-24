@@ -1,3 +1,11 @@
+// const express = require("express");
+// const app = express();
+
+// app.get("/", (req, res) => res.send("Express on Vercel"));
+
+// app.listen(4000, () => console.log("Server ready on port 3000."));
+
+// module.exports = app;
 const express = require("express");
 const fs = require("fs");
 const path = require("path");
@@ -8,9 +16,7 @@ const dotenv = require("dotenv");
 const { createServer } = require("http");
 const { Server } = require("socket.io");
 const EventEmitter = require("events");
-const apiRouter = require("./app");
-
-const ioEmitter = new EventEmitter();
+const apiRouter = require("../app");
 
 dotenv.config({ path: "./config.env" });
 
@@ -19,17 +25,14 @@ process.on("uncaughtException", (err) => {
   console.log(err.name, err.message);
   process.exit(1);
 });
-
 const DB = process.env.DATABASE.replace(
   "<PASSWORD>",
   process.env.DATABASE_PASSWORD
 );
-
 mongoose
-  .connect(DB, {
-    useNewUrlParser: true,
-  })
-  .then(() => console.log("DB connection successful!"));
+  .connect(DB)
+  .then(() => console.log("DB connection successful!"))
+  .catch((err) => console.error("DB connection error:", err));
 
 const port = process.env.PORT || 8000;
 const app = express();
@@ -176,3 +179,11 @@ server.listen(port, () => {
   console.log(`app running on port ${port}...`);
 });
 
+process.on("unhandledRejection", (err) => {
+  console.log("UNHANDLED REJECTION! 💥 Shutting down...");
+  console.log(err.name, err.message);
+  server.close(() => {
+    process.exit(1);
+  });
+});
+module.exports = app;
