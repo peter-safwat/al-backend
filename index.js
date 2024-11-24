@@ -16,7 +16,7 @@ const dotenv = require("dotenv");
 const { createServer } = require("http");
 const { Server } = require("socket.io");
 const EventEmitter = require("events");
-const apiRouter = require("../app");
+const apiRouter = require("./app");
 
 dotenv.config({ path: "./config.env" });
 
@@ -25,10 +25,12 @@ process.on("uncaughtException", (err) => {
   console.log(err.name, err.message);
   process.exit(1);
 });
-const DB = process.env.DATABASE.replace(
-  "<PASSWORD>",
-  process.env.DATABASE_PASSWORD
-);
+const DB =
+"mongodb+srv://petersafwat:2ZAlnpsobhG87VV0@cluster0.dsafm2w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+// process.env.DATABASE.replace(
+//   "<PASSWORD>",
+//   process.env.DATABASE_PASSWORD
+// );
 mongoose
   .connect(DB)
   .then(() => console.log("DB connection successful!"))
