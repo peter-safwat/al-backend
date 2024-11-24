@@ -20,10 +20,12 @@ process.on("uncaughtException", (err) => {
   process.exit(1);
 });
 
-const DB = process.env.DATABASE.replace(
-  "<PASSWORD>",
-  process.env.DATABASE_PASSWORD
-);
+// const DB = process.env.DATABASE.replace(
+//   "<PASSWORD>",
+//   process.env.DATABASE_PASSWORD
+// );
+const DB =
+  "mongodb+srv://petersafwat:2ZAlnpsobhG87VV0@cluster0.dsafm2w.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 mongoose
   .connect(DB, {
