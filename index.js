@@ -43,7 +43,8 @@ const io = new Server(server, {
     origin: [
       "http://localhost:3000",
       "http://localhost:3001",
-      "https://ajfinal-git-master-petersafwat11.vercel.app",
+      "https://next14-aj.vercel.app",
+      "https://dashboard-14.vercel.app",
     ], // Change this to your client's origin
     methods: ["GET", "POST"],
   },
@@ -177,4 +178,3 @@ io.on("connection", (socket) => {
 server.listen(port, () => {
   console.log(`app running on port ${port}...`);
 });
-
