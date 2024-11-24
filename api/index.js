@@ -16,7 +16,7 @@ const dotenv = require("dotenv");
 const { createServer } = require("http");
 const { Server } = require("socket.io");
 const EventEmitter = require("events");
-const apiRouter = require("./app");
+const apiRouter = require("../app");
 
 dotenv.config({ path: "./config.env" });
 
